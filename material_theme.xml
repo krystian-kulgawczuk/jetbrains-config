@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.0.1" />
+    <option name="version" value="2.7.2" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
@@ -8,7 +8,11 @@
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="upperCaseTabs" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="userId" value="7050aed0:165159ad885:-7fff" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
