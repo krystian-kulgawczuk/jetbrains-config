@@ -8,6 +8,12 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/maven-hello-world/my-app/settings.xml" timestamp="1533725953840">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
       <file name="/Dummy.txt" timestamp="1533725046320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -32,10 +38,10 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" timestamp="1533721937171">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" timestamp="1533725655854">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="20" column="48" />
+        <mark key="." line="20" column="48" />
       </file>
       <file name="$USER_HOME$/dev/projects/praca-inzynierska/fooder_back/food_manager/models.py" timestamp="1525279201372">
         <mark key="[" line="11" column="61" />
@@ -123,11 +129,11 @@
       <jump line="28" column="66" filename="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG5hbWU+bmV4dXM8L25hbWU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>deployment123</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>deployment123</text>
       </register>
       <register name="/" type="4">
         <text>repositories</text>
