@@ -8,8 +8,10 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533718346521">
+      <file name="/Dummy.txt" timestamp="1533721229185">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1525360296500">
         <mark key="[" line="0" column="0" />
@@ -29,6 +31,11 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" timestamp="1533721937171">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/projects/praca-inzynierska/fooder_back/food_manager/models.py" timestamp="1525279201372">
         <mark key="[" line="11" column="61" />
@@ -112,52 +119,54 @@
       <jump line="17" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="18" column="57" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="24" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile.groovy" />
+      <jump line="92" column="17" filename="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" />
+      <jump line="28" column="66" filename="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG5hbWU+bmV4dXM8L25hbWU+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>\.</text>
+        <text>repositories</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG5hbWU+bmV4dXM8L25hbWU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAobWFyaXVzeiB3aWR6aWFsIHdjem9yYWogb3JsYSBjaWVuKQo=</text>
+        <text encoding="base64">ICAgICAgICA8L3NuYXBzaG90UmVwb3NpdG9yeT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwczovLzQwLjc4LjUzLjczL3JlcG9zaXRvcnkvbWF2ZW4tc25hcHNob3RzPC91cmw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG5hbWU+bmV4dXM8L25hbWU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlkPm5leHVzPC9pZD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c25hcHNob3RSZXBvc2l0b3J5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIFB1Ymxpc2ggdGhlIHZlcnNpb25lZCByZWxlYXNlcyBoZXJlIC0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciB2aWV3cyBoZXJlLgo=</text>
+        <text encoding="base64">ICAgICAgICAobWFyaXVzeiB3aWR6aWFsIHdjem9yYWogb3JsYSBjaWVuKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/prod/dev/</text>
       </register>
     </registers>
     <search>
-      <last-search>\.</last-search>
+      <last-search>repositories</last-search>
       <last-offset />
-      <last-pattern>\.</last-pattern>
+      <last-pattern>repositories</last-pattern>
       <last-replace>dev</last-replace>
       <last-substitute>prod</last-substitute>
       <last-dir>1</last-dir>
@@ -170,6 +179,9 @@
         <entry>allowed</entry>
         <entry>prod</entry>
         <entry>\.</entry>
+        <entry>repository</entry>
+        <entry>distribution</entry>
+        <entry>repositories</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
