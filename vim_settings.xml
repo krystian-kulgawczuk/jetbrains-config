@@ -8,13 +8,13 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/maven-hello-world/my-app/settings.xml" timestamp="1533725953840">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
+      <file name="$USER_HOME$/Projects/maven-hello-world/my-app/settings.xml" timestamp="1533726814747">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533725046320">
+      <file name="/Dummy.txt" timestamp="1533726866756">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -38,10 +38,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" timestamp="1533725655854">
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="20" column="48" />
-        <mark key="." line="20" column="48" />
+      <file name="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" timestamp="1533726760918">
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="68" column="8" />
+        <mark key="." line="68" column="8" />
+        <mark key="^" line="68" column="8" />
       </file>
       <file name="$USER_HOME$/dev/projects/praca-inzynierska/fooder_back/food_manager/models.py" timestamp="1525279201372">
         <mark key="[" line="11" column="61" />
@@ -130,10 +131,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deployment123</text>
+        <text>the_pass_for_the_deployment_user</text>
       </register>
       <register name="-" type="4">
-        <text>deployment123</text>
+        <text>the_pass_for_the_deployment_user</text>
       </register>
       <register name="/" type="4">
         <text>repositories</text>
