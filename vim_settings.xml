@@ -19,11 +19,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/nexus/MANUAL.md" timestamp="1533816296278">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="26" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/nexus/MANUAL.md" timestamp="1533817722888">
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="17" column="33" />
       </file>
       <file name="/a.dummy" timestamp="1525360296500">
         <mark key="[" line="0" column="0" />
@@ -142,44 +142,47 @@
       <jump line="28" column="66" filename="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>repositories</text>
       </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxzZXJ2ZXI+CiAgICAgIDxpZD5nY3Ytc25hcHNob3RzPC9pZD4KICAgICAgPHVzZXJuYW1lPmZvbzwvdXNlcm5hbWU+CiAgICAgIDxwYXNzd29yZD5TRVJWRVJfUEFTU1dPUkQ8L3Bhc3N3b3JkPgogICAgPC9zZXJ2ZXI+Cg==</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L3JlcG9zaXRvcnk+Cg==</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwczovL2d2Y2Rldi1uZXh1cy5hY2Fpc29mdC5pby9yZXBvc2l0b3J5L21hdmVuLXJlbGVhc2VzLzwvdXJsPgo=</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlkPm5leHVzLXJlbGVhc2VzPC9pZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4K</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3JlcG9zaXRvcnk+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICA8ZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwczovL2d2Y2Rldi1uZXh1cy5hY2Fpc29mdC5pby9yZXBvc2l0b3J5L21hdmVuLXJlbGVhc2VzLzwvdXJsPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlkPm5leHVzLXJlbGVhc2VzPC9pZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4K</text>
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/prod/dev/</text>
+        <text>24,28y</text>
       </register>
     </registers>
     <search>
@@ -205,6 +208,7 @@
       <history-cmd>
         <entry>q</entry>
         <entry>%s/prod/dev/</entry>
+        <entry>24,28y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
