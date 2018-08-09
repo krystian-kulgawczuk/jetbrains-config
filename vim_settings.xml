@@ -8,7 +8,7 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/maven-hello-world/my-app/settings.xml" timestamp="1533726814747">
+      <file name="$USER_HOME$/Projects/maven-hello-world/my-app/settings.xml" timestamp="1533737270925">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="23" />
@@ -38,11 +38,10 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" timestamp="1533726760918">
-        <mark key="[" line="49" column="13" />
-        <mark key="]" line="68" column="8" />
-        <mark key="." line="68" column="8" />
-        <mark key="^" line="68" column="8" />
+      <file name="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" timestamp="1533737981093">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/projects/praca-inzynierska/fooder_back/food_manager/models.py" timestamp="1525279201372">
         <mark key="[" line="11" column="61" />
@@ -130,41 +129,41 @@
       <jump line="28" column="66" filename="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>the_pass_for_the_deployment_user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>the_pass_for_the_deployment_user</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>repositories</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG5hbWU+bmV4dXM8L25hbWU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L3NuYXBzaG90UmVwb3NpdG9yeT4K</text>
+        <text encoding="base64">CiAgICA8ZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwczovLzQwLjc4LjUzLjczL3JlcG9zaXRvcnkvbWF2ZW4tc25hcHNob3RzPC91cmw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG5hbWU+bmV4dXM8L25hbWU+Cg==</text>
+        <text encoding="base64">ICAgIDwvZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlkPm5leHVzPC9pZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c25hcHNob3RSZXBvc2l0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L3JlcG9zaXRvcnk+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIFB1Ymxpc2ggdGhlIHZlcnNpb25lZCByZWxlYXNlcyBoZXJlIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwczovL2d2Y2Rldi1uZXh1cy5hY2Fpc29mdC5pby9yZXBvc2l0b3J5L3Rlc3Q8L3VybD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlkPm5leHVzPC9pZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAobWFyaXVzeiB3aWR6aWFsIHdjem9yYWogb3JsYSBjaWVuKQo=</text>
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/prod/dev/</text>
