@@ -19,8 +19,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/nexus/MANUAL.md" timestamp="1533815519886">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/nexus/MANUAL.md" timestamp="1533816296278">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1525360296500">
         <mark key="[" line="0" column="0" />
@@ -140,10 +143,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>maven-snapshots</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>maven-snapshots</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>repositories</text>
