@@ -98,12 +98,12 @@
         <mark key="^" line="58" column="3" />
         <mark key="." line="58" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/make_elastic_backup.sh" timestamp="1534159973753">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/make_elastic_backup.sh" timestamp="1534160897138">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="66" column="1" />
-        <mark key="." line="66" column="1" />
-        <mark key="^" line="66" column="1" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="65" column="1" />
       </file>
       <file name="$USER_HOME$/dev/projects/django_tutorial/django_tutorial/settings.py" timestamp="1525353331934">
         <mark key="[" line="40" column="0" />
@@ -130,6 +130,7 @@
         <mark key="^" line="24" column="54" />
         <mark key="." line="24" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/schema/Dockerfile" timestamp="1534161152179" />
       <file name="$USER_HOME$/dev/projects/django_tutorial/tutorial/tutorial/wsgi.py" timestamp="1525360378876">
         <mark key="[" line="13" column="49" />
         <mark key="]" line="13" column="49" />
@@ -195,10 +196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MyBlob</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>MyBlob</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGVhbnVwXD4=</text>
