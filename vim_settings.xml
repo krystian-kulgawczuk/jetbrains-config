@@ -98,11 +98,12 @@
         <mark key="^" line="58" column="3" />
         <mark key="." line="58" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/make_elastic_backup.sh" timestamp="1534153288392">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="30" column="18" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/make_elastic_backup.sh" timestamp="1534159973753">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="66" column="1" />
+        <mark key="." line="66" column="1" />
+        <mark key="^" line="66" column="1" />
       </file>
       <file name="$USER_HOME$/dev/projects/django_tutorial/django_tutorial/settings.py" timestamp="1525353331934">
         <mark key="[" line="40" column="0" />
@@ -189,58 +190,60 @@
       <jump line="53" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/action/impl/AnalyticsSendAction.java" />
       <jump line="119" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/action/impl/AnalyticsSendAction.java" />
       <jump line="20" column="88" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/make_elastic_backup.sh" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/make_elastic_backup.sh" />
+      <jump line="61" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/make_elastic_backup.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MyBlob</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MyBlob</text>
       </register>
       <register name="/" type="4">
-        <text>depend</text>
+        <text encoding="base64">XDxjbGVhbnVwXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzZXJ2ZXI+CiAgICAgIDxpZD5nY3Ytc25hcHNob3RzPC9pZD4KICAgICAgPHVzZXJuYW1lPmZvbzwvdXNlcm5hbWU+CiAgICAgIDxwYXNzd29yZD5TRVJWRVJfUEFTU1dPUkQ8L3Bhc3N3b3JkPgogICAgPC9zZXJ2ZXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">c2xlZXAgMTAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZG9ja2VyX3BvcnQ9JChzdWRvIGRvY2tlciBwcyAgfCBlZ3JlcCAtbyAiWzAtOV0rLT45MjAwIiB8IGVncmVwIC1vICJeWzAtOV0rIikK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBpZiBiYWNrdXAgYWxyZWR5IGV4aXN0ZWQgcmVtb3ZlIGl0Cg==</text>
+        <text encoding="base64">IyBnZXQgcG9ydCB0aGF0IG1hcHMgdG8gZWxhc3RpYyBhbmQgYWxsIGluZGljZXMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAke2VsYXN0aWNfcG9ydH0K</text>
+        <text encoding="base64">IHNzaCAtQSAtTCAyNjY2Mzoke2hvc3R9OiR7ZG9ja2VyX3BvcnR9IC10IGF6dXJlZGV2QCR7aG9zdH0gLU4gJgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAke2FsbF9pbmRpY2VzfQo=</text>
+        <text encoding="base64">c3NoIC12diAtQSAtTCAke2xvY2FsX3BvcnR9OmxvY2FsaG9zdDoyNjY2MyAtdCBhenVyZWRldkBndmMtdXMtZGV2LW1hc3Rlci53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tIC1wIDIyMDAgXAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsYXN0aWNkdW1wIC0taW5wdXQ9aHR0cDovL2xvY2FsaG9zdDoke2VsYXN0aWNfcG9ydH0vJHtpbmRleH0gLS1vdXRwdXQ9JHtvdXRwdXR9X21hcHBpbmcuanNvbiAtLXR5cGU9bWFwcGluZwo=</text>
+        <text encoding="base64">IyB0dW5uZWxpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB0dW5uZWxpbmcKc3NoIC12diAtQSAtTCAke2xvY2FsX3BvcnR9OmxvY2FsaG9zdDoyNjY2MyAtdCBhenVyZWRldkBndmMtdXMtZGV2LW1hc3Rlci53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tIC1wIDIyMDAgXAogc3NoIC1BIC1MIDI2NjYzOiR7aG9zdH06JHtkb2NrZXJfcG9ydH0gLXQgYXp1cmVkZXZAJHtob3N0fSAtTiAmCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>35,37d</text>
       </register>
     </registers>
     <search>
-      <last-search>depend</last-search>
+      <last-search encoding="base64">XDxjbGVhbnVwXD4=</last-search>
       <last-offset />
-      <last-pattern>depend</last-pattern>
-      <last-replace>dev</last-replace>
-      <last-substitute>prod</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjbGVhbnVwXD4=</last-pattern>
+      <last-replace>docker_port</last-replace>
+      <last-substitute>elastic_port</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -256,12 +259,17 @@
         <entry>reposi</entry>
         <entry>Stats</entry>
         <entry>depend</entry>
+        <entry>elastic_port</entry>
+        <entry encoding="base64">XDxjbGVhbnVwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>%s/prod/dev/</entry>
         <entry>24,28y</entry>
         <entry>w</entry>
+        <entry>%s/elastic_port/docker_port/g</entry>
+        <entry>33,36d</entry>
+        <entry>35,37d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -269,6 +277,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
