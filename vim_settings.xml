@@ -98,6 +98,12 @@
         <mark key="^" line="58" column="3" />
         <mark key="." line="58" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/make_elastic_backup.sh" timestamp="1534152327430">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="30" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/projects/django_tutorial/django_tutorial/settings.py" timestamp="1525353331934">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -182,13 +188,14 @@
       <jump line="46" column="46" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/action/impl/AnalyticsSendAction.java" />
       <jump line="53" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/action/impl/AnalyticsSendAction.java" />
       <jump line="119" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/action/impl/AnalyticsSendAction.java" />
+      <jump line="20" column="88" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/make_elastic_backup.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>depend</text>
@@ -197,34 +204,34 @@
         <text encoding="base64">ICAgIDxzZXJ2ZXI+CiAgICAgIDxpZD5nY3Ytc25hcHNob3RzPC9pZD4KICAgICAgPHVzZXJuYW1lPmZvbzwvdXNlcm5hbWU+CiAgICAgIDxwYXNzd29yZD5TRVJWRVJfUEFTU1dPUkQ8L3Bhc3N3b3JkPgogICAgPC9zZXJ2ZXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjUuMC44LlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPnNwcmluZy1jb3JlPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcms8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">IyBpZiBiYWNrdXAgYWxyZWR5IGV4aXN0ZWQgcmVtb3ZlIGl0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGRlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ZWNobyAke2VsYXN0aWNfcG9ydH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+Cg==</text>
+        <text encoding="base64">ZWNobyAke2FsbF9pbmRpY2VzfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx2ZXJzaW9uPjEuMTguMjwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIGVsYXN0aWNkdW1wIC0taW5wdXQ9aHR0cDovL2xvY2FsaG9zdDoke2VsYXN0aWNfcG9ydH0vJHtpbmRleH0gLS1vdXRwdXQ9JHtvdXRwdXR9X21hcHBpbmcuanNvbiAtLXR5cGU9bWFwcGluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>24,28y</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -254,6 +261,7 @@
         <entry>q</entry>
         <entry>%s/prod/dev/</entry>
         <entry>24,28y</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
