@@ -54,13 +54,12 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1534253782834">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1534253923038">
+        <mark key="'" line="24" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/nexus-dev/src/main/resources/application-us-dev.properties" timestamp="1533814852736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/deploy/marathon-template.json" timestamp="1534243343112" />
       <file name="$USER_HOME$/dev/projects/django_tutorial/tutorial_2/snippets/models.py" timestamp="1525367816084">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -95,7 +94,6 @@
         <mark key="." line="33" column="37" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/qs-ui/build.sh" timestamp="1534251371728" />
       <file name="$USER_HOME$/dev/projects/django_tutorial/quickstart/views.py" timestamp="1525353410609">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="5" />
@@ -137,7 +135,6 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1534249720518" />
       <file name="$USER_HOME$/dev/projects/praca-inzynierska/fooder_back/food_manager/models.py" timestamp="1525279201372">
         <mark key="[" line="11" column="61" />
         <mark key="]" line="11" column="61" />
@@ -151,7 +148,6 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/qs-ui/deploy/marathon-template.json" timestamp="1534253594640" />
       <file name="$USER_HOME$/dev/projects/django_tutorial/tutorial/tutorial/settings.py" timestamp="1525360371088">
         <mark key="'" line="65" column="12" />
         <mark key="[" line="70" column="20" />
@@ -265,6 +261,10 @@
       <jump line="40" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_backup.sh" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/deploy/marathon-template.json" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="17" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="18" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="24" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -274,7 +274,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>VERSION</text>
+        <text>version</text>
       </register>
       <register name="0" type="4">
         <text>====================</text>
@@ -307,13 +307,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>VERSION</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>VERSION</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -337,8 +337,8 @@
         <entry>docker_port</entry>
         <entry>host</entry>
         <entry>asset</entry>
-        <entry>version</entry>
         <entry>VERSION</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
@@ -348,6 +348,7 @@
         <entry>33,36d</entry>
         <entry>35,37d</entry>
         <entry>q</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
