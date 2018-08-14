@@ -44,6 +44,9 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="28" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/build.sh" timestamp="1534251614905">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" timestamp="1533895036793">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="35" column="16" />
@@ -89,6 +92,7 @@
         <mark key="." line="33" column="37" />
         <mark key="^" line="33" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/qs-ui/build.sh" timestamp="1534251371728" />
       <file name="$USER_HOME$/dev/projects/django_tutorial/quickstart/views.py" timestamp="1525353410609">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="5" />
@@ -257,7 +261,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>host</text>
+        <text>asset</text>
       </register>
       <register name="0" type="4">
         <text>====================</text>
@@ -294,9 +298,9 @@
       </register>
     </registers>
     <search>
-      <last-search>host</last-search>
+      <last-search>asset</last-search>
       <last-offset />
-      <last-pattern>host</last-pattern>
+      <last-pattern>asset</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -319,6 +323,7 @@
         <entry encoding="base64">XDxjbGVhbnVwXD4=</entry>
         <entry>docker_port</entry>
         <entry>host</entry>
+        <entry>asset</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
