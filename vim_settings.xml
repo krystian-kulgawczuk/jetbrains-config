@@ -82,10 +82,11 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_restore.sh" timestamp="1534235359146">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_restore.sh" timestamp="1534239543815">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="37" />
+        <mark key="." line="33" column="37" />
+        <mark key="^" line="33" column="37" />
       </file>
       <file name="$USER_HOME$/dev/projects/django_tutorial/quickstart/views.py" timestamp="1525353410609">
         <mark key="[" line="2" column="5" />
@@ -117,10 +118,11 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/README.md" timestamp="1534229646590">
-        <mark key="[" line="11" column="3" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/README.md" timestamp="1534240309093">
+        <mark key="[" line="20" column="32" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/dev/projects/django_tutorial/django_tutorial/settings.py" timestamp="1525353331934">
         <mark key="[" line="40" column="0" />
@@ -155,12 +157,11 @@
         <mark key="." line="24" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/schema/Dockerfile" timestamp="1534161152179" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_backup.sh" timestamp="1534236121244">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="23" column="34" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_backup.sh" timestamp="1534241998559">
+        <mark key="'" line="39" column="26" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/dev/projects/django_tutorial/tutorial/tutorial/wsgi.py" timestamp="1525360378876">
         <mark key="[" line="13" column="49" />
@@ -182,6 +183,13 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedNetVaultStatsImpl.java" timestamp="1533891740594">
         <mark key="'" line="26" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/list_snapshot_names.sh" timestamp="1534240727417">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="30" column="59" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="30" column="59" />
       </file>
     </filemarks>
     <jumps>
@@ -234,46 +242,51 @@
       <jump line="55" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" />
       <jump line="7" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/backup_restore/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_backup.sh" />
+      <jump line="38" column="78" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_backup.sh" />
+      <jump line="28" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_backup.sh" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/list_snapshot_names.sh" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/list_snapshot_names.sh" />
+      <jump line="40" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_backup.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVjaG8gb2luawo=</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzZXJ2ZXI+CiAgICAgIDxpZD5nY3Ytc25hcHNob3RzPC9pZD4KICAgICAgPHVzZXJuYW1lPmZvbzwvdXNlcm5hbWU+CiAgICAgIDxwYXNzd29yZD5TRVJWRVJfUEFTU1dPUkQ8L3Bhc3N3b3JkPgogICAgPC9zZXJ2ZXI+Cg==</text>
+      <register name="0" type="4">
+        <text>====================</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWVjaG8gIiAgc25hcHNob3RfbmFtZSBuYW1lIG9mIHRoZSBzbmFwc2hvdCBmcm9tIGF6dXJlIGJsb2Igc3RvcmFnZSIK</text>
+        <text encoding="base64">ICAgIGVjaG8gb2luawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gc2F2aW5nIHNuYXBzaG90Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAke3NuYXBzaG90X2ZpbGV9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c291cmNlICRIT01FLy5kZXYtc3RvcmFnZS5lbnYK</text>
+        <text encoding="base64">YXogc3RvcmFnZSBibG9iIGxpc3QgLWMgY2Fzc2FuZHJhLWJhY2t1cAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWVjaG8gIiAgc3RvcmFnZV9lbnYgZmlsZSB3aXRoIGV4cG9ydCBzdGF0ZW1lbnRzIG9mIHN0b3JhZ2UgY3JlZGVudGlhbHMiCg==</text>
+        <text encoding="base64">YXogc3RvcmFnZSBibG9iIGxpc3QgLWMgY2Fzc2FuZHJhLWJhY2t1cAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ZWNobyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWVjaG8gIiAgc25hcHNob3RfbmFtZSBuYW1lIG9mIHRoZSBzbmFwc2hvdCBmcm9tIGF6dXJlIGJsb2Igc3RvcmFnZSIK</text>
+        <text encoding="base64">ZWNobyA9PT09PT09PT09PT09PT09PT09PVNOQVBTSE9UIE5BTUVTPT09PT09PT09PT09PT09PT09PT0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC1wIENMSUVOVF9TRUNSRVQ9JENMSUVOVF9TRUNSRVQgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>35,37d</text>
