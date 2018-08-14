@@ -289,7 +289,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>35,37d</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -320,13 +320,13 @@
         <entry>host</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>%s/prod/dev/</entry>
         <entry>24,28y</entry>
         <entry>w</entry>
         <entry>%s/elastic_port/docker_port/g</entry>
         <entry>33,36d</entry>
         <entry>35,37d</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
