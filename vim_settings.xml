@@ -82,10 +82,10 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_restore.sh" timestamp="1534230536389">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_restore.sh" timestamp="1534235359146">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
       </file>
       <file name="$USER_HOME$/dev/projects/django_tutorial/quickstart/views.py" timestamp="1525353410609">
         <mark key="[" line="2" column="5" />
@@ -155,7 +155,7 @@
         <mark key="." line="24" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/schema/Dockerfile" timestamp="1534161152179" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_backup.sh" timestamp="1534234565883">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_backup.sh" timestamp="1534235335364">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="37" />
         <mark key="]" line="23" column="38" />
@@ -236,11 +236,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_backup.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWVjaG8gIiAgc25hcHNob3RfbmFtZSBuYW1lIG9mIHRoZSBzbmFwc2hvdCBmcm9tIGF6dXJlIGJsb2Igc3RvcmFnZSIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
