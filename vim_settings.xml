@@ -14,6 +14,9 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/app.component.ts" timestamp="1534407301856">
+        <mark key="[" line="5" column="31" />
+      </file>
       <file name="/a.dummy" timestamp="1525360296500">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,11 +63,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/nexus-dev/src/main/resources/application-us-dev.properties" timestamp="1533814852736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" timestamp="1534403737382">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" timestamp="1534408448407">
+        <mark key="'" line="32" column="23" />
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="27" />
       </file>
       <file name="$USER_HOME$/dev/projects/django_tutorial/tutorial_2/snippets/models.py" timestamp="1525367816084">
         <mark key="[" line="19" column="0" />
@@ -96,6 +100,9 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package-lock.json" timestamp="1534403546071">
         <mark key="[" line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/index.html" timestamp="1534407311966">
+        <mark key="[" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_restore.sh" timestamp="1534239543815">
         <mark key="[" line="33" column="38" />
@@ -189,6 +196,12 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/proxy-config.dev.local.json" timestamp="1534406123846">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" timestamp="1533892163837">
         <mark key="'" line="207" column="53" />
         <mark key="[" line="456" column="289" />
@@ -279,6 +292,20 @@
       <jump line="24" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="18" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="17" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="11" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="12" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="21" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="25" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="26" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="27" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="28" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="29" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="6" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="8" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="9" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="14" column="45" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="15" column="51" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
+      <jump line="32" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -288,7 +315,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>global</text>
+        <text>serve</text>
       </register>
       <register name="0" type="4">
         <text>====================</text>
@@ -325,9 +352,9 @@
       </register>
     </registers>
     <search>
-      <last-search>global</last-search>
+      <last-search>serve</last-search>
       <last-offset />
-      <last-pattern>global</last-pattern>
+      <last-pattern>serve</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -355,6 +382,8 @@
         <entry>version</entry>
         <entry>global-cloud</entry>
         <entry>global</entry>
+        <entry>ng</entry>
+        <entry>serve</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
