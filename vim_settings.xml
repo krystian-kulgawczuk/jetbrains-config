@@ -14,10 +14,10 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/Dockerfile" timestamp="1534418250754">
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/Dockerfile" timestamp="1534423000951">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/app.component.ts" timestamp="1534407301856">
         <mark key="[" line="5" column="31" />
@@ -69,8 +69,8 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1534418826195">
-        <mark key="'" line="125" column="7" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1534422622531">
+        <mark key="'" line="97" column="30" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="31" column="28" />
@@ -248,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="40" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" />
       <jump line="8" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" />
       <jump line="46" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" />
@@ -348,55 +347,56 @@
       <jump line="149" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="147" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="123" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="97" column="30" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdF90eXBlIGFwcGxpY2F0aW9uL2pzb24K</text>
+        <text encoding="base64">UlVOIHNlZCAtaSAnc3w8YmFzZSBocmVmPSIvIj58PGJhc2UgaHJlZj1cIlwvbW5nYlwvY3VzdG9tZXItc3ViZG9tYWluLXVpXC9cIj58ZycgL3d3dy9kYXRhL2luZGV4Lmh0bWwK</text>
       </register>
       <register name="-" type="4">
         <text>qs</text>
       </register>
       <register name="/" type="4">
-        <text>qs</text>
+        <text>gateway</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bW9kdWxlX3FzX3VpX2RlcGxveToKCS4vc2NyaXB0cy9kZXBsb3lfbWFyYXRob24ucHkgLi9xcy11aS9kZXBsb3kvbWFyYXRob24uanNvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdF90eXBlIGFwcGxpY2F0aW9uL2pzb24K</text>
+        <text encoding="base64">UlVOIHNlZCAtaSAnc3w8YmFzZSBocmVmPSIvIj58PGJhc2UgaHJlZj1cIlwvbW5nYlwvY3VzdG9tZXItc3ViZG9tYWluLXVpXC9cIj58ZycgL3d3dy9kYXRhL2luZGV4Lmh0bWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB3ZAo=</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdF90eXBlIGFwcGxpY2F0aW9uL2pzb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJ3ZWJwYWNrLWRldi1zZXJ2ZXIgLS1pbmxpbmUgLS1wcm9ncmVzcyAtLXBvcnQgODA4MCIsCg==</text>
+        <text encoding="base64">CXB3ZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJidWlsZC1kZXYiOiAibmcgYnVpbGQgdGVzdC1hbmd1bGFyIC0tYnVpbGQtb3B0aW1pemVyPWZhbHNlIC0tdGFyZ2V0PWRldmVsb3BtZW50ICYmIG5wbSBydW4gY29weTpzd2FnZ2VyIiwK</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJ3ZWJwYWNrLWRldi1zZXJ2ZXIgLS1pbmxpbmUgLS1wcm9ncmVzcyAtLXBvcnQgODA4MCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2QgLi4vLi4vLi4vCg==</text>
+        <text encoding="base64">ICAgICJidWlsZC1kZXYiOiAibmcgYnVpbGQgdGVzdC1hbmd1bGFyIC0tYnVpbGQtb3B0aW1pemVyPWZhbHNlIC0tdGFyZ2V0PWRldmVsb3BtZW50ICYmIG5wbSBydW4gY29weTpzd2FnZ2VyIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bnBtIHJ1biBidWlsZC1wcm9kCg==</text>
+        <text encoding="base64">Y2QgLi4vLi4vLi4vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bnBtIGluc3RhbGwK</text>
+        <text encoding="base64">bnBtIHJ1biBidWlsZC1wcm9kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2QgLi9zcmMvbWFpbi9yZXNvdXJjZXMK</text>
+        <text encoding="base64">bnBtIGluc3RhbGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewogICJ2b2x1bWVzIjogbnVsbCwKICAiaWQiOiAiL2N1c3RvbWVyLXN1YmRvbWFpbiIsCiAgImNtZCI6IG51bGwsCiAgImFyZ3MiOiBbCiAgICAiamF2YSIsCiAgICAiLXNlcnZlciIsCiAgICAiLVhtczEyOG0iLAogICAgIi1YbXgxOTJtIiwKICAgICItWHNzNTEyayIsCiAgICAiLVhYOitVc2VDb25jTWFya1N3ZWVwR0MiLAogICAgIi1YWDorQ01TSW5jcmVtZW50YWxNb2RlIiwKICAgICItRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kbSIsCiAgICAiLWphciIsCiAgICAiLURzcHJpbmcucHJvZmlsZXMuYWN0aXZlPXt7UFJPRklMRX19IiwKICAgICJhcHAuamFyIgogIF0sCiAgImNvbnN0cmFpbnRzIjogWwogICAgWwogICAgICAicm9sZSIsCiAgICAgICJDTFVTVEVSIiwKICAgICAgImdlbmVyYWwiCiAgICBdCiAgXSwKICAidXNlciI6IG51bGwsCiAgImVudiI6IG51bGwsCiAgImluc3RhbmNlcyI6IHt7SU5TVEFOQ0VTfX0sCiAgImNwdXMiOiB7e0NQVVN9fSwKICAibWVtIjoge3tNRU19fSwKICAiZGlzayI6IDAsCiAgImdwdXMiOiAwLAogICJleGVjdXRvciI6IG51bGwsCiAgImZldGNoIjogWwogICAgewogICAgICAidXJpIjogImZpbGU6Ly8vZXRjL2RvY2tlci50YXIuZ3oiCiAgICB9CiAgXSwKICAic3RvcmVVcmxzIjogbnVsbCwKICAiYmFja29mZlNlY29uZHMiOiAxLAogICJiYWNrb2ZmRmFjdG9yIjogMS4xNSwKICAibWF4TGF1bmNoRGVsYXlTZWNvbmRzIjogMzYwMCwKICAiY29udGFpbmVyIjogewogICAgInR5cGUiOiAiRE9DS0VSIiwKICAgICJkb2NrZXIiOiB7CiAgICAgICJpbWFnZSI6ICJ7e0RPQ0tFUl9SRUdJU1RSWX19L2N1c3RvbWVyLXN1YmRvbWFpbjp7e1ZFUlNJT059fSIsCiAgICAgICJmb3JjZVB1bGxJbWFnZSI6IHRydWUsCiAgICAgICJwcml2aWxlZ2VkIjogZmFsc2UsCiAgICAgICJwb3J0TWFwcGluZ3MiOiBbCiAgICAgICAgewogICAgICAgICAgImNvbnRhaW5lclBvcnQiOiA4MDgwLAogICAgICAgICAgInByb3RvY29sIjogInRjcCIKICAgICAgICB9CiAgICAgIF0sCiAgICAgICJuZXR3b3JrIjogIkJSSURHRSIKICAgIH0KICB9LAogICJoZWFsdGhDaGVja3MiOiBbCiAgICB7CiAgICAgICJwcm90b2NvbCI6ICJIVFRQIiwKICAgICAgInBhdGgiOiAiL2FwaS9oZWFsdGhjaGVjayIsCiAgICAgICJncmFjZVBlcmlvZFNlY29uZHMiOiAxMjAsCiAgICAgICJpbnRlcnZhbFNlY29uZHMiOiA2MCwKICAgICAgInRpbWVvdXRTZWNvbmRzIjogMjAsCiAgICAgICJtYXhDb25zZWN1dGl2ZUZhaWx1cmVzIjogMywKICAgICAgImlnbm9yZUh0dHAxeHgiOiBmYWxzZQogICAgfQogIF0sCiAgInJlYWRpbmVzc0NoZWNrcyI6IG51bGwsCiAgImRlcGVuZGVuY2llcyI6IG51bGwsCiAgInVwZ3JhZGVTdHJhdGVneSI6IHsKICAgICJtaW5pbXVtSGVhbHRoQ2FwYWNpdHkiOiAxLAogICAgIm1heGltdW1PdmVyQ2FwYWNpdHkiOiAxCiAgfSwKICAibGFiZWxzIjogewogICAgIkhBUFJPWFlfR1JPVVAiOiAiZXh0ZXJuYWwiCiAgfSwKICAiYWNjZXB0ZWRSZXNvdXJjZVJvbGVzIjogbnVsbCwKICAicmVzaWRlbmN5IjogbnVsbCwKICAic2VjcmV0cyI6IG51bGwsCiAgInRhc2tLaWxsR3JhY2VQZXJpb2RTZWNvbmRzIjogbnVsbCwKICAicG9ydERlZmluaXRpb25zIjogWwogICAgewogICAgICAicG9ydCI6IDEwMTA2LAogICAgICAicHJvdG9jb2wiOiAidGNwIiwKICAgICAgImxhYmVscyI6IHt9CiAgICB9CiAgXSwKICAicmVxdWlyZVBvcnRzIjogZmFsc2UKfQo=</text>
+        <text encoding="base64">Y2QgLi9zcmMvbWFpbi9yZXNvdXJjZXMK</text>
       </register>
       <register name=":" type="4">
         <text>124,125y</text>
       </register>
     </registers>
     <search>
-      <last-search>qs</last-search>
+      <last-search>gateway</last-search>
       <last-offset />
-      <last-pattern>qs</last-pattern>
+      <last-pattern>gateway</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -421,9 +421,9 @@
         <entry>deploy</entry>
         <entry>PRODFILE</entry>
         <entry>gateweay</entry>
-        <entry>gateway</entry>
         <entry>sub</entry>
         <entry>qs</entry>
+        <entry>gateway</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
