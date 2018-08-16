@@ -60,6 +60,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/nexus-dev/src/main/resources/application-us-dev.properties" timestamp="1533814852736">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" timestamp="1534403737382">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/projects/django_tutorial/tutorial_2/snippets/models.py" timestamp="1525367816084">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -87,6 +93,9 @@
         <mark key="]" line="6" column="3" />
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package-lock.json" timestamp="1534403546071">
+        <mark key="[" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_restore.sh" timestamp="1534239543815">
         <mark key="[" line="33" column="38" />
@@ -279,7 +288,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>global</text>
       </register>
       <register name="0" type="4">
         <text>====================</text>
@@ -316,9 +325,9 @@
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>global</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>global</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -344,6 +353,8 @@
         <entry>asset</entry>
         <entry>VERSION</entry>
         <entry>version</entry>
+        <entry>global-cloud</entry>
+        <entry>global</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
