@@ -345,7 +345,7 @@
         <text>qs</text>
       </register>
       <register name="/" type="4">
-        <text>gateway</text>
+        <text>layout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bW9kdWxlX2N1c3RvbWVyX3N1YmRvbWFpbl9kZXBsb3k6CgkuL3NjcmlwdHMvZGVwbG95X21hcmF0aG9uLnB5IC4vY3VzdG9tZXItc3ViZG9tYWluL2RlcGxveS9tYXJhdGhvbi5qc29uCg==</text>
@@ -382,9 +382,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gateway</last-search>
+      <last-search>layout</last-search>
       <last-offset />
-      <last-pattern>gateway</last-pattern>
+      <last-pattern>layout</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -412,6 +412,7 @@
         <entry>sub</entry>
         <entry>qs</entry>
         <entry>gateway</entry>
+        <entry>layout</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
