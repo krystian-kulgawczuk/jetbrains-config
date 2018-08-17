@@ -49,6 +49,9 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/nexus-dev/src/main/resources/application-us-dev.properties" timestamp="1533814852736">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/support/DcosCassandraCluster.java" timestamp="1534512245644">
+        <mark key="[" line="3" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/backup-org-data/src/main/java/portal/aggregator/charts/processor/OrganizationAggregatorProcessor.java" timestamp="1534509336454">
         <mark key="[" line="21" column="6" />
       </file>
@@ -273,8 +276,8 @@
       <jump line="3" column="57" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/sas/model/AzureSas.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YmFja3VwLjIwMTgtMDgtMTUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuU3BsaXR0ZXI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YmFja3VwLjIwMTgtMDgtMTUg</text>
@@ -286,31 +289,31 @@
         <text encoding="base64">bW9kdWxlX2N1c3RvbWVyX3N1YmRvbWFpbl9kZXBsb3k6CgkuL3NjcmlwdHMvZGVwbG95X21hcmF0aG9uLnB5IC4vY3VzdG9tZXItc3ViZG9tYWluL2RlcGxveS9tYXJhdGhvbi5qc29uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW9kdWxlX2N1c3RvbWVyX3N1YmRvbWFpbl9kZXBsb3k6CgkuL3NjcmlwdHMvZGVwbG95X21hcmF0aG9uLnB5IC4vY3VzdG9tZXItc3ViZG9tYWluL2RlcGxveS9tYXJhdGhvbi5qc29uCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuU3BsaXR0ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIHNlZCAtaSAnc3w8YmFzZSBocmVmPSIvIj58PGJhc2UgaHJlZj1cIlwvbW5nYlwvY3VzdG9tZXItc3ViZG9tYWluLXVpXC9cIj58ZycgL3d3dy9kYXRhL2luZGV4Lmh0bWwK</text>
+        <text encoding="base64">bW9kdWxlX2N1c3RvbWVyX3N1YmRvbWFpbl9kZXBsb3k6CgkuL3NjcmlwdHMvZGVwbG95X21hcmF0aG9uLnB5IC4vY3VzdG9tZXItc3ViZG9tYWluL2RlcGxveS9tYXJhdGhvbi5qc29uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdF90eXBlIGFwcGxpY2F0aW9uL2pzb24K</text>
+        <text encoding="base64">UlVOIHNlZCAtaSAnc3w8YmFzZSBocmVmPSIvIj58PGJhc2UgaHJlZj1cIlwvbW5nYlwvY3VzdG9tZXItc3ViZG9tYWluLXVpXC9cIj58ZycgL3d3dy9kYXRhL2luZGV4Lmh0bWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB3ZAo=</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdF90eXBlIGFwcGxpY2F0aW9uL2pzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJ3ZWJwYWNrLWRldi1zZXJ2ZXIgLS1pbmxpbmUgLS1wcm9ncmVzcyAtLXBvcnQgODA4MCIsCg==</text>
+        <text encoding="base64">CXB3ZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJidWlsZC1kZXYiOiAibmcgYnVpbGQgdGVzdC1hbmd1bGFyIC0tYnVpbGQtb3B0aW1pemVyPWZhbHNlIC0tdGFyZ2V0PWRldmVsb3BtZW50ICYmIG5wbSBydW4gY29weTpzd2FnZ2VyIiwK</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJ3ZWJwYWNrLWRldi1zZXJ2ZXIgLS1pbmxpbmUgLS1wcm9ncmVzcyAtLXBvcnQgODA4MCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2QgLi4vLi4vLi4vCg==</text>
+        <text encoding="base64">ICAgICJidWlsZC1kZXYiOiAibmcgYnVpbGQgdGVzdC1hbmd1bGFyIC0tYnVpbGQtb3B0aW1pemVyPWZhbHNlIC0tdGFyZ2V0PWRldmVsb3BtZW50ICYmIG5wbSBydW4gY29weTpzd2FnZ2VyIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bnBtIHJ1biBidWlsZC1wcm9kCg==</text>
+        <text encoding="base64">Y2QgLi4vLi4vLi4vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bnBtIGluc3RhbGwK</text>
+        <text encoding="base64">bnBtIHJ1biBidWlsZC1wcm9kCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
