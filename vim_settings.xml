@@ -76,6 +76,10 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="18" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/build.sh" timestamp="1534498727899" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/healthcheck/HealthcheckController.java" timestamp="1534496779920">
+        <mark key="'" line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/nexus/MANUAL.md" timestamp="1533895150745">
         <mark key="[" line="58" column="6" />
         <mark key="]" line="58" column="3" />
@@ -95,10 +99,11 @@
         <mark key="]" line="13" column="49" />
         <mark key="." line="13" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/config/nginx.conf" timestamp="1534421975990">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/config/nginx.conf" timestamp="1534498296594">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="15" />
+        <mark key="." line="35" column="15" />
+        <mark key="^" line="35" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/user/user-types/user-handler.ts" timestamp="1534489390428">
         <mark key="'" line="47" column="50" />
@@ -121,6 +126,8 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/deploy/marathon-template.json" timestamp="1534498512435" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/deploy/marathon.json" timestamp="1534498315269" />
       <file name="$USER_HOME$/dev/projects/django_tutorial/tutorial/manage.py" timestamp="1525360355378">
         <mark key="[" line="5" column="53" />
         <mark key="]" line="5" column="53" />
@@ -168,8 +175,8 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1534495793373">
-        <mark key="'" line="83" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1534498032931">
+        <mark key="'" line="261" column="29" />
         <mark key="." line="115" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/qs-ui/config/nginx.conf" timestamp="1534419853888" />
@@ -179,15 +186,14 @@
         <mark key="^" line="11" column="61" />
         <mark key="." line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/nginx-proxy/us-dev/config/nginx.conf" timestamp="1534494373667" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/nginx-proxy/us-dev/config/nginx.conf" timestamp="1534498419404">
+        <mark key="[" line="60" column="17" />
+        <mark key="]" line="67" column="59" />
+        <mark key="^" line="67" column="59" />
+        <mark key="." line="67" column="59" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/package.json" />
-      <jump line="55" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/package.json" />
-      <jump line="57" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/package.json" />
-      <jump line="157" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="19" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/deploy/marathon-template.json" />
-      <jump line="0" column="11" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/build.sh" />
       <jump line="35" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="37" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="38" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
@@ -267,31 +273,37 @@
       <jump line="171" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="227" column="52" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="228" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="168" column="86" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="224" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="169" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="106" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="115" column="66" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="209" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="223" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="167" column="50" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="258" column="60" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="196" column="59" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="138" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="3" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibFactory.java" />
       <jump line="125" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="269" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="250" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="167" column="86" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="223" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="12" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/healthcheck/HealthcheckController.java" />
+      <jump line="262" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="256" column="61" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="258" column="58" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="224" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="168" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="259" column="68" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="261" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>subdomainFilter</text>
+        <text>healthcheck</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bW9kdWxlX2N1c3RvbWVyX3N1YmRvbWFpbl9kZXBsb3k6CgkuL3NjcmlwdHMvZGVwbG95X21hcmF0aG9uLnB5IC4vY3VzdG9tZXItc3ViZG9tYWluL2RlcGxveS9tYXJhdGhvbi5qc29uCg==</text>
@@ -324,13 +336,13 @@
         <text encoding="base64">bnBtIGluc3RhbGwK</text>
       </register>
       <register name=":" type="4">
-        <text>35,36,d</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>subdomainFilter</last-search>
+      <last-search>healthcheck</last-search>
       <last-offset />
-      <last-pattern>subdomainFilter</last-pattern>
+      <last-pattern>healthcheck</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -365,8 +377,8 @@
         <entry>validatePath</entry>
         <entry>LOGIN_DIB_PATH</entry>
         <entry>api</entry>
-        <entry>healthcheck</entry>
         <entry>subdomainFilter</entry>
+        <entry>healthcheck</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
@@ -375,12 +387,12 @@
         <entry>%s/elastic_port/docker_port/g</entry>
         <entry>33,36d</entry>
         <entry>35,37d</entry>
-        <entry>q</entry>
         <entry>noh</entry>
         <entry>115,117y</entry>
         <entry>124,125y</entry>
         <entry>35,36y</entry>
         <entry>35,36,d</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
