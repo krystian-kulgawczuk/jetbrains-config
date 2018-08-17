@@ -41,6 +41,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibFactory.java" timestamp="1534495732983">
+        <mark key="'" line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/assets/filter/filter.scss" timestamp="1534429274301">
         <mark key="[" line="30" column="39" />
       </file>
@@ -55,6 +58,9 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package-lock.json" timestamp="1534418166563">
         <mark key="[" line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/package.json" timestamp="1534411825458">
+        <mark key="'" line="57" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" timestamp="1534491055471" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/layout/layout.component.ts" timestamp="1534429576596" />
@@ -162,6 +168,10 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1534495793373">
+        <mark key="'" line="83" column="0" />
+        <mark key="." line="115" column="66" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/qs-ui/config/nginx.conf" timestamp="1534419853888" />
       <file name="$USER_HOME$/dev/projects/praca-inzynierska/fooder_back/food_manager/models.py" timestamp="1525279201372">
         <mark key="[" line="11" column="61" />
@@ -169,34 +179,9 @@
         <mark key="^" line="11" column="61" />
         <mark key="." line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/nginx-proxy/us-dev/config/nginx.conf" timestamp="1534416376861">
-        <mark key="[" line="55" column="61" />
-      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/nginx-proxy/us-dev/config/nginx.conf" timestamp="1534494373667" />
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/list_snapshot_names.sh" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/list_snapshot_names.sh" />
-      <jump line="40" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_backup.sh" />
-      <jump line="48" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/deploy/marathon-template.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="177" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="32" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="31" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="11" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="12" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="21" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="25" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="26" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="27" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="28" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="29" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="6" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="8" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="9" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="14" column="45" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="15" column="51" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
-      <jump line="32" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/package.json" />
       <jump line="40" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/package.json" />
       <jump line="55" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/package.json" />
       <jump line="57" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/package.json" />
@@ -274,16 +259,39 @@
       <jump line="43" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/user/user-types/user-handler.ts" />
       <jump line="47" column="50" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/user/user-types/user-handler.ts" />
       <jump line="33" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/app.component.ts" />
+      <jump line="109" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="172" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="203" column="103" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="165" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="170" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="171" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="227" column="52" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="228" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="168" column="86" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="224" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="169" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="106" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="115" column="66" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="209" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="223" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="167" column="50" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="258" column="60" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="196" column="59" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="138" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="3" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibFactory.java" />
+      <jump line="125" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="269" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#!/usr/bin/python3</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>#!/usr/bin/python3</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>validatePath</text>
+        <text>subdomainFilter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bW9kdWxlX2N1c3RvbWVyX3N1YmRvbWFpbl9kZXBsb3k6CgkuL3NjcmlwdHMvZGVwbG95X21hcmF0aG9uLnB5IC4vY3VzdG9tZXItc3ViZG9tYWluL2RlcGxveS9tYXJhdGhvbi5qc29uCg==</text>
@@ -320,9 +328,9 @@
       </register>
     </registers>
     <search>
-      <last-search>validatePath</last-search>
+      <last-search>subdomainFilter</last-search>
       <last-offset />
-      <last-pattern>validatePath</last-pattern>
+      <last-pattern>subdomainFilter</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -355,6 +363,10 @@
         <entry>sessionStorage</entry>
         <entry>storageKey</entry>
         <entry>validatePath</entry>
+        <entry>LOGIN_DIB_PATH</entry>
+        <entry>api</entry>
+        <entry>healthcheck</entry>
+        <entry>subdomainFilter</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
