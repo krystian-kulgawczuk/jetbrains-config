@@ -55,11 +55,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/support/DcosCassandraCluster.java" timestamp="1534512245644">
         <mark key="[" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/pom.xml" timestamp="1534514022115">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/pom.xml" timestamp="1534758152539">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/DcosCassandraCluster.java" timestamp="1534513722645">
         <mark key="'" line="12" column="17" />
@@ -95,6 +95,9 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/src/app/layout/gdpr-banner/gdpr-banner.component.html" timestamp="1534500564953">
         <mark key="[" line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1534758658817">
+        <mark key="'" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/CassandraCluster.java" timestamp="1534513833400">
         <mark key="[" line="0" column="8" />
@@ -171,11 +174,6 @@
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/nginx-proxy/us-dev/config/nginx.conf" timestamp="1534498419404">
-        <mark key="]" line="55" column="59" />
-        <mark key="^" line="55" column="59" />
-        <mark key="." line="55" column="59" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/deploy/marathon-template.json" timestamp="1534499691261">
         <mark key="'" line="17" column="41" />
         <mark key="[" line="38" column="14" />
@@ -225,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="174" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="173" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="167" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
@@ -325,10 +322,11 @@
       <jump line="74" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" />
       <jump line="70" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" />
       <jump line="78" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" />
+      <jump line="12" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/src/main/java/portal/kcs/model/impl/KfMessageStats.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>install</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>install</text>
@@ -343,28 +341,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvcHJvZmlsZT4K</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L3BsdWdpblJlcG9zaXRvcmllcz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wbHVnaW5SZXBvc2l0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvc25hcHNob3RzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD4qPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dXBkYXRlUG9saWN5PmFsd2F5czwvdXBkYXRlUG9saWN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD4qPC9ncm91cElkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZW5hYmxlZD50cnVlPC9lbmFibGVkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzbmFwc2hvdHM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvcmVsZWFzZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHttb2RlbC52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
