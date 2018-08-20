@@ -66,11 +66,10 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/PortalApp.java" timestamp="1534768284227">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="51" />
-        <mark key="." line="14" column="51" />
-        <mark key="^" line="14" column="51" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/PortalApp.java" timestamp="1534769933132">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" timestamp="1534768238144">
         <mark key="'" line="14" column="0" />
@@ -78,6 +77,12 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
         <mark key="^" line="43" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/mapper/CassandraModelMapper.java" timestamp="1534770229739">
+        <mark key="'" line="110" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/model/Interface.java" timestamp="1534770218893">
+        <mark key="'" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/dev/projects/django_tutorial/tutorial_2/tutorial_2/settings.py" timestamp="1525361736093">
         <mark key="'" line="32" column="4" />
@@ -252,6 +257,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" timestamp="1534765883768">
         <mark key="'" line="9" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/CassandraConfig.java" timestamp="1534770146548">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" timestamp="1533892163837">
         <mark key="'" line="207" column="53" />
         <mark key="[" line="456" column="289" />
@@ -282,9 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="105" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="99" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="98" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="92" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="91" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
@@ -382,10 +389,13 @@
       <jump line="50" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" />
+      <jump line="10" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/model/Interface.java" />
+      <jump line="115" column="38" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/mapper/CassandraModelMapper.java" />
+      <jump line="110" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/mapper/CassandraModelMapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5TaW5nbGVDYXNzYW5kcmFDbHVzdGVyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>CassandraConfig</text>
@@ -397,22 +407,22 @@
         <text encoding="base64">ICAgICAgICBjbHVzdGVyLmdldENvbmZpZ3VyYXRpb24oKS5nZXRDb2RlY1JlZ2lzdHJ5KCkKICAgICAgICAgICAgICAgIC5yZWdpc3RlcigKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IERhdGVUaW1lQ29kZWModGltZXN0YW1wVmFyY2hhclR5cGUpCiAgICAgICAgICAgICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5TaW5nbGVDYXNzYW5kcmFDbHVzdGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5EY29zQ2Fzc2FuZHJhQ2x1c3RlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5DYXNzYW5kcmFDbHVzdGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEltcG9ydCh7IEVsYXN0aWNDb25maWcuY2xhc3MsIENhc3NhbmRyYUNvbmZpZy5jbGFzcyB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5zY2hlbWEuY29uZmlnLmNhc3NhbmRyYS5DYXNzYW5kcmFDb25maWc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5lbGFzdGljc2VhcmNoLnN1cHBvcnQuRWxhc3RpY0NvbmZpZzsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
