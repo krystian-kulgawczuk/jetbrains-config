@@ -12,11 +12,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibFactory.java" timestamp="1534495732983">
         <mark key="'" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/pom.xml" timestamp="1534514986275">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/pom.xml" timestamp="1534750817499">
         <mark key="'" line="91" column="24" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="140" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1534230015502">
         <mark key="'" line="48" column="36" />
@@ -67,6 +68,12 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" timestamp="1534750547208">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/backup-org-data/src/main/java/portal/aggregator/charts/processor/OrganizationAggregatorProcessor.java" timestamp="1534509336454">
         <mark key="[" line="21" column="6" />
       </file>
@@ -103,7 +110,7 @@
         <mark key="." line="33" column="37" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534514060806">
+      <file name="/Dummy.txt" timestamp="1534750918035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -124,9 +131,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1534498032931">
-        <mark key="'" line="261" column="29" />
-        <mark key="." line="115" column="66" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" timestamp="1534749157302">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="152" column="7" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/sas/model/AzureSas.java" timestamp="1534509455437">
         <mark key="'" line="3" column="57" />
@@ -202,11 +211,14 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" timestamp="1534749171069">
+        <mark key="'" line="74" column="4" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="17" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="181" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="180" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="174" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="173" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
@@ -304,13 +316,16 @@
       <jump line="136" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/pom.xml" />
       <jump line="8" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/DcosCassandraCluster.java" />
       <jump line="12" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/DcosCassandraCluster.java" />
+      <jump line="74" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" />
+      <jump line="70" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>install</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>modules</text>
@@ -319,31 +334,31 @@
         <text encoding="base64">bW9kdWxlX2N1c3RvbWVyX3N1YmRvbWFpbl9kZXBsb3k6CgkuL3NjcmlwdHMvZGVwbG95X21hcmF0aG9uLnB5IC4vY3VzdG9tZXItc3ViZG9tYWluL2RlcGxveS9tYXJhdGhvbi5qc29uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvbW9kdWxlcz4K</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5TaW5nbGVDYXNzYW5kcmFDbHVzdGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxtb2R1bGVzPgo=</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5EY29zQ2Fzc2FuZHJhQ2x1c3RlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmNvbm5lY3Rvci1jYXNzYW5kcmE8L21vZHVsZT4K</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5DYXNzYW5kcmFDbHVzdGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbmZpZ3VyYXRpb247CmltcG9ydCBwb3J0YWwuY2Fzc2FuZHJhLnN1cHBvcnQuQ2Fzc2FuZHJhQ2x1c3RlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtLT4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3VhdmE8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29ubmVjdG9yLWNhc3NhbmRyYTwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZS5ndWF2YTwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRlbGwuc29mdHdhcmUuZGF0YXByb3RlY3Rpb248L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
