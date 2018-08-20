@@ -66,17 +66,18 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/PortalApp.java" timestamp="1534767122614">
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/PortalApp.java" timestamp="1534768284227">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+        <mark key="^" line="14" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" timestamp="1534766056853">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" timestamp="1534768238144">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="43" column="3" />
       </file>
       <file name="$USER_HOME$/dev/projects/django_tutorial/tutorial_2/tutorial_2/settings.py" timestamp="1525361736093">
         <mark key="'" line="32" column="4" />
@@ -156,11 +157,11 @@
         <mark key="^" line="30" column="28" />
         <mark key="." line="30" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" timestamp="1534762861181">
-        <mark key="'" line="74" column="4" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" timestamp="1534768236516">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/pom.xml" timestamp="1534759967745">
         <mark key="[" line="22" column="21" />
@@ -264,11 +265,12 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" timestamp="1534765000558">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" timestamp="1534767772991">
         <mark key="'" line="56" column="24" />
-        <mark key="[" line="301" column="0" />
-        <mark key="]" line="301" column="0" />
-        <mark key="." line="301" column="0" />
+        <mark key="[" line="295" column="21" />
+        <mark key="]" line="299" column="11" />
+        <mark key="." line="299" column="11" />
+        <mark key="^" line="299" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1534761363060">
         <mark key="[" line="0" column="0" />
@@ -280,14 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="133" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="127" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="126" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="120" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="119" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="113" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="112" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="106" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="105" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="99" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
@@ -380,34 +374,42 @@
       <jump line="4" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="56" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="9" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" />
+      <jump line="4" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" />
+      <jump line="42" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" />
+      <jump line="0" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" />
+      <jump line="50" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5lbGFzdGljc2VhcmNoLnN1cHBvcnQuRWxhc3RpY0NvbmZpZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ElasticConfig</text>
+        <text>CassandraConfig</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text>datatype</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9kdWxlX2N1c3RvbWVyX3N1YmRvbWFpbl9kZXBsb3k6CgkuL3NjcmlwdHMvZGVwbG95X21hcmF0aG9uLnB5IC4vY3VzdG9tZXItc3ViZG9tYWluL2RlcGxveS9tYXJhdGhvbi5qc29uCg==</text>
+        <text encoding="base64">ICAgICAgICBjbHVzdGVyLmdldENvbmZpZ3VyYXRpb24oKS5nZXRDb2RlY1JlZ2lzdHJ5KCkKICAgICAgICAgICAgICAgIC5yZWdpc3RlcigKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IERhdGVUaW1lQ29kZWModGltZXN0YW1wVmFyY2hhclR5cGUpCiAgICAgICAgICAgICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5lbGFzdGljc2VhcmNoLnN1cHBvcnQuRWxhc3RpY0NvbmZpZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEltcG9ydCh7IEVsYXN0aWNDb25maWcuY2xhc3N9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEltcG9ydCh7IENhc3NhbmRyYUNvbmZpZy5jbGFzcyB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -419,16 +421,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>105,109d</text>
+        <text>56,59y</text>
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search>datatype</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
+      <last-pattern>datatype</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -436,7 +438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subdomain</entry>
         <entry>VERSION</entry>
         <entry>deploy</entry>
         <entry>PRODFILE</entry>
@@ -457,6 +458,8 @@
         <entry>CassandraCluster</entry>
         <entry>modules</entry>
         <entry>model</entry>
+        <entry>Session</entry>
+        <entry>datatype</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
@@ -470,8 +473,9 @@
         <entry>124,125y</entry>
         <entry>35,36y</entry>
         <entry>35,36,d</entry>
-        <entry>q</entry>
         <entry>105,109d</entry>
+        <entry>q</entry>
+        <entry>56,59y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
