@@ -9,6 +9,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/pom.xml" timestamp="1533888675887">
         <mark key="[" line="13" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" timestamp="1534836997329">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibFactory.java" timestamp="1534495732983">
         <mark key="'" line="3" column="17" />
       </file>
@@ -396,13 +402,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>$usr/bin/env python3</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>$usr/bin/env python3</text>
       </register>
       <register name="/" type="4">
-        <text>joda</text>
+        <text encoding="base64">XDx1c3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbHVzdGVyLmdldENvbmZpZ3VyYXRpb24oKS5nZXRDb2RlY1JlZ2lzdHJ5KCkKICAgICAgICAgICAgICAgIC5yZWdpc3RlcigKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IERhdGVUaW1lQ29kZWModGltZXN0YW1wVmFyY2hhclR5cGUpCiAgICAgICAgICAgICAgICApOwo=</text>
@@ -439,12 +445,12 @@
       </register>
     </registers>
     <search>
-      <last-search>joda</last-search>
+      <last-search encoding="base64">XDx1c3JcPg==</last-search>
       <last-offset />
-      <last-pattern>joda</last-pattern>
+      <last-pattern encoding="base64">XDx1c3JcPg==</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -469,6 +475,7 @@
         <entry>datatype</entry>
         <entry>datastax</entry>
         <entry>joda</entry>
+        <entry encoding="base64">XDx1c3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
