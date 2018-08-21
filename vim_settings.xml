@@ -3,15 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" timestamp="1534836997329">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibFactory.java" timestamp="1534495732983">
         <mark key="'" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/dto/Response.java" timestamp="1534509847905">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/model/pom.xml" timestamp="1534764827236">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" timestamp="1534854954061" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" timestamp="1534855429609" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" timestamp="1534764840322">
         <mark key="'" line="6" column="27" />
       </file>
@@ -30,9 +42,15 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/model/Interface.java" timestamp="1534770218893">
         <mark key="'" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" timestamp="1534854814797" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" timestamp="1534855282109" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/package.json" timestamp="1534411825458">
         <mark key="'" line="57" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_restore.sh" timestamp="1534508357313">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="37" />
+        <mark key="." line="33" column="37" />
+        <mark key="^" line="33" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/marathon/elasticsearch/discover-hosts.py" timestamp="1534840246446">
         <mark key="'" line="54" column="48" />
@@ -54,6 +72,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/config/nginx.conf" timestamp="1534498296594">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="15" />
+        <mark key="." line="35" column="15" />
+        <mark key="^" line="35" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/user/user-types/user-handler.ts" timestamp="1534489390428">
         <mark key="'" line="47" column="50" />
       </file>
@@ -63,11 +87,17 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1534854898083">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="51" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/resources/application-us-dev.properties" timestamp="1534855511203">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="76" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1534856616397">
+        <mark key="'" line="15" column="76" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="48" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" timestamp="1534768236516">
         <mark key="'" line="22" column="0" />
@@ -92,18 +122,33 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1534758658817">
         <mark key="'" line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/resources/application-us-dev.properties" timestamp="1534854927595">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/resources/application-us-dev.properties" timestamp="1534855530565">
+        <mark key="[" line="1" column="76" />
+        <mark key="]" line="2" column="105" />
+        <mark key="." line="2" column="105" />
+        <mark key="^" line="2" column="105" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/CassandraCluster.java" timestamp="1534513833400">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534851262989">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/AuthorizationService.java" timestamp="1534761653160">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1534856025000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/README.md" timestamp="1534502953713">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1534854367545">
         <mark key="'" line="269" column="0" />
@@ -152,11 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal.elasticsearch.support/MarathonElasticSearchCluster.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal.elasticsearch.support/MarathonElasticSearchCluster.java" />
-      <jump line="36" column="56" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal.elasticsearch.support/MarathonElasticSearchCluster.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal.elasticsearch.support/MarathonElasticSearchCluster.java" />
-      <jump line="16" column="57" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal.elasticsearch.support/MarathonElasticSearchCluster.java" />
       <jump line="47" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal.elasticsearch.support/MarathonElasticSearchCluster.java" />
       <jump line="43" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" />
       <jump line="31" column="38" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" />
@@ -252,55 +292,60 @@
       <jump line="1" column="9" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="2" column="43" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="17" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="15" column="76" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jbHVzdGVyLnVzZS5kY29zLmRpc2NvdmVyeT0K</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5lbGFzdGljc2VhcmNoLmNsdXN0ZXIuZGNvcy51cmw9cG9ydGFsLm9yZ2FuaXphdGlvbi5lbGFzdGljc2VhcmNoLmNsdXN0ZXIuZGNvcy51cmw9aHR0cDovL21hc3Rlci5tZXNvcy9zZXJ2aWNlL21hcmF0aG9uL3YyL2FwcHMvZXMtY2x1c3Rlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>http://master.mesos/service/marathon/v2/apps/es-cluster</text>
       </register>
       <register name="/" type="4">
-        <text>discovery</text>
+        <text>portal\.organization\.elastic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRlbGwuc29mdHdhcmUuZGF0YXByb3RlY3Rpb248L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmthZmthLWVsYXN0aWNzZWFyY2gtY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke21haW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD4qPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPio8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgPC9leGNsdXNpb25zPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jbHVzdGVyLnVzZS5kY29zLmRpc2NvdmVyeT0K</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5lbGFzdGljc2VhcmNoLmNsdXN0ZXIuZGNvcy51cmw9cG9ydGFsLm9yZ2FuaXphdGlvbi5lbGFzdGljc2VhcmNoLmNsdXN0ZXIuZGNvcy51cmw9aHR0cDovL21hc3Rlci5tZXNvcy9zZXJ2aWNlL21hcmF0aG9uL3YyL2FwcHMvZXMtY2x1c3Rlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jbHVzdGVyLnVzZS5kY29zLmRpc2NvdmVyeT10cnVlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jYXNzYW5kcmEuY2x1c3Rlci5kY29zLnVybD0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jYXNzYW5kcmEuY2x1c3Rlci5kY29zLnVybD1odHRwOi8vbWFzdGVyLm1lc29zL3NlcnZpY2UvY2Fzc2FuZHJhL3YxL2VuZHBvaW50cy9uYXRpdmUtY2xpZW50Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">cG9ydGFsLmFuYWx5dGljcy5lbGFzdGljc2VhcmNoLnVzZS5tYXJhdGhvbj10cnVlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5lbGFzdGljc2VhcmNoLnNpbmdsZS5jbHVzdGVyLnRyYW5zcG9ydC5hZGRyZXNzCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmNvbm5lY3Rvci1lbGFzdGljc2VhcmNoPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jbHVzdGVyLnVzZS5kY29zLmRpc2NvdmVyeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5lbGFzdGljc2VhcmNoLnNpbmdsZS5jbHVzdGVyLnRyYW5zcG9ydC5hZGRyZXNzPTEyNy4wLjAuMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5lbGFzdGljc2VhcmNoLnNpbmdsZS5jbHVzdGVyLnRyYW5zcG9ydC5hZGRyZXNzPTEyNy4wLjAuMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+a2Fma2EtZWxhc3RpY3NlYXJjaC1jb21tb248L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbmtrLmVsYXN0aWNzZWFyY2gudXNlLm1hcmF0aG9uPXRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRlbGwuc29mdHdhcmUuZGF0YXByb3RlY3Rpb248L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5lbGFzdGljc2VhcmNoLnNpbmdsZS5jbHVzdGVyLnRyYW5zcG9ydC5hZGRyZXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>discovery</last-search>
+      <last-search>portal\.organization\.elastic</last-search>
       <last-offset />
-      <last-pattern>discovery</last-pattern>
+      <last-pattern>portal\.organization\.elastic</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -329,6 +374,12 @@
         <entry>faster</entry>
         <entry>xml</entry>
         <entry>discovery</entry>
+        <entry>trnasport.address</entry>
+        <entry>transport</entry>
+        <entry>dcos\.disc</entry>
+        <entry>mara</entry>
+        <entry>marathon</entry>
+        <entry>portal\.organization\.elastic</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
