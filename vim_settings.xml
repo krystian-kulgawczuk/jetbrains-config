@@ -48,11 +48,7 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/model/pom.xml" timestamp="1534764827236">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/marathon/elasticsearch/Dockerfile" timestamp="1534840059762" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/.gitignore" timestamp="1534760709299">
         <mark key="[" line="70" column="17" />
       </file>
@@ -111,6 +107,9 @@
         <mark key="]" line="33" column="37" />
         <mark key="." line="33" column="37" />
         <mark key="^" line="33" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/marathon/elasticsearch/discover-hosts.py" timestamp="1534840246446">
+        <mark key="'" line="54" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/healthcheck/HealthcheckController.java" timestamp="1534496779920">
         <mark key="'" line="12" column="18" />
@@ -172,11 +171,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/pom.xml" timestamp="1534759967745">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/maven-hello-world/my-app/pom.xml" timestamp="1533895036793">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="35" column="16" />
@@ -197,33 +191,19 @@
       <file name="/Django Console" timestamp="1525279346530">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal.elasticsearch.support/DcosElasticSearchCluster.java" timestamp="1534759884907">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1534758658817">
         <mark key="'" line="12" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/CassandraCluster.java" timestamp="1534513833400">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/support/ElasticConfig.java" timestamp="1534834723797" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/index.html" timestamp="1534407311966">
         <mark key="[" line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1534840268073" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/AuthorizationService.java" timestamp="1534761653160">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="29" />
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1534761476139">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/README.md" timestamp="1534502953713">
         <mark key="[" line="20" column="32" />
@@ -260,6 +240,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1534840234613" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" timestamp="1534765883768">
         <mark key="'" line="9" column="29" />
       </file>
@@ -292,14 +273,8 @@
       <file name="/fragment.java" timestamp="1534761363060">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/SingleCassandraCluster.java" timestamp="1534513841489">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/user/user-types/user-handler.ts" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/user/user-types/user-handler.ts" />
       <jump line="39" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/user/user-types/user-handler.ts" />
       <jump line="43" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/user/user-types/user-handler.ts" />
@@ -399,6 +374,7 @@
       <jump line="57" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/CassandraConfig.java" />
       <jump line="88" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/pom.xml" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/pom.xml" />
+      <jump line="54" column="48" filename="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/marathon/elasticsearch/discover-hosts.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -408,7 +384,7 @@
         <text>$usr/bin/env python3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c3JcPg==</text>
+        <text>esdatadir</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbHVzdGVyLmdldENvbmZpZ3VyYXRpb24oKS5nZXRDb2RlY1JlZ2lzdHJ5KCkKICAgICAgICAgICAgICAgIC5yZWdpc3RlcigKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IERhdGVUaW1lQ29kZWModGltZXN0YW1wVmFyY2hhclR5cGUpCiAgICAgICAgICAgICAgICApOwo=</text>
@@ -445,12 +421,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c3JcPg==</last-search>
+      <last-search>esdatadir</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c3JcPg==</last-pattern>
+      <last-pattern>esdatadir</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -476,6 +452,8 @@
         <entry>datastax</entry>
         <entry>joda</entry>
         <entry encoding="base64">XDx1c3JcPg==</entry>
+        <entry>esdata</entry>
+        <entry>esdatadir</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
