@@ -73,8 +73,11 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/PortalApp.java" timestamp="1534846649572">
-        <mark key="'" line="20" column="31" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/PortalApp.java" timestamp="1534848844447">
+        <mark key="'" line="17" column="31" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" timestamp="1534768238144">
         <mark key="'" line="14" column="0" />
@@ -124,7 +127,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" timestamp="1534771165508">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" timestamp="1534849623869">
         <mark key="'" line="108" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/backup_restore/README.md" timestamp="1534165749085">
@@ -165,7 +168,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/user/user-types/user-handler.ts" timestamp="1534489390428">
         <mark key="'" line="47" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" timestamp="1534848308511">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" timestamp="1534848985240">
         <mark key="'" line="77" column="27" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
@@ -295,7 +298,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1534848719955">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
-        <mark key="^" line="29" column="36" />
         <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" timestamp="1534843561383">
@@ -315,12 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="256" column="61" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="258" column="58" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="224" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="168" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="259" column="68" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="261" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="17" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/deploy/marathon-template.json" />
       <jump line="3" column="57" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/sas/model/AzureSas.java" />
@@ -407,63 +403,69 @@
       <jump line="164" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
       <jump line="168" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
       <jump line="169" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
+      <jump line="184" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/pom.xml" />
+      <jump line="2" column="46" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/pom.xml" />
+      <jump line="3" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/pom.xml" />
+      <jump line="113" column="40" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
+      <jump line="136" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
+      <jump line="174" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
+      <jump line="175" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
+      <jump line="179" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
+      <jump line="180" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
       <jump line="11" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
       <jump line="16" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
       <jump line="75" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
       <jump line="76" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
       <jump line="77" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" />
-      <jump line="184" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/pom.xml" />
-      <jump line="2" column="46" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/pom.xml" />
-      <jump line="3" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmFuYWx5dGljcy1jYXNzYW5kcmE8L21vZHVsZT4K</text>
+        <text encoding="base64">QEltcG9ydCh7IEVsYXN0aWNDb25maWcuY2xhc3MsIENhc3NhbmRyYUNvbmZpZy5jbGFzcyB9KQo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>consumer-common</text>
+        <text>common</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRlbGwuc29mdHdhcmUuZGF0YXByb3RlY3Rpb248L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmthZmthLWVsYXN0aWNzZWFyY2gtY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke21haW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD4qPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPio8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgPC9leGNsdXNpb25zPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmFuYWx5dGljcy1jYXNzYW5kcmE8L21vZHVsZT4K</text>
+        <text encoding="base64">QEltcG9ydCh7IEVsYXN0aWNDb25maWcuY2xhc3MsIENhc3NhbmRyYUNvbmZpZy5jbGFzcyB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5DYXNzYW5kcmFDb25maWc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5lbGFzdGljc2VhcmNoLnN1cHBvcnQuRWxhc3RpY0NvbmZpZzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdXNpb25zPgo=</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmFuYWx5dGljcy1jYXNzYW5kcmE8L21vZHVsZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD4qPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD4qPC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD4qPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>108,118y</text>
       </register>
     </registers>
     <search>
-      <last-search>consumer-common</last-search>
+      <last-search>common</last-search>
       <last-offset />
-      <last-pattern>consumer-common</last-pattern>
+      <last-pattern>common</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -497,9 +499,9 @@
         <entry>PortalApp</entry>
         <entry>scheme</entry>
         <entry>portal</entry>
-        <entry>common</entry>
         <entry>schema</entry>
         <entry>consumer-common</entry>
+        <entry>common</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
