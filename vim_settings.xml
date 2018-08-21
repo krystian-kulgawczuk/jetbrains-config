@@ -229,11 +229,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1534774728585">
-        <mark key="[" line="59" column="8" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1534835512897">
+        <mark key="[" line="59" column="29" />
         <mark key="]" line="59" column="29" />
-        <mark key="^" line="59" column="29" />
         <mark key="." line="59" column="29" />
+        <mark key="^" line="59" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/sas/model/AzureSas.java" timestamp="1534509455437">
         <mark key="'" line="3" column="57" />
@@ -399,11 +399,11 @@
       <jump line="107" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5DYXNzYW5kcmFDb25maWc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>CassandraConfig</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>joda</text>
@@ -412,31 +412,31 @@
         <text encoding="base64">ICAgICAgICBjbHVzdGVyLmdldENvbmZpZ3VyYXRpb24oKS5nZXRDb2RlY1JlZ2lzdHJ5KCkKICAgICAgICAgICAgICAgIC5yZWdpc3RlcigKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IERhdGVUaW1lQ29kZWModGltZXN0YW1wVmFyY2hhclR5cGUpCiAgICAgICAgICAgICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5DYXNzYW5kcmFDb25maWc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5lbGFzdGljc2VhcmNoLmNvbmZpZy5FbGFzdGljU2VhcmNoQ29uZmlnOwo=</text>
+        <text encoding="base64">QEltcG9ydCh7IEVsYXN0aWNTZWFyY2hDb25maWcuY2xhc3MgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEltcG9ydCh7IEVsYXN0aWNTZWFyY2hDb25maWcuY2xhc3MsIENhc3NhbmRyYUNvbmZpZy5jbGFzcyB9KQo=</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5DYXNzYW5kcmFDb25maWc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+cG9ydGFsLlBvcnRhbEFwcDwvc3RhcnQtY2xhc3M+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5lbGFzdGljc2VhcmNoLmNvbmZpZy5FbGFzdGljU2VhcmNoQ29uZmlnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvcHJvcGVydGllcz4K</text>
+        <text encoding="base64">QEltcG9ydCh7IEVsYXN0aWNTZWFyY2hDb25maWcuY2xhc3MsIENhc3NhbmRyYUNvbmZpZy5jbGFzcyB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8am9kYS10aW1lLnZlcnNpb24+Mi45LjY8L2pvZGEtdGltZS52ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+cG9ydGFsLlBvcnRhbEFwcDwvc3RhcnQtY2xhc3M+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgo=</text>
+        <text encoding="base64">ICAgIDwvcHJvcGVydGllcz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5TaW5nbGVDYXNzYW5kcmFDbHVzdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICA8am9kYS10aW1lLnZlcnNpb24+Mi45LjY8L2pvZGEtdGltZS52ZXJzaW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jYXNzYW5kcmEuc3VwcG9ydC5EY29zQ2Fzc2FuZHJhQ2x1c3RlcjsK</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
