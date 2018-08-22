@@ -447,6 +447,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
