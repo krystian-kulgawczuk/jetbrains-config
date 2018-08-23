@@ -15,9 +15,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1535008141978">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/dto/Response.java" timestamp="1534509847905">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="4" />
@@ -121,6 +118,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/bare/Dockerfile" timestamp="1535018189583">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/ConsumerInit.java" timestamp="1534940529861">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="6" column="0" />
@@ -161,6 +164,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcc/model/factory/impl/ConsumerFactoryImpl.java" timestamp="1535006494129" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/schema/Dockerfile" timestamp="1535017402092" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1535014100092">
         <mark key="[" line="42" column="10" />
         <mark key="]" line="44" column="23" />
@@ -195,6 +199,7 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/schema/Dockerfile" timestamp="1535017587235" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/nginx-proxy/us-dev/config/nginx.conf" timestamp="1535013976460" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/build.sh" timestamp="1535012554822" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/message/impl/KfMessageStats.java" timestamp="1534933124988">
@@ -207,9 +212,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1534945157893">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
