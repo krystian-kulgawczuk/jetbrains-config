@@ -49,6 +49,10 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/StatsMessageFactoryImpl.java" timestamp="1535095820804">
+        <mark key="'" line="21" column="17" />
+        <mark key="[" line="21" column="68" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/ConsumerInit.java" timestamp="1535105452137">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="31" />
@@ -133,7 +137,8 @@
         <mark key="." line="18" column="2" />
         <mark key="^" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" timestamp="1535120821315">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" timestamp="1535288453353">
+        <mark key="'" line="72" column="27" />
         <mark key="[" line="129" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_restore.sh" timestamp="1534508357313">
@@ -213,11 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/pom.xml" />
-      <jump line="326" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/pom.xml" />
-      <jump line="26" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/pom.xml" />
-      <jump line="76" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/pom.xml" />
-      <jump line="148" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/pom.xml" />
       <jump line="165" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" />
       <jump line="21" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" />
       <jump line="84" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" />
@@ -313,6 +313,11 @@
       <jump line="49" column="70" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcs/model/message/impl/KfMessageStats.java" />
       <jump line="103" column="15" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcs/model/message/impl/KfMessageStats.java" />
       <jump line="10" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/factory/impl/MessageFactoryImpl.java" />
+      <jump line="207" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
+      <jump line="17" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
+      <jump line="70" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
+      <jump line="71" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
+      <jump line="72" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -322,7 +327,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>common</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBTdGF0c0tmRmFjdG9yeUltcGwoQFZhbHVlKCIke3BvcnRhbC5vcmdhbml6YXRpb24uY2x1c3Rlci51c2UuZGNvcy5kaXNjb3Zlcnl9IikgYm9vbGVhbiB1c2VEY29zRGlzY292ZXJ5LAogICAgICAgICAgICAgICAgICAgICAgICAgQFZhbHVlKCIke3BvcnRhbC5vcmdhbml6YXRpb24ua2Fma2Euc2luZ2xlLmNsdXN0ZXIuY29udGFjdC5wb2ludH0iKSBTdHJpbmcgc2luZ2xlQ2x1c3RlckNvbnRhY3RQb2ludCwKICAgICAgICAgICAgICAgICAgICAgICAgIEBWYWx1ZSgiJHtwb3J0YWwub3JnYW5pemF0aW9uLmthZmthLmNsdXN0ZXIubmFtZX0iKSBTdHJpbmcgY2x1c3Rlck5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICBAVmFsdWUoIiR7cG9ydGFsLm9yZ2FuaXphdGlvbi5rYWZrYS5jbHVzdGVyLmNvbnN1bWVyLmdyb3VwfSIpIFN0cmluZyBjb25zdW1lckdyb3VwLAogICAgICAgICAgICAgICAgICAgICAgICAgQFZhbHVlKCIke3BvcnRhbC5vcmdhbml6YXRpb24ua2Fma2EuY29uc3VtZXIudG9waWN9IikgU3RyaW5nIHRvcGljCiAgICApIHsKICAgICAgICB0aGlzLnVzZURjb3NEaXNjb3ZlcnkgPSB1c2VEY29zRGlzY292ZXJ5OwogICAgICAgIHRoaXMuc2luZ2xlQ2x1c3RlckNvbnRhY3RQb2ludCA9IHNpbmdsZUNsdXN0ZXJDb250YWN0UG9pbnQ7CiAgICAgICAgdGhpcy5jbHVzdGVyTmFtZSA9IGNsdXN0ZXJOYW1lOwogICAgICAgIHRoaXMuY29uc3VtZXJHcm91cCA9IGNvbnN1bWVyR3JvdXA7CiAgICAgICAgdGhpcy50b3BpYyA9IHRvcGljOwogICAgfQo=</text>
@@ -359,9 +364,9 @@
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>common</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>common</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -369,7 +374,6 @@
     </search>
     <history>
       <history-search>
-        <entry>common</entry>
         <entry>faster</entry>
         <entry>xml</entry>
         <entry>discovery</entry>
@@ -392,6 +396,7 @@
         <entry>generate</entry>
         <entry>monitor</entry>
         <entry>url</entry>
+        <entry>common</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
