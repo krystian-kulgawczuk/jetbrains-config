@@ -19,7 +19,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1535354726736" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_chronos.py" timestamp="1535351664517">
+        <mark key="'" line="55" column="43" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/dto/Response.java" timestamp="1534509847905">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="4" />
@@ -37,9 +42,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/model/Interface.java" timestamp="1534770218893">
-        <mark key="'" line="10" column="18" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/factory/impl/StatsConsumerFactoryImpl.java" timestamp="1535120692238">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="15" />
@@ -52,8 +54,9 @@
         <mark key="^" line="13" column="60" />
         <mark key="." line="13" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/package.json" timestamp="1534411825458">
-        <mark key="'" line="57" column="23" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/StatsMessageFactoryImpl.java" timestamp="1535095820804">
+        <mark key="'" line="21" column="17" />
+        <mark key="[" line="21" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/impl/ChartsEsImpl.java" timestamp="1535096317177">
         <mark key="'" line="35" column="24" />
@@ -67,11 +70,10 @@
         <mark key="^" line="13" column="57" />
         <mark key="." line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/marathon/elasticsearch/discover-hosts.py" timestamp="1534840246446">
-        <mark key="'" line="54" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/healthcheck/HealthcheckController.java" timestamp="1534496779920">
-        <mark key="'" line="12" column="18" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/GenericConsumerFactoryImpl.java" timestamp="1535034873231">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1535289069464">
         <mark key="[" line="314" column="0" />
@@ -84,37 +86,24 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/factory/impl/UnregistrationFactoryImpl.java" timestamp="1535093052182">
-        <mark key="'" line="3" column="19" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/factory/impl/UnregistrationFactoryImpl.java" timestamp="1535362597472">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcs/model/Diagnostics.java" timestamp="1535117748508">
-        <mark key="'" line="0" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/user/user-types/backend-user-handler.ts" timestamp="1534489056301">
-        <mark key="'" line="49" column="32" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/EsFactory.java" timestamp="1535289242477">
+        <mark key="[" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1534847700765">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/pom.xml" timestamp="1535360838783">
-        <mark key="[" line="44" column="21" />
-        <mark key="]" line="44" column="20" />
-        <mark key="^" line="44" column="20" />
-        <mark key="." line="44" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/impl/StatsEsConsumerInitImpl.java" timestamp="1535115909606">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="12" column="63" />
-        <mark key="^" line="12" column="63" />
-        <mark key="." line="12" column="63" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/pom.xml" timestamp="1535360642433">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="33" column="20" />
-        <mark key="^" line="33" column="20" />
-        <mark key="." line="33" column="20" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/pom.xml" timestamp="1535361457923">
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="45" column="7" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/src/main/java/portal/kcs/model/impl/BackupDataConsumerInitImpl.java" timestamp="1535317173227">
         <mark key="[" line="13" column="38" />
@@ -122,27 +111,27 @@
         <mark key="^" line="13" column="72" />
         <mark key="." line="13" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/impl/RemovalEsKfMessage.java" timestamp="1535307741735">
-        <mark key="'" line="31" column="27" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcs/model/factory/impl/MessageFactoryImpl.java" timestamp="1535120027022">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/MessageFactoryImpl.java" timestamp="1535093472671">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/EsFactoryImpl.java" timestamp="1535096023649" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcc/model/factory/MessageFactory.java" timestamp="1534933429645">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/src/main/java/portal/kcs/model/factory/impl/MessageFactoryImpl.java" timestamp="1535316535516">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/src/main/java/portal/kcs/model/factory/impl/MessageFactoryImpl.java" timestamp="1535362645308">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/ConsumerInit.java" timestamp="1535105185567" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal.elasticsearch.support/DcosElasticSearchCluster.java" timestamp="1534759884907">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -154,16 +143,10 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/KfMessage.java" timestamp="1534931724322">
-        <mark key="'" line="0" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/src/main/java/portal/kcs/model/factory/impl/kafka/KfMessageStats.java" timestamp="1535315257223">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/kes/es/EsFactory.java" timestamp="1534935292420">
-        <mark key="'" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/README.md" timestamp="1534502953713">
         <mark key="[" line="20" column="32" />
@@ -177,6 +160,9 @@
         <mark key="^" line="24" column="35" />
         <mark key="." line="24" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-user-data/src/main/java/portal/kcs/model/factory/impl/MessageFactoryImpl.java" timestamp="1535316999706">
+        <mark key="[" line="5" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-analytics/src/main/java/portal/kca/model/impl/MessageFactoryImpl.java" timestamp="1535307852878">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="6" />
@@ -187,35 +173,21 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/RestrictedStmFactoryImpl.java" timestamp="1534854073068">
-        <mark key="'" line="23" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/consumer/factory/impl/GenericConsumerFactory.java" timestamp="1535360260370">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" timestamp="1534933703751">
-        <mark key="'" line="69" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/ConsumerInit.java" timestamp="1535119000856" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/KcsModelFactoryImpl.java" timestamp="1535120252828">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="21" />
         <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Alert.java" timestamp="1535360787217">
-        <mark key="'" line="0" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/SingleCassandraCluster.java" timestamp="1534513841489">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibFactory.java" timestamp="1534495732983">
-        <mark key="'" line="3" column="17" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-azure-blob/pom.xml" timestamp="1535310520804">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/consumer/impl/GenericConsumerInit.java" timestamp="1535359832370">
         <mark key="[" line="5" column="0" />
@@ -233,16 +205,12 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/KfFactory.java" timestamp="1535027349504">
-        <mark key="'" line="7" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-stats/src/main/java/portal/kcch/model/impl/KfMessageCharts.java" timestamp="1535308336614">
         <mark key="'" line="19" column="18" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-charts/src/main/java/portal/kcch/view/charts/controller/ChartsController.java" timestamp="1535102055270" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/impl/ChartsEsConsumerInitImpl.java" timestamp="1535105565013">
         <mark key="[" line="12" column="68" />
         <mark key="]" line="12" column="83" />
@@ -260,24 +228,26 @@
         <mark key="^" line="13" column="71" />
         <mark key="." line="13" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" timestamp="1535361086656">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/impl/RemovalEsConsumerInitImpl.java" timestamp="1535106205358">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="11" column="13" />
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/user/user-types/user-handler.ts" timestamp="1534489390428">
-        <mark key="'" line="47" column="50" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-removal/src/main/java/portal/ker/view/removal/controller/RemovalController.java" timestamp="1535106240421">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" timestamp="1535290057485">
-        <mark key="'" line="24" column="8" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" timestamp="1535362467033">
+        <mark key="'" line="86" column="10" />
+        <mark key="[" line="95" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/generate_template_chronos.sh" timestamp="1535108603231" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-stats/src/main/java/portal/backup/factory/impl/BackupConsumerFactoryImpl.java" timestamp="1535308986725">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="65" />
@@ -302,11 +272,17 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/MessageFactoryImpl.java" timestamp="1535292247087">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/MessageFactoryImpl.java" timestamp="1535362492212">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-stats/src/main/java/portal/kcch/model/impl/MessageFactoryImpl.java" timestamp="1535308498370">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1535351842046">
         <mark key="[" line="0" column="0" />
@@ -331,10 +307,6 @@
         <mark key="^" line="8" column="55" />
         <mark key="." line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/schema/Dockerfile" timestamp="1535353962728" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/DbFactoryImpl.java" timestamp="1534846545055">
-        <mark key="'" line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/ChartsMessageFactoryImpl.java" timestamp="1535098909444">
         <mark key="[" line="21" column="47" />
         <mark key="]" line="21" column="70" />
@@ -347,19 +319,19 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/impl/KfSecureMessage.java" timestamp="1534932516861">
-        <mark key="'" line="12" column="65" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1535288880882">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/pom.xml" timestamp="1535356009589">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="36" column="18" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/pom.xml" timestamp="1535361997615">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="16" />
+        <mark key="^" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+      </file>
+      <file name="/fragment.java" timestamp="1535362198772">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/factory/impl/KcsConsumerFactoryImpl.java" timestamp="1535289468941">
         <mark key="[" line="14" column="46" />
@@ -379,11 +351,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/db/DbFactoryImpl.java" timestamp="1535118878986">
-        <mark key="'" line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" timestamp="1534764840322">
-        <mark key="'" line="6" column="27" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcs/model/message/impl/KfMessageStats.java" timestamp="1535120114120">
+        <mark key="'" line="103" column="15" />
+        <mark key="[" line="57" column="12" />
+        <mark key="]" line="57" column="14" />
+        <mark key="." line="57" column="14" />
+        <mark key="^" line="57" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcs/model/impl/MessageFactoryImpl.java" timestamp="1534934199838">
         <mark key="[" line="6" column="0" />
@@ -406,22 +379,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-azure-blob/src/main/java/portal/azure/storage/config/AzureBlobConfig.java" timestamp="1535352601333">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/view/charts/controller/ChartsController.java" timestamp="1535105052701">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/src/main/resources/application-us-dev.properties" timestamp="1535111314952">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="13" column="49" />
-        <mark key="^" line="13" column="49" />
-        <mark key="." line="13" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-user-data/pom.xml" timestamp="1535316751355">
         <mark key="[" line="156" column="7" />
@@ -445,7 +406,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-common/pom.xml" timestamp="1535360978738" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/src/main/java/portal/kcs/model/impl/KccRestoreConsumerInitImpl.java" timestamp="1535316400366">
         <mark key="[" line="13" column="45" />
         <mark key="]" line="13" column="47" />
@@ -458,39 +418,29 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-stats/src/main/java/portal/kcch/model/dto/Interval.java" timestamp="1535095535318">
-        <mark key="'" line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/dto/RegisteredAssetDto.java" timestamp="1535355610962" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-commons/src/main/java/portal.kafka.message/KfMessage.java" timestamp="1534927881700">
         <mark key="[" line="3" column="36" />
         <mark key="]" line="3" column="4" />
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/StatsConsumerFactoryImpl.java" timestamp="1535308070703">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="36" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="17" column="36" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" timestamp="1535362638853">
+        <mark key="'" line="85" column="10" />
+        <mark key="[" line="128" column="21" />
+        <mark key="]" line="162" column="46" />
+        <mark key="^" line="162" column="46" />
+        <mark key="." line="162" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/data/Dockerfile" timestamp="1535354752126">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/ChartsEsFactoryImpl.java" timestamp="1535098943979">
+        <mark key="[" line="14" column="8" />
+      </file>
+      <file name="/Python Console" timestamp="1535109452566">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-        <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/encryption/AesEncryptionImpl.java" timestamp="1534921046618">
-        <mark key="'" line="21" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/view/stats/controller/StatsController.java" timestamp="1535118592666" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcc/model/impl/ConsumerImpl.java" timestamp="1534934325890">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1535108682131">
-        <mark key="'" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-analytics/src/main/java/portal/kca/model/impl/KcaConsumerInitImpl.java" timestamp="1535294390202">
         <mark key="[" line="8" column="0" />
@@ -503,14 +453,16 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/pom.xml" timestamp="1535359930134">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/pom.xml" timestamp="1535361886985">
         <mark key="'" line="3" column="13" />
         <mark key="[" line="117" column="21" />
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/factory/KfFactory.java" timestamp="1535099425891">
-        <mark key="'" line="0" column="29" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/UnregistrationDRImpl.java" timestamp="1535362528906">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-analytics/pom.xml" timestamp="1535294122658">
         <mark key="[" line="148" column="21" />
@@ -524,28 +476,25 @@
         <mark key="^" line="15" column="58" />
         <mark key="." line="15" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" timestamp="1535362586798">
+        <mark key="'" line="9" column="28" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/AuthorizationService.java" timestamp="1534761653160">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="29" />
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/RemovalEsFactoryImpl.java" timestamp="1535028491443">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-analytics/src/main/java/portal/kca/model/impl/KfMessageAnalytics.java" timestamp="1535294143235">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/sas/model/AzureSas.java" timestamp="1534509455437">
-        <mark key="'" line="3" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/src/main/java/portal/utils/impl/KafkaConsumerImpl.java" timestamp="1535359304410">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/src/main/java/portal/utils/impl/KafkaConsumerImpl.java" timestamp="1535361975400">
+        <mark key="[" line="6" column="46" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
@@ -555,54 +504,37 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" timestamp="1534765883768">
-        <mark key="'" line="9" column="29" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" timestamp="1535111266673">
         <mark key="[" line="178" column="21" />
         <mark key="]" line="182" column="46" />
         <mark key="^" line="182" column="46" />
         <mark key="." line="182" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-user-data/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1535355147455" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1535030463101">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/data/Dockerfile" timestamp="1535354029837" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/GenericConsumerFactory.java" timestamp="1535355402163" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/impl/StatsEsImpl.java" timestamp="1535355030314" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/UnregistrationNVImpl.java" timestamp="1535362535938">
+        <mark key="'" line="0" column="28" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-charts/src/main/java/portal/backup/model/impl/KfMessageCharts.java" timestamp="1535310306580">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/StatsKfFactoryImpl.java" timestamp="1535307451356">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="2" />
-        <mark key="." line="18" column="2" />
-        <mark key="^" line="18" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/PortalApp.java" timestamp="1534919454770">
-        <mark key="'" line="14" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-charts/pom.xml" timestamp="1535310199114">
-        <mark key="[" line="145" column="21" />
-        <mark key="]" line="143" column="46" />
-        <mark key="^" line="143" column="46" />
-        <mark key="." line="143" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/mapper/CassandraModelMapper.java" timestamp="1534770229739">
-        <mark key="'" line="110" column="32" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/UnregistrationR3Impl.java" timestamp="1535362543122">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kes/model/MessageFactoryImpl.java" timestamp="1534935348300">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" timestamp="1535352815873">
-        <mark key="'" line="31" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/backup_restore/scripts/make_cassandra_restore.sh" timestamp="1534508357313">
         <mark key="[" line="33" column="38" />
@@ -610,7 +542,6 @@
         <mark key="." line="33" column="37" />
         <mark key="^" line="33" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/schema/bootstrap-schema.py" timestamp="1535354634315" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/charts/impl/KfMessageCharts.java" timestamp="1535093912643">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -632,31 +563,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/cassandra/schema/schema.cql" timestamp="1535353968947" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/db/DbFactory.java" timestamp="1534930127406">
-        <mark key="'" line="2" column="18" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/factory/impl/KcsModelFactoryImpl.java" timestamp="1535289589370">
+        <mark key="[" line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/schema/Dockerfile" timestamp="1535354653297" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/src/main/java/portal/kcs/KafkaBackupCassandraOrgApp.java" timestamp="1535352185889">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="8" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-charts/src/main/java/portal/backup/model/impl/MessageFactoryImpl.java" timestamp="1535312585680">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-        <mark key="^" line="24" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/MessageFactoryImpl.java" timestamp="1534931658340">
-        <mark key="'" line="28" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1535354525640">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/src/main/java/portal/utils/impl/KfSecureMessage.java" timestamp="1535358287167">
         <mark key="[" line="4" column="0" />
@@ -669,22 +583,16 @@
         <mark key="^" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/KfMessageWrp.java" timestamp="1534931860036">
-        <mark key="'" line="5" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/test/java/portal/app/encryption/AesEncryptionImplTest.java" timestamp="1534921034498">
-        <mark key="'" line="29" column="30" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/RemovalKfFactoryImpl.java" timestamp="1535307586428">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="23" column="20" />
         <mark key="^" line="23" column="20" />
         <mark key="." line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/src/main/java/portal/utils/impl/ChartsCassandraKfMessage.java" timestamp="1535358250280">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/src/main/java/portal/utils/impl/ChartsCassandraKfMessage.java" timestamp="1535361741138">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/ElasticsearchApp.java" timestamp="1534919524749">
         <mark key="[" line="10" column="29" />
@@ -692,7 +600,11 @@
         <mark key="^" line="10" column="65" />
         <mark key="." line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-stats/src/main/java/portal/kcch/config/AzureBlobConfig.java" timestamp="1535352464409" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/Unregistration.java" timestamp="1535362549385">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1535317278338">
         <mark key="'" line="19" column="45" />
         <mark key="[" line="13" column="0" />
@@ -704,7 +616,6 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/factory/impl/KfFactoryImpl.java" timestamp="1535099458252" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/factory/impl/KcrConsumerFactoryImpl.java" timestamp="1535293519827">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="15" column="33" />
@@ -727,11 +638,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/RemovalMessageFactoryImpl.java" timestamp="1535115796849">
-        <mark key="[" line="22" column="48" />
-        <mark key="]" line="22" column="71" />
-        <mark key="^" line="22" column="71" />
-        <mark key="." line="22" column="71" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/factory/UnregistrationFactory.java" timestamp="1535362604815">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/message/impl/KfMessageStats.java" timestamp="1534933124988">
         <mark key="'" line="9" column="19" />
@@ -758,15 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
-      <jump line="17" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
-      <jump line="15" column="76" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
-      <jump line="29" column="56" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="321" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="182" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="186" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="201" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="205" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
@@ -849,7 +750,6 @@
       <jump line="72" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
       <jump line="61" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" />
       <jump line="89" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" />
-      <jump line="24" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" />
       <jump line="31" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/impl/RemovalEsKfMessage.java" />
       <jump line="37" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-stats/pom.xml" />
       <jump line="204" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
@@ -858,55 +758,65 @@
       <jump line="144" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
       <jump line="31" column="56" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
       <jump line="0" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Alert.java" />
+      <jump line="0" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/UnregistrationNVImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" />
+      <jump line="24" column="9" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" />
+      <jump line="86" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" />
+      <jump line="78" column="49" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" />
+      <jump line="81" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" />
+      <jump line="84" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" />
+      <jump line="9" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" />
+      <jump line="23" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
+      <jump line="85" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jb21tb24udXRpbHMuU3RhdHNFczsK</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5rY2MuZGIuRGJGYWN0b3J5Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>schema</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>wait-for</text>
+        <text>dependencies</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBTdGF0c0tmRmFjdG9yeUltcGwoQFZhbHVlKCIke3BvcnRhbC5vcmdhbml6YXRpb24uY2x1c3Rlci51c2UuZGNvcy5kaXNjb3Zlcnl9IikgYm9vbGVhbiB1c2VEY29zRGlzY292ZXJ5LAogICAgICAgICAgICAgICAgICAgICAgICAgQFZhbHVlKCIke3BvcnRhbC5vcmdhbml6YXRpb24ua2Fma2Euc2luZ2xlLmNsdXN0ZXIuY29udGFjdC5wb2ludH0iKSBTdHJpbmcgc2luZ2xlQ2x1c3RlckNvbnRhY3RQb2ludCwKICAgICAgICAgICAgICAgICAgICAgICAgIEBWYWx1ZSgiJHtwb3J0YWwub3JnYW5pemF0aW9uLmthZmthLmNsdXN0ZXIubmFtZX0iKSBTdHJpbmcgY2x1c3Rlck5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICBAVmFsdWUoIiR7cG9ydGFsLm9yZ2FuaXphdGlvbi5rYWZrYS5jbHVzdGVyLmNvbnN1bWVyLmdyb3VwfSIpIFN0cmluZyBjb25zdW1lckdyb3VwLAogICAgICAgICAgICAgICAgICAgICAgICAgQFZhbHVlKCIke3BvcnRhbC5vcmdhbml6YXRpb24ua2Fma2EuY29uc3VtZXIudG9waWN9IikgU3RyaW5nIHRvcGljCiAgICApIHsKICAgICAgICB0aGlzLnVzZURjb3NEaXNjb3ZlcnkgPSB1c2VEY29zRGlzY292ZXJ5OwogICAgICAgIHRoaXMuc2luZ2xlQ2x1c3RlckNvbnRhY3RQb2ludCA9IHNpbmdsZUNsdXN0ZXJDb250YWN0UG9pbnQ7CiAgICAgICAgdGhpcy5jbHVzdGVyTmFtZSA9IGNsdXN0ZXJOYW1lOwogICAgICAgIHRoaXMuY29uc3VtZXJHcm91cCA9IGNvbnN1bWVyR3JvdXA7CiAgICAgICAgdGhpcy50b3BpYyA9IHRvcGljOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jb21tb24udXRpbHMuU3RhdHNFczsK</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5rY2MuZGIuRGJGYWN0b3J5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jb21tb24uZWxhc3RpY3NlYXJjaC5tb2RlbC5PdXRnb2luZ1N0YXRzOwo=</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5rY2MuZGIuRGJGYWN0b3J5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jb21tb24uZWxhc3RpY3NlYXJjaC5tb2RlbC5PdXRnb2luZ0Fzc2V0Owo=</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5rY2MuZGIuRGJGYWN0b3J5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jb21tb24uZWxhc3RpY3NlYXJjaC5tb2RlbC5FbGFzdGljQ2hhcnRzOwo=</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5rY2MuZGIuRGJGYWN0b3J5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFnZW50LmRhdGEuc3RydWN0dXJlLnN0YXRzLkFsZXJ0Owo=</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5rY2MuZGIuRGJGYWN0b3J5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFnZW50LmRhdGEuc3RydWN0dXJlLnN0YXRzLlN0YXRzOwo=</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5rY2MuZGIuRGJGYWN0b3J5Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5rY2MuZGIuRGJGYWN0b3J5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5jb21tb24udXRpbHMuQ29uc3VtZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5rY2MuZGIuRGJGYWN0b3J5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5rY2MuZGIuRGJGYWN0b3J5Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>52,56d</text>
       </register>
     </registers>
     <search>
-      <last-search>wait-for</last-search>
+      <last-search>dependencies</last-search>
       <last-offset />
-      <last-pattern>wait-for</last-pattern>
+      <last-pattern>dependencies</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -938,9 +848,11 @@
         <entry>common</entry>
         <entry encoding="base64">PGRlcGVuZGVuY2llcw==</entry>
         <entry>lombok</entry>
-        <entry>connector</entry>
         <entry>stats</entry>
         <entry>wait-for</entry>
+        <entry>connector</entry>
+        <entry>unregistrationFactory</entry>
+        <entry>dependencies</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prod/dev/</entry>
@@ -963,6 +875,7 @@
         <entry>13,17y</entry>
         <entry>20,31y</entry>
         <entry>q</entry>
+        <entry>52,56d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
