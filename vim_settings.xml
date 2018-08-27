@@ -223,12 +223,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1535372790912">
+      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1535374409439">
         <mark key="'" line="113" column="52" />
-        <mark key="[" line="88" column="38" />
-        <mark key="]" line="88" column="38" />
-        <mark key="." line="88" column="38" />
-        <mark key="^" line="88" column="33" />
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/factory/impl/ChartsConsumerFactoryImpl.java" timestamp="1535365652259">
         <mark key="[" line="6" column="0" />
@@ -1034,10 +1034,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>prod</text>
+        <text>sh -L 8000:localhost:80 azureuser@gvc-us-prod-master.westus.cloudapp.azure.com -p 2200</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>sh -L 8000:localhost:80 azureuser@gvc-us-prod-master.westus.cloudapp.azure.com -p 2200</text>
       </register>
       <register name="/" type="4">
         <text>gvc-us-prod</text>
