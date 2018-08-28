@@ -51,6 +51,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/ansible.cfg" timestamp="1535439279258">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/impl/ChartsEsImpl.java" timestamp="1535096317177">
         <mark key="'" line="35" column="24" />
         <mark key="[" line="10" column="0" />
@@ -237,6 +243,11 @@
         <mark key="^" line="149" column="7" />
         <mark key="." line="144" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/echo_test.yml" timestamp="1535439060496">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/hosts" timestamp="1535378793487">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -314,6 +325,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/ssh.cfg" timestamp="1535439097873">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-user-data/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1535364341619">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -341,11 +358,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/us-orbital-dev/ssh.cfg" timestamp="1535379560844">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/us-orbital-dev/ssh.cfg" timestamp="1535438617858">
         <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="5" />
-        <mark key="^" line="3" column="48" />
-        <mark key="." line="7" column="5" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/UnregistrationNVImpl.java" timestamp="1535362535938">
         <mark key="'" line="0" column="28" />
@@ -779,7 +796,7 @@
         <text encoding="base64">ICAgICAgICA8bW9kdWxlPmNvbm5lY3Rvci1henVyZS1ibG9iPC9tb2R1bGU+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>52,56d</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -833,8 +850,8 @@
         <entry>33,36y</entry>
         <entry>13,17y</entry>
         <entry>20,31y</entry>
-        <entry>q</entry>
         <entry>52,56d</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
