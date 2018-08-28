@@ -46,11 +46,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/ansible.cfg" timestamp="1535439983379">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/GenericConsumerFactoryImpl.java" timestamp="1535034873231">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -68,6 +63,12 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/us-dev/hosts" timestamp="1535379427936" />
+      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1535454058152">
+        <mark key="[" line="53" column="42" />
+        <mark key="]" line="53" column="44" />
+        <mark key="." line="53" column="44" />
+        <mark key="^" line="53" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1535366257833">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -257,8 +258,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1535374409439">
-        <mark key="'" line="113" column="52" />
+      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1535454597569">
+        <mark key="'" line="47" column="17" />
         <mark key="[" line="7" column="1" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -599,14 +600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
-      <jump line="72" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
-      <jump line="61" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" />
-      <jump line="89" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" />
-      <jump line="31" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/impl/RemovalEsKfMessage.java" />
-      <jump line="37" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-stats/pom.xml" />
-      <jump line="204" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
-      <jump line="150" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
       <jump line="156" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
       <jump line="144" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
       <jump line="31" column="56" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
@@ -699,16 +692,24 @@
       <jump line="127" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/nginx-proxy/us-dev/config/nginx.conf" />
       <jump line="128" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/nginx-proxy/us-dev/config/nginx.conf" />
       <jump line="150" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/nginx-proxy/us-dev/config/nginx.conf" />
+      <jump line="125" column="44" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="136" column="12" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="138" column="122" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="139" column="60" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="188" column="53" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="250" column="76" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="45" column="2" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="47" column="17" filename="$USER_HOME$/Documents/dev-commands.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>orbitaldev.azurecr.io</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>orbitaldev.azurecr.io</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>orbitaldev</text>
+        <text>storage</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">b3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSA=</text>
@@ -745,9 +746,9 @@
       </register>
     </registers>
     <search>
-      <last-search>orbitaldev</last-search>
+      <last-search>storage</last-search>
       <last-offset />
-      <last-pattern>orbitaldev</last-pattern>
+      <last-pattern>storage</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -778,6 +779,7 @@
         <entry>dev</entry>
         <entry>gvcdev</entry>
         <entry>orbitaldev</entry>
+        <entry>storage</entry>
       </history-search>
       <history-cmd>
         <entry>24,28y</entry>
