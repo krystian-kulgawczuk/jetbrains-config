@@ -63,11 +63,11 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/us-dev/hosts" timestamp="1535379427936" />
-      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1535454058152">
-        <mark key="[" line="53" column="42" />
-        <mark key="]" line="53" column="44" />
-        <mark key="." line="53" column="44" />
-        <mark key="^" line="53" column="44" />
+      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1535461854721">
+        <mark key="[" line="49" column="59" />
+        <mark key="]" line="49" column="65" />
+        <mark key="." line="49" column="65" />
+        <mark key="^" line="49" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1535366257833">
         <mark key="[" line="23" column="0" />
@@ -704,11 +704,11 @@
       <jump line="699" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIG9yZ2FuaXphdGlvbi5zdXBwb3J0X2NhcGFibGVfdXNlcihidWNrZXQsdXNlcm5hbWUpIFZBTFVFUyAoMSwnbWFyY2luLm1pbGV3c2tpQGFjYWlzb2Z0LmNvbScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>gvc</text>
       </register>
       <register name="-" type="4">
-        <text>milewski</text>
+        <text>gvc</text>
       </register>
       <register name="/" type="4">
         <text>azure_sas</text>
@@ -717,31 +717,31 @@
         <text encoding="base64">b3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIG9yZ2FuaXphdGlvbi5zdXBwb3J0X2NhcGFibGVfdXNlcihidWNrZXQsdXNlcm5hbWUpIFZBTFVFUyAoMSwnbWFyY2luLm1pbGV3c2tpQGFjYWlzb2Z0LmNvbScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVQREFURSBvcmdhbml6YXRpb24udXNlciBTRVQgYXNzaWduZWRfb3JnYW5pemF0aW9ucyA9IHsnc3RvcmFnZXN1cHBvcnQnOnsnU1BfQ1JFQVRFJ319IFdIRVJFIGJ1Y2tldCA9IDIgYW5kIHVzZXJuYW1lID0gJ2tyeXN0aWFuLmt1bGdhd2N6dWtAYWNhaXNvZnQuY29tJzsK</text>
+        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIG9yZ2FuaXphdGlvbi5zdXBwb3J0X2NhcGFibGVfdXNlcihidWNrZXQsdXNlcm5hbWUpIFZBTFVFUyAoMSwnbWFyY2luLm1pbGV3c2tpQGFjYWlzb2Z0LmNvbScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIG9yZ2FuaXphdGlvbi5vcmdhbml6YXRpb24oYnVja2V0LHN1YmRvbWFpbixkZXNjcmlwdGlvbixuYW1lLHVzZXJzX3JvbGVzKSBWQUxVRVMgKDIsJ3N0b3JhZ2VzdXBwb3J0JyxudWxsLCdzdG9yYWdlLXN1cHBvcnQnLHsna3J5c3RpYW4ua3VsZ2F3Y3p1a0BhY2Fpc29mdC5jb20nOnsnU1BfQ1JFQVRFJywnU1BfU1VQUE9SVF9DQVBBQkxFJ319KTsK</text>
+        <text encoding="base64">ICAgIFVQREFURSBvcmdhbml6YXRpb24udXNlciBTRVQgYXNzaWduZWRfb3JnYW5pemF0aW9ucyA9IHsnc3RvcmFnZXN1cHBvcnQnOnsnU1BfQ1JFQVRFJ319IFdIRVJFIGJ1Y2tldCA9IDIgYW5kIHVzZXJuYW1lID0gJ2tyeXN0aWFuLmt1bGdhd2N6dWtAYWNhaXNvZnQuY29tJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSAK</text>
+        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIG9yZ2FuaXphdGlvbi5vcmdhbml6YXRpb24oYnVja2V0LHN1YmRvbWFpbixkZXNjcmlwdGlvbixuYW1lLHVzZXJzX3JvbGVzKSBWQUxVRVMgKDIsJ3N0b3JhZ2VzdXBwb3J0JyxudWxsLCdzdG9yYWdlLXN1cHBvcnQnLHsna3J5c3RpYW4ua3VsZ2F3Y3p1a0BhY2Fpc29mdC5jb20nOnsnU1BfQ1JFQVRFJywnU1BfU1VQUE9SVF9DQVBBQkxFJ319KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTAuMC4wLjEyCg==</text>
+        <text encoding="base64">ICAgICAgb3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTAuMC4wLjExCg==</text>
+        <text encoding="base64">MTAuMC4wLjEyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MTAuMC4wLjEwCg==</text>
+        <text encoding="base64">MTAuMC4wLjExCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTAuMC4wLjQK</text>
+        <text encoding="base64">MTAuMC4wLjEwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MTAuMC4wLjUK</text>
+        <text encoding="base64">MTAuMC4wLjQK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
