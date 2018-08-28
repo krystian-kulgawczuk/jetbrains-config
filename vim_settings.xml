@@ -63,11 +63,11 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/us-dev/hosts" timestamp="1535379427936" />
-      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1535463215069">
-        <mark key="[" line="216" column="62" />
-        <mark key="]" line="216" column="63" />
-        <mark key="." line="216" column="63" />
-        <mark key="^" line="216" column="193" />
+      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1535465479183">
+        <mark key="[" line="217" column="24" />
+        <mark key="]" line="217" column="24" />
+        <mark key="." line="217" column="24" />
+        <mark key="^" line="217" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1535366257833">
         <mark key="[" line="23" column="0" />
@@ -126,6 +126,7 @@
         <mark key="^" line="17" column="35" />
         <mark key="." line="17" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/deploy/marathon.json" timestamp="1535465711539" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" timestamp="1535366680443">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="166" column="0" />
@@ -160,7 +161,7 @@
         <mark key="^" line="12" column="63" />
         <mark key="." line="12" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/resources/application-us-dev.properties" timestamp="1535461977617" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/resources/application-us-dev.properties" timestamp="1535465557753" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/pom.xml" timestamp="1535360642433">
         <mark key="[" line="29" column="21" />
         <mark key="]" line="33" column="20" />
@@ -405,6 +406,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" timestamp="1535465872102">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+        <mark key="^" line="26" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/charts/impl/KfMessageCharts.java" timestamp="1535093912643">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -474,8 +482,8 @@
         <mark key="^" line="24" column="54" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1535354525640">
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1535465217215">
+        <mark key="[" line="45" column="106" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="0" />
@@ -603,15 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Alert.java" />
-      <jump line="0" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/UnregistrationNVImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" />
-      <jump line="24" column="9" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" />
-      <jump line="86" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" />
-      <jump line="78" column="49" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" />
-      <jump line="81" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" />
-      <jump line="84" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" />
-      <jump line="9" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" />
       <jump line="23" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
       <jump line="85" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
       <jump line="61" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
@@ -703,16 +702,25 @@
       <jump line="15" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="542" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="699" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="8" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
+      <jump line="15" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
+      <jump line="21" column="40" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
+      <jump line="61" column="5" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
+      <jump line="52" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
+      <jump line="57" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
+      <jump line="50" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLWUgJ3MvcG9ydGFsXC5hcHBcLmF6dXJlXC5zdG9yYWdlXC5hY2NvdW50XC5kaWFnbm9zdGljXC5jb250YWluZXJcLm5hbWU9LiovcG9ydGFsXC5hcHBcLmF6dXJlXC5zdG9yYWdlXC5hY2NvdW50XC5kaWFnbm9zdGljXC5jb250YWluZXJcLm5hbWU9b3JiaXRhbC1kaWFnbm9zdGljcy11cGxvYWQvZycgXAo=</text>
+      <register name="&quot;" type="4">
+        <text>gvcdev</text>
       </register>
       <register name="-" type="4">
-        <text>portal.app.azure.storage.account.name=orbitalusdevcool</text>
+        <text>gvcdev</text>
       </register>
       <register name="/" type="4">
-        <text>azure_sas</text>
+        <text>gvc</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">b3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSA=</text>
@@ -749,9 +757,9 @@
       </register>
     </registers>
     <search>
-      <last-search>azure_sas</last-search>
+      <last-search>gvc</last-search>
       <last-offset />
-      <last-pattern>azure_sas</last-pattern>
+      <last-pattern>gvc</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -784,6 +792,8 @@
         <entry>orbitaldev</entry>
         <entry>storage</entry>
         <entry>azure_sas</entry>
+        <entry>azure.storage</entry>
+        <entry>gvc</entry>
       </history-search>
       <history-cmd>
         <entry>24,28y</entry>
