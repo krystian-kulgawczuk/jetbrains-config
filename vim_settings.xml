@@ -63,11 +63,11 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/us-dev/hosts" timestamp="1535379427936" />
-      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1535461854721">
-        <mark key="[" line="49" column="59" />
-        <mark key="]" line="49" column="65" />
-        <mark key="." line="49" column="65" />
-        <mark key="^" line="49" column="65" />
+      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1535463215069">
+        <mark key="[" line="216" column="62" />
+        <mark key="]" line="216" column="63" />
+        <mark key="." line="216" column="63" />
+        <mark key="^" line="216" column="193" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1535366257833">
         <mark key="[" line="23" column="0" />
@@ -160,6 +160,7 @@
         <mark key="^" line="12" column="63" />
         <mark key="." line="12" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/resources/application-us-dev.properties" timestamp="1535461977617" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/pom.xml" timestamp="1535360642433">
         <mark key="[" line="29" column="21" />
         <mark key="]" line="33" column="20" />
@@ -704,11 +705,11 @@
       <jump line="699" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gvc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLWUgJ3MvcG9ydGFsXC5hcHBcLmF6dXJlXC5zdG9yYWdlXC5hY2NvdW50XC5kaWFnbm9zdGljXC5jb250YWluZXJcLm5hbWU9LiovcG9ydGFsXC5hcHBcLmF6dXJlXC5zdG9yYWdlXC5hY2NvdW50XC5kaWFnbm9zdGljXC5jb250YWluZXJcLm5hbWU9b3JiaXRhbC1kaWFnbm9zdGljcy11cGxvYWQvZycgXAo=</text>
       </register>
       <register name="-" type="4">
-        <text>gvc</text>
+        <text>portal.app.azure.storage.account.name=orbitalusdevcool</text>
       </register>
       <register name="/" type="4">
         <text>azure_sas</text>
@@ -717,31 +718,31 @@
         <text encoding="base64">b3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLWUgJ3MvcG9ydGFsXC5hcHBcLmF6dXJlXC5zdG9yYWdlXC5hY2NvdW50XC5kaWFnbm9zdGljXC5jb250YWluZXJcLm5hbWU9LiovcG9ydGFsXC5hcHBcLmF6dXJlXC5zdG9yYWdlXC5hY2NvdW50XC5kaWFnbm9zdGljXC5jb250YWluZXJcLm5hbWU9b3JiaXRhbC1kaWFnbm9zdGljcy11cGxvYWQvZycgXAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIG9yZ2FuaXphdGlvbi5zdXBwb3J0X2NhcGFibGVfdXNlcihidWNrZXQsdXNlcm5hbWUpIFZBTFVFUyAoMSwnbWFyY2luLm1pbGV3c2tpQGFjYWlzb2Z0LmNvbScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLWUgJ3MvcG9ydGFsXC5hcHBcLmF6dXJlXC5zdG9yYWdlXC5hY2NvdW50XC5maXJtd2FyZVwuY29udGFpbmVyXC5uYW1lPS4qL3BvcnRhbFwuYXBwXC5henVyZVwuc3RvcmFnZVwuYWNjb3VudFwuZmlybXdhcmVcLmNvbnRhaW5lclwubmFtZT1vcmJpdGFsLXNvZnR3YXJlLXVwZ3JhZGUvZycgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFVQREFURSBvcmdhbml6YXRpb24udXNlciBTRVQgYXNzaWduZWRfb3JnYW5pemF0aW9ucyA9IHsnc3RvcmFnZXN1cHBvcnQnOnsnU1BfQ1JFQVRFJ319IFdIRVJFIGJ1Y2tldCA9IDIgYW5kIHVzZXJuYW1lID0gJ2tyeXN0aWFuLmt1bGdhd2N6dWtAYWNhaXNvZnQuY29tJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIG9yZ2FuaXphdGlvbi5vcmdhbml6YXRpb24oYnVja2V0LHN1YmRvbWFpbixkZXNjcmlwdGlvbixuYW1lLHVzZXJzX3JvbGVzKSBWQUxVRVMgKDIsJ3N0b3JhZ2VzdXBwb3J0JyxudWxsLCdzdG9yYWdlLXN1cHBvcnQnLHsna3J5c3RpYW4ua3VsZ2F3Y3p1a0BhY2Fpc29mdC5jb20nOnsnU1BfQ1JFQVRFJywnU1BfU1VQUE9SVF9DQVBBQkxFJ319KTsK</text>
+        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIG9yZ2FuaXphdGlvbi5zdXBwb3J0X2NhcGFibGVfdXNlcihidWNrZXQsdXNlcm5hbWUpIFZBTFVFUyAoMSwnbWFyY2luLm1pbGV3c2tpQGFjYWlzb2Z0LmNvbScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSAK</text>
+        <text encoding="base64">ICAgIFVQREFURSBvcmdhbml6YXRpb24udXNlciBTRVQgYXNzaWduZWRfb3JnYW5pemF0aW9ucyA9IHsnc3RvcmFnZXN1cHBvcnQnOnsnU1BfQ1JFQVRFJ319IFdIRVJFIGJ1Y2tldCA9IDIgYW5kIHVzZXJuYW1lID0gJ2tyeXN0aWFuLmt1bGdhd2N6dWtAYWNhaXNvZnQuY29tJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTAuMC4wLjEyCg==</text>
+        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIG9yZ2FuaXphdGlvbi5vcmdhbml6YXRpb24oYnVja2V0LHN1YmRvbWFpbixkZXNjcmlwdGlvbixuYW1lLHVzZXJzX3JvbGVzKSBWQUxVRVMgKDIsJ3N0b3JhZ2VzdXBwb3J0JyxudWxsLCdzdG9yYWdlLXN1cHBvcnQnLHsna3J5c3RpYW4ua3VsZ2F3Y3p1a0BhY2Fpc29mdC5jb20nOnsnU1BfQ1JFQVRFJywnU1BfU1VQUE9SVF9DQVBBQkxFJ319KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MTAuMC4wLjExCg==</text>
+        <text encoding="base64">ICAgICAgb3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTAuMC4wLjEwCg==</text>
+        <text encoding="base64">MTAuMC4wLjEyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MTAuMC4wLjQK</text>
+        <text encoding="base64">MTAuMC4wLjExCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
