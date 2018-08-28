@@ -133,6 +133,9 @@
         <mark key="^" line="162" column="46" />
         <mark key="." line="166" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1535459862153">
+        <mark key="'" line="699" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/RemovalConsumerFactoryImpl.java" timestamp="1535308055380">
         <mark key="'" line="13" column="120" />
         <mark key="[" line="14" column="38" />
@@ -258,12 +261,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1535457851243">
+      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1535460633714">
         <mark key="'" line="47" column="17" />
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+        <mark key="[" line="115" column="208" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/RemovalEsFactoryImpl.java" timestamp="1535028491443">
         <mark key="[" line="15" column="8" />
@@ -600,9 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
-      <jump line="144" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
-      <jump line="31" column="56" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
       <jump line="0" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Alert.java" />
       <jump line="0" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/UnregistrationNVImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" />
@@ -700,55 +699,58 @@
       <jump line="250" column="76" filename="$USER_HOME$/Documents/dev-commands.md" />
       <jump line="45" column="2" filename="$USER_HOME$/Documents/dev-commands.md" />
       <jump line="47" column="17" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="15" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="542" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="699" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIG9yZ2FuaXphdGlvbi5zdXBwb3J0X2NhcGFibGVfdXNlcihidWNrZXQsdXNlcm5hbWUpIFZBTFVFUyAoMSwnbWFyY2luLm1pbGV3c2tpQGFjYWlzb2Z0LmNvbScpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>milewski</text>
       </register>
       <register name="/" type="4">
-        <text>storage</text>
+        <text>azure_sas</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">b3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgb3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSAK</text>
+        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIG9yZ2FuaXphdGlvbi5zdXBwb3J0X2NhcGFibGVfdXNlcihidWNrZXQsdXNlcm5hbWUpIFZBTFVFUyAoMSwnbWFyY2luLm1pbGV3c2tpQGFjYWlzb2Z0LmNvbScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTAuMC4wLjEyCg==</text>
+        <text encoding="base64">ICAgIFVQREFURSBvcmdhbml6YXRpb24udXNlciBTRVQgYXNzaWduZWRfb3JnYW5pemF0aW9ucyA9IHsnc3RvcmFnZXN1cHBvcnQnOnsnU1BfQ1JFQVRFJ319IFdIRVJFIGJ1Y2tldCA9IDIgYW5kIHVzZXJuYW1lID0gJ2tyeXN0aWFuLmt1bGdhd2N6dWtAYWNhaXNvZnQuY29tJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTAuMC4wLjExCg==</text>
+        <text encoding="base64">ICAgIElOU0VSVCBJTlRPIG9yZ2FuaXphdGlvbi5vcmdhbml6YXRpb24oYnVja2V0LHN1YmRvbWFpbixkZXNjcmlwdGlvbixuYW1lLHVzZXJzX3JvbGVzKSBWQUxVRVMgKDIsJ3N0b3JhZ2VzdXBwb3J0JyxudWxsLCdzdG9yYWdlLXN1cHBvcnQnLHsna3J5c3RpYW4ua3VsZ2F3Y3p1a0BhY2Fpc29mdC5jb20nOnsnU1BfQ1JFQVRFJywnU1BfU1VQUE9SVF9DQVBBQkxFJ319KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTAuMC4wLjEwCg==</text>
+        <text encoding="base64">ICAgICAgb3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTAuMC4wLjQK</text>
+        <text encoding="base64">MTAuMC4wLjEyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTAuMC4wLjUK</text>
+        <text encoding="base64">MTAuMC4wLjExCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MTAuMC4wLjYK</text>
+        <text encoding="base64">MTAuMC4wLjEwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTAuMC4wLjcK</text>
+        <text encoding="base64">MTAuMC4wLjQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MTAuMC4wLjgK</text>
+        <text encoding="base64">MTAuMC4wLjUK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>storage</last-search>
+      <last-search>azure_sas</last-search>
       <last-offset />
-      <last-pattern>storage</last-pattern>
+      <last-pattern>azure_sas</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -780,6 +782,7 @@
         <entry>gvcdev</entry>
         <entry>orbitaldev</entry>
         <entry>storage</entry>
+        <entry>azure_sas</entry>
       </history-search>
       <history-cmd>
         <entry>24,28y</entry>
