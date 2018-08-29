@@ -23,6 +23,12 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/src/main/resources/application-us-dev.properties" timestamp="1535537955109">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="24" column="52" />
+        <mark key="^" line="24" column="52" />
+        <mark key="." line="24" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcs/model/message/impl/KfMessageStats.java" timestamp="1535120114120">
         <mark key="'" line="103" column="15" />
         <mark key="[" line="57" column="12" />
@@ -382,6 +388,9 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" timestamp="1535538509569">
+        <mark key="'" line="0" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/.gitignore" timestamp="1535532244924">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -416,6 +425,9 @@
         <mark key="]" line="26" column="40" />
         <mark key="." line="26" column="40" />
         <mark key="^" line="26" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" timestamp="1535537009564">
+        <mark key="[" line="147" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/charts/impl/KfMessageCharts.java" timestamp="1535093912643">
         <mark key="[" line="8" column="0" />
@@ -485,7 +497,7 @@
         <mark key="^" line="24" column="54" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1535465217215">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1535537328289">
         <mark key="[" line="45" column="106" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -574,6 +586,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/resources/application-us-dev.properties" timestamp="1535537936336">
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="28" column="47" />
+        <mark key="^" line="28" column="47" />
+        <mark key="." line="28" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/view/stats/controller/StatsController.java" timestamp="1535106278653">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -620,7 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
       <jump line="85" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
       <jump line="61" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
       <jump line="86" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
@@ -720,6 +737,7 @@
       <jump line="57" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
       <jump line="50" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
+      <jump line="0" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
