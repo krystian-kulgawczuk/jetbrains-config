@@ -221,12 +221,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-analytics/pom.xml" timestamp="1535366744145">
-        <mark key="'" line="12" column="46" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="149" column="7" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-analytics/pom.xml" timestamp="1535540401647">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="^" line="143" column="7" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/echo_test.yml" timestamp="1535439060496">
         <mark key="[" line="3" column="15" />
@@ -643,8 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" />
-      <jump line="61" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
       <jump line="86" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-analytics/pom.xml" />
       <jump line="25" column="9" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-analytics/pom.xml" />
@@ -743,6 +740,8 @@
       <jump line="50" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
       <jump line="0" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" />
+      <jump line="53" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-analytics/pom.xml" />
+      <jump line="134" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-analytics/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -752,7 +751,7 @@
         <text>clean install</text>
       </register>
       <register name="/" type="4">
-        <text>gvc</text>
+        <text>elastic</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">b3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSA=</text>
@@ -789,9 +788,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gvc</last-search>
+      <last-search>elastic</last-search>
       <last-offset />
-      <last-pattern>gvc</last-pattern>
+      <last-pattern>elastic</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -819,6 +818,7 @@
         <entry>azure_sas</entry>
         <entry>azure.storage</entry>
         <entry>gvc</entry>
+        <entry>elastic</entry>
       </history-search>
       <history-cmd>
         <entry>24,28y</entry>
