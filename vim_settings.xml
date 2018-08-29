@@ -63,11 +63,11 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/us-dev/hosts" timestamp="1535379427936" />
-      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1535465479183">
-        <mark key="[" line="217" column="24" />
-        <mark key="]" line="217" column="24" />
-        <mark key="." line="217" column="24" />
-        <mark key="^" line="217" column="24" />
+      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1535527383669">
+        <mark key="[" line="224" column="55" />
+        <mark key="]" line="211" column="32" />
+        <mark key="." line="211" column="32" />
+        <mark key="^" line="211" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1535366257833">
         <mark key="[" line="23" column="0" />
@@ -194,7 +194,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1535525630222">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1535527359110">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
@@ -236,6 +236,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/build.sh" timestamp="1535528023968">
+        <mark key="[" line="2" column="66" />
+        <mark key="]" line="2" column="65" />
+        <mark key="^" line="2" column="65" />
+        <mark key="." line="2" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-removal/src/main/java/portal/ker/model/impl/RemovalEsKfMessage.java" timestamp="1535365267991">
         <mark key="[" line="10" column="0" />
@@ -715,10 +721,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>se</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>se</text>
       </register>
       <register name="/" type="4">
         <text>gvc</text>
