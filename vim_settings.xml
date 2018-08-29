@@ -18,6 +18,11 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_chronos.py" timestamp="1535533440004">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcs/model/message/impl/KfMessageStats.java" timestamp="1535120114120">
         <mark key="'" line="103" column="15" />
         <mark key="[" line="57" column="12" />
@@ -134,6 +139,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1535459862153">
         <mark key="'" line="699" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/pom.xml" timestamp="1535534633806" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/RemovalConsumerFactoryImpl.java" timestamp="1535308055380">
         <mark key="'" line="13" column="120" />
         <mark key="[" line="14" column="38" />
@@ -522,6 +528,7 @@
         <mark key="." line="110" column="631" />
         <mark key="^" line="110" column="631" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/pom.xml" timestamp="1535533992099" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/factory/impl/ChartsMessageFactoryImpl.java" timestamp="1535366464536">
         <mark key="'" line="0" column="27" />
         <mark key="[" line="23" column="80" />
@@ -552,7 +559,7 @@
         <mark key="^" line="21" column="7" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535532555731">
+      <file name="/Dummy.txt" timestamp="1535534080811">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -599,6 +606,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/pom.xml" timestamp="1535533832326">
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/copy_docker_credentials.yml" timestamp="1535446616782">
         <mark key="[" line="3" column="15" />
@@ -710,11 +722,11 @@
       <jump line="62" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain-ui/web/src/app/shared/constants.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmthZmthLWNvbW1vbnM8L21vZHVsZT4K</text>
+      <register name="&quot;" type="4">
+        <text>clean install</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>clean install</text>
       </register>
       <register name="/" type="4">
         <text>gvc</text>
