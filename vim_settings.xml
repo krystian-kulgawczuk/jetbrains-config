@@ -4,8 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/impl/ChartsEsConsumerInitImpl.java" timestamp="1535630620996" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/StatsEsImpl.java" timestamp="1535635283119" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/impl/StatsEsImpl.java" timestamp="1535633107649">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/StatsEsImpl.java" timestamp="1535635576439">
+        <mark key="'" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/impl/StatsEsImpl.java" timestamp="1535636146894">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -95,7 +97,7 @@
         <mark key="'" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-removal/src/main/java/portal/ker/KafkaElasticsearchRemovalApp.java" timestamp="1535632697594" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/model/impl/StatsKfMessage.java" timestamp="1535633609708">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/model/impl/StatsKfMessage.java" timestamp="1535636586150">
         <mark key="'" line="30" column="68" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -125,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/factory/impl/ChartsEsFactoryImpl.java" />
       <jump line="15" column="50" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/factory/impl/ChartsEsFactoryImpl.java" />
       <jump line="0" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-stats/src/main/java/portal/backup/model/impl/MessageFactoryImpl.java" />
       <jump line="0" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/factory/impl/ChartsMessageFactoryImpl.java" />
@@ -225,6 +226,7 @@
       <jump line="7" column="9" filename="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/StatsEs.java" />
       <jump line="30" column="68" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/model/impl/StatsKfMessage.java" />
       <jump line="0" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
+      <jump line="0" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/StatsEsImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
