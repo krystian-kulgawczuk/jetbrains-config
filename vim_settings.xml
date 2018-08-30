@@ -26,7 +26,7 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_chronos.py" timestamp="1535547881425">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_chronos.py" timestamp="1535613665272">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -331,7 +331,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" timestamp="1535546824972">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" timestamp="1535613456763">
+        <mark key="'" line="18" column="41" />
+        <mark key="[" line="90" column="21" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
@@ -414,11 +416,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" timestamp="1535545871533">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/config/CassandraConfig.java" timestamp="1535613387453">
         <mark key="'" line="0" column="27" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/pom.xml" timestamp="1535539195269">
         <mark key="[" line="137" column="0" />
@@ -481,7 +483,9 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/src/main/java/portal/diagnostics/upload/UploadMonitorApp.java" timestamp="1535544244130" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/src/main/java/portal/diagnostics/upload/UploadMonitorApp.java" timestamp="1535613418596">
+        <mark key="[" line="11" column="75" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/resources/application-us-dev.properties.encrypted" timestamp="1535549620449" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1535543509605">
         <mark key="[" line="45" column="106" />
@@ -605,13 +609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-user-data/pom.xml" />
-      <jump line="15" column="47" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/pom.xml" />
-      <jump line="23" column="9" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/pom.xml" />
-      <jump line="85" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/pom.xml" />
-      <jump line="88" column="5" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/pom.xml" />
-      <jump line="0" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/src/main/java/portal/kcs/model/factory/impl/MessageFactoryImpl.java" />
-      <jump line="0" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-removal/src/main/java/portal/ker/factory/impl/RemovalCassandraMessageFactoryImpl.java" />
       <jump line="13" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-removal/pom.xml" />
       <jump line="25" column="9" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-removal/pom.xml" />
       <jump line="93" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-removal/pom.xml" />
@@ -705,6 +702,13 @@
       <jump line="48" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" />
       <jump line="22" column="51" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" />
       <jump line="123" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" />
+      <jump line="141" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
+      <jump line="153" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
+      <jump line="156" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
+      <jump line="157" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
+      <jump line="160" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
+      <jump line="161" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
+      <jump line="18" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -714,46 +718,46 @@
         <text>python3</text>
       </register>
       <register name="/" type="4">
-        <text>regular</text>
+        <text>schema</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">b3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLkVuYWJsZUF1dG9Db25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29ubmVjdG9yLWNhc3NhbmRyYTwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRlbGwuc29mdHdhcmUuZGF0YXByb3RlY3Rpb248L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29ubmVjdG9yLWNhc3NhbmRyYTwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRlbGwuc29mdHdhcmUuZGF0YXByb3RlY3Rpb248L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>regular</last-search>
+      <last-search>schema</last-search>
       <last-offset />
-      <last-pattern>regular</last-pattern>
+      <last-pattern>schema</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -783,9 +787,9 @@
         <entry>elastic</entry>
         <entry>connector</entry>
         <entry>data</entry>
+        <entry>regular</entry>
         <entry>cassandra</entry>
         <entry>schema</entry>
-        <entry>regular</entry>
       </history-search>
       <history-cmd>
         <entry>24,28y</entry>
