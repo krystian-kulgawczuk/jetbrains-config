@@ -16,6 +16,9 @@
       <file name="$USER_HOME$/Projects/connector-cassandra/build.sh" timestamp="1535709826089">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/connector-cassandra/Jenkinsfile.groovy" timestamp="1535710077906">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1535542432833">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,6 +94,12 @@
         <mark key="]" line="216" column="105" />
         <mark key="." line="216" column="105" />
         <mark key="^" line="211" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/connector-cassandra/Makefile" timestamp="1535710218570">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1535366257833">
         <mark key="[" line="23" column="0" />
@@ -428,7 +437,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Makefile" timestamp="1535709379506" />
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Makefile" timestamp="1535710246265" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-stats/src/main/java/portal/backup/factory/impl/BackupStatsConsumerFactoryImpl.java" timestamp="1535364108812">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -629,6 +638,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/DbFactoryImpl.java" timestamp="1535702516633">
         <mark key="[" line="14" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1535710071927" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kes/model/KfMessageStats.java" timestamp="1534934940339">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -757,11 +767,11 @@
       <jump line="238" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gvc</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>gvc</text>
       </register>
       <register name="/" type="4">
         <text>commons</text>
