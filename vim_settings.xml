@@ -13,6 +13,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/Makefile" timestamp="1535710502219">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/connector-cassandra/build.sh" timestamp="1535709826089">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,6 +94,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/Jenkinsfile.groovy" timestamp="1535710523593">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/gvc.md" timestamp="1535624239308">
         <mark key="[" line="216" column="105" />
@@ -275,6 +287,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/build.sh" timestamp="1535710389990">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/build.sh" timestamp="1535531846555">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="5" column="0" />
@@ -437,7 +452,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Makefile" timestamp="1535710246265" />
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Makefile" timestamp="1535710423157" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-stats/src/main/java/portal/backup/factory/impl/BackupStatsConsumerFactoryImpl.java" timestamp="1535364108812">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -638,7 +653,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/DbFactoryImpl.java" timestamp="1535702516633">
         <mark key="[" line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1535710071927" />
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1535710572317" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kes/model/KfMessageStats.java" timestamp="1534934940339">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -767,8 +782,8 @@
       <jump line="238" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gvc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS4vc2NyaXB0cy9kZXBsb3lfbWFyYXRob24ucHkgLi9kZXBsb3kvbWFyYXRob24uanNvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>gvc</text>
@@ -780,31 +795,31 @@
         <text encoding="base64">b3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS4vc2NyaXB0cy9kZXBsb3lfbWFyYXRob24ucHkgLi9kZXBsb3kvbWFyYXRob24uanNvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vZGVwbG95IC4vc2NyaXB0cy9nZW5lcmF0ZV90ZW1wbGF0ZS5zaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0U291cmNlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBjaGFydHMgPSBjbGllbnQucHJlcGFyZUdldCgiY2hhcnRzIiwgImNoYXJ0cyIsIG91dGdvaW5nU3RhdHMuZ2V0QXNzZXRJZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0U291cmNlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2V0LmNoYXJ0cyhvdXRnb2luZ0NoYXJ0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBjaGFydHMgPSBjbGllbnQucHJlcGFyZUdldCgiY2hhcnRzIiwgImNoYXJ0cyIsIG91dGdvaW5nU3RhdHMuZ2V0QXNzZXRJZCgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIEVsYXN0aWNDaGFydHMgb3V0Z29pbmdDaGFydHMgPSBnc29uLmZyb21Kc29uKGdzb24udG9Kc29uKGNoYXJ0cyksIEVsYXN0aWNDaGFydHMuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNoYXJ0cyAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2V0LmNoYXJ0cyhvdXRnb2luZ0NoYXJ0cyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
