@@ -51,12 +51,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/StatsEsImpl.java" timestamp="1535635576439">
         <mark key="'" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/impl/StatsEsImpl.java" timestamp="1535699445429">
-        <mark key="'" line="50" column="32" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="45" column="27" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/impl/StatsEsImpl.java" timestamp="1535704342162">
+        <mark key="'" line="45" column="32" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-charts/src/main/java/portal/backup/model/impl/BackupChartsKfMessage.java" timestamp="1535364248171">
         <mark key="[" line="11" column="0" />
@@ -294,6 +293,12 @@
         <mark key="^" line="28" column="59" />
         <mark key="." line="28" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1535532688999">
+        <mark key="'" line="47" column="17" />
+        <mark key="[" line="115" column="208" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/RemovalEsFactoryImpl.java" timestamp="1535028491443">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="19" />
@@ -339,6 +344,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" timestamp="1535613456763">
+        <mark key="'" line="18" column="41" />
+        <mark key="[" line="90" column="21" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/consumer/factory/impl/GenericConsumerFactory.java" timestamp="1535360260370">
         <mark key="[" line="1" column="0" />
@@ -474,6 +485,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" timestamp="1535631712820">
+        <mark key="'" line="37" column="62" />
+        <mark key="[" line="143" column="21" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="37" column="62" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/mount_disks.yml" timestamp="1535441783730">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="9" column="3" />
@@ -505,13 +522,6 @@
         <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/resources/application-us-dev.properties.encrypted" timestamp="1535549620449" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1535623829101">
-        <mark key="'" line="22" column="59" />
-        <mark key="[" line="22" column="59" />
-        <mark key="]" line="22" column="65" />
-        <mark key="^" line="22" column="65" />
-        <mark key="." line="22" column="65" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/src/main/java/portal/utils/impl/KfSecureMessage.java" timestamp="1535358287167">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -755,8 +765,8 @@
       <jump line="238" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -768,31 +778,31 @@
         <text encoding="base64">b3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImNoYXJ0czoiICsgY2hhcnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0U291cmNlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBPdXRnb2luZ1N0YXRzIG91dGdvaW5nU3RhdHMgPSBuZXcgT3V0Z29pbmdTdGF0cyhzdGF0cyk7CiAgICAgICAgSW5kZXhSZXNwb25zZSBzdGF0c0luZGV4UmVzcG9uc2U9IGNsaWVudC5wcmVwYXJlSW5kZXgoInN0YXRzIiwgInN0YXRzIiwgb3V0Z29pbmdTdGF0cy5nZXRBc3NldElkKCkpCiAgICAgICAgICAgICAgICAuc2V0U291cmNlKGdzb24udG9Kc29uKG91dGdvaW5nU3RhdHMpKQogICAgICAgICAgICAgICAgLmdldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihtZXNzYWdlLCBleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBjaGFydHMgPSBjbGllbnQucHJlcGFyZUdldCgiY2hhcnRzIiwgImNoYXJ0cyIsIG91dGdvaW5nU3RhdHMuZ2V0QXNzZXRJZCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoU3RyaW5nVXRpbHMuaXNCbGFuayhzdGF0cy5nZXRTZXJ2aWNlVGFnKCkpKXsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LnByZXBhcmVJbmRleCgiYXNzZXRzIiwgIm1haW4iLCBhc3NldC5nZXRBc3NldElkKCkpCiAgICAgICAgICAgICAgICAgICAgLnNldFNvdXJjZShnc29uLnRvSnNvbihhc3NldCkpCiAgICAgICAgICAgICAgICAgICAgLmdldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2V0LmNoYXJ0cyhvdXRnb2luZ0NoYXJ0cyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgT3V0Z29pbmdBc3NldCBhc3NldCA9IG5ldyBPdXRnb2luZ0Fzc2V0KG91dGdvaW5nU3RhdHMpOwogICAgICAgICAgICBpZiAoY2hhcnRzICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGZpbmFsIEVsYXN0aWNDaGFydHMgb3V0Z29pbmdDaGFydHMgPSBnc29uLmZyb21Kc29uKGdzb24udG9Kc29uKGNoYXJ0cyksIEVsYXN0aWNDaGFydHMuY2xhc3MpOwogICAgICAgICAgICAgICAgYXNzZXQuY2hhcnRzKG91dGdvaW5nQ2hhcnRzKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIEVsYXN0aWNDaGFydHMgb3V0Z29pbmdDaGFydHMgPSBnc29uLmZyb21Kc29uKGdzb24udG9Kc29uKGNoYXJ0cyksIEVsYXN0aWNDaGFydHMuY2xhc3MpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBjaGFydHMgPSBjbGllbnQucHJlcGFyZUdldCgiY2hhcnRzIiwgImNoYXJ0cyIsIG91dGdvaW5nU3RhdHMuZ2V0QXNzZXRJZCgpKQogICAgICAgICAgICAgICAgICAgIC5nZXQoKQogICAgICAgICAgICAgICAgICAgIC5nZXRTb3VyY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNoYXJ0cyAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
