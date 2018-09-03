@@ -89,7 +89,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-lib-connector-cassandra/pom.xml" timestamp="1535980322269">
+      <file name="$USER_HOME$/Projects/orbital-lib-connector-cassandra/pom.xml" timestamp="1535983531694">
         <mark key="'" line="191" column="22" />
         <mark key="[" line="12" column="13" />
         <mark key="]" line="37" column="47" />
@@ -364,6 +364,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/.gitignore" timestamp="1535983692517">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="102" column="38" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1535450566793">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -602,10 +608,12 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" timestamp="1535980881189">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" timestamp="1535983576862">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="117" column="12" />
+        <mark key="]" line="251" column="14" />
+        <mark key="." line="251" column="14" />
+        <mark key="^" line="251" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/us-prod/hosts" timestamp="1535442437882">
         <mark key="[" line="21" column="8" />
@@ -705,12 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" />
-      <jump line="14" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" />
-      <jump line="72" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" />
-      <jump line="84" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" />
-      <jump line="7" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/src/main/java/portal/diagnostics/upload/db/impl/DbFactoryImpl.java" />
-      <jump line="140" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" />
       <jump line="85" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" />
       <jump line="130" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" />
       <jump line="131" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" />
@@ -805,13 +807,19 @@
       <jump line="48" column="56" filename="$USER_HOME$/Projects/orbital-lib-connector-cassandra/pom.xml" />
       <jump line="158" column="42" filename="$USER_HOME$/Projects/orbital-lib-connector-cassandra/pom.xml" />
       <jump line="191" column="22" filename="$USER_HOME$/Projects/orbital-lib-connector-cassandra/pom.xml" />
+      <jump line="94" column="22" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
+      <jump line="52" column="23" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
+      <jump line="120" column="14" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
+      <jump line="253" column="0" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
+      <jump line="122" column="0" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ssh://git@git.labs.quest.com/dpdr/orbital-lib-connector-cassandra.git</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3JjL3Rlc3QvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ssh://git@git.labs.quest.com/dpdr/orbital-lib-connector-cassandra.git</text>
+        <text>connector</text>
       </register>
       <register name="/" type="4">
         <text>revision</text>
@@ -820,31 +828,31 @@
         <text>r</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvcGFyZW50Pgo=</text>
+        <text encoding="base64">c3JjL3Rlc3QvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4wLjAuMS1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">c3JjL21haW4vcmVzb3VyY2VzLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5jb20uZGVsbC5zb2Z0d2FyZS5kYXRhcHJvdGVjdGlvbjwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">b3JiaXRhbC1saWItY29ubmVjdG9yLWVsYXN0aWNzZWFyY2guaW1sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5Qb3J0YWw8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwYXJlbnQ+Cg==</text>
+        <text encoding="base64">b3JiaXRhbC1saWItY29ubmVjdG9yLWVsYXN0aWNzZWFyY2guaW1sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAiZW52Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYuVkVSU0lPTiA9ICIke0JVSUxEX05VTUJFUn0tJHtzaG9ydENvbW1pdFNoYX0iLnJlcGxhY2UoJ18nLCAnLScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaG9ydENvbW1pdFNoYSA9IGNvbW1pdFNoYS50YWtlKDEwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGYnc2V0dGluZ3MueG1sJwo=</text>
+        <text encoding="base64">ICAgIDwvcGFyZW50Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
