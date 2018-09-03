@@ -19,11 +19,14 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/connector-cassandra/build.sh" timestamp="1535709826089">
+      <file name="$USER_HOME$/Projects/connector-cassandra/build.sh" timestamp="1535960839023">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/connector-cassandra/Jenkinsfile.groovy" timestamp="1535710077906">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/connector-cassandra/Jenkinsfile.groovy" timestamp="1535960780865">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
       </file>
       <file name="/a.dummy" timestamp="1535542432833">
         <mark key="[" line="0" column="0" />
@@ -110,11 +113,11 @@
         <mark key="." line="216" column="105" />
         <mark key="^" line="211" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/connector-cassandra/Makefile" timestamp="1535959791798">
-        <mark key="[" line="14" column="49" />
-        <mark key="]" line="14" column="50" />
-        <mark key="^" line="14" column="55" />
-        <mark key="." line="14" column="50" />
+      <file name="$USER_HOME$/Projects/connector-cassandra/Makefile" timestamp="1535961504850">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1535366257833">
         <mark key="[" line="23" column="0" />
@@ -529,6 +532,9 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="37" column="62" />
       </file>
+      <file name="$USER_HOME$/Projects/connector-cassandra/.gitignore" timestamp="1535961853325">
+        <mark key="[" line="5" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/mount_disks.yml" timestamp="1535441783730">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="9" column="3" />
@@ -657,6 +663,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/connector-cassandra/settings.xml" timestamp="1535961240634">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/DbFactoryImpl.java" timestamp="1535702516633">
         <mark key="[" line="14" column="8" />
@@ -787,10 +799,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>coomon</text>
+        <text>VERSION=${VERSION} ./deploy.sh</text>
       </register>
       <register name="-" type="4">
-        <text>coomon</text>
+        <text>VERSION=${VERSION} ./deploy.sh</text>
       </register>
       <register name="/" type="4">
         <text>commons</text>
@@ -799,31 +811,31 @@
         <text encoding="base64">b3JiaXRhbHVzZGV2LmF6dXJlY3IuaW8vZWxhc3RpY3NlYXJjaC1tYXJhdGhvbjoyLjQuNSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS4vc2NyaXB0cy9kZXBsb3lfbWFyYXRob24ucHkgLi9kZXBsb3kvbWFyYXRob24uanNvbgo=</text>
+        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vZGVwbG95IC4vc2NyaXB0c19jb21tb24vZ2VuZXJhdGVfdGVtcGxhdGUuc2gK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vZGVwbG95IC4vc2NyaXB0cy9nZW5lcmF0ZV90ZW1wbGF0ZS5zaAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0U291cmNlKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0KCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBjaGFydHMgPSBjbGllbnQucHJlcGFyZUdldCgiY2hhcnRzIiwgImNoYXJ0cyIsIG91dGdvaW5nU3RhdHMuZ2V0QXNzZXRJZCgpKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICdkb2NrZXIgbG9naW4gZ3ZjdXNkZXYuYXp1cmVjci5pbyAtdSAkVVNFUk5BTUUgLXAgJFBBU1NXT1JEJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWVWYXJpYWJsZTogJ1VTRVJOQU1FJywgcGFzc3dvcmRWYXJpYWJsZTogJ1BBU1NXT1JEJ11dKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtbJGNsYXNzICAgICAgICAgIDogJ1VzZXJuYW1lUGFzc3dvcmRNdWx0aUJpbmRpbmcnLCBjcmVkZW50aWFsc0lkOiAnZG9ja2VyLWxvZ2luJywK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2ggIm1ha2UgZGVjcnlwdCIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2ggImxuIC1zICR7Q0lQSEVSX0tFWX0gLmd2Yy1lbmNyeXB0aW9uLXVzLWRldi5zZWNyZXQiCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2V0LmNoYXJ0cyhvdXRnb2luZ0NoYXJ0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoQ3JlZGVudGlhbHMoW2ZpbGUoY3JlZGVudGlhbHNJZDogJ2NpcGhlci1rZXknLCB2YXJpYWJsZTogJ0NJUEhFUl9LRVknKV0pIHsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
