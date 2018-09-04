@@ -510,7 +510,6 @@
         <mark key="^" line="62" column="13" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/view/stats/controller/MetadataController.java" timestamp="1536047733133" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/model/impl/StatsEsConsumerInitImpl.java" timestamp="1535638658452">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="14" column="29" />
@@ -568,7 +567,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-portal-schema/scripts_common/decrypt.py" timestamp="1536057210739" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/src/main/java/portal/utils/KfFactory.java" timestamp="1535359232684">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -598,12 +596,12 @@
         <mark key="." line="102" column="35" />
         <mark key="^" line="102" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-portal-schema/pom.xml" timestamp="1536059404414">
-        <mark key="'" line="15" column="9" />
-        <mark key="[" line="100" column="21" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+      <file name="$USER_HOME$/Projects/orbital-portal-schema/pom.xml" timestamp="1536060142502">
+        <mark key="'" line="106" column="12" />
+        <mark key="[" line="175" column="21" />
+        <mark key="]" line="175" column="21" />
+        <mark key="." line="175" column="21" />
+        <mark key="^" line="173" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/factory/impl/KcsModelFactoryImpl.java" timestamp="1535362938910">
         <mark key="[" line="6" column="0" />
@@ -794,7 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="12" filename="$USER_HOME$/Projects/orbital-lib-connector-cassandra/pom.xml" />
       <jump line="14" column="17" filename="$USER_HOME$/Projects/orbital-lib-connector-cassandra/pom.xml" />
       <jump line="37" column="16" filename="$USER_HOME$/Projects/orbital-lib-connector-cassandra/pom.xml" />
       <jump line="15" column="8" filename="$USER_HOME$/Projects/orbital-lib-connector-cassandra/Jenkinsfile.groovy" />
@@ -894,55 +891,56 @@
       <jump line="10" column="32" filename="$USER_HOME$/Projects/orbital-portal-schema/pom.xml" />
       <jump line="14" column="5" filename="$USER_HOME$/Projects/orbital-portal-schema/pom.xml" />
       <jump line="15" column="9" filename="$USER_HOME$/Projects/orbital-portal-schema/pom.xml" />
+      <jump line="106" column="12" filename="$USER_HOME$/Projects/orbital-portal-schema/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LATEST</text>
+        <text>0.0.1-SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>LATEST</text>
+        <text>0.0.1-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text>repo</text>
+        <text>connector</text>
       </register>
       <register name="0" type="4">
         <text>kafka-elasticsearch-metadata-organizations</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4wLjA8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4wLjA8L3ZlcnNpb24+Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvcHJvZmlsZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+bW9kZWw8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Byb2ZpbGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnF1ZXN0Lm9yYml0YWw8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9hY3RpdmF0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3RpdmVCeURlZmF1bHQ+dHJ1ZTwvYWN0aXZlQnlEZWZhdWx0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4wLjA8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFjdGl2YXRpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlkPnBvcnRhbC1kZWZhdWx0PC9pZD4K</text>
+        <text encoding="base64">ICAgIDwvcHJvZmlsZXM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvZmlsZT4K</text>
+        <text encoding="base64">ICAgICAgICA8L3Byb2ZpbGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>200,205d</text>
       </register>
     </registers>
     <search>
-      <last-search>repo</last-search>
+      <last-search>connector</last-search>
       <last-offset />
-      <last-pattern>repo</last-pattern>
+      <last-pattern>connector</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -950,26 +948,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gvc-us-prod</entry>
-        <entry>elasticsearch</entry>
-        <entry>dev</entry>
-        <entry>gvcdev</entry>
-        <entry>orbitaldev</entry>
-        <entry>storage</entry>
-        <entry>azure_sas</entry>
-        <entry>azure.storage</entry>
-        <entry>elastic</entry>
-        <entry>data</entry>
-        <entry>regular</entry>
-        <entry>cassandra</entry>
-        <entry>schema</entry>
-        <entry>elasticsearch.cluster.name</entry>
-        <entry>organization.ela</entry>
-        <entry>gvc</entry>
-        <entry>connector</entry>
-        <entry>asset</entry>
-        <entry>agent-contact</entry>
-        <entry>commons</entry>
         <entry>project.basedir</entry>
         <entry>joda-time</entry>
         <entry>source</entry>
@@ -990,10 +968,9 @@
         <entry>dependencty.version</entry>
         <entry>model</entry>
         <entry>repo</entry>
+        <entry>connector</entry>
       </history-search>
       <history-cmd>
-        <entry>115,117y</entry>
-        <entry>124,125y</entry>
         <entry>35,36y</entry>
         <entry>35,36,d</entry>
         <entry>105,109d</entry>
