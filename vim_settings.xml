@@ -255,11 +255,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1535532037258">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="11" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1536047916243">
+        <mark key="'" line="108" column="7" />
+        <mark key="[" line="127" column="77" />
+        <mark key="]" line="127" column="77" />
+        <mark key="." line="127" column="35" />
+        <mark key="^" line="127" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/ConsumerFactory.java" timestamp="1535033925963">
         <mark key="[" line="8" column="4" />
@@ -465,6 +466,7 @@
         <mark key="^" line="62" column="13" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/view/stats/controller/MetadataController.java" timestamp="1536047733133" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/model/impl/StatsEsConsumerInitImpl.java" timestamp="1535638658452">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="14" column="29" />
@@ -716,10 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
-      <jump line="153" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
-      <jump line="156" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
-      <jump line="157" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
       <jump line="160" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
       <jump line="161" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
       <jump line="18" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" />
@@ -816,55 +814,59 @@
       <jump line="107" column="0" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
       <jump line="445" column="9" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
+      <jump line="68" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="101" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="105" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="108" column="7" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>release</text>
+        <text>kafka-elasticsearch-metadata-organizations</text>
       </register>
       <register name="-" type="4">
-        <text>release</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>revision</text>
+        <text>kafka_el</text>
       </register>
       <register name="0" type="4">
-        <text>r</text>
+        <text>kafka-elasticsearch-metadata-organizations</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtLT4K</text>
+        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBjZCAuL2thZmthLWVsYXN0aWNzZWFyY2gtbWV0YWRhdGEtb3JnYW5pemF0aW9ucyAmJiAuL2J1aWxkLnNoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvc2NyaXB0cz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIF1dPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwvc2NyaXB0cz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4gcHJvamVjdC5hcnRpZmFjdC52ZXJzaW9uUmFuZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIF1dPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4gcHJvamVjdC5hcnRpZmFjdC52ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4gcHJvamVjdC5hcnRpZmFjdC52ZXJzaW9uUmFuZ2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4gcHJvamVjdC5hcnRpZmFjdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4gcHJvamVjdC5hcnRpZmFjdC52ZXJzaW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4gcHJvamVjdC52ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHByaW50bG4gcHJvamVjdC5hcnRpZmFjdAo=</text>
       </register>
       <register name=":" type="4">
         <text>112,117d</text>
       </register>
     </registers>
     <search>
-      <last-search>revision</last-search>
+      <last-search>kafka_el</last-search>
       <last-offset />
-      <last-pattern>revision</last-pattern>
+      <last-pattern>kafka_el</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -902,6 +904,8 @@
         <entry>NEXUS</entry>
         <entry>describe</entry>
         <entry>revision</entry>
+        <entry>metadata</entry>
+        <entry>kafka_el</entry>
       </history-search>
       <history-cmd>
         <entry>115,117y</entry>
