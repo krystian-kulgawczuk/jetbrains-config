@@ -149,6 +149,9 @@
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/.gitignore" timestamp="1536067669174">
+        <mark key="[" line="96" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/gvc.md" timestamp="1535624239308">
         <mark key="[" line="216" column="105" />
         <mark key="]" line="216" column="105" />
@@ -196,6 +199,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/README.md" timestamp="1536067488723">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1534847700765">
         <mark key="[" line="11" column="0" />
@@ -490,7 +498,8 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-portal-schema/.gitignore" timestamp="1536065226611">
+      <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/src/main/resources/application-us-prod.properties" timestamp="1536067786065" />
+      <file name="$USER_HOME$/Projects/orbital-portal-schema/.gitignore" timestamp="1536067698599">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="17" />
         <mark key="." line="115" column="17" />
@@ -657,7 +666,7 @@
         <mark key="." line="102" column="35" />
         <mark key="^" line="102" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-portal-schema/pom.xml" timestamp="1536066691282">
+      <file name="$USER_HOME$/Projects/orbital-portal-schema/pom.xml" timestamp="1536068043298">
         <mark key="'" line="230" column="32" />
         <mark key="[" line="47" column="40" />
         <mark key="]" line="47" column="39" />
@@ -733,10 +742,21 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/pom.xml" timestamp="1536068064538">
+        <mark key="'" line="89" column="14" />
+        <mark key="]" line="243" column="14" />
+        <mark key="." line="243" column="14" />
+        <mark key="^" line="243" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/README.md" timestamp="1535980451604">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/Jenkinsfile.groovy" timestamp="1536067589338">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/CassandraCluster.java" timestamp="1534513833400">
         <mark key="[" line="0" column="8" />
@@ -882,7 +902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="99" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
       <jump line="145" column="40" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
       <jump line="270" column="99" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
       <jump line="274" column="0" filename="$USER_HOME$/Projects/orbital-lib-connector-azure-blob/pom.xml" />
@@ -982,13 +1001,14 @@
       <jump line="86" column="26" filename="$USER_HOME$/Projects/orbital-agent-common/pom.xml" />
       <jump line="90" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="101" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="89" column="14" filename="$USER_HOME$/Projects/orbital-agent-contact-kafka/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-portal-schema.git</text>
       </register>
       <register name="/" type="4">
         <text>agent_contact</text>
@@ -1015,13 +1035,13 @@
         <text encoding="base64">ICAgIDxwYXJlbnQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3VhdmEudmVyc2lvbj4xOC4wPC9ndWF2YS52ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDwvcGFyZW50Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPG1pcnJvck9mPmNlbnRyYWw8L21pcnJvck9mPgo=</text>
+        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4wLjAuMS1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>200,205d</text>
