@@ -8,6 +8,13 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-model/pom.xml" timestamp="1536055333784">
+        <mark key="'" line="78" column="32" />
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="13" />
+        <mark key="." line="40" column="13" />
+        <mark key="^" line="36" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/consumer/factory/ConsumerFactory.java" timestamp="1535359997828">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -67,9 +74,6 @@
         <mark key="]" line="4" column="18" />
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/StatsEsImpl.java" timestamp="1535635576439">
-        <mark key="'" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-lib-connector-cassandra/maven-settings.xml" timestamp="1535979872708">
         <mark key="[" line="31" column="19" />
@@ -181,6 +185,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-model/Jenkinsfile.groovy" timestamp="1536054824528">
+        <mark key="[" line="32" column="90" />
+        <mark key="]" line="32" column="90" />
+        <mark key="." line="32" column="90" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-lib-connector-cassandra/scripts_common/encrypt.py" timestamp="1535977979611">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="16" column="6" />
@@ -197,9 +206,6 @@
         <mark key="]" line="17" column="36" />
         <mark key="^" line="17" column="35" />
         <mark key="." line="17" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1535459862153">
-        <mark key="'" line="699" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/scripts-common/README.md" timestamp="1535958680416">
         <mark key="[" line="0" column="10" />
@@ -274,16 +280,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1536047916243">
-        <mark key="'" line="108" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/ConsumerFactory.java" timestamp="1535033925963">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/src/main/java/portal/diagnostics/upload/db/impl/DbFactoryImpl.java" timestamp="1535546454080">
-        <mark key="'" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal.elasticsearch.support/DcosElasticSearchCluster.java" timestamp="1534759884907">
         <mark key="[" line="4" column="0" />
@@ -395,9 +395,6 @@
         <mark key="^" line="21" column="68" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/bare/Dockerfile" timestamp="1535447362225">
-        <mark key="'" line="36" column="6" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/ssh.cfg" timestamp="1535440241328">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="8" column="8" />
@@ -419,6 +416,15 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1536055230556">
+        <mark key="'" line="142" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-model/.gitignore" timestamp="1536055426325">
+        <mark key="[" line="67" column="17" />
+        <mark key="]" line="67" column="16" />
+        <mark key="." line="67" column="16" />
+        <mark key="^" line="67" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/us-orbital-dev/ssh.cfg" timestamp="1535440287577">
         <mark key="[" line="3" column="50" />
@@ -475,13 +481,12 @@
         <mark key="." line="18" column="2" />
         <mark key="^" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/model/pom.xml" timestamp="1534764827236">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" timestamp="1535538509569">
-        <mark key="'" line="0" column="32" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/model/pom.xml" timestamp="1536055051214">
+        <mark key="'" line="7" column="10" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="191" column="28" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/.gitignore" timestamp="1535532244924">
         <mark key="[" line="75" column="0" />
@@ -489,7 +494,6 @@
         <mark key="^" line="62" column="13" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/view/stats/controller/MetadataController.java" timestamp="1536047733133" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/model/impl/StatsEsConsumerInitImpl.java" timestamp="1535638658452">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="14" column="29" />
@@ -505,9 +509,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-contact-kafka/src/main/java/portal/ack/kafka/impl/KfFactoryImpl.java" timestamp="1535699128306">
-        <mark key="'" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kes/model/MessageFactoryImpl.java" timestamp="1534935348300">
         <mark key="[" line="7" column="0" />
@@ -594,11 +595,6 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/Jenkinsfile.groovy" timestamp="1535982524310">
-        <mark key="[" line="32" column="48" />
-        <mark key="]" line="32" column="48" />
-        <mark key="." line="32" column="48" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/src/main/java/portal/utils/impl/KfSecureMessage.java" timestamp="1535358287167">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -608,12 +604,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/factory/EsFactory.java" timestamp="1535632920362">
-        <mark key="'" line="6" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/StatsEs.java" timestamp="1535632937889">
-        <mark key="'" line="7" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/maven-settings.xml" timestamp="1536054090866">
         <mark key="[" line="31" column="19" />
@@ -642,9 +632,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/factory/impl/ChartsMessageFactoryImpl.java" timestamp="1535631121121">
-        <mark key="'" line="0" column="27" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-lib-connector-azure-blob/README.md" timestamp="1536051621070">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -666,7 +653,7 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" timestamp="1536054138185">
+      <file name="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" timestamp="1536055319846">
         <mark key="'" line="44" column="14" />
         <mark key="[" line="40" column="13" />
         <mark key="]" line="40" column="13" />
@@ -696,9 +683,6 @@
         <mark key="^" line="32" column="53" />
         <mark key="." line="44" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1535611621594">
-        <mark key="'" line="123" column="41" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/DiagnosticsImpl.java" timestamp="1535362966118">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -708,9 +692,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/model/factory/impl/StatsConsumerFactoryImpl.java" timestamp="1535638871817">
-        <mark key="'" line="5" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/resources/application-us-dev.properties" timestamp="1535537936336">
         <mark key="[" line="28" column="48" />
@@ -728,6 +709,12 @@
         <mark key="]" line="22" column="71" />
         <mark key="^" line="22" column="71" />
         <mark key="." line="22" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-model/README.md" timestamp="1536054810362">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/factory/UnregistrationFactory.java" timestamp="1535362604815">
         <mark key="[" line="2" column="0" />
@@ -757,9 +744,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" timestamp="1535634032884">
-        <mark key="'" line="0" column="39" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/pom.xml" timestamp="1535638974304">
         <mark key="[" line="11" column="42" />
         <mark key="]" line="11" column="42" />
@@ -779,20 +763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="277" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="18" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="85" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="86" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="87" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="232" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="233" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="237" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="238" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="109" column="26" filename="$USER_HOME$/Projects/connector-cassandra/pom.xml" />
-      <jump line="61" column="9" filename="$USER_HOME$/Projects/connector-cassandra/pom.xml" />
-      <jump line="74" column="30" filename="$USER_HOME$/Projects/connector-cassandra/pom.xml" />
-      <jump line="24" column="10" filename="$USER_HOME$/Projects/connector-cassandra/pom.xml" />
       <jump line="116" column="25" filename="$USER_HOME$/Projects/connector-cassandra/pom.xml" />
       <jump line="18" column="43" filename="$USER_HOME$/Projects/connector-cassandra/pom.xml" />
       <jump line="127" column="39" filename="$USER_HOME$/Projects/connector-cassandra/pom.xml" />
@@ -879,55 +849,69 @@
       <jump line="47" column="16" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
       <jump line="46" column="23" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
       <jump line="44" column="14" filename="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/pom.xml" />
+      <jump line="67" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/model/pom.xml" />
+      <jump line="229" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/model/pom.xml" />
+      <jump line="7" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/model/pom.xml" />
+      <jump line="221" column="10" filename="$USER_HOME$/Projects/orbital-model/pom.xml" />
+      <jump line="54" column="24" filename="$USER_HOME$/Projects/orbital-model/pom.xml" />
+      <jump line="57" column="32" filename="$USER_HOME$/Projects/orbital-model/pom.xml" />
+      <jump line="105" column="30" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="141" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="142" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="58" column="24" filename="$USER_HOME$/Projects/orbital-model/pom.xml" />
+      <jump line="61" column="32" filename="$USER_HOME$/Projects/orbital-model/pom.xml" />
+      <jump line="62" column="24" filename="$USER_HOME$/Projects/orbital-model/pom.xml" />
+      <jump line="24" column="30" filename="$USER_HOME$/Projects/orbital-model/pom.xml" />
+      <jump line="53" column="32" filename="$USER_HOME$/Projects/orbital-model/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>snapshot</text>
+        <text>0.0.1-SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>snapshot</text>
+        <text>0.0.1-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>spark</text>
       </register>
       <register name="0" type="4">
         <text>kafka-elasticsearch-metadata-organizations</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9idWlsZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvcGx1Z2lucz4K</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHByb2plY3Q+Cjxwcm9qZWN0IHhtbG5zPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiCiAgICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL21hdmVuLmFwYWNoZS5vcmcvUE9NLzQuMC4wIGh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL3hzZC9tYXZlbi00LjAuMC54c2QiPgogICAgPG1vZGVsVmVyc2lvbj40LjAuMDwvbW9kZWxWZXJzaW9uPgoKCiAgICA8Z3JvdXBJZD5jb20uZGVsbC5zb2Z0d2FyZS5kYXRhcHJvdGVjdGlvbjwvZ3JvdXBJZD4KICAgIDxhcnRpZmFjdElkPm1vZGVsPC9hcnRpZmFjdElkPgogICAgPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICA8cGFja2FnaW5nPmphcjwvcGFja2FnaW5nPgoKICAgIDxwcm9wZXJ0aWVzPgoKICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+CiAgICA8L3Byb3BlcnRpZXM+CgogICAgPGJ1aWxkPgogICAgICAgIDxzb3VyY2VEaXJlY3Rvcnk+c3JjL21haW4vc2NhbGE8L3NvdXJjZURpcmVjdG9yeT4KICAgICAgICA8dGVzdFNvdXJjZURpcmVjdG9yeT5zcmMvdGVzdC9zY2FsYTwvdGVzdFNvdXJjZURpcmVjdG9yeT4KICAgIDwvYnVpbGQ+CgogICAgPGRlcGVuZGVuY3lNYW5hZ2VtZW50PgogICAgICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPC9kZXBlbmRlbmNpZXM+CiAgICA8L2RlcGVuZGVuY3lNYW5hZ2VtZW50PgoKICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci1kYXRhLWpwYTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhdHlwZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+amFja3Nvbi1kYXRhdHlwZS1qc3IzMTA8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItc2VjdXJpdHk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKCiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuc3Bhcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwYXJrLWNvcmVfMi4xMTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuc3Bhcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwYXJrLXNxbF8yLjExPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5zcGFyazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3BhcmstaGl2ZV8yLjExPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgIDwvZGVwZW5kZW5jaWVzPgoKCgogICAgPHByb2ZpbGVzPgoKICAgICAgICA8IS0tIERlZmF1bHQgUG9ydGFsIGFwcGxpY2F0aW9uIG1hdmVuIHByb2ZpbGUgLS0+CiAgICAgICAgPHByb2ZpbGU+CiAgICAgICAgICAgIDxpZD5wb3J0YWwtZGVmYXVsdDwvaWQ+CiAgICAgICAgICAgIDxhY3RpdmF0aW9uPgogICAgICAgICAgICAgICAgPGFjdGl2ZUJ5RGVmYXVsdD50cnVlPC9hY3RpdmVCeURlZmF1bHQ+CiAgICAgICAgICAgIDwvYWN0aXZhdGlvbj4KICAgICAgICAgICAgPGJ1aWxkPgogICAgICAgICAgICAgICAgPHBsdWdpbnM+CiAgICAgICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+bmV0LmFsY2hpbTMxLm1hdmVuPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zY2FsYS1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMi4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlkPnNjYWxhLWNvbXBpbGUtZmlyc3Q8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT5wcm9jZXNzLXJlc291cmNlczwvcGhhc2U+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5hZGQtc291cmNlPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5jb21waWxlPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlkPnNjYWxhLXRlc3QtY29tcGlsZTwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBoYXNlPnByb2Nlc3MtdGVzdC1yZXNvdXJjZXM8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+dGVzdENvbXBpbGU8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8L3BsdWdpbnM+CiAgICAgICAgICAgIDwvYnVpbGQ+CiAgICAgICAgPC9wcm9maWxlPgoKICAgIDwvcHJvZmlsZXM+Cgo8L3Byb2plY3Q+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3BsdWdpbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgo=</text>
+        <text encoding="base64">ICAgIDwvcGFyZW50Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+Y2xlYW48L2dvYWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4wLjAuMS1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5Qb3J0YWw8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+Y2xlYW48L3BoYXNlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5jb20uZGVsbC5zb2Z0d2FyZS5kYXRhcHJvdGVjdGlvbjwvZ3JvdXBJZD4K</text>
       </register>
       <register name=":" type="4">
         <text>200,205d</text>
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>spark</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>spark</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -970,6 +954,7 @@
         <entry>RELEASE</entry>
         <entry>SNAP</entry>
         <entry>version</entry>
+        <entry>spark</entry>
       </history-search>
       <history-cmd>
         <entry>115,117y</entry>
