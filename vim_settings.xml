@@ -344,10 +344,10 @@
         <mark key="]" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-agent-common/Jenkinsfile.groovy" timestamp="1536131463913">
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="42" column="37" />
-        <mark key="." line="42" column="37" />
+      <file name="$USER_HOME$/Projects/orbital-agent-common/Jenkinsfile.groovy" timestamp="1536148268388">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-azure-blobs/README.md" timestamp="1536068720761">
         <mark key="[" line="0" column="2" />
@@ -1187,11 +1187,11 @@
       <jump line="17" column="17" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/resources/application-us-dev.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-agent-common.git</text>
       </register>
       <register name="-" type="4">
-        <text>gvc</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-agent-common.git</text>
       </register>
       <register name="/" type="4">
         <text>portal.app.azure.storage.account.backup.container.name</text>
