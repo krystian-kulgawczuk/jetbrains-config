@@ -50,7 +50,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-lib-connector-cassandra/maven-settings.xml" timestamp="1535979872708">
+      <file name="$USER_HOME$/Projects/orbital-lib-connector-cassandra/maven-settings.xml" timestamp="1536142071693">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="31" column="19" />
         <mark key="." line="31" column="19" />
@@ -78,11 +78,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-lib-connector-cassandra/pom.xml" timestamp="1536141492387">
+      <file name="$USER_HOME$/Projects/orbital-lib-connector-cassandra/pom.xml" timestamp="1536142065017">
         <mark key="'" line="45" column="8" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="40" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="41" column="13" />
+        <mark key="." line="41" column="13" />
+        <mark key="^" line="41" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/Jenkinsfile.groovy" timestamp="1535710523593">
         <mark key="[" line="0" column="0" />
@@ -1199,11 +1200,11 @@
       <jump line="113" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8c3dhZ2dlci1tdmMudmVyc2lvbj4yLjYuMTwvc3dhZ2dlci1tdmMudmVyc2lvbj4K</text>
+      <register name="&quot;" type="4">
+        <text>snapshot</text>
       </register>
       <register name="-" type="4">
-        <text>${main.version}</text>
+        <text>snapshot</text>
       </register>
       <register name="/" type="4">
         <text>swagger</text>
