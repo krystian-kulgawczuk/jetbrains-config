@@ -399,6 +399,12 @@
         <mark key="." line="32" column="109" />
         <mark key="^" line="32" column="109" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-actor-system/build.sh" timestamp="1536152298446">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-kafka-slack/Makefile" timestamp="1536143154407">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -1193,10 +1199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ssh://git@git.labs.quest.com/dpdr/orbital-svc-customer-subdomain.git</text>
+        <text>1.0-SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>ssh://git@git.labs.quest.com/dpdr/orbital-svc-customer-subdomain.git</text>
+        <text>1.0-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>project</text>
