@@ -709,6 +709,11 @@
         <mark key="^" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-agent-common/Makefile" timestamp="1536130189561">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/factory/impl/KcsModelFactoryImpl.java" timestamp="1535362938910">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1051,10 +1056,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${main.version}</text>
+        <text>gvc</text>
       </register>
       <register name="-" type="4">
-        <text>${main.version}</text>
+        <text>gvc</text>
       </register>
       <register name="/" type="4">
         <text>dell</text>
