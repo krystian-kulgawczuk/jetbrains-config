@@ -359,10 +359,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-azure-blobs/Jenkinsfile.groovy" timestamp="1536135397954">
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="42" column="37" />
-        <mark key="." line="42" column="37" />
+      <file name="$USER_HOME$/Projects/orbital-azure-blobs/Jenkinsfile.groovy" timestamp="1536148585242">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/mount_disks.yml" timestamp="1535441783730">
         <mark key="[" line="10" column="8" />
@@ -1188,10 +1188,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ssh://git@git.labs.quest.com/dpdr/orbital-agent-contact-kafka.git</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-azure-blobs.git</text>
       </register>
       <register name="-" type="4">
-        <text>ssh://git@git.labs.quest.com/dpdr/orbital-agent-contact-kafka.git</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-azure-blobs.git</text>
       </register>
       <register name="/" type="4">
         <text>portal.app.azure.storage.account.backup.container.name</text>
