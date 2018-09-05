@@ -958,6 +958,12 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1536132626652">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="43" />
+        <mark key="^" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kes/model/KfMessageStats.java" timestamp="1534934940339">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1080,7 +1086,7 @@
         <text>gvc</text>
       </register>
       <register name="/" type="4">
-        <text>dell</text>
+        <text>gvc</text>
       </register>
       <register name="0" type="4">
         <text>kafka-elasticsearch-metadata-organizations</text>
@@ -1117,9 +1123,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dell</last-search>
+      <last-search>gvc</last-search>
       <last-offset />
-      <last-pattern>dell</last-pattern>
+      <last-pattern>gvc</last-pattern>
       <last-replace>docker_port</last-replace>
       <last-substitute>elastic_port</last-substitute>
       <last-dir>1</last-dir>
@@ -1165,6 +1171,7 @@
         <entry>com</entry>
         <entry>properties</entry>
         <entry>dell</entry>
+        <entry>gvc</entry>
       </history-search>
       <history-cmd>
         <entry>35,36y</entry>
