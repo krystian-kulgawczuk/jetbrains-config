@@ -139,6 +139,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/maven-settings.xml" timestamp="1536146008064">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="12" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/README.md" timestamp="1536067488723">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
@@ -442,11 +448,11 @@
       <file name="$USER_HOME$/Projects/orbital-ui-customer-subdomain/scripts_common/generate_template.sh" timestamp="1536137107602">
         <mark key="[" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/Jenkinsfile.groovy" timestamp="1536145270722">
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/Jenkinsfile.groovy" timestamp="1536146136499">
         <mark key="[" line="32" column="48" />
-        <mark key="]" line="32" column="111" />
-        <mark key="." line="32" column="111" />
-        <mark key="^" line="32" column="111" />
+        <mark key="]" line="32" column="115" />
+        <mark key="." line="32" column="115" />
+        <mark key="^" line="32" column="115" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/Jenkinsfile.groovy" timestamp="1536131436272">
         <mark key="[" line="42" column="37" />
@@ -1241,10 +1247,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-customer-subdomain.git</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-customer-subdomain.git</text>
       </register>
       <register name="/" type="4">
         <text>customer</text>
