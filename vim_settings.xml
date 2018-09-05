@@ -295,7 +295,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/src/main/resources/application-us-prod.properties" timestamp="1536067786065" />
       <file name="$USER_HOME$/Projects/orbital-portal-schema/.gitignore" timestamp="1536070829423">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="17" />
@@ -353,7 +352,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-azure-blobs/Jenkinsfile.groovy" timestamp="1536131370366">
+      <file name="$USER_HOME$/Projects/orbital-azure-blobs/Jenkinsfile.groovy" timestamp="1536135397954">
         <mark key="[" line="42" column="37" />
         <mark key="]" line="42" column="37" />
         <mark key="." line="42" column="37" />
@@ -391,7 +390,12 @@
         <mark key="]" line="42" column="37" />
         <mark key="." line="42" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1536133320663" />
+      <file name="$USER_HOME$/Projects/orbital-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1536135418137">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
+        <mark key="^" line="32" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-agent-data-structure/Jenkinsfile.groovy" timestamp="1536131391167">
         <mark key="[" line="42" column="37" />
         <mark key="]" line="42" column="37" />
@@ -886,7 +890,6 @@
         <mark key="." line="42" column="37" />
         <mark key="^" line="32" column="108" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-contact-kafka/src/main/resources/application-us-prod.properties" timestamp="1536067340920" />
       <file name="$USER_HOME$/Projects/orbital-kafka-cassandra-consumer-common/Jenkinsfile.groovy" timestamp="1536131345154">
         <mark key="[" line="42" column="37" />
         <mark key="]" line="42" column="37" />
@@ -1140,10 +1143,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>python3</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-azure-blobs.git</text>
       </register>
       <register name="-" type="4">
-        <text>python3</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-azure-blobs.git</text>
       </register>
       <register name="/" type="4">
         <text>gvc</text>
@@ -1152,31 +1155,31 @@
         <text>kafka-elasticsearch-metadata-organizations</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8anNvbndlYnRva2VuLWpqd3QudmVyc2lvbj4wLjYuMDwvanNvbndlYnRva2VuLWpqd3QudmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICBjaGVja291dCBzY20K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvcHJvZmlsZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8anNvbndlYnRva2VuLWpqd3QudmVyc2lvbj4wLjYuMDwvanNvbndlYnRva2VuLWpqd3QudmVyc2lvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Byb2ZpbGU+Cg==</text>
+        <text encoding="base64">ICAgIDwvcHJvZmlsZXM+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9hY3RpdmF0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L3Byb2ZpbGU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3RpdmVCeURlZmF1bHQ+dHJ1ZTwvYWN0aXZlQnlEZWZhdWx0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9hY3RpdmF0aW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFjdGl2YXRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3RpdmVCeURlZmF1bHQ+dHJ1ZTwvYWN0aXZlQnlEZWZhdWx0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlkPnBvcnRhbC1kZWZhdWx0PC9pZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFjdGl2YXRpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvZmlsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlkPnBvcnRhbC1kZWZhdWx0PC9pZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIERlZmF1bHQgUG9ydGFsIGFwcGxpY2F0aW9uIG1hdmVuIHByb2ZpbGUgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvZmlsZT4K</text>
       </register>
       <register name=":" type="4">
         <text>200,205d</text>
