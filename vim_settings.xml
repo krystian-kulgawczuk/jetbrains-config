@@ -645,9 +645,6 @@
         <mark key="^" line="101" column="17" />
         <mark key="." line="101" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1536143118883">
-        <mark key="'" line="117" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/ConsumerFactory.java" timestamp="1535033925963">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
@@ -946,10 +943,10 @@
         <mark key="^" line="32" column="108" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-contact-kafka/src/main/resources/application-us-prod.properties" timestamp="1536067340920" />
-      <file name="$USER_HOME$/Projects/orbital-kafka-cassandra-consumer-common/Jenkinsfile.groovy" timestamp="1536131345154">
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="42" column="37" />
-        <mark key="." line="42" column="37" />
+      <file name="$USER_HOME$/Projects/orbital-kafka-cassandra-consumer-common/Jenkinsfile.groovy" timestamp="1536148684822">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
         <mark key="^" line="32" column="124" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-kafka-cassandra-consumer-common/.gitignore" timestamp="1536070767858">
@@ -1188,10 +1185,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ssh://git@git.labs.quest.com/dpdr/orbital-azure-blobs.git</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-kafka-cassandra-consumer-common.git</text>
       </register>
       <register name="-" type="4">
-        <text>ssh://git@git.labs.quest.com/dpdr/orbital-azure-blobs.git</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-kafka-cassandra-consumer-common.git</text>
       </register>
       <register name="/" type="4">
         <text>portal.app.azure.storage.account.backup.container.name</text>
