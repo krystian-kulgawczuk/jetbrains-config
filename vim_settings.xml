@@ -264,6 +264,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-actor-system/.gitignore" timestamp="1536218959732">
+        <mark key="[" line="89" column="25" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-manage/README.md" timestamp="1536152709971">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
@@ -475,11 +480,11 @@
         <mark key="." line="32" column="109" />
         <mark key="^" line="32" column="109" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-actor-system/build.sh" timestamp="1536152298446">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="33" />
-        <mark key="^" line="8" column="33" />
+      <file name="$USER_HOME$/Projects/orbital-svc-actor-system/build.sh" timestamp="1536218775716">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="6" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-kafka-slack/Makefile" timestamp="1536143154407">
         <mark key="[" line="17" column="0" />
@@ -700,7 +705,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/.gitignore" timestamp="1536216824904">
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/.gitignore" timestamp="1536218849905">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
         <mark key="^" line="123" column="4" />
@@ -1403,11 +1408,11 @@
       <jump line="5" column="9" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>com.dell.software.dataprotection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KiovY29uZi8qLmNvbmYK</text>
       </register>
       <register name="-" type="4">
-        <text>com.dell.software.dataprotection</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>prop</text>
@@ -1416,31 +1421,31 @@
         <text>gWlhRZ3hg7VZsAdQwzSkB0VxtRSHNbF2v5ok1VULZW3ufq8628Y3+3mNSsOrO/qTWn3NBV0JoQ4GGbLzzPx55g==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">KiovY29uZi8qLmNvbmYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RDRzeU0ySWFjQXlTTitiZ1pVbXdvdz09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U05HV2N2L0NPL1NuSVh0R1FOS3g1bGk4bnJRbHY4YXN2bFl5aVE5Z25ENTAxV1NTUmtkMzNLdklZYnVTZlhwTgo=</text>
+        <text encoding="base64">RDRzeU0ySWFjQXlTTitiZ1pVbXdvdz09Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UDNTRWQwL1lxeFE3d3NiTTEwWmtxOS9PM1lPYkV6M2Y4Y042d0U5UlZyNkdIajBrRzdhdUVwQVY5bkRlaWlnbAo=</text>
+        <text encoding="base64">U05HV2N2L0NPL1NuSVh0R1FOS3g1bGk4bnJRbHY4YXN2bFl5aVE5Z25ENTAxV1NTUmtkMzNLdklZYnVTZlhwTgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UFdnOXR5N0V3QjlDb2pRUFU4cE92R2hBSkt4ZWt5NFB1WWNLTEcza3cxYWJsOGU0Ni8wZ3FyVDlSbWJLazRhSAo=</text>
+        <text encoding="base64">UDNTRWQwL1lxeFE3d3NiTTEwWmtxOS9PM1lPYkV6M2Y4Y042d0U5UlZyNkdIajBrRzdhdUVwQVY5bkRlaWlnbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZTBBRlhwNjJYMmtJK2IwZWtraDBSVm1zY1FydHpmQUVReFZPbVlmOUV0T1B5eVd6WlhlV0pDSURuZ1Z4VEROUgo=</text>
+        <text encoding="base64">UFdnOXR5N0V3QjlDb2pRUFU4cE92R2hBSkt4ZWt5NFB1WWNLTEcza3cxYWJsOGU0Ni8wZ3FyVDlSbWJLazRhSAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QUZ2TTlRUVdlUW12aGZScUljbFNTS2d5VlZZQStQZTVGaGpodUVTTGZSWjQrRHZUQ3kxMTlPenNaSTlzUkcxTwo=</text>
+        <text encoding="base64">ZTBBRlhwNjJYMmtJK2IwZWtraDBSVm1zY1FydHpmQUVReFZPbVlmOUV0T1B5eVd6WlhlV0pDSURuZ1Z4VEROUgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V2VPZUtrYWFRQUhQR1lGdy9PZzlYeFN6ZUptd2NOZmZKbDhtS3I5Y0RKc2hYUXA5Y1lUTWZRMUdnczlzcjlqUwo=</text>
+        <text encoding="base64">QUZ2TTlRUVdlUW12aGZScUljbFNTS2d5VlZZQStQZTVGaGpodUVTTGZSWjQrRHZUQ3kxMTlPenNaSTlzUkcxTwo=</text>
       </register>
       <register name=":" type="4">
         <text>46,48d</text>
