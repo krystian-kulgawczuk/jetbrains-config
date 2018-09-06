@@ -678,6 +678,12 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/Jenkinsfile.groovy" timestamp="1536241937625">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="124" />
+        <mark key="." line="32" column="124" />
+        <mark key="^" line="32" column="124" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/view/charts/controller/ChartsController.java" timestamp="1535105052701">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1223,6 +1229,7 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-org-data/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1536241547652" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/CassandraCluster.java" timestamp="1534513833400">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
@@ -1438,11 +1445,11 @@
       <jump line="183" column="13" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdXNpb25zPgo=</text>
+      <register name="&quot;" type="4">
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-svc-kafka-elasticsearch-charts.git</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-svc-kafka-elasticsearch-charts.git</text>
       </register>
       <register name="/" type="4">
         <text>exclusion</text>
