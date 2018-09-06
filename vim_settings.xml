@@ -144,8 +144,8 @@
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/.gitignore" timestamp="1536243926069">
         <mark key="[" line="96" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" timestamp="1536244516203">
-        <mark key="'" line="157" column="24" />
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" timestamp="1536264952942">
+        <mark key="'" line="6" column="21" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="46" column="40" />
         <mark key="^" line="47" column="7" />
@@ -1438,22 +1438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="48" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" />
-      <jump line="224" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/Makefile" />
-      <jump line="174" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/Makefile" />
-      <jump line="47" column="17" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="125" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="185" column="12" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="402" column="14" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="98" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="249" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="81" column="47" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="79" column="13" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="341" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="108" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
       <jump line="121" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="116" column="38" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
@@ -1464,7 +1448,6 @@
       <jump line="125" column="26" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="190" column="12" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="195" column="12" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
-      <jump line="231" column="26" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="240" column="26" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="249" column="41" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="57" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
@@ -1538,6 +1521,23 @@
       <jump line="173" column="35" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="163" column="24" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="157" column="24" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="35" column="28" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="117" column="28" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="118" column="28" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="179" column="13" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="181" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="182" column="24" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="185" column="33" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="186" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="196" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="197" column="24" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="212" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="213" column="24" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="231" column="24" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="232" column="24" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="263" column="29" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="264" column="28" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="6" column="21" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1547,7 +1547,7 @@
         <text>0.0.1-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text>connector</text>
+        <text>spring</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
@@ -1584,9 +1584,9 @@
       </register>
     </registers>
     <search>
-      <last-search>connector</last-search>
+      <last-search>spring</last-search>
       <last-offset />
-      <last-pattern>connector</last-pattern>
+      <last-pattern>spring</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>${main\.version}</last-substitute>
       <last-dir>1</last-dir>
@@ -1614,6 +1614,7 @@
         <entry>${main\.version}</entry>
         <entry>exclusions</entry>
         <entry>connector</entry>
+        <entry>spring</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
