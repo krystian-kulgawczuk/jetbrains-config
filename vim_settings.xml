@@ -792,6 +792,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/build.sh" timestamp="1536235930096">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-manage/Dockerfile" timestamp="1536153388547">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="16" />
@@ -1594,11 +1600,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>stat_a</text>
