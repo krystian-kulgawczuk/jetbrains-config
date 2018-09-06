@@ -18,6 +18,13 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" timestamp="1536229911164">
+        <mark key="'" line="180" column="48" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="^" line="171" column="3" />
+        <mark key="." line="282" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-job-chart-aggregator/README.md" timestamp="1536224435775">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
@@ -45,6 +52,12 @@
         <mark key="]" line="9" column="7" />
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-job-stat-aggregator/build.sh" timestamp="1536229756958">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-kafka-cassandra-consumer-common/pom.xml" timestamp="1536070921603">
         <mark key="'" line="66" column="25" />
@@ -132,6 +145,12 @@
       <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/.gitignore" timestamp="1536067669174">
         <mark key="[" line="96" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-job-stat-aggregator/.gitignore" timestamp="1536230223609">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="118" column="4" />
+        <mark key="." line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/gvc.md" timestamp="1536228612221">
         <mark key="'" line="14" column="10" />
         <mark key="[" line="23" column="3" />
@@ -144,6 +163,11 @@
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-job-stat-aggregator/README.md" timestamp="1536229687916">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1535366257833">
         <mark key="[" line="23" column="0" />
@@ -232,7 +256,7 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/.gitignore" timestamp="1536226674439">
+      <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/.gitignore" timestamp="1536230213241">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="^" line="118" column="4" />
@@ -583,6 +607,11 @@
         <mark key="." line="32" column="115" />
         <mark key="^" line="32" column="115" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-job-stat-aggregator/src/main/resources/application-us-dev.properties.encrypted" timestamp="1536229659220">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/Jenkinsfile.groovy" timestamp="1536148503558">
         <mark key="[" line="32" column="48" />
         <mark key="]" line="32" column="48" />
@@ -843,8 +872,10 @@
         <mark key="^" line="101" column="17" />
         <mark key="." line="101" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1536226578382">
-        <mark key="'" line="196" column="28" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1536230078661">
+        <mark key="'" line="224" column="25" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="171" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-job-diagnostics-upload-monitor/.gitignore" timestamp="1536226693052">
         <mark key="[" line="97" column="0" />
@@ -963,11 +994,11 @@
         <mark key="^" line="276" column="25" />
         <mark key="." line="276" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/pom.xml" timestamp="1536226401038">
-        <mark key="'" line="228" column="32" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="46" column="40" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/pom.xml" timestamp="1536229899411">
+        <mark key="'" line="53" column="8" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="289" column="15" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/.gitignore" timestamp="1536064144445">
         <mark key="[" line="101" column="18" />
@@ -1000,13 +1031,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1536226430718">
-        <mark key="'" line="98" column="12" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="60" />
-        <mark key="^" line="83" column="7" />
-        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-model/.gitignore" timestamp="1536055426325">
         <mark key="[" line="67" column="17" />
@@ -1257,6 +1281,11 @@
       <file name="$USER_HOME$/Projects/orbital-kafka-cassandra-consumer-common/.gitignore" timestamp="1536070767858">
         <mark key="[" line="96" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-job-stat-aggregator/Jenkinsfile.groovy" timestamp="1536229726299">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/maven-settings.xml" timestamp="1536060951932">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="31" column="19" />
@@ -1283,6 +1312,11 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-job-stat-aggregator/Dockerfile" timestamp="1536229740720">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-lib-connector-azure-blob/README.md" timestamp="1536051621070">
         <mark key="[" line="0" column="12" />
@@ -1373,6 +1407,13 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-job-stat-aggregator/Makefile" timestamp="1536230171779">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="19" column="19" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/resources/application-us-dev.properties" timestamp="1535537936336">
         <mark key="[" line="28" column="48" />
         <mark key="]" line="28" column="47" />
@@ -1433,6 +1474,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/README.md" timestamp="1536222299260">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-backup-api/src/main/resources/application-us-prod.properties" timestamp="1536156644664">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1446,20 +1492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="38" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
-      <jump line="200" column="32" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
-      <jump line="207" column="44" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
-      <jump line="65" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="239" column="28" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
-      <jump line="362" column="32" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
-      <jump line="75" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="72" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="76" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="64" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
-      <jump line="106" column="25" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
-      <jump line="180" column="25" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
-      <jump line="116" column="62" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
       <jump line="192" column="12" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
       <jump line="375" column="9" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
@@ -1504,7 +1536,6 @@
       <jump line="129" column="32" filename="$USER_HOME$/Projects/orbital-job-chart-aggregator/pom.xml" />
       <jump line="124" column="32" filename="$USER_HOME$/Projects/orbital-job-chart-aggregator/pom.xml" />
       <jump line="109" column="44" filename="$USER_HOME$/Projects/orbital-job-chart-aggregator/pom.xml" />
-      <jump line="37" column="40" filename="$USER_HOME$/Projects/orbital-job-backup-org-data/pom.xml" />
       <jump line="112" column="44" filename="$USER_HOME$/Projects/orbital-job-chart-aggregator/pom.xml" />
       <jump line="56" column="39" filename="$USER_HOME$/Projects/orbital-job-diagnostics-upload-monitor/pom.xml" />
       <jump line="109" column="25" filename="$USER_HOME$/Projects/orbital-job-diagnostics-upload-monitor/pom.xml" />
@@ -1546,55 +1577,70 @@
       <jump line="18" column="2" filename="$USER_HOME$/Documents/notes.md" />
       <jump line="222" column="30" filename="$USER_HOME$/Documents/gvc.md" />
       <jump line="14" column="10" filename="$USER_HOME$/Documents/gvc.md" />
+      <jump line="53" column="17" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" />
+      <jump line="86" column="25" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" />
+      <jump line="98" column="12" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" />
+      <jump line="129" column="32" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" />
+      <jump line="109" column="44" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" />
+      <jump line="124" column="32" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" />
+      <jump line="125" column="24" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" />
+      <jump line="37" column="40" filename="$USER_HOME$/Projects/orbital-job-backup-org-data/pom.xml" />
+      <jump line="123" column="19" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" />
+      <jump line="193" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="53" column="8" filename="$USER_HOME$/Projects/orbital-job-backup-org-data/pom.xml" />
+      <jump line="180" column="48" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" />
+      <jump line="224" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RGVwbG95IG1hcmF0aG9uIG1vZHVsZXMgYW5kIGNocm9ub3Mgam9icwojIyBDYXNzYW5kcmEKaHR0cHM6Ly9naXRodWIuY29tL21lc29zcGhlcmUvZGNvcy1jYXNzYW5kcmEtc2VydmljZS9ibG9iL21hc3Rlci9kb2NzL2NvbmZpZ3VyYXRpb24ubWQKdXNlcjogcm9vdApkYXRhY2VudGVyIG5hbWU6IGRjMQpjbHVzdGVybmFtZTogY2Fzc2FuZHJhCiMjIEthZmthCnVzZXI6IHJvb3QgIAojIERDT1MKIyMgQWRkaW5nIG5vZGUKaHR0cHM6Ly9kb2NzLm1lc29zcGhlcmUuY29tLzEuMTEvYWRtaW5pc3RlcmluZy1jbHVzdGVycy9hZGQtYS1ub2RlLwojIyBBenVyZSBhY3MtZW5naW5lCmh0dHBzOi8vZ2l0aHViLmNvbS9BenVyZS9hY3MtZW5naW5lL2Jsb2IvbWFzdGVyL2RvY3MvY2x1c3RlcmRlZmluaXRpb24ubWQKaHR0cHM6Ly9naXRodWIuY29tL0F6dXJlL2Fjcy1lbmdpbmUvYmxvYi9tYXN0ZXIvZXhhbXBsZXMvbGFyZ2VjbHVzdGVycy9kY29zLmpzb24KIyMgVm1zcwpgYXogdm1zcyBzaG93IC0tcmVzb3VyY2UtZ3JvdXAgZ3ZjLXVzLXByb2QgLS1uYW1lIGRjb3MtcHJpdmF0ZTAtMzA5NzUyMDctdm1zc2AKaHR0cHM6Ly9oZXJhbm9uYXp1cmUud29yZHByZXNzLmNvbS8yMDE3LzA3LzEzL3Ztc3MtZGF0YS1kaXNrcy1hbmQtY3VzdG9taXplLXNjcmlwdC8KaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNTAxMDA2NjIvYXp1cmUtaG93LXRvLWV4cGFuZC1kaXNrLXNpemUtZm9yLXZtLXdoaWNoLWlzLXBhcnQtb2Ytc2NhbGVzZXQKaHR0cHM6Ly9sbnguYXp1cmV3ZWJzaXRlcy5uZXQvcmVzaXppbmctYS1saW51eC12bS1zeXN0ZW0tZGlzay1pbi1taWNyb3NvZnQtYXp1cmUvY2QgCiMjIFpvb2tlZXBlcgpodHRwOi8vbG9jYWxob3N0OjgwMDAvZXhoaWJpdG9yL2V4aGliaXRvci92MS91aS9pbmRleC5odG1sCiMjIE1hcmF0aG9uCiMjIEphbml0b3IgY2xlYXIKYGBgCnsKICAiaWQiOiAiamFuaXRvciIsCiAgImNtZCI6ICIvamFuaXRvci5weSAtciBjYXNzYW5kcmEtcm9sZSAtcCBjYXNzYW5kcmEtcHJpbmNpcGFsIC16IGRjb3Mtc2VydmljZS1jYXNzYW5kcmEiLAogICJjcHVzIjogMSwKICAibWVtIjogMTI4LAogICJkaXNrIjogMSwKICAiaW5zdGFuY2VzIjogMSwKICAiY29udGFpbmVyIjogewogICAgImRvY2tlciI6IHsKICAgICAgImltYWdlIjogIm1lc29zcGhlcmUvamFuaXRvcjpsYXRlc3QiLAogICAgICAibmV0d29yayI6ICJIT1NUIgogICAgfSwKICAgICJ0eXBlIjogIkRPQ0tFUiIKICB9Cn0KYGBgCiMjIyBBcHAgcmVtb3ZpbmcKZGNvcyBtYXJhdGhvbiBhcHAgcmVtb3ZlIC9jYXNzYW5kcmEKIyMgQWdlbnQKIyMjIEFnZW50IHN0YXR1cwpzdWRvIHN5c3RlbWN0bCBzdGF0dXMgZGNvcy1tZXNvcy1zbGF2ZS5zZXJ2aWNlCiMjIFNoYXJlZCBkcml2ZQpodHRwczovL2RvY3MubWljcm9zb2Z0LmNvbS9lbi11cy9henVyZS9zdG9yYWdlL2ZpbGVzL3N0b3JhZ2UtaG93LXRvLWNyZWF0ZS1maWxlLXNoYXJlCiMjIEFQUFMKY3VybCBndmMtdXMtcHJvZC1wdWJsaWMud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQojIyMgTmdpbngKY3VybCAtdiBzcC1uZ2lueC5tYXJhdGhvbi5sNGxiLnRoaXNkY29zLmRpcmVjdG9yeToxMDAwMC9hcGkvaGVhbHRoY2hlY2sKIyMjIEFjdG9yIHN5c3RlbQphY3Rvci1zeXN0ZW0ubWFyYXRob24ubDRsYi50aGlzZGNvcy5kaXJlY3Rvcnk6OTAwMAojIyBFbGFzdGljc2VhcmNoCmN1cmwgZXNodHRwLm1hcmF0aG9uLmw0bGIudGhpc2Rjb3MuZGlyZWN0b3J5OjkyMDAKY3VybCBlc2h0dHAubWFyYXRob24ubDRsYi50aGlzZGNvcy5kaXJlY3Rvcnk6OTIwMC9fY2x1c3Rlci9oZWFsdGgKaHR0cDovL21hc3Rlci5tZXNvcy9zZXJ2aWNlL21hcmF0aG9uL3YyL2FwcHMvZXMtY2x1c3RlcgojIyMgTG9hZCBiYWxhbmNlcgplbmRwb2ludHM6Cmh0dHBzOi8vZ2l0aHViLmNvbS9tZXNvc3BoZXJlL21hcmF0aG9uLWxiCmN1cmwgaHR0cDovL21hcmF0aG9uLWxiLm1hcmF0aG9uLm1lc29zOjkwOTAvaGFwcm94eT9zdGF0cwpodHRwczovL2RvY3MubWVzb3NwaGVyZS5jb20vMS4xMS90dXRvcmlhbHMvZGNvcy0xMDEvbWFyYXRob24tbGIvCjEwLjQuMC40OjEwMDAwCiMjIyMgT3BlbiB0cmFmZmljIHRvIHZtcwoxLiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>cassandra</text>
+        <text>stat_a</text>
       </register>
-      <register name="0" type="4">
-        <text>gWlhRZ3hg7VZsAdQwzSkB0VxtRSHNbF2v5ok1VULZW3ufq8628Y3+3mNSsOrO/qTWn3NBV0JoQ4GGbLzzPx55g==</text>
+      <register name="0" type="2">
+        <text encoding="base64">bW9kdWxlX2NoYXJ0X2FnZ3JlZ2F0b3JfYnVpbGQ6CglWRVJTSU9OPSR7VkVSU0lPTn0gY2QgLi9jaGFydC1hZ2dyZWdhdG9yICYmIC4vYnVpbGQuc2gKCVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vY2hhcnQtYWdncmVnYXRvci9kZXBsb3kvaG91ciAuL3NjcmlwdHMvZ2VuZXJhdGVfdGVtcGxhdGVfY2hyb25vcy5zaAoJVkVSU0lPTj0ke1ZFUlNJT059IENPTlRFWFQ9Li9jaGFydC1hZ2dyZWdhdG9yL2RlcGxveS9taW51dGUgLi9zY3JpcHRzL2dlbmVyYXRlX3RlbXBsYXRlX2Nocm9ub3Muc2gKCm1vZHVsZV9jaGFydF9hZ2dyZWdhdG9yX2RlcGxveToKCS4vc2NyaXB0cy9kZXBsb3lfY2hyb25vcy5weSAuL2NoYXJ0LWFnZ3JlZ2F0b3IvZGVwbG95L2hvdXIvY2hyb25vcy5qc29uCgkuL3NjcmlwdHMvZGVwbG95X2Nocm9ub3MucHkgLi9jaGFydC1hZ2dyZWdhdG9yL2RlcGxveS9taW51dGUvY2hyb25vcy5qc29uCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">RGVwbG95IG1hcmF0aG9uIG1vZHVsZXMgYW5kIGNocm9ub3Mgam9icwojIyBDYXNzYW5kcmEKaHR0cHM6Ly9naXRodWIuY29tL21lc29zcGhlcmUvZGNvcy1jYXNzYW5kcmEtc2VydmljZS9ibG9iL21hc3Rlci9kb2NzL2NvbmZpZ3VyYXRpb24ubWQKdXNlcjogcm9vdApkYXRhY2VudGVyIG5hbWU6IGRjMQpjbHVzdGVybmFtZTogY2Fzc2FuZHJhCiMjIEthZmthCnVzZXI6IHJvb3QgIAojIERDT1MKIyMgQWRkaW5nIG5vZGUKaHR0cHM6Ly9kb2NzLm1lc29zcGhlcmUuY29tLzEuMTEvYWRtaW5pc3RlcmluZy1jbHVzdGVycy9hZGQtYS1ub2RlLwojIyBBenVyZSBhY3MtZW5naW5lCmh0dHBzOi8vZ2l0aHViLmNvbS9BenVyZS9hY3MtZW5naW5lL2Jsb2IvbWFzdGVyL2RvY3MvY2x1c3RlcmRlZmluaXRpb24ubWQKaHR0cHM6Ly9naXRodWIuY29tL0F6dXJlL2Fjcy1lbmdpbmUvYmxvYi9tYXN0ZXIvZXhhbXBsZXMvbGFyZ2VjbHVzdGVycy9kY29zLmpzb24KIyMgVm1zcwpgYXogdm1zcyBzaG93IC0tcmVzb3VyY2UtZ3JvdXAgZ3ZjLXVzLXByb2QgLS1uYW1lIGRjb3MtcHJpdmF0ZTAtMzA5NzUyMDctdm1zc2AKaHR0cHM6Ly9oZXJhbm9uYXp1cmUud29yZHByZXNzLmNvbS8yMDE3LzA3LzEzL3Ztc3MtZGF0YS1kaXNrcy1hbmQtY3VzdG9taXplLXNjcmlwdC8KaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNTAxMDA2NjIvYXp1cmUtaG93LXRvLWV4cGFuZC1kaXNrLXNpemUtZm9yLXZtLXdoaWNoLWlzLXBhcnQtb2Ytc2NhbGVzZXQKaHR0cHM6Ly9sbnguYXp1cmV3ZWJzaXRlcy5uZXQvcmVzaXppbmctYS1saW51eC12bS1zeXN0ZW0tZGlzay1pbi1taWNyb3NvZnQtYXp1cmUvY2QgCiMjIFpvb2tlZXBlcgpodHRwOi8vbG9jYWxob3N0OjgwMDAvZXhoaWJpdG9yL2V4aGliaXRvci92MS91aS9pbmRleC5odG1sCiMjIE1hcmF0aG9uCiMjIEphbml0b3IgY2xlYXIKYGBgCnsKICAiaWQiOiAiamFuaXRvciIsCiAgImNtZCI6ICIvamFuaXRvci5weSAtciBjYXNzYW5kcmEtcm9sZSAtcCBjYXNzYW5kcmEtcHJpbmNpcGFsIC16IGRjb3Mtc2VydmljZS1jYXNzYW5kcmEiLAogICJjcHVzIjogMSwKICAibWVtIjogMTI4LAogICJkaXNrIjogMSwKICAiaW5zdGFuY2VzIjogMSwKICAiY29udGFpbmVyIjogewogICAgImRvY2tlciI6IHsKICAgICAgImltYWdlIjogIm1lc29zcGhlcmUvamFuaXRvcjpsYXRlc3QiLAogICAgICAibmV0d29yayI6ICJIT1NUIgogICAgfSwKICAgICJ0eXBlIjogIkRPQ0tFUiIKICB9Cn0KYGBgCiMjIyBBcHAgcmVtb3ZpbmcKZGNvcyBtYXJhdGhvbiBhcHAgcmVtb3ZlIC9jYXNzYW5kcmEKIyMgQWdlbnQKIyMjIEFnZW50IHN0YXR1cwpzdWRvIHN5c3RlbWN0bCBzdGF0dXMgZGNvcy1tZXNvcy1zbGF2ZS5zZXJ2aWNlCiMjIFNoYXJlZCBkcml2ZQpodHRwczovL2RvY3MubWljcm9zb2Z0LmNvbS9lbi11cy9henVyZS9zdG9yYWdlL2ZpbGVzL3N0b3JhZ2UtaG93LXRvLWNyZWF0ZS1maWxlLXNoYXJlCiMjIEFQUFMKY3VybCBndmMtdXMtcHJvZC1wdWJsaWMud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQojIyMgTmdpbngKY3VybCAtdiBzcC1uZ2lueC5tYXJhdGhvbi5sNGxiLnRoaXNkY29zLmRpcmVjdG9yeToxMDAwMC9hcGkvaGVhbHRoY2hlY2sKIyMjIEFjdG9yIHN5c3RlbQphY3Rvci1zeXN0ZW0ubWFyYXRob24ubDRsYi50aGlzZGNvcy5kaXJlY3Rvcnk6OTAwMAojIyBFbGFzdGljc2VhcmNoCmN1cmwgZXNodHRwLm1hcmF0aG9uLmw0bGIudGhpc2Rjb3MuZGlyZWN0b3J5OjkyMDAKY3VybCBlc2h0dHAubWFyYXRob24ubDRsYi50aGlzZGNvcy5kaXJlY3Rvcnk6OTIwMC9fY2x1c3Rlci9oZWFsdGgKaHR0cDovL21hc3Rlci5tZXNvcy9zZXJ2aWNlL21hcmF0aG9uL3YyL2FwcHMvZXMtY2x1c3RlcgojIyMgTG9hZCBiYWxhbmNlcgplbmRwb2ludHM6Cmh0dHBzOi8vZ2l0aHViLmNvbS9tZXNvc3BoZXJlL21hcmF0aG9uLWxiCmN1cmwgaHR0cDovL21hcmF0aG9uLWxiLm1hcmF0aG9uLm1lc29zOjkwOTAvaGFwcm94eT9zdGF0cwpodHRwczovL2RvY3MubWVzb3NwaGVyZS5jb20vMS4xMS90dXRvcmlhbHMvZGNvcy0xMDEvbWFyYXRob24tbGIvCjEwLjQuMC40OjEwMDAwCiMjIyMgT3BlbiB0cmFmZmljIHRvIHZtcwoxLiA=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CS4vc2NyaXB0c19jb21tb24vZGVwbG95X2Nocm9ub3MucHkgLi9kZXBsb3kvbWludXRlL2Nocm9ub3MuanNvbgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CS4vc2NyaXB0c19jb21tb24vZGVwbG95X2Nocm9ub3MucHkgLi9kZXBsb3kvaG91ci9jaHJvbm9zLmpzb24K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGVwbG95Ogo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CS4vc2NyaXB0c19jb21tb24vZGVwbG95X2Nocm9ub3MucHkgLi9kZXBsb3kvbWludXRlL2Nocm9ub3MuanNvbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CS4vc2NyaXB0c19jb21tb24vZGVwbG95X2Nocm9ub3MucHkgLi9kZXBsb3kvaG91ci9jaHJvbm9zLmpzb24K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVwbG95Ogo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vZGVwbG95L21pbnV0ZSAuL3NjcmlwdHNfY29tbW9uL2dlbmVyYXRlX3RlbXBsYXRlX2Nocm9ub3Muc2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vZGVwbG95L2hvdXIgLi9zY3JpcHRzX2NvbW1vbi9nZW5lcmF0ZV90ZW1wbGF0ZV9jaHJvbm9zLnNoCg==</text>
+        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vZGVwbG95L21pbnV0ZSAuL3NjcmlwdHNfY29tbW9uL2dlbmVyYXRlX3RlbXBsYXRlX2Nocm9ub3Muc2gK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSAuL2J1aWxkLnNoCg==</text>
+        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vZGVwbG95L2hvdXIgLi9zY3JpcHRzX2NvbW1vbi9nZW5lcmF0ZV90ZW1wbGF0ZV9jaHJvbm9zLnNoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YnVpbGQ6Cg==</text>
+        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSAuL2J1aWxkLnNoCg==</text>
       </register>
       <register name=":" type="4">
-        <text>45,47d</text>
+        <text>165,172y</text>
       </register>
     </registers>
     <search>
-      <last-search>cassandra</last-search>
+      <last-search>stat_a</last-search>
       <last-offset />
-      <last-pattern>cassandra</last-pattern>
+      <last-pattern>stat_a</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>${main\.version}</last-substitute>
       <last-dir>1</last-dir>
@@ -1614,17 +1660,18 @@
         <entry>backup_org_data</entry>
         <entry>connector</entry>
         <entry>properties</entry>
-        <entry>dell</entry>
-        <entry>dell\.software\.dataprotection</entry>
-        <entry>${main\.version}</entry>
         <entry>SNAPSHOT</entry>
-        <entry>guava</entry>
-        <entry>lombok</entry>
-        <entry>web</entry>
-        <entry>prop</entry>
         <entry>azure</entry>
         <entry>upload</entry>
         <entry>cassandra</entry>
+        <entry>dell</entry>
+        <entry>dell\.software\.dataprotection</entry>
+        <entry>${main\.version}</entry>
+        <entry>guava</entry>
+        <entry>web</entry>
+        <entry>lombok</entry>
+        <entry>prop</entry>
+        <entry>stat_a</entry>
       </history-search>
       <history-cmd>
         <entry>20,31y</entry>
@@ -1644,10 +1691,14 @@
         <entry>%s/dell\.software\.dataprotection/quest\.orbital/g</entry>
         <entry>54,58d</entry>
         <entry>46,48d</entry>
+        <entry>45,47d</entry>
         <entry>%s/dell\.software\.dataprotection/quest\.orbital/</entry>
         <entry>%s/${main\.version}/1\.0\.0/</entry>
         <entry>53,54d</entry>
-        <entry>45,47d</entry>
+        <entry>45,47y</entry>
+        <entry>180,290y</entry>
+        <entry>170,177y</entry>
+        <entry>165,172y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
