@@ -18,10 +18,10 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" timestamp="1536229911164">
+      <file name="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" timestamp="1536237546970">
         <mark key="'" line="180" column="48" />
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="45" column="40" />
         <mark key="^" line="171" column="3" />
         <mark key="." line="282" column="0" />
       </file>
@@ -72,9 +72,6 @@
         <mark key="]" line="212" column="25" />
         <mark key="^" line="212" column="25" />
         <mark key="." line="212" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-agent-common/.gitignore" timestamp="1536066498856">
-        <mark key="[" line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/impl/KfMessageCharts.java" timestamp="1535093509380">
         <mark key="[" line="9" column="0" />
@@ -142,21 +139,17 @@
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/.gitignore" timestamp="1536067669174">
-        <mark key="[" line="96" column="18" />
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/.gitignore" timestamp="1536237651638">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="94" column="4" />
+        <mark key="^" line="94" column="4" />
+        <mark key="." line="94" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-job-stat-aggregator/.gitignore" timestamp="1536230223609">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="^" line="118" column="4" />
         <mark key="." line="119" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1536228612221">
-        <mark key="'" line="14" column="10" />
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="217" column="105" />
-        <mark key="." line="217" column="105" />
-        <mark key="^" line="212" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/connector-cassandra/Makefile" timestamp="1535971484311">
         <mark key="[" line="4" column="16" />
@@ -178,6 +171,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" timestamp="1536237744822">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="^" line="47" column="7" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/factory/impl/UnregistrationFactoryImpl.java" timestamp="1535362597472">
         <mark key="[" line="3" column="0" />
@@ -256,7 +255,7 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/.gitignore" timestamp="1536230213241">
+      <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/.gitignore" timestamp="1536237644407">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="^" line="118" column="4" />
@@ -355,9 +354,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-kafka-slack/build.sh" timestamp="1536143185661">
-        <mark key="[" line="4" column="4" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-user-data/src/main/java/portal/kcs/model/factory/impl/MessageFactoryImpl.java" timestamp="1535364322508">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -416,6 +412,13 @@
         <mark key="^" line="21" column="68" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/Makefile" timestamp="1536236961492">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/consumer/factory/impl/GenericConsumerFactory.java" timestamp="1535360260370">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
@@ -468,9 +471,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-customer-subdomain/scripts_common/tests/test_common.py" timestamp="1536137144753">
-        <mark key="[" line="6" column="12" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-agent-common/pom.xml" timestamp="1536066807381">
         <mark key="'" line="88" column="26" />
         <mark key="[" line="53" column="68" />
@@ -499,9 +499,6 @@
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-backup-api/.gitignore" timestamp="1536157088401">
-        <mark key="[" line="96" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcc/model/impl/KfSecureMessage.java" timestamp="1534933978254">
         <mark key="[" line="3" column="0" />
@@ -597,9 +594,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-customer-subdomain/scripts_common/generate_template.sh" timestamp="1536137107602">
-        <mark key="[" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/Jenkinsfile.groovy" timestamp="1536146136499">
         <mark key="[" line="32" column="48" />
@@ -751,7 +745,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-job-diagnostics-upload-monitor/src/main/resources/application-us-dev.properties" timestamp="1536226710970" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-azure-blob/src/main/java/portal/azure/storage/config/AzureBlobConfig.java" timestamp="1535352601333">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="0" />
@@ -836,6 +829,11 @@
         <mark key="." line="32" column="102" />
         <mark key="^" line="32" column="102" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/src/main/resources/application-us-dev.properties.encrypted" timestamp="1536237045206">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/StatsConsumerFactoryImpl.java" timestamp="1535308070703">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="17" column="36" />
@@ -867,6 +865,11 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/README.md" timestamp="1536236867217">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcc/model/impl/ConsumerImpl.java" timestamp="1534934325890">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -878,13 +881,10 @@
         <mark key="^" line="101" column="17" />
         <mark key="." line="101" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1536230078661">
-        <mark key="'" line="224" column="25" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="171" column="77" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-job-diagnostics-upload-monitor/.gitignore" timestamp="1536226693052">
-        <mark key="[" line="97" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1536236908702">
+        <mark key="'" line="174" column="36" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="106" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/ConsumerFactory.java" timestamp="1535033925963">
         <mark key="[" line="8" column="4" />
@@ -952,13 +952,6 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" timestamp="1536222871726">
-        <mark key="'" line="475" column="27" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="47" column="40" />
-        <mark key="^" line="57" column="36" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-manage/build.sh" timestamp="1536152957026">
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="17" />
@@ -1000,7 +993,7 @@
         <mark key="^" line="276" column="25" />
         <mark key="." line="276" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/pom.xml" timestamp="1536229899411">
+      <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/pom.xml" timestamp="1536237477245">
         <mark key="'" line="53" column="8" />
         <mark key="[" line="179" column="0" />
         <mark key="]" line="289" column="15" />
@@ -1028,6 +1021,11 @@
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/Dockerfile" timestamp="1536237437974">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra-user-data/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1535364341619">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1037,6 +1035,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1536237661227">
+        <mark key="'" line="121" column="8" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="56" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-model/.gitignore" timestamp="1536055426325">
         <mark key="[" line="67" column="17" />
@@ -1051,14 +1055,17 @@
         <mark key="." line="44" column="39" />
         <mark key="^" line="44" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/Jenkinsfile.groovy" timestamp="1536237391028">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="123" />
+        <mark key="." line="32" column="123" />
+        <mark key="^" line="32" column="123" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/us-orbital-dev/ssh.cfg" timestamp="1535440287577">
         <mark key="[" line="3" column="50" />
         <mark key="]" line="3" column="50" />
         <mark key="^" line="7" column="19" />
         <mark key="." line="3" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/notes.md" timestamp="1536228449354">
-        <mark key="'" line="18" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/impl/ChartsEsKfMessage.java" timestamp="1535365725249">
         <mark key="[" line="10" column="0" />
@@ -1102,9 +1109,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-customer-subdomain/scripts_common/generate_template_chronos.sh" timestamp="1536137158201">
-        <mark key="[" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/StatsKfFactoryImpl.java" timestamp="1535307451356">
         <mark key="[" line="18" column="5" />
@@ -1284,9 +1288,6 @@
         <mark key="." line="32" column="48" />
         <mark key="^" line="32" column="124" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-kafka-cassandra-consumer-common/.gitignore" timestamp="1536070767858">
-        <mark key="[" line="96" column="18" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-job-stat-aggregator/Jenkinsfile.groovy" timestamp="1536232673748">
         <mark key="[" line="32" column="48" />
         <mark key="]" line="32" column="48" />
@@ -1333,9 +1334,6 @@
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-agent-manage/src/main/java/portal/agent/manage/ManageAgentApp.java" timestamp="1536153874580">
-        <mark key="[" line="7" column="85" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/CassandraCluster.java" timestamp="1534513833400">
         <mark key="[" line="0" column="8" />
@@ -1454,14 +1452,6 @@
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-job-diagnostics-upload-monitor/pom.xml" timestamp="1536226435655">
-        <mark key="'" line="276" column="32" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="60" />
-        <mark key="^" line="47" column="7" />
-        <mark key="n" line="130" column="25" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/connector-cassandra/pom.xml" timestamp="1535970789182">
         <mark key="'" line="112" column="24" />
         <mark key="[" line="12" column="13" />
@@ -1498,25 +1488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="12" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
-      <jump line="375" column="9" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
-      <jump line="210" column="0" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
-      <jump line="83" column="33" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
-      <jump line="136" column="44" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
-      <jump line="235" column="28" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
-      <jump line="329" column="4" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
-      <jump line="378" column="32" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
-      <jump line="84" column="31" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
-      <jump line="312" column="32" filename="$USER_HOME$/Projects/orbital-svc-backup-api/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/orbital-svc-backup-api/Jenkinsfile.groovy" />
-      <jump line="40" column="17" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/pom.xml" />
-      <jump line="120" column="29" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/pom.xml" />
-      <jump line="230" column="25" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/pom.xml" />
-      <jump line="237" column="25" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/pom.xml" />
-      <jump line="378" column="2" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/pom.xml" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/pom.xml" />
-      <jump line="150" column="0" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/pom.xml" />
       <jump line="173" column="28" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/pom.xml" />
       <jump line="87" column="32" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/pom.xml" />
       <jump line="89" column="31" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/pom.xml" />
@@ -1598,55 +1569,74 @@
       <jump line="180" column="48" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/pom.xml" />
       <jump line="224" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/orbital-job-stat-aggregator/Makefile" />
+      <jump line="174" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/Makefile" />
+      <jump line="47" column="17" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="125" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="185" column="12" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="402" column="14" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="98" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="249" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="81" column="47" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="79" column="13" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="341" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="108" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="121" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="116" column="38" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="348" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="56" column="8" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
+      <jump line="164" column="27" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
       </register>
       <register name="/" type="4">
-        <text>stat_a</text>
+        <text>connector</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9kdWxlX2NoYXJ0X2FnZ3JlZ2F0b3JfYnVpbGQ6CglWRVJTSU9OPSR7VkVSU0lPTn0gY2QgLi9jaGFydC1hZ2dyZWdhdG9yICYmIC4vYnVpbGQuc2gKCVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vY2hhcnQtYWdncmVnYXRvci9kZXBsb3kvaG91ciAuL3NjcmlwdHMvZ2VuZXJhdGVfdGVtcGxhdGVfY2hyb25vcy5zaAoJVkVSU0lPTj0ke1ZFUlNJT059IENPTlRFWFQ9Li9jaGFydC1hZ2dyZWdhdG9yL2RlcGxveS9taW51dGUgLi9zY3JpcHRzL2dlbmVyYXRlX3RlbXBsYXRlX2Nocm9ub3Muc2gKCm1vZHVsZV9jaGFydF9hZ2dyZWdhdG9yX2RlcGxveToKCS4vc2NyaXB0cy9kZXBsb3lfY2hyb25vcy5weSAuL2NoYXJ0LWFnZ3JlZ2F0b3IvZGVwbG95L2hvdXIvY2hyb25vcy5qc29uCgkuL3NjcmlwdHMvZGVwbG95X2Nocm9ub3MucHkgLi9jaGFydC1hZ2dyZWdhdG9yL2RlcGxveS9taW51dGUvY2hyb25vcy5qc29uCg==</text>
+        <text encoding="base64">CQk8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgoJCTxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgoJCTxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS4vc2NyaXB0c19jb21tb24vZGVwbG95X2Nocm9ub3MucHkgLi9kZXBsb3kvbWludXRlL2Nocm9ub3MuanNvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS4vc2NyaXB0c19jb21tb24vZGVwbG95X2Nocm9ub3MucHkgLi9kZXBsb3kvaG91ci9jaHJvbm9zLmpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVwbG95Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD4qPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD4qPC9ncm91cElkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vZGVwbG95L21pbnV0ZSAuL3NjcmlwdHNfY29tbW9uL2dlbmVyYXRlX3RlbXBsYXRlX2Nocm9ub3Muc2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vZGVwbG95L2hvdXIgLi9zY3JpcHRzX2NvbW1vbi9nZW5lcmF0ZV90ZW1wbGF0ZV9jaHJvbm9zLnNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSAuL2J1aWxkLnNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4wLjA8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>165,172y</text>
+        <text>44,46y</text>
       </register>
     </registers>
     <search>
-      <last-search>stat_a</last-search>
+      <last-search>connector</last-search>
       <last-offset />
-      <last-pattern>stat_a</last-pattern>
+      <last-pattern>connector</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>${main\.version}</last-substitute>
       <last-dir>1</last-dir>
@@ -1659,25 +1649,30 @@
         <entry>swag</entry>
         <entry>spring</entry>
         <entry>rpop</entry>
-        <entry>swagger</entry>
         <entry>lom</entry>
         <entry>proper</entry>
         <entry>url</entry>
         <entry>backup_org_data</entry>
-        <entry>connector</entry>
         <entry>properties</entry>
-        <entry>SNAPSHOT</entry>
-        <entry>azure</entry>
         <entry>upload</entry>
         <entry>cassandra</entry>
+        <entry>stat_a</entry>
+        <entry>kafka_elast</entry>
         <entry>dell</entry>
+        <entry>dell\,software\.dataprotection</entry>
         <entry>dell\.software\.dataprotection</entry>
         <entry>${main\.version}</entry>
+        <entry>SNAPSHOT</entry>
         <entry>guava</entry>
-        <entry>web</entry>
         <entry>lombok</entry>
+        <entry>/</entry>
+        <entry>propret</entry>
+        <entry>web</entry>
+        <entry>azure</entry>
+        <entry>swagger</entry>
         <entry>prop</entry>
-        <entry>stat_a</entry>
+        <entry>kafka-elast</entry>
+        <entry>connector</entry>
       </history-search>
       <history-cmd>
         <entry>20,31y</entry>
@@ -1698,13 +1693,17 @@
         <entry>54,58d</entry>
         <entry>46,48d</entry>
         <entry>45,47d</entry>
-        <entry>%s/dell\.software\.dataprotection/quest\.orbital/</entry>
-        <entry>%s/${main\.version}/1\.0\.0/</entry>
         <entry>53,54d</entry>
         <entry>45,47y</entry>
         <entry>180,290y</entry>
         <entry>170,177y</entry>
         <entry>165,172y</entry>
+        <entry>102,107y</entry>
+        <entry>%s/dell\,software\.dataprotection/quest\.orbital/</entry>
+        <entry>%s/dell\.software\.dataprotection/quest\.orbital/</entry>
+        <entry>%s/${main\.version}/1\.0\.0/</entry>
+        <entry>52,53y</entry>
+        <entry>44,46y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
