@@ -155,6 +155,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/maven-settings.xml" timestamp="1536319897027">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/factory/impl/UnregistrationFactoryImpl.java" timestamp="1535362597472">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1642,10 +1648,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>admin123</text>
+        <text>development</text>
       </register>
       <register name="-" type="4">
-        <text>admin123</text>
+        <text>development</text>
       </register>
       <register name="/" type="4">
         <text>spring</text>
