@@ -48,6 +48,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-metadata-organizations/build.sh" timestamp="1536306364813">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+        <mark key="^" line="6" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-agent-common/.gitignore" timestamp="1536066498856">
         <mark key="[" line="97" column="0" />
       </file>
@@ -55,6 +61,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-metadata-organizations/Jenkinsfile.groovy" timestamp="1536306636770">
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="139" />
+        <mark key="." line="32" column="139" />
+        <mark key="^" line="32" column="139" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-lib-connector-cassandra/maven-settings.xml" timestamp="1536142469568">
         <mark key="[" line="31" column="19" />
@@ -300,6 +312,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-metadata-organizations/Dockerfile" timestamp="1536306380121">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-actor-system/.gitignore" timestamp="1536218959732">
         <mark key="[" line="89" column="25" />
         <mark key="]" line="91" column="0" />
@@ -320,6 +337,11 @@
         <mark key="]" line="7" column="10" />
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-metadata-organizations/README.md" timestamp="1536306304663">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-ui-customer-subdomain/README.md" timestamp="1536132801613">
         <mark key="[" line="2" column="0" />
@@ -925,7 +947,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/.gitignore" timestamp="1536242886883">
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/.gitignore" timestamp="1536306565463">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="118" column="4" />
         <mark key="^" line="118" column="4" />
@@ -1019,6 +1041,12 @@
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-metadata-organizations/.gitignore" timestamp="1536306577429">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="118" column="4" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/ssh.cfg" timestamp="1535440241328">
         <mark key="[" line="7" column="5" />
@@ -1564,11 +1592,11 @@
       <jump line="170" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-svc-kafka-elasticsearch-removal.git</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-svc-kafka-elasticsearch-removal.git</text>
       </register>
       <register name="/" type="4">
         <text>SNAPSHOT</text>
@@ -1580,28 +1608,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvcHJvZmlsZXM+Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDwvcHJvZmlsZXM+Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Byb2ZpbGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1aWxkPgogICAgICAgICAgICAgICAgPHBsdWdpbnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3Byb2ZpbGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9hY3RpdmF0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1aWxkPgogICAgICAgICAgICAgICAgPHBsdWdpbnM+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3RpdmVCeURlZmF1bHQ+dHJ1ZTwvYWN0aXZlQnlEZWZhdWx0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9hY3RpdmF0aW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFjdGl2YXRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3RpdmVCeURlZmF1bHQ+dHJ1ZTwvYWN0aXZlQnlEZWZhdWx0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlkPnBvcnRhbC1kZWZhdWx0PC9pZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFjdGl2YXRpb24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/${main\.version}/1\.0\.0/</text>
