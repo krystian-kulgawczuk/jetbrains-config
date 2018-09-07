@@ -13,6 +13,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/scripts_common/README.md" timestamp="1536317155420">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-agent-contact-kafka/Makefile" timestamp="1536130269787">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="17" />
@@ -23,7 +29,7 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="/a.dummy" timestamp="1536305598161">
+      <file name="/a.dummy" timestamp="1536317136776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/model/ElasticAlert.java" timestamp="1535360736764">
@@ -53,6 +59,12 @@
         <mark key="]" line="12" column="47" />
         <mark key="." line="12" column="47" />
         <mark key="^" line="6" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/scripts_common/pull_repositories.py" timestamp="1536316476666">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="3" />
+        <mark key="." line="41" column="3" />
+        <mark key="^" line="41" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-agent-common/.gitignore" timestamp="1536066498856">
         <mark key="[" line="97" column="0" />
@@ -150,13 +162,6 @@
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/.gitignore" timestamp="1536243926069">
         <mark key="[" line="96" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" timestamp="1536306009960">
-        <mark key="'" line="6" column="21" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="46" column="40" />
-        <mark key="^" line="47" column="7" />
-        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/us-orbital-dev/hosts" timestamp="1535446802857">
         <mark key="[" line="1" column="0" />
@@ -429,6 +434,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/scripts_common/encrypt.py" timestamp="1536313822081" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/SingleCassandraCluster.java" timestamp="1534513841489">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
@@ -463,6 +469,11 @@
         <mark key="[" line="32" column="17" />
         <mark key="]" line="32" column="18" />
         <mark key="." line="32" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/scripts_common/resources/orbital_repositories_list.txt" timestamp="1536316829967">
+        <mark key="[" line="20" column="72" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-azure-blob/pom.xml" timestamp="1535310520804">
         <mark key="[" line="20" column="0" />
@@ -872,13 +883,6 @@
         <mark key="." line="32" column="102" />
         <mark key="^" line="32" column="102" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" timestamp="1536306014565">
-        <mark key="'" line="170" column="12" />
-        <mark key="[" line="284" column="12" />
-        <mark key="]" line="397" column="14" />
-        <mark key="^" line="397" column="14" />
-        <mark key="." line="397" column="14" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/src/main/resources/application-us-dev.properties.encrypted" timestamp="1536237045206">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -895,6 +899,9 @@
         <mark key="]" line="26" column="20" />
         <mark key="." line="26" column="20" />
         <mark key="^" line="26" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/scripts_common/clone_repositories.py" timestamp="1536317496798">
+        <mark key="[" line="43" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/scripts-common/README.md" timestamp="1535958680416">
         <mark key="[" line="0" column="10" />
@@ -1128,12 +1135,6 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/scripts_common/decrypt.py" timestamp="1535960007982">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-customer-manage-button/src/main/resources/application-us-dev.properties.encrypted" timestamp="1536217070810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1299,6 +1300,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" timestamp="1536314785364">
+        <mark key="'" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-agent-data-structure/Makefile" timestamp="1536130345862">
         <mark key="[" line="3" column="17" />
@@ -1514,7 +1518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="12" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
       <jump line="198" column="35" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
       <jump line="256" column="21" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
       <jump line="167" column="21" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
@@ -1614,13 +1617,14 @@
       <jump line="318" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
       <jump line="269" column="24" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
       <jump line="268" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ssh://git@git.labs.quest.com/dpdr/orbital-svc-kafka-elasticsearch-removal.git</text>
+        <text>pulling</text>
       </register>
       <register name="-" type="4">
-        <text>ssh://git@git.labs.quest.com/dpdr/orbital-svc-kafka-elasticsearch-removal.git</text>
+        <text>pulling</text>
       </register>
       <register name="/" type="4">
         <text>spring</text>
@@ -1629,34 +1633,34 @@
         <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtc3ZjLWJhY2t1cC1hcGkuZ2l0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtbGliLWF6dXJlLWJsb2JzLmdpdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvcHJvZmlsZXM+Cg==</text>
+        <text encoding="base64">ICAgIG9zLmNoZGlyKHJlcG9fcGF0aCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihyZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Byb2ZpbGU+Cg==</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1aWxkPgogICAgICAgICAgICAgICAgPHBsdWdpbnM+Cg==</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9hY3RpdmF0aW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3RpdmVCeURlZmF1bHQ+dHJ1ZTwvYWN0aXZlQnlEZWZhdWx0Pgo=</text>
+        <text encoding="base64">ICAgIGlmIHJlc3VsdC5yZXR1cm5jb2RlICE9IDA6CiAgICAgICAgcmFpc2UgRXhjZXB0aW9uKGYnVW5hYmxlIHRvIGNsb25lIHJlcG9zaXRvcnkgZnJvbSB7cGF0aH0nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFjdGl2YXRpb24+Cg==</text>
+        <text encoding="base64">ICAgIGlmIHJlc3VsdC5yZXR1cm5jb2RlICE9IDA6CiAgICAgICAgcmFpc2UgRXhjZXB0aW9uKGYnVW5hYmxlIHRvIGNsb25lIHJlcG9zaXRvcnkgZnJvbSB7cGF0aH0nKQoKICAgIGxvZ2dlci5kZWJ1ZyhmJ3B1bGwgcmVzdWx0IGZyb20ge3BhdGh9OiB7cmVzdWx0fScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/${main\.version}/1\.0\.0/</text>
+        <text>40,43d</text>
       </register>
     </registers>
     <search>
@@ -1715,6 +1719,8 @@
         <entry>%s/dell\.software\.dataprotection/quest\.orbital/</entry>
         <entry>%s/${main\.version/1\.0\.0/</entry>
         <entry>%s/${main\.version}/1\.0\.0/</entry>
+        <entry>32,39d</entry>
+        <entry>40,43d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
