@@ -470,6 +470,12 @@
         <mark key="]" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/devtools-common/README.md" timestamp="1536317836659">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/scripts_common/resources/orbital_repositories_list.txt" timestamp="1536316829967">
         <mark key="[" line="20" column="72" />
         <mark key="]" line="20" column="0" />
@@ -1621,10 +1627,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pulling</text>
+        <text>sciripts</text>
       </register>
       <register name="-" type="4">
-        <text>pulling</text>
+        <text>sciripts</text>
       </register>
       <register name="/" type="4">
         <text>spring</text>
@@ -1633,31 +1639,31 @@
         <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtc3ZjLWJhY2t1cC1hcGkuZ2l0Cg==</text>
+        <text encoding="base64">YHB5dGhvbjMgLW0gdW5pdHRlc3QgZGlzY292ZXJgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtbGliLWF6dXJlLWJsb2JzLmdpdAo=</text>
+        <text encoding="base64">IyMgUnVuIHRlc3RzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9zLmNoZGlyKHJlcG9fcGF0aCkK</text>
+        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtc3ZjLWJhY2t1cC1hcGkuZ2l0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihyZSkK</text>
+        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtbGliLWF6dXJlLWJsb2JzLmdpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
+        <text encoding="base64">ICAgIG9zLmNoZGlyKHJlcG9fcGF0aCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihyZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHJlc3VsdC5yZXR1cm5jb2RlICE9IDA6CiAgICAgICAgcmFpc2UgRXhjZXB0aW9uKGYnVW5hYmxlIHRvIGNsb25lIHJlcG9zaXRvcnkgZnJvbSB7cGF0aH0nKQo=</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHJlc3VsdC5yZXR1cm5jb2RlICE9IDA6CiAgICAgICAgcmFpc2UgRXhjZXB0aW9uKGYnVW5hYmxlIHRvIGNsb25lIHJlcG9zaXRvcnkgZnJvbSB7cGF0aH0nKQoKICAgIGxvZ2dlci5kZWJ1ZyhmJ3B1bGwgcmVzdWx0IGZyb20ge3BhdGh9OiB7cmVzdWx0fScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>40,43d</text>
