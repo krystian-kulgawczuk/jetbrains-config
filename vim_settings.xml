@@ -132,6 +132,7 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1536308429161" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1535366257833">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -455,6 +456,9 @@
         <mark key="." line="115" column="17" />
         <mark key="^" line="115" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" timestamp="1536308299433">
+        <mark key="'" line="55" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-azure-blob/pom.xml" timestamp="1535310520804">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -593,7 +597,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/es/EsFactory.java" timestamp="1536305451704" />
       <file name="$USER_HOME$/Projects/orbital-job-chart-aggregator/build.sh" timestamp="1536224627208">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -927,6 +930,7 @@
         <mark key="^" line="13" column="67" />
         <mark key="." line="13" column="67" />
       </file>
+      <file name="/OrganizationMetadataImpl.java" timestamp="1536307832941" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/UnregistrationDRImpl.java" timestamp="1535362528906">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1490,7 +1494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="12" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="195" column="12" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="240" column="26" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="249" column="41" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
@@ -1590,6 +1593,7 @@
       <jump line="168" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
       <jump line="127" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
       <jump line="170" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
+      <jump line="55" column="1" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1599,7 +1603,7 @@
         <text>ssh://git@git.labs.quest.com/dpdr/orbital-svc-kafka-elasticsearch-removal.git</text>
       </register>
       <register name="/" type="4">
-        <text>SNAPSHOT</text>
+        <text>organization_me</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
@@ -1636,9 +1640,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SNAPSHOT</last-search>
+      <last-search>organization_me</last-search>
       <last-offset />
-      <last-pattern>SNAPSHOT</last-pattern>
+      <last-pattern>organization_me</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>${main\.version}</last-substitute>
       <last-dir>1</last-dir>
@@ -1646,11 +1650,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lombok</entry>
-        <entry>/</entry>
-        <entry>propret</entry>
-        <entry>azure</entry>
-        <entry>kafka-elast</entry>
         <entry>version</entry>
         <entry>web</entry>
         <entry>swagger</entry>
@@ -1671,10 +1670,9 @@
         <entry>${main\.version</entry>
         <entry>${main\.version}</entry>
         <entry>SNAPSHOT</entry>
+        <entry>organization_me</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
-        <entry>q</entry>
         <entry>%s/dell\.software\.dataprotection/quest\.orbital/g</entry>
         <entry>54,58d</entry>
         <entry>46,48d</entry>
