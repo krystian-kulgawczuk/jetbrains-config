@@ -144,7 +144,7 @@
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/.gitignore" timestamp="1536243926069">
         <mark key="[" line="96" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" timestamp="1536264952942">
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" timestamp="1536303134931">
         <mark key="'" line="6" column="21" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="46" column="40" />
@@ -211,12 +211,11 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/pom.xml" timestamp="1536243842575">
-        <mark key="'" line="183" column="14" />
-        <mark key="[" line="46" column="40" />
-        <mark key="]" line="47" column="7" />
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/pom.xml" timestamp="1536303587548">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
         <mark key="^" line="47" column="7" />
-        <mark key="." line="47" column="7" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-charts/src/main/java/portal/kcc/model/factory/impl/KccMessageFactoryImpl.java" timestamp="1535542592336">
         <mark key="[" line="12" column="6" />
@@ -1438,7 +1437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
       <jump line="121" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="116" column="38" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
       <jump line="348" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
@@ -1538,55 +1536,56 @@
       <jump line="263" column="29" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="264" column="28" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="6" column="21" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
+      <jump line="164" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0.0.1-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text>spring</text>
+        <text>elasti</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dlpYcFpZL3doOVY3aHRLbjVja2NQSGxvUHhJZStON3Z5ekJ4TG1ySjBVTT0K</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UVQ3UC9zMm5JM0plQnhpL0NMUDVuQkVsM1JJU1J1d2xwd09uWUl3aE42dWRKZTFXbk5WcVhIZDByMmJ3bHFjbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4wLjA8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RDB1UmtjRDJUemtZUHk5Mmxwd0c3SEZaVEhZSEZuNk1aYmdCVzdjVHVRcCtPSG90Y0p6dk1weENXZUZPVGs4Rgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29ubmVjdG9yLWVsYXN0aWNzZWFyY2g8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VUpFazRoY2I0NWRWRlQ1WVZoN1ZoaDBLaW9qUkdoeEhLdXNOYTVPaXY5WEVSTWNUbzdTZHhreWFzWEZJa1ZsLwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnF1ZXN0Lm9yYml0YWw8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d3VudG5ZbEpMSC9HbjJJdit6V0RiMUxtTUhvZVA0bHFZdm9vdEZIMFV6ejNrSjhvLzJZRndEYUZWd1NYWXV4QQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">enY4Uy9DZllTZ3VjUjIrUktUNVRNR2U2cmZEWlpOMG1SWkZDcDU1cnQwekZYclZxMjFqQkRFMG5IK3NaQTBPawo=</text>
+        <text encoding="base64">dlpYcFpZL3doOVY3aHRLbjVja2NQSGxvUHhJZStON3Z5ekJ4TG1ySjBVTT0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">a0ZENkpZTW5Ndnl2TG9DdWJzSE9Ddk9uaGtXZEZ5dTJoanlyd2ZZTTdEc01kTUpZTGV3SmVXUVRKQXJ5aVBVRwo=</text>
+        <text encoding="base64">UVQ3UC9zMm5JM0plQnhpL0NMUDVuQkVsM1JJU1J1d2xwd09uWUl3aE42dWRKZTFXbk5WcVhIZDByMmJ3bHFjbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">K2VUVXd0dUdLQmNlWG9oUVA5b0RBMm9id0w5S0kyR2VSRkNXM1NtdURreURINGlYN3F3UmgrNTJUY2JRa21POAo=</text>
+        <text encoding="base64">RDB1UmtjRDJUemtZUHk5Mmxwd0c3SEZaVEhZSEZuNk1aYmdCVzdjVHVRcCtPSG90Y0p6dk1weENXZUZPVGs4Rgo=</text>
       </register>
       <register name=":" type="4">
         <text>45,47y</text>
       </register>
     </registers>
     <search>
-      <last-search>spring</last-search>
+      <last-search>elasti</last-search>
       <last-offset />
-      <last-pattern>spring</last-pattern>
+      <last-pattern>elasti</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>${main\.version}</last-substitute>
       <last-dir>1</last-dir>
@@ -1615,6 +1614,7 @@
         <entry>exclusions</entry>
         <entry>connector</entry>
         <entry>spring</entry>
+        <entry>elasti</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
