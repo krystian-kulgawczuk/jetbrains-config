@@ -23,6 +23,9 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="/a.dummy" timestamp="1536305598161">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-elasticsearch/src/main/java/portal/elasticsearch/model/ElasticAlert.java" timestamp="1535360736764">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -106,13 +109,6 @@
         <mark key="^" line="118" column="4" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1536228612221">
-        <mark key="'" line="14" column="10" />
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="217" column="105" />
-        <mark key="." line="217" column="105" />
-        <mark key="^" line="212" column="32" />
-      </file>
       <file name="$USER_HOME$/Projects/connector-cassandra/Makefile" timestamp="1535971484311">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="18" />
@@ -134,13 +130,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" timestamp="1536242777414">
-        <mark key="'" line="337" column="32" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="46" column="40" />
-        <mark key="^" line="47" column="7" />
-        <mark key="." line="156" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/factory/impl/UnregistrationFactoryImpl.java" timestamp="1535362597472">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -149,7 +138,7 @@
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/.gitignore" timestamp="1536243926069">
         <mark key="[" line="96" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" timestamp="1536305076673">
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" timestamp="1536306009960">
         <mark key="'" line="6" column="21" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="46" column="40" />
@@ -236,6 +225,12 @@
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/factory/impl/MetadataConsumerFactoryImpl.java" timestamp="1536305763696">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/connector-cassandra/scripts_common/decrypt.py" timestamp="1535971020335">
         <mark key="[" line="15" column="38" />
@@ -331,13 +326,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" timestamp="1536242794168">
-        <mark key="'" line="325" column="32" />
-        <mark key="[" line="46" column="40" />
-        <mark key="]" line="46" column="40" />
-        <mark key="^" line="57" column="55" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/hosts" timestamp="1535378793487">
         <mark key="[" line="16" column="0" />
@@ -583,6 +571,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/es/EsFactory.java" timestamp="1536305451704" />
       <file name="$USER_HOME$/Projects/orbital-job-chart-aggregator/build.sh" timestamp="1536224627208">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -666,11 +655,11 @@
         <mark key="^" line="123" column="5" />
         <mark key="." line="123" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/es/impl/EsFactoryImpl.java" timestamp="1536305206308">
-        <mark key="[" line="13" column="73" />
-        <mark key="]" line="13" column="73" />
-        <mark key="." line="13" column="73" />
-        <mark key="^" line="13" column="76" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/es/impl/EsFactoryImpl.java" timestamp="1536305857459">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-agent-data-structure/.idea/.gitignore" timestamp="1536061905381">
         <mark key="[" line="96" column="18" />
@@ -850,12 +839,12 @@
         <mark key="." line="32" column="102" />
         <mark key="^" line="32" column="102" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" timestamp="1536305099278">
-        <mark key="'" line="191" column="24" />
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="40" column="17" />
-        <mark key="^" line="40" column="17" />
-        <mark key="." line="40" column="17" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" timestamp="1536306014565">
+        <mark key="'" line="170" column="12" />
+        <mark key="[" line="284" column="12" />
+        <mark key="]" line="397" column="14" />
+        <mark key="^" line="397" column="14" />
+        <mark key="." line="397" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/src/main/resources/application-us-dev.properties.encrypted" timestamp="1536237045206">
         <mark key="[" line="25" column="0" />
@@ -909,6 +898,12 @@
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/model/impl/MetadataEsConsumerInitImpl.java" timestamp="1536305660875">
+        <mark key="[" line="13" column="67" />
+        <mark key="]" line="13" column="67" />
+        <mark key="^" line="13" column="67" />
+        <mark key="." line="13" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/UnregistrationDRImpl.java" timestamp="1535362528906">
         <mark key="[" line="3" column="0" />
@@ -974,13 +969,6 @@
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" timestamp="1536222871726">
-        <mark key="'" line="475" column="27" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="47" column="40" />
-        <mark key="^" line="57" column="36" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-manage/build.sh" timestamp="1536152957026">
         <mark key="[" line="11" column="17" />
@@ -1275,6 +1263,12 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/factory/impl/MessageFactoryImpl.java" timestamp="1536305824643">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="21" column="62" />
+        <mark key="^" line="21" column="62" />
+        <mark key="." line="21" column="62" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/AlertsImpl.java" timestamp="1535363858341">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1468,11 +1462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="56" column="8" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="164" column="27" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="46" column="39" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
-      <jump line="125" column="26" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="190" column="12" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="195" column="12" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="240" column="26" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
@@ -1568,16 +1557,21 @@
       <jump line="164" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/pom.xml" />
       <jump line="162" column="46" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
       <jump line="163" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
+      <jump line="176" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
+      <jump line="180" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
+      <jump line="168" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
+      <jump line="127" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
+      <jump line="170" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>connector</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
@@ -1586,37 +1580,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvcGFyZW50Pgo=</text>
+        <text encoding="base64">ICAgIDwvcHJvZmlsZXM+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAgaHR0cDovL21hdmVuLmFwYWNoZS5vcmcveHNkL21hdmVuLTQuMC4wLnhzZCI+Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICA8L3Byb2ZpbGU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvcGFyZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1aWxkPgogICAgICAgICAgICAgICAgPHBsdWdpbnM+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4wLjAuMS1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9hY3RpdmF0aW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5jb20uZGVsbC5zb2Z0d2FyZS5kYXRhcHJvdGVjdGlvbjwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3RpdmVCeURlZmF1bHQ+dHJ1ZTwvYWN0aXZlQnlEZWZhdWx0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5Qb3J0YWw8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFjdGl2YXRpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxwYXJlbnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlkPnBvcnRhbC1kZWZhdWx0PC9pZD4K</text>
       </register>
       <register name=":" type="4">
-        <text>45,47y</text>
+        <text>%s/${main\.version}/1\.0\.0/</text>
       </register>
     </registers>
     <search>
-      <last-search>connector</last-search>
+      <last-search>SNAPSHOT</last-search>
       <last-offset />
-      <last-pattern>connector</last-pattern>
+      <last-pattern>SNAPSHOT</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>${main\.version}</last-substitute>
       <last-dir>1</last-dir>
@@ -1637,15 +1631,18 @@
         <entry>${ver</entry>
         <entry>exc</entry>
         <entry>prop</entry>
-        <entry>dell</entry>
-        <entry>dell\.software\.dataprotection</entry>
         <entry>0\.0\.1-SNAPSHOT</entry>
         <entry>${</entry>
-        <entry>${main\.version}</entry>
         <entry>exclusions</entry>
         <entry>spring</entry>
         <entry>elasti</entry>
         <entry>connector</entry>
+        <entry>dell</entry>
+        <entry>dell\.software\.dataprotection</entry>
+        <entry>cassandra-consumer</entry>
+        <entry>${main\.version</entry>
+        <entry>${main\.version}</entry>
+        <entry>SNAPSHOT</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -1664,10 +1661,12 @@
         <entry>44,46y</entry>
         <entry>289,399y</entry>
         <entry>55,58y</entry>
-        <entry>%s/dell\.software\.dataprotection/quest\.orbital/</entry>
         <entry>%s/0\.0\.1-SNAPSHOT/1\.0\.0/</entry>
-        <entry>%s/${main\.version}/1\.0\.0/</entry>
         <entry>45,47y</entry>
+        <entry>%s/dell\.software\.dataprotection/com\.quest/</entry>
+        <entry>%s/dell\.software\.dataprotection/quest\.orbital/</entry>
+        <entry>%s/${main\.version/1\.0\.0/</entry>
+        <entry>%s/${main\.version}/1\.0\.0/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
