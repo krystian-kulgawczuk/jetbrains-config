@@ -60,6 +60,12 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="6" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/groovy_test/pom.xml" timestamp="1536504312119">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/scripts_common/pull_repositories.py" timestamp="1536316476666">
         <mark key="[" line="41" column="4" />
         <mark key="]" line="41" column="3" />
@@ -680,6 +686,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="17" column="19" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/groovy_test/src/test.groovy" timestamp="1536503876585">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/README.md" timestamp="1536154226043">
         <mark key="[" line="0" column="2" />
@@ -1646,11 +1657,11 @@
       <jump line="37" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>groupId</text>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text>groupId</text>
       </register>
       <register name="/" type="4">
         <text>spring</text>
@@ -1662,28 +1673,28 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgbWFpbiB7Cg==</text>
+        <text encoding="base64">Y2xhc3MgdGVzdCB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YHB5dGhvbjMgLW0gdW5pdHRlc3QgZGlzY292ZXJgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgUnVuIHRlc3RzOgo=</text>
+        <text encoding="base64">Y2xhc3MgbWFpbiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtc3ZjLWJhY2t1cC1hcGkuZ2l0Cg==</text>
+        <text encoding="base64">YHB5dGhvbjMgLW0gdW5pdHRlc3QgZGlzY292ZXJgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtbGliLWF6dXJlLWJsb2JzLmdpdAo=</text>
+        <text encoding="base64">IyMgUnVuIHRlc3RzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9zLmNoZGlyKHJlcG9fcGF0aCkK</text>
+        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtc3ZjLWJhY2t1cC1hcGkuZ2l0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihyZSkK</text>
+        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtbGliLWF6dXJlLWJsb2JzLmdpdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
+        <text encoding="base64">ICAgIG9zLmNoZGlyKHJlcG9fcGF0aCkK</text>
       </register>
       <register name=":" type="4">
         <text>40,43d</text>
