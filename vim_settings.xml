@@ -144,7 +144,6 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1536308429161" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1535366257833">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -440,7 +439,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/scripts_common/encrypt.py" timestamp="1536313822081" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/src/main/java/portal/cassandra/support/SingleCassandraCluster.java" timestamp="1534513841489">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
@@ -543,7 +541,6 @@
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-qs-410/Dockerfile" timestamp="1536329788363" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/mount_disks.yml" timestamp="1535441783730">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="9" column="3" />
@@ -625,6 +622,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/untitled/src/main.groovy" timestamp="1536503625588">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-job-chart-aggregator/build.sh" timestamp="1536224627208">
         <mark key="[" line="10" column="21" />
@@ -964,7 +967,6 @@
         <mark key="^" line="13" column="67" />
         <mark key="." line="13" column="67" />
       </file>
-      <file name="/OrganizationMetadataImpl.java" timestamp="1536307832941" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/UnregistrationDRImpl.java" timestamp="1535362528906">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1065,7 +1067,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/OrganizationMetadataColumns.java" timestamp="1536308972591" />
       <file name="$USER_HOME$/Projects/devtools-common/.gitignore" timestamp="1536318008701">
         <mark key="[" line="167" column="0" />
         <mark key="]" line="168" column="4" />
@@ -1253,7 +1254,6 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/Dockerfile" timestamp="1536330539478" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/utils/charts/impl/KfMessageCharts.java" timestamp="1535093912643">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1646,8 +1646,8 @@
       <jump line="37" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>development</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>development</text>
@@ -1659,31 +1659,31 @@
         <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YHB5dGhvbjMgLW0gdW5pdHRlc3QgZGlzY292ZXJgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMgUnVuIHRlc3RzOgo=</text>
+        <text encoding="base64">Y2xhc3MgbWFpbiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtc3ZjLWJhY2t1cC1hcGkuZ2l0Cg==</text>
+        <text encoding="base64">YHB5dGhvbjMgLW0gdW5pdHRlc3QgZGlzY292ZXJgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtbGliLWF6dXJlLWJsb2JzLmdpdAo=</text>
+        <text encoding="base64">IyMgUnVuIHRlc3RzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9zLmNoZGlyKHJlcG9fcGF0aCkK</text>
+        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtc3ZjLWJhY2t1cC1hcGkuZ2l0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihyZSkK</text>
+        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtbGliLWF6dXJlLWJsb2JzLmdpdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
+        <text encoding="base64">ICAgIG9zLmNoZGlyKHJlcG9fcGF0aCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihyZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZV9hcmdzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>40,43d</text>
@@ -1700,9 +1700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>web</entry>
-        <entry>swagger</entry>
-        <entry>kafka-elas</entry>
         <entry>exclusion</entry>
         <entry>${ver</entry>
         <entry>exc</entry>
@@ -1725,8 +1722,6 @@
         <entry>spring</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/dell\.software\.dataprotection/quest\.orbital/g</entry>
-        <entry>54,58d</entry>
         <entry>46,48d</entry>
         <entry>45,47d</entry>
         <entry>53,54d</entry>
