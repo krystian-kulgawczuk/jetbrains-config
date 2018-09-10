@@ -24,6 +24,13 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1536568448581">
+        <mark key="'" line="28" column="26" />
+        <mark key="[" line="48" column="10" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
+        <mark key="^" line="48" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-job-chart-aggregator/README.md" timestamp="1536224435775">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
@@ -1561,12 +1568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="22" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
-      <jump line="78" column="18" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
-      <jump line="181" column="13" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
-      <jump line="182" column="17" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
-      <jump line="161" column="18" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
-      <jump line="287" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
       <jump line="337" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
       <jump line="126" column="33" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
       <jump line="317" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
@@ -1661,6 +1662,12 @@
       <jump line="21" column="40" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="24" column="18" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="25" column="42" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="14" column="50" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="20" column="44" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="48" column="10" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="29" column="55" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="28" column="26" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1670,7 +1677,7 @@
         <text>gvcdev</text>
       </register>
       <register name="/" type="4">
-        <text>gvcdev</text>
+        <text>dib</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
@@ -1707,9 +1714,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gvcdev</last-search>
+      <last-search>dib</last-search>
       <last-offset />
-      <last-pattern>gvcdev</last-pattern>
+      <last-pattern>dib</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>${main\.version}</last-substitute>
       <last-dir>1</last-dir>
@@ -1737,8 +1744,9 @@
         <entry>data</entry>
         <entry>version</entry>
         <entry>spring</entry>
-        <entry>gvc</entry>
         <entry>gvcdev</entry>
+        <entry>gvc</entry>
+        <entry>dib</entry>
       </history-search>
       <history-cmd>
         <entry>46,48d</entry>
