@@ -422,6 +422,12 @@
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/proxy-config.dev.remote.json" timestamp="1536565943734">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-backup-api/build.sh" timestamp="1536157121665">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="15" />
@@ -899,12 +905,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" timestamp="1536564768642">
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" timestamp="1536565904543">
         <mark key="'" line="53" column="21" />
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="26" column="40" />
-        <mark key="." line="26" column="40" />
-        <mark key="^" line="26" column="40" />
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+        <mark key="^" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/src/main/java/portal/utils/MessageFactory.java" timestamp="1535359370176">
         <mark key="[" line="1" column="0" />
@@ -1562,7 +1568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
       <jump line="140" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
       <jump line="185" column="18" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
       <jump line="186" column="14" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
@@ -1660,6 +1665,7 @@
       <jump line="19" column="27" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="22" column="5" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="26" column="64" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="25" column="45" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="58" column="21" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="53" column="21" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
     </jumps>
