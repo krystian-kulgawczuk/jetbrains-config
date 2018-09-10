@@ -1260,6 +1260,7 @@
         <mark key="]" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/Dockerfile" timestamp="1536570699507" />
       <file name="$USER_HOME$/Projects/orbital-azure-blobs/Makefile" timestamp="1536130385839">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="17" />
@@ -1568,11 +1569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/pom.xml" />
-      <jump line="126" column="33" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
-      <jump line="317" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/src/main/resources/application-us-dev.properties.encrypted" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/src/main/resources/application-us-dev.properties.encrypted" />
       <jump line="46" column="39" filename="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/pom.xml" />
       <jump line="119" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/pom.xml" />
       <jump line="169" column="12" filename="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/pom.xml" />
@@ -1668,57 +1664,62 @@
       <jump line="29" column="55" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" />
       <jump line="28" column="26" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="62" column="29" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/Dockerfile" />
+      <jump line="44" column="26" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/Dockerfile" />
+      <jump line="2" column="4" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/Dockerfile" />
+      <jump line="4" column="28" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/Dockerfile" />
+      <jump line="43" column="48" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gvcdev</text>
+        <text>9080</text>
       </register>
       <register name="-" type="4">
-        <text>gvcdev</text>
+        <text>9080</text>
       </register>
       <register name="/" type="4">
-        <text>dib</text>
+        <text>myFatApp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">QVJHIEpBUl9GSUxFCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgdGVzdCB7Cg==</text>
+        <text encoding="base64">QUREIGN1c3RvbWVyLXN1YmRvbWFpbi5qYXIgYXBwLmphcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">RlJPTSAke0RPQ0tFUl9SRUdJU1RSWX0vb3JhY2xlLWpkazo4LjEzMS4xMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgbWFpbiB7Cg==</text>
+        <text encoding="base64">QVJHIERPQ0tFUl9SRUdJU1RSWQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YHB5dGhvbjMgLW0gdW5pdHRlc3QgZGlzY292ZXJgCg==</text>
+        <text encoding="base64">QUREIGN1c3RvbWVyLXN1YmRvbWFpbi5qYXIgYXBwLmphcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMgUnVuIHRlc3RzOgo=</text>
+        <text encoding="base64">RlJPTSAke0RPQ0tFUl9SRUdJU1RSWX0vb3JhY2xlLWpkazo4LjEzMS4xMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtc3ZjLWJhY2t1cC1hcGkuZ2l0Cg==</text>
+        <text encoding="base64">QVJHIERPQ0tFUl9SRUdJU1RSWQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL29yYml0YWwtbGliLWF6dXJlLWJsb2JzLmdpdAo=</text>
+        <text encoding="base64">QUREIGN1c3RvbWVyLXN1YmRvbWFpbi5qYXIgYXBwLmphcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9zLmNoZGlyKHJlcG9fcGF0aCkK</text>
+        <text encoding="base64">RlJPTSAke0RPQ0tFUl9SRUdJU1RSWX0vb3JhY2xlLWpkazo4LjEzMS4xMQo=</text>
       </register>
       <register name=":" type="4">
-        <text>40,43d</text>
+        <text>%s/myFatApp/app</text>
       </register>
     </registers>
     <search>
-      <last-search>dib</last-search>
+      <last-search>myFatApp</last-search>
       <last-offset />
-      <last-pattern>dib</last-pattern>
-      <last-replace>1\.0\.0</last-replace>
-      <last-substitute>${main\.version}</last-substitute>
+      <last-pattern>myFatApp</last-pattern>
+      <last-replace>app</last-replace>
+      <last-substitute>myFatApp</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1747,6 +1748,10 @@
         <entry>gvcdev</entry>
         <entry>gvc</entry>
         <entry>dib</entry>
+        <entry>JAR_FILE</entry>
+        <entry>SPRING_BOOT</entry>
+        <entry>atp-utils</entry>
+        <entry>myFatApp</entry>
       </history-search>
       <history-cmd>
         <entry>46,48d</entry>
@@ -1769,6 +1774,7 @@
         <entry>%s/${main\.version}/1\.0\.0/</entry>
         <entry>32,39d</entry>
         <entry>40,43d</entry>
+        <entry>%s/myFatApp/app</entry>
       </history-cmd>
       <history-expr />
       <history-input />
