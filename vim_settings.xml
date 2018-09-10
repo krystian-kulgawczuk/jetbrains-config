@@ -1664,7 +1664,7 @@
         <text>groupId</text>
       </register>
       <register name="/" type="4">
-        <text>spring</text>
+        <text>gvc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
@@ -1701,9 +1701,9 @@
       </register>
     </registers>
     <search>
-      <last-search>spring</last-search>
+      <last-search>gvc</last-search>
       <last-offset />
-      <last-pattern>spring</last-pattern>
+      <last-pattern>gvc</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>${main\.version}</last-substitute>
       <last-dir>1</last-dir>
@@ -1731,6 +1731,7 @@
         <entry>data</entry>
         <entry>version</entry>
         <entry>spring</entry>
+        <entry>gvc</entry>
       </history-search>
       <history-cmd>
         <entry>46,48d</entry>
