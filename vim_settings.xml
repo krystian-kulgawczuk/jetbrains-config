@@ -383,18 +383,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-job-backup-org-data/Jenkinsfile.groovy" timestamp="1536580030928" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-job-backup-org-data/Jenkinsfile.groovy" timestamp="1536581905408" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/hosts" timestamp="1535378793487">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-job-chart-aggregator/Jenkinsfile.groovy" timestamp="1536575184265">
-        <mark key="[" line="79" column="12" />
-        <mark key="]" line="79" column="16" />
-        <mark key="." line="79" column="16" />
-        <mark key="^" line="79" column="16" />
-      </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-job-chart-aggregator/Jenkinsfile.groovy" timestamp="1536581571960" />
       <file name="$USER_HOME$/Projects/connector-cassandra/scripts-common/encrypt.py" timestamp="1535959711893">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="18" />
@@ -574,7 +569,7 @@
       <file name="$USER_HOME$/Projects/orbital-svc-backup-api/.gitignore" timestamp="1536157088401">
         <mark key="[" line="96" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-job-backup-org-data/scripts_common/deploy_chronos.py" timestamp="1536580155649" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-job-backup-org-data/scripts_common/deploy_chronos.py" timestamp="1536581100155" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/kcc/model/impl/KfSecureMessage.java" timestamp="1534933978254">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -901,6 +896,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-job-chart-aggregator/scripts_common/deploy_marathon.py" timestamp="1536580718196">
+        <mark key="'" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/build.sh" timestamp="1536242545758">
         <mark key="[" line="12" column="30" />
@@ -1293,6 +1291,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-job-backup-org-data/Makefile" timestamp="1536581055333">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backupstorage-stats/src/main/java/portal/backup/model/impl/BackupStatsMessage.java" timestamp="1535364121682">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1569,6 +1573,12 @@
         <mark key="^" line="28" column="47" />
         <mark key="." line="28" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-job-chart-aggregator/Makefile" timestamp="1536580600840">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/view/stats/controller/StatsController.java" timestamp="1535106278653">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1624,7 +1634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="28" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="179" column="13" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="181" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="182" column="24" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
@@ -1724,13 +1733,14 @@
       <jump line="70" column="62" filename="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" />
+      <jump line="23" column="13" filename="$USER_HOME$/Projects/Orbital/orbital-job-chart-aggregator/scripts_common/deploy_marathon.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8000</text>
+        <text>VERSION</text>
       </register>
       <register name="-" type="4">
-        <text>8000</text>
+        <text>VERSION</text>
       </register>
       <register name="/" type="4">
         <text>CHRONOS_DELETE_URL</text>
@@ -1766,7 +1776,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBleCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>94,97d</text>
+        <text>59</text>
       </register>
     </registers>
     <search>
@@ -1847,6 +1857,7 @@
         <entry>83,84d</entry>
         <entry>80,96d</entry>
         <entry>94,97d</entry>
+        <entry>59</entry>
       </history-cmd>
       <history-expr />
       <history-input />
