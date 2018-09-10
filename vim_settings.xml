@@ -422,7 +422,7 @@
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/proxy-config.dev.remote.json" timestamp="1536565943734">
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/proxy-config.dev.remote.json" timestamp="1536567083538">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
@@ -773,6 +773,7 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1536567144076" />
       <file name="$USER_HOME$/Projects/connector-cassandra/Jenkinsfile.groovy" timestamp="1535971277470">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="25" column="22" />
@@ -905,12 +906,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" timestamp="1536565904543">
-        <mark key="'" line="53" column="21" />
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="2" column="40" />
-        <mark key="^" line="2" column="40" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" timestamp="1536567065032">
+        <mark key="'" line="25" column="42" />
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+        <mark key="^" line="26" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-commons/src/main/java/portal/utils/MessageFactory.java" timestamp="1535359370176">
         <mark key="[" line="1" column="0" />
@@ -1033,6 +1034,7 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/build.sh" timestamp="1536566849080" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-charts/src/main/java/portal/kcc/model/impl/KccConsumerInitImpl.java" timestamp="1535542170597">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="57" />
@@ -1055,12 +1057,6 @@
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" timestamp="1536312675309">
-        <mark key="'" line="268" column="25" />
-        <mark key="[" line="40" column="17" />
-        <mark key="]" line="40" column="18" />
-        <mark key="." line="40" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-manage/build.sh" timestamp="1536152957026">
         <mark key="[" line="11" column="17" />
@@ -1351,9 +1347,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" timestamp="1536314785364">
-        <mark key="'" line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-agent-data-structure/Makefile" timestamp="1536130345862">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="17" />
@@ -1541,7 +1534,7 @@
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1536132626652">
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1536567159517">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="17" column="43" />
         <mark key="^" line="17" column="43" />
@@ -1568,11 +1561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="0" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
-      <jump line="185" column="18" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
-      <jump line="186" column="14" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
-      <jump line="73" column="17" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
-      <jump line="74" column="21" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
       <jump line="77" column="22" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
       <jump line="78" column="18" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
       <jump line="181" column="13" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/pom.xml" />
@@ -1662,12 +1650,17 @@
       <jump line="268" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="9" column="25" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
-      <jump line="19" column="27" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="22" column="5" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="26" column="64" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
-      <jump line="25" column="45" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="58" column="21" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="53" column="21" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="2" column="32" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="3" column="25" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="20" column="22" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="19" column="27" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="21" column="40" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="24" column="18" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="25" column="42" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1677,7 +1670,7 @@
         <text>gvcdev</text>
       </register>
       <register name="/" type="4">
-        <text>gvc</text>
+        <text>gvcdev</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
@@ -1714,9 +1707,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gvc</last-search>
+      <last-search>gvcdev</last-search>
       <last-offset />
-      <last-pattern>gvc</last-pattern>
+      <last-pattern>gvcdev</last-pattern>
       <last-replace>1\.0\.0</last-replace>
       <last-substitute>${main\.version}</last-substitute>
       <last-dir>1</last-dir>
@@ -1745,6 +1738,7 @@
         <entry>version</entry>
         <entry>spring</entry>
         <entry>gvc</entry>
+        <entry>gvcdev</entry>
       </history-search>
       <history-cmd>
         <entry>46,48d</entry>
