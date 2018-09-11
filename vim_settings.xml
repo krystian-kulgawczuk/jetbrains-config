@@ -321,6 +321,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-ui-netvault/Makefile" timestamp="1536661437730">
+        <mark key="[" line="17" column="75" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-portal-schema/maven-settings.xml" timestamp="1536065848044">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="34" />
@@ -382,7 +385,11 @@
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="$USER_HOME$/Downloads/1/js/nvcommon.js" timestamp="1536660359520" />
+      <file name="$USER_HOME$/Downloads/1/js/nvcommon.js" timestamp="1536660901460">
+        <mark key="[" line="283" column="0" />
+        <mark key="]" line="283" column="0" />
+        <mark key="." line="283" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-actor-system/Jenkinsfile.groovy" timestamp="1536585744385">
         <mark key="[" line="32" column="48" />
         <mark key="]" line="32" column="109" />
@@ -576,6 +583,10 @@
       <file name="$USER_HOME$/Projects/devtools-common/docker/images_transfer_registry.md" timestamp="1536652607454">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/1/js/quiaddrda1.js" timestamp="1536661201929">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/build.sh" timestamp="1536235930096">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="31" />
@@ -713,7 +724,11 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-netvault/Dockerfile" timestamp="1536659294536" />
+      <file name="$USER_HOME$/Projects/orbital-ui-netvault/Dockerfile" timestamp="1536661670788">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-charts/src/main/java/portal/kcc/model/factory/impl/KccConumerFactoryImpl.java" timestamp="1535542247340">
         <mark key="[" line="14" column="33" />
         <mark key="]" line="13" column="13" />
@@ -732,7 +747,7 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-netvault/package.json" timestamp="1536658680041" />
+      <file name="$USER_HOME$/Projects/orbital-ui-netvault/package.json" timestamp="1536661798219" />
       <file name="$USER_HOME$/Projects/devtools-common/.gitignore" timestamp="1536318008701">
         <mark key="[" line="167" column="0" />
         <mark key="]" line="168" column="4" />
@@ -856,6 +871,11 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/Jenkinsfile.groovy" timestamp="1536583277026">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/Dockerfile" timestamp="1536649140043" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/copy_docker_logrotate.yml" timestamp="1535442628761">
         <mark key="[" line="3" column="20" />
@@ -881,6 +901,9 @@
         <mark key="]" line="12" column="32" />
         <mark key="^" line="6" column="40" />
         <mark key="." line="12" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-agent-manage/Makefile" timestamp="1536586523970">
+        <mark key="[" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-security-common/Jenkinsfile.groovy" timestamp="1536149026937">
         <mark key="[" line="32" column="48" />
@@ -1104,17 +1127,17 @@
       <jump line="48" column="0" filename="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/deploy/marathon-template.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0eXBlOiAiUE9TVCIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>ajax</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiAiUE9TVCIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
