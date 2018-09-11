@@ -797,6 +797,12 @@
       <file name="$USER_HOME$/Projects/orbital-ui-customer-subdomain/scripts_common/generate_template_chronos.sh" timestamp="1536137158201">
         <mark key="[" line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/us-dev/config/nginx.conf" timestamp="1536655941301">
+        <mark key="[" line="124" column="25" />
+        <mark key="]" line="130" column="50" />
+        <mark key="^" line="130" column="50" />
+        <mark key="." line="130" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/StatsKfFactoryImpl.java" timestamp="1535307451356">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="2" />
@@ -822,6 +828,9 @@
         <mark key="." line="18" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/Dockerfile" timestamp="1536570699507" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/Makefile" timestamp="1536655390968">
+        <mark key="[" line="17" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-lib-connector-azure-blob/Jenkinsfile.groovy" timestamp="1536131298268">
         <mark key="[" line="42" column="37" />
         <mark key="]" line="42" column="37" />
@@ -865,9 +874,6 @@
         <mark key="]" line="12" column="32" />
         <mark key="^" line="6" column="40" />
         <mark key="." line="12" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-agent-manage/Makefile" timestamp="1536586523970">
-        <mark key="[" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-security-common/Jenkinsfile.groovy" timestamp="1536149026937">
         <mark key="[" line="32" column="48" />
@@ -1091,10 +1097,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>customer</text>
