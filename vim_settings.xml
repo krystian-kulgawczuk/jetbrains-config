@@ -9,16 +9,10 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1536568448581">
-        <mark key="'" line="28" column="26" />
-        <mark key="[" line="48" column="10" />
-        <mark key="]" line="48" column="19" />
-        <mark key="." line="48" column="19" />
-        <mark key="^" line="48" column="19" />
-      </file>
       <file name="/a.dummy" timestamp="1536317136776">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-ui-netvault/src/edituserdetails.html" timestamp="1536667442331" />
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/RegularAgentApp.java" timestamp="1536155754647">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="7" />
@@ -69,6 +63,9 @@
       </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/Makefile" timestamp="1536579837514">
         <mark key="[" line="17" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-ui-netvault/src/index.html" timestamp="1536667779217">
+        <mark key="[" line="3" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/Jenkinsfile.groovy" timestamp="1535710523593">
         <mark key="[" line="0" column="0" />
@@ -162,13 +159,6 @@
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" timestamp="1536580309984">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="65" column="20" />
-        <mark key="]" line="65" column="57" />
-        <mark key="^" line="65" column="57" />
-        <mark key="." line="65" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/factory/impl/MetadataConsumerFactoryImpl.java" timestamp="1536305763696">
         <mark key="[" line="14" column="39" />
@@ -379,7 +369,7 @@
         <mark key="^" line="21" column="108" />
         <mark key="." line="21" column="94" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/config/nginx.conf" timestamp="1536652930660">
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/config/nginx.conf" timestamp="1536666984285">
         <mark key="[" line="31" column="24" />
         <mark key="]" line="31" column="27" />
         <mark key="." line="31" column="27" />
@@ -437,13 +427,6 @@
       </file>
       <file name="$USER_HOME$/Projects/orbital-ui-customer-subdomain/scripts_common/generate_template.sh" timestamp="1536137107602">
         <mark key="[" line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/deploy/marathon-template.json" timestamp="1536653129640">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-        <mark key="^" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/Jenkinsfile.groovy" timestamp="1536146136499">
         <mark key="[" line="32" column="48" />
@@ -562,6 +545,7 @@
         <mark key="." line="32" column="124" />
         <mark key="^" line="32" column="124" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/config/nginx.conf" timestamp="1536667315272" />
       <file name="$USER_HOME$/Projects/orbital-ui-customer-subdomain/Makefile" timestamp="1536136597020">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="16" />
@@ -598,13 +582,6 @@
         <mark key="]" line="12" column="23" />
         <mark key="^" line="6" column="57" />
         <mark key="." line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" timestamp="1536567065032">
-        <mark key="'" line="25" column="42" />
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="26" column="40" />
-        <mark key="." line="26" column="40" />
-        <mark key="^" line="26" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/.gitignore" timestamp="1536223289060">
         <mark key="[" line="124" column="0" />
@@ -670,7 +647,7 @@
         <mark key="^" line="101" column="17" />
         <mark key="." line="101" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/Dockerfile" timestamp="1536658310331">
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/Dockerfile" timestamp="1536664489010">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -724,10 +701,11 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-netvault/Dockerfile" timestamp="1536661670788">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/orbital-ui-netvault/Dockerfile" timestamp="1536666044779">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-charts/src/main/java/portal/kcc/model/factory/impl/KccConumerFactoryImpl.java" timestamp="1535542247340">
         <mark key="[" line="14" column="33" />
@@ -818,11 +796,11 @@
       <file name="$USER_HOME$/Projects/orbital-ui-customer-subdomain/scripts_common/generate_template_chronos.sh" timestamp="1536137158201">
         <mark key="[" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/us-dev/config/nginx.conf" timestamp="1536655941301">
-        <mark key="[" line="124" column="25" />
-        <mark key="]" line="130" column="50" />
-        <mark key="^" line="130" column="50" />
-        <mark key="." line="130" column="50" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/us-dev/config/nginx.conf" timestamp="1536667335840">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="121" column="52" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-message-stats/src/main/java/portal/common/factory/impl/StatsKfFactoryImpl.java" timestamp="1535307451356">
         <mark key="[" line="18" column="5" />
@@ -864,7 +842,12 @@
         <mark key="^" line="25" column="63" />
         <mark key="." line="26" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-netvault/src/js/drmanageusers.js" timestamp="1536660296581" />
+      <file name="$USER_HOME$/Projects/orbital-ui-netvault/src/js/drmanageusers.js" timestamp="1536662508780">
+        <mark key="[" line="203" column="34" />
+        <mark key="]" line="203" column="34" />
+        <mark key="^" line="203" column="34" />
+        <mark key="." line="203" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/connector-cassandra/.gitignore" timestamp="1535964515865">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="7" column="4" />
@@ -876,19 +859,16 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/Dockerfile" timestamp="1536649140043" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/Dockerfile" timestamp="1536663074084">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/copy_docker_logrotate.yml" timestamp="1535442628761">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="29" />
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" timestamp="1536577555424">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/factory/impl/MessageFactoryImpl.java" timestamp="1536305824643">
         <mark key="[" line="21" column="62" />
@@ -1014,6 +994,13 @@
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-ui-netvault/config/nginx.conf" timestamp="1536667196628">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="5" />
+        <mark key="^" line="45" column="5" />
+        <mark key="." line="45" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/src/main/resources/application-us-dev.properties" timestamp="1536244236410">
         <mark key="[" line="19" column="70" />
       </file>
@@ -1025,8 +1012,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="33" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
-      <jump line="186" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="196" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="197" column="24" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="212" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
@@ -1125,16 +1110,18 @@
       <jump line="14" column="32" filename="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/web/package.json" />
       <jump line="9" column="5" filename="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/web/package.json" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/deploy/marathon-template.json" />
+      <jump line="12" column="27" filename="$USER_HOME$/Projects/orbital-ui-netvault/config/nginx.conf" />
+      <jump line="31" column="4" filename="$USER_HOME$/Projects/orbital-ui-netvault/config/nginx.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAiUE9TVCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>ADD</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>ADD</text>
       </register>
       <register name="/" type="4">
-        <text>ajax</text>
+        <text>server_name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0eXBlOiAiUE9TVCIsCg==</text>
@@ -1143,37 +1130,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RlJPTSBub2RlOjguMTEuNC1hbHBpbmUgYXMgYnVpbGRlcgo=</text>
+        <text encoding="base64">Q09QWSAvYXBwL3NyYyAvd3d3L2RhdGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAuIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">T3JiaXRhbCBjdXN0b21lciBzdWJkb21haW4gVUkgcmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgcHJveHlfcGFzcyBodHRwOi8vbWFyYXRob24tbGIubWFyYXRob24ubWVzb3M6OTA5MS87Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UE9SVD04MDAwCg==</text>
+        <text encoding="base64">ICAgICAgcHJveHlfcGFzc19yZXF1ZXN0X2hlYWRlcnMgICAgICBvbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcHJveHlfc2V0X2hlYWRlciBYLU1hcmF0aG9uLUFwcC1JZCAiL25ldHZhdWx0LXVpIjsK</text>
       </register>
       <register name=":" type="4">
         <text>59</text>
       </register>
     </registers>
     <search>
-      <last-search>ajax</last-search>
+      <last-search>server_name</last-search>
       <last-offset />
-      <last-pattern>ajax</last-pattern>
+      <last-pattern>server_name</last-pattern>
       <last-replace>app</last-replace>
       <last-substitute>myFatApp</last-substitute>
       <last-dir>1</last-dir>
@@ -1223,6 +1210,8 @@
         <entry>customer</entry>
         <entry>gif</entry>
         <entry>ajax</entry>
+        <entry>listen</entry>
+        <entry>server_name</entry>
       </history-search>
       <history-cmd>
         <entry>46,48d</entry>
