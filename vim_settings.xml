@@ -615,6 +615,12 @@
         <mark key="^" line="21" column="108" />
         <mark key="." line="21" column="94" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/config/nginx.conf" timestamp="1536648786563">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+        <mark key="^" line="31" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/pom.xml" timestamp="1535539502833">
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
@@ -804,6 +810,13 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/scripts_common/deploy_marathon.py" timestamp="1536579078372">
+        <mark key="'" line="82" column="26" />
+        <mark key="[" line="82" column="50" />
+        <mark key="]" line="82" column="70" />
+        <mark key="^" line="82" column="70" />
+        <mark key="." line="82" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1536567144076" />
       <file name="$USER_HOME$/Projects/connector-cassandra/Jenkinsfile.groovy" timestamp="1535971277470">
         <mark key="[" line="24" column="19" />
@@ -981,11 +994,18 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/web/package.json" timestamp="1536578656717">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="21" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/web/package.json" timestamp="1536650743615">
+        <mark key="'" line="9" column="5" />
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/README.md" timestamp="1536648924446">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/elasticsearch/data/Dockerfile" timestamp="1535354752126">
         <mark key="[" line="0" column="0" />
@@ -1008,6 +1028,11 @@
         <mark key="]" line="101" column="17" />
         <mark key="^" line="101" column="17" />
         <mark key="." line="101" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/Dockerfile" timestamp="1536650332829">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-job-diagnostics-upload-monitor/.gitignore" timestamp="1536226693052">
         <mark key="[" line="97" column="0" />
@@ -1366,11 +1391,7 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/Jenkinsfile.groovy" timestamp="1536583277026">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/Dockerfile" timestamp="1536649140043" />
       <file name="$USER_HOME$/Projects/orbital-job-chart-aggregator/src/main/resources/application-us-dev.properties.encrypted" timestamp="1536224367555">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1598,6 +1619,12 @@
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/deploy/marathon-template.json" timestamp="1536648888405">
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="21" />
+        <mark key="." line="38" column="21" />
+        <mark key="^" line="38" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1536567159517">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="17" column="43" />
@@ -1625,8 +1652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="13" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
-      <jump line="181" column="25" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="182" column="24" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="185" column="33" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="186" column="32" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
@@ -1725,55 +1750,57 @@
       <jump line="15" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" />
       <jump line="23" column="13" filename="$USER_HOME$/Projects/Orbital/orbital-job-chart-aggregator/scripts_common/deploy_marathon.py" />
+      <jump line="14" column="32" filename="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/web/package.json" />
+      <jump line="9" column="5" filename="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/web/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>VERSION</text>
+        <text>gifsicle</text>
       </register>
       <register name="-" type="4">
-        <text>VERSION</text>
+        <text>gifsicle</text>
       </register>
       <register name="/" type="4">
-        <text>CHRONOS_DELETE_URL</text>
+        <text>gifs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tIENvbW1vbiBidWlsZCBwcm9wZXJ0aWVzIC0tPgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UE9SVD04MDAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">T3JiaXRhbCBjdXN0b21lciBzdWJkb21haW4gVUkgcmVwb3NpdG9yeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTnVsbAo=</text>
+        <text encoding="base64">UE9SVD04MDAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBOdWxsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTnVsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZXJ2ZXJTb2NrZXQgPSBuZXcgU2VydmVyU29ja2V0KDApCiAgICBkZWYgcG9ydE51bWJlciA9IHNlcnZlclNvY2tldC5nZXRMb2NhbFBvcnQoKQogICAgc2VydmVyU29ja2V0LmNsb3NlKCkgCiAgICByZXR1cm4gcG9ydE51bWJlcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBOdWxsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBleAo=</text>
+        <text encoding="base64">ICAgIGRlZiBzZXJ2ZXJTb2NrZXQgPSBuZXcgU2VydmVyU29ja2V0KDApCiAgICBkZWYgcG9ydE51bWJlciA9IHNlcnZlclNvY2tldC5nZXRMb2NhbFBvcnQoKQogICAgc2VydmVyU29ja2V0LmNsb3NlKCkgCiAgICByZXR1cm4gcG9ydE51bWJlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBleCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>59</text>
       </register>
     </registers>
     <search>
-      <last-search>CHRONOS_DELETE_URL</last-search>
+      <last-search>gifs</last-search>
       <last-offset />
-      <last-pattern>CHRONOS_DELETE_URL</last-pattern>
+      <last-pattern>gifs</last-pattern>
       <last-replace>app</last-replace>
       <last-substitute>myFatApp</last-substitute>
       <last-dir>1</last-dir>
@@ -1819,6 +1846,7 @@
         <entry>CHRONOS_LIST_URL</entry>
         <entry>CHRONOS_POST_URL</entry>
         <entry>CHRONOS_DELETE_URL</entry>
+        <entry>gifs</entry>
       </history-search>
       <history-cmd>
         <entry>46,48d</entry>
