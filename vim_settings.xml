@@ -433,11 +433,11 @@
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/proxy-config.dev.remote.json" timestamp="1536567083538">
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/proxy-config.dev.remote.json" timestamp="1536744693533">
         <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="2" column="26" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-backup-api/build.sh" timestamp="1536157121665">
         <mark key="[" line="10" column="15" />
@@ -961,8 +961,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" timestamp="1536567065032">
-        <mark key="'" line="25" column="42" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" timestamp="1536744748356">
+        <mark key="'" line="58" column="21" />
         <mark key="[" line="26" column="31" />
         <mark key="]" line="26" column="40" />
         <mark key="." line="26" column="40" />
@@ -1697,7 +1697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="24" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="232" column="24" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="263" column="29" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
       <jump line="264" column="28" filename="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/pom.xml" />
@@ -1745,17 +1744,8 @@
       <jump line="268" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="9" column="25" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
-      <jump line="22" column="5" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
-      <jump line="26" column="64" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
-      <jump line="58" column="21" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
-      <jump line="53" column="21" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
-      <jump line="2" column="32" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
-      <jump line="3" column="25" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
-      <jump line="20" column="22" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
-      <jump line="19" column="27" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="21" column="40" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="24" column="18" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
-      <jump line="25" column="42" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
       <jump line="14" column="50" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" />
       <jump line="20" column="44" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" />
       <jump line="48" column="10" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" />
@@ -1797,13 +1787,23 @@
       <jump line="32" column="89" filename="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" />
       <jump line="45" column="43" filename="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" />
       <jump line="49" column="44" filename="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" />
+      <jump line="8" column="39" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="3" column="25" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="2" column="32" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="19" column="27" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="20" column="42" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="22" column="5" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="25" column="42" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="26" column="40" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="53" column="21" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
+      <jump line="58" column="21" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/shared/constants.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>410</text>
+        <text>gvcdev</text>
       </register>
       <register name="-" type="4">
-        <text>410</text>
+        <text>gvcdev</text>
       </register>
       <register name="/" type="4">
         <text>gvc</text>
