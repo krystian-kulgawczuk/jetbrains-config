@@ -1501,6 +1501,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/temp/orbital-ui-netvault/src/js/nvcommon.js" timestamp="1536766580564">
+        <mark key="'" line="1900" column="0" />
+        <mark key="[" line="1849" column="12" />
+        <mark key="]" line="1849" column="13" />
+        <mark key="^" line="1849" column="13" />
+        <mark key="." line="1849" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" timestamp="1536577555424">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="11" column="17" />
@@ -1726,10 +1733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
-      <jump line="176" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
-      <jump line="180" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
-      <jump line="168" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
       <jump line="127" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
       <jump line="170" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
       <jump line="55" column="1" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
@@ -1826,6 +1829,10 @@
       <jump line="76" column="48" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" />
       <jump line="119" column="23" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" />
       <jump line="77" column="19" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/assets/assets.service.ts" />
+      <jump line="1298" column="19" filename="$USER_HOME$/Projects/Orbital/temp/orbital-ui-netvault/src/js/nvcommon.js" />
+      <jump line="1364" column="20" filename="$USER_HOME$/Projects/Orbital/temp/orbital-ui-netvault/src/js/nvcommon.js" />
+      <jump line="1418" column="12" filename="$USER_HOME$/Projects/Orbital/temp/orbital-ui-netvault/src/js/nvcommon.js" />
+      <jump line="1900" column="0" filename="$USER_HOME$/Projects/Orbital/temp/orbital-ui-netvault/src/js/nvcommon.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1835,7 +1842,7 @@
         <text>SessionInfo</text>
       </register>
       <register name="/" type="4">
-        <text>getRespo</text>
+        <text>gusercheckok =</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvY2F0aW9uIC9tbmdiLyB7CiAgICAgIHByb3h5X3NldF9oZWFkZXIgSE9TVCAkaG9zdDsKICAgICAgcHJveHlfc2V0X2hlYWRlciBYLUZvcndhcmRlZC1Qcm90byAkc2NoZW1lOwogICAgICBwcm94eV9zZXRfaGVhZGVyIFgtUmVhbC1JUCAkcmVtb3RlX2FkZHI7CiAgICAgIHByb3h5X3NldF9oZWFkZXIgWC1Gb3J3YXJkZWQtRm9yICRwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yOwogICAgICBwcm94eV9zZXRfaGVhZGVyIFgtTWFyYXRob24tQXBwLUlkICIvY3VzdG9tZXItbWFuYWdlLWJ1dHRvbiI7CiAgICAgIHByb3h5X3Bhc3NfcmVxdWVzdF9oZWFkZXJzICAgICAgb247CiAgICAgIHByb3h5X3Bhc3MgaHR0cDovL21hcmF0aG9uLWxiLm1hcmF0aG9uLm1lc29zOjkwOTEvOwogICAgfQo=</text>
@@ -1872,9 +1879,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getRespo</last-search>
+      <last-search>gusercheckok =</last-search>
       <last-offset />
-      <last-pattern>getRespo</last-pattern>
+      <last-pattern>gusercheckok =</last-pattern>
       <last-replace>app</last-replace>
       <last-substitute>myFatApp</last-substitute>
       <last-dir>1</last-dir>
@@ -1928,6 +1935,8 @@
         <entry>gvc</entry>
         <entry>dbfactory</entry>
         <entry>getRespo</entry>
+        <entry>Logon</entry>
+        <entry>gusercheckok =</entry>
       </history-search>
       <history-cmd>
         <entry>46,48d</entry>
