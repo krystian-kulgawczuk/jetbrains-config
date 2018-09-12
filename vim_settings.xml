@@ -610,11 +610,6 @@
         <mark key="]" line="42" column="37" />
         <mark key="." line="42" column="37" />
       </file>
-      <file name="$USER_HOME$/Downloads/1/js/nvcommon.js" timestamp="1536660901460">
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-actor-system/Jenkinsfile.groovy" timestamp="1536585744385">
         <mark key="[" line="32" column="48" />
         <mark key="]" line="32" column="109" />
@@ -1393,16 +1388,6 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/Jenkinsfile.groovy" timestamp="1536583277026">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/Dockerfile" timestamp="1536663074084">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-job-chart-aggregator/src/main/resources/application-us-dev.properties.encrypted" timestamp="1536224367555">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1761,10 +1746,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>server_name</text>
