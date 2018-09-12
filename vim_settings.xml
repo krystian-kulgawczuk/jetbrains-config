@@ -465,7 +465,7 @@
         <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-ui-netvault/src/js/quitemplatepage.js" timestamp="1536659425486" />
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1536754722399">
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1536755114870">
         <mark key="'" line="119" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/Jenkinsfile.groovy" timestamp="1536589869393">
@@ -644,6 +644,11 @@
         <mark key="[" line="42" column="37" />
         <mark key="]" line="42" column="37" />
         <mark key="." line="42" column="37" />
+      </file>
+      <file name="$USER_HOME$/Downloads/1/js/nvcommon.js" timestamp="1536660901460">
+        <mark key="[" line="283" column="0" />
+        <mark key="]" line="283" column="0" />
+        <mark key="." line="283" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-actor-system/Jenkinsfile.groovy" timestamp="1536585744385">
         <mark key="[" line="32" column="48" />
@@ -1450,15 +1455,25 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/Jenkinsfile.groovy" timestamp="1536583277026">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/Dockerfile" timestamp="1536663074084">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-job-chart-aggregator/src/main/resources/application-us-dev.properties.encrypted" timestamp="1536224367555">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/assets/assets.service.ts" timestamp="1536736829065">
-        <mark key="[" line="79" column="78" />
-        <mark key="]" line="79" column="78" />
-        <mark key="." line="79" column="78" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/assets/assets.service.ts" timestamp="1536755259032">
+        <mark key="[" line="79" column="42" />
+        <mark key="]" line="79" column="42" />
+        <mark key="." line="79" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/docker-devtools/dcos/ansible/copy_docker_logrotate.yml" timestamp="1535442628761">
         <mark key="[" line="3" column="20" />
@@ -1711,7 +1726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="46" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
       <jump line="163" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
       <jump line="176" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
       <jump line="180" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/pom.xml" />
@@ -1811,13 +1825,14 @@
       <jump line="58" column="38" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" />
       <jump line="76" column="48" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" />
       <jump line="119" column="23" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" />
+      <jump line="77" column="19" filename="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/web/src/app/assets/assets.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>SessionInfo</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>SessionInfo</text>
       </register>
       <register name="/" type="4">
         <text>getRespo</text>
@@ -1826,31 +1841,31 @@
         <text encoding="base64">ICAgIGxvY2F0aW9uIC9tbmdiLyB7CiAgICAgIHByb3h5X3NldF9oZWFkZXIgSE9TVCAkaG9zdDsKICAgICAgcHJveHlfc2V0X2hlYWRlciBYLUZvcndhcmRlZC1Qcm90byAkc2NoZW1lOwogICAgICBwcm94eV9zZXRfaGVhZGVyIFgtUmVhbC1JUCAkcmVtb3RlX2FkZHI7CiAgICAgIHByb3h5X3NldF9oZWFkZXIgWC1Gb3J3YXJkZWQtRm9yICRwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yOwogICAgICBwcm94eV9zZXRfaGVhZGVyIFgtTWFyYXRob24tQXBwLUlkICIvY3VzdG9tZXItbWFuYWdlLWJ1dHRvbiI7CiAgICAgIHByb3h5X3Bhc3NfcmVxdWVzdF9oZWFkZXJzICAgICAgb247CiAgICAgIHByb3h5X3Bhc3MgaHR0cDovL21hcmF0aG9uLWxiLm1hcmF0aG9uLm1lc29zOjkwOTEvOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09QWSAvYXBwL3NyYyAvd3d3L2RhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2Vzc2lvblN0b3JhZ2Uuc2V0SXRlbSgnU2Vzc2lvbkluZm8nLCBKU09OLnN0cmluZ2lmeShKU09OLnN0cmluZ2lmeShTZXNzaW9uSW5mbykpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09QWSAuIC4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Q09QWSAvYXBwL3NyYyAvd3d3L2RhdGEK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Q09QWSAuIC4K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
+        <text encoding="base64">Q09QWSAvYXBwL3NyYyAvd3d3L2RhdGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RlJPTSByZWdpc3RyeS5odWIuZG9ja2VyLmNvbS9saWJyYXJ5L25naW54Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">RlJPTSByZWdpc3RyeS5odWIuZG9ja2VyLmNvbS9saWJyYXJ5L25naW54Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>71,79y</text>
