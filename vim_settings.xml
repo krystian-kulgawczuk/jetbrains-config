@@ -399,6 +399,9 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" timestamp="1536827054712">
+        <mark key="'" line="94" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/src/main/java/portal/kcs/model/factory/impl/kafka/KfMessageStats.java" timestamp="1535315257223">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1099,7 +1102,7 @@
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-lib-agent-common/Jenkinsfile.groovy" timestamp="1536585709415" />
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/view/actors/controller/ActorsController.java" timestamp="1536670732917" />
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/java/portal/customer/view/diagnostic/controller/DiagnosticsController.java" timestamp="1536824149457" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/java/portal/customer/view/diagnostic/controller/DiagnosticsController.java" timestamp="1536826533106" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/model/impl/MetadataEsConsumerInitImpl.java" timestamp="1536305660875">
         <mark key="[" line="13" column="67" />
         <mark key="]" line="13" column="67" />
@@ -1575,6 +1578,9 @@
         <mark key="." line="32" column="48" />
         <mark key="^" line="32" column="124" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/config/blobs/AzureStorageConfig.java" timestamp="1536826811381">
+        <mark key="'" line="0" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/devtools-common/resources/orbital_repositories_list.txt" timestamp="1536822730583" />
       <file name="$USER_HOME$/Projects/orbital-lib-connector-elasticsearch/maven-settings.xml" timestamp="1536060951932">
         <mark key="[" line="31" column="19" />
@@ -1757,26 +1763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="1" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="111" column="24" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="160" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="288" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="292" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="296" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="330" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="325" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="320" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="304" column="29" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="303" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="480" column="0" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="156" column="24" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="215" column="24" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="216" column="24" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="219" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="221" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="222" column="24" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="225" column="33" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="226" column="32" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
       <jump line="240" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
       <jump line="241" column="24" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
       <jump line="244" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
@@ -1857,55 +1843,75 @@
       <jump line="1900" column="0" filename="$USER_HOME$/Projects/Orbital/temp/orbital-ui-netvault/src/js/nvcommon.js" />
       <jump line="9" column="32" filename="$USER_HOME$/Projects/devtools-common/clone_repositories.py" />
       <jump line="124" column="0" filename="$MAVEN_REPOSITORY$/com/quest/orbital/portal-schema/1.0.0/portal-schema-1.0.0.jar!/portal/schema/impl/DbImpl.class" />
+      <jump line="0" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/config/blobs/AzureStorageConfig.java" />
+      <jump line="59" column="39" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="172" column="30" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="176" column="14" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="183" column="13" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="175" column="0" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="211" column="13" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="212" column="17" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="215" column="18" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="216" column="14" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="151" column="1" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="157" column="0" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="95" column="21" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="98" column="22" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="99" column="18" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="199" column="13" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="200" column="17" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="203" column="18" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="204" column="14" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
+      <jump line="94" column="17" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>git_url_stripped</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="-" type="4">
         <text>git_url_stripped</text>
       </register>
       <register name="/" type="4">
-        <text>notuplo</text>
+        <text>exclusion</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvY2F0aW9uIC9tbmdiLyB7CiAgICAgIHByb3h5X3NldF9oZWFkZXIgSE9TVCAkaG9zdDsKICAgICAgcHJveHlfc2V0X2hlYWRlciBYLUZvcndhcmRlZC1Qcm90byAkc2NoZW1lOwogICAgICBwcm94eV9zZXRfaGVhZGVyIFgtUmVhbC1JUCAkcmVtb3RlX2FkZHI7CiAgICAgIHByb3h5X3NldF9oZWFkZXIgWC1Gb3J3YXJkZWQtRm9yICRwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yOwogICAgICBwcm94eV9zZXRfaGVhZGVyIFgtTWFyYXRob24tQXBwLUlkICIvY3VzdG9tZXItbWFuYWdlLWJ1dHRvbiI7CiAgICAgIHByb3h5X3Bhc3NfcmVxdWVzdF9oZWFkZXJzICAgICAgb247CiAgICAgIHByb3h5X3Bhc3MgaHR0cDovL21hcmF0aG9uLWxiLm1hcmF0aG9uLm1lc29zOjkwOTEvOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhmJ3B1bGwgcmVzdWx0IGZyb20ge2dpdF91cmxfc3RyaXBwZWR9OiB7cmVzdWx0fScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD4qPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD4qPC9ncm91cElkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ3JlcG9zaXRvcnkgYWxyZWR5IGV4aXN0cycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9leGNsdXNpb25zPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD4qPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>71,79y</text>
       </register>
     </registers>
     <search>
-      <last-search>notuplo</last-search>
+      <last-search>exclusion</last-search>
       <last-offset />
-      <last-pattern>notuplo</last-pattern>
+      <last-pattern>exclusion</last-pattern>
       <last-replace>app</last-replace>
       <last-substitute>myFatApp</last-substitute>
       <last-dir>1</last-dir>
@@ -1913,7 +1919,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exclusion</entry>
         <entry>${ver</entry>
         <entry>exc</entry>
         <entry>prop</entry>
@@ -1962,6 +1967,10 @@
         <entry>Logon</entry>
         <entry>gusercheckok =</entry>
         <entry>notuplo</entry>
+        <entry>blobs</entry>
+        <entry>exclustion</entry>
+        <entry>exclu</entry>
+        <entry>exclusion</entry>
       </history-search>
       <history-cmd>
         <entry>46,48d</entry>
