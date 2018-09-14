@@ -33,6 +33,9 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1536845587545">
+        <mark key="'" line="37" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/scripts_common/pull_repositories.py" timestamp="1536316476666">
         <mark key="[" line="41" column="4" />
         <mark key="]" line="41" column="3" />
@@ -750,11 +753,11 @@
         <mark key="^" line="90" column="35" />
         <mark key="." line="90" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/Makefile" timestamp="1536586950112">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="75" />
-        <mark key="^" line="17" column="75" />
-        <mark key="." line="17" column="75" />
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/Makefile" timestamp="1536845550620">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-model/.gitignore" timestamp="1536055426325">
         <mark key="[" line="67" column="17" />
@@ -993,8 +996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" />
-      <jump line="70" column="62" filename="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" />
       <jump line="23" column="13" filename="$USER_HOME$/Projects/Orbital/orbital-job-chart-aggregator/scripts_common/deploy_marathon.py" />
@@ -1093,6 +1094,8 @@
       <jump line="129" column="16" filename="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/src/main/java/portal/kcr/model/Unregistration.java" />
       <jump line="91" column="39" filename="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" />
       <jump line="0" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/app/config/security/WebSecurityConfig.java" />
+      <jump line="36" column="76" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
+      <jump line="37" column="24" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1135,7 +1138,7 @@
         <text encoding="base64">ICAgICAgICBkYkZhY3RvcnkuZGIK</text>
       </register>
       <register name=":" type="4">
-        <text>16,19y</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1200,6 +1203,7 @@
         <entry>59</entry>
         <entry>71,79y</entry>
         <entry>16,19y</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
