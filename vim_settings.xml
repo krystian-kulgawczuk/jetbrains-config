@@ -256,12 +256,12 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" timestamp="1536933007205">
-        <mark key="'" line="179" column="57" />
-        <mark key="[" line="110" column="80" />
-        <mark key="]" line="110" column="78" />
-        <mark key="." line="110" column="78" />
-        <mark key="^" line="110" column="78" />
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" timestamp="1536933626764">
+        <mark key="'" line="106" column="56" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-manage/README.md" timestamp="1536152709971">
         <mark key="[" line="0" column="2" />
@@ -881,7 +881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="403" column="13" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="400" column="29" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="425" column="13" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="399" column="18" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
@@ -960,7 +959,6 @@
       <jump line="339" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
       <jump line="344" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
       <jump line="38" column="17" filename="$USER_HOME$/Projects/orbital-customer-subdomain/pom.xml" />
-      <jump line="107" column="66" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
       <jump line="24" column="34" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/factory/impl/RegistrationFactoryImpl.java" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/factory/impl/RegistrationFactoryImpl.java" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
@@ -981,13 +979,15 @@
       <jump line="167" column="71" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
       <jump line="178" column="57" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
       <jump line="5" column="22" filename="$MAVEN_REPOSITORY$/com/quest/orbital/portal-schema/1.0.1/portal-schema-1.0.1.jar!/portal/schema/metadata/fields/RegisteredAssetColumns.class" />
+      <jump line="107" column="56" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
+      <jump line="106" column="56" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLndoZXJlKFF1ZXJ5QnVpbGRlci5lcShSZWdpc3RlcmVkQXNzZXRDb2x1bW5zLkJVQ0tFVCwgIjEiKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>RegisteredAssetColumns</text>
       </register>
       <register name="/" type="4">
         <text>assetId</text>
@@ -996,31 +996,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVucmVnaXN0cmF0aW9uIHVucmVnaXN0cmF0aW9uID0gbmV3IFVucmVnaXN0cmF0aW9uKCk7CiAgICAgICAgICAgICAgICB1bnJlZ2lzdHJhdGlvbi5zZXRBc3NldElkKGFzc2V0SWQpOwogICAgICAgICAgICAgICAgdW5yZWdpc3RyYXRpb24uc2V0VXNlcm5hbWUoand0VXNlci5nZXRVc2VybmFtZSgpKTsKICAgICAgICAgICAgICAgIHVucmVnaXN0cmF0aW9uLnNldFZpYUFzc2V0KGZhbHNlKTsKCi8vICAgICAgICAgICAgVE9ETyByZWZhY3RvcmluZyBvbmx5IGZvciBkZW1vCiAgICAgICAgICAgICAgICBLZlJlY29yZCBrZlVucmVnaXN0cmF0aW9uUmVjb3JkID0ga2ZGYWN0b3J5LmtmVG9waWMoInJlbW92YWwiKQogICAgICAgICAgICAgICAgICAgICAgICAua2ZSZWNvcmQoand0VXNlci5nZXRVc2VybmFtZSgpLCBnc29uLnRvSnNvbih1bnJlZ2lzdHJhdGlvbikpOwoKCiAgICAgICAgICAgICAgICBrZlVucmVnaXN0cmF0aW9uUmVjb3JkLnNhdmUoKTsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJrZlVucmVnaXN0cmF0aW9uUmVjb3JkIHNlbnQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLndoZXJlKFF1ZXJ5QnVpbGRlci5lcShSZWdpc3RlcmVkQXNzZXRDb2x1bW5zLkJVQ0tFVCwgIjEiKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBUT0RPIHJlZmFjdG9yaW5nIG9ubHkgZm9yIGRlbW8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLndoZXJlKFF1ZXJ5QnVpbGRlci5lcShFdmVudHNCeUFzc2V0Q29sdW1ucy5CVUNLRVQsICIxIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlF1YWxpZmllcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBUT0RPIHJlZmFjdG9yaW5nIG9ubHkgZm9yIGRlbW8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlF1YWxpZmllcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqd3RGYWN0b3J5Lmp3dFVzZXIoKS4K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgS2ZGYWN0b3J5IGtmRmFjdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICBqd3RGYWN0b3J5Lmp3dFVzZXIoKS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name=":" type="4">
         <text>139,150y</text>
