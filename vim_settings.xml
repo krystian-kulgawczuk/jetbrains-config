@@ -33,12 +33,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1536908098515">
-        <mark key="'" line="91" column="67" />
-        <mark key="[" line="74" column="56" />
-        <mark key="]" line="75" column="36" />
-        <mark key="^" line="75" column="36" />
-        <mark key="." line="75" column="36" />
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1536912229375">
+        <mark key="'" line="49" column="21" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="84" column="15" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/scripts_common/pull_repositories.py" timestamp="1536316476666">
         <mark key="[" line="41" column="4" />
@@ -669,7 +669,7 @@
         <mark key="^" line="13" column="67" />
         <mark key="." line="13" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationImpl.java" timestamp="1536909687268">
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationImpl.java" timestamp="1536911655849">
         <mark key="'" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/.gitignore" timestamp="1536306565463">
@@ -1006,7 +1006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1062" column="6" filename="$USER_HOME$/Projects/orbital-ui-netvault/src/js/nvcommon.js" />
       <jump line="32" column="89" filename="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" />
       <jump line="45" column="43" filename="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" />
       <jump line="49" column="44" filename="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" />
@@ -1106,10 +1105,11 @@
       <jump line="214" column="15" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="91" column="67" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
       <jump line="139" column="49" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
+      <jump line="49" column="21" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZGJOCg==</text>
+        <text encoding="base64">ICAgICAgICBqd3RVc2VyLgo=</text>
       </register>
       <register name="-" type="4">
         <text>dbR3Asset</text>
@@ -1121,31 +1121,31 @@
         <text encoding="base64">ICAgICAgICBnZXREYkZhY3RvcnkoKS5kYigpLmRiUjNBc3NldCgpLmRlbGV0ZSgpCiAgICAgICAgICAgICAgICAud2hlcmUoUXVlcnlCdWlsZGVyLmVxKFIzQXNzZXRDb2x1bW5zLkJVQ0tFVCwgMSkpCiAgICAgICAgICAgICAgICAud2hlcmUoUXVlcnlCdWlsZGVyLmVxKFIzQXNzZXRDb2x1bW5zLkFTU0VUX0lELCBnZXRBc3NldElkKCkpKQogICAgICAgICAgICAgICAgLmFkZFRvKGdldEJhdGNoKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZGJOCg==</text>
+        <text encoding="base64">ICAgICAgICBqd3RVc2VyLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL0RFQlVHIENPTU1FTlQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZGJOCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygpCg==</text>
+        <text encoding="base64">ICAgICAgICAvL0RFQlVHIENPTU1FTlQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShRdWVyeUJ1aWxkZXIuZXEoQXNzZXRDb25uZWN0aW9uQ29sdW1ucy5BU1NFVF9JRCwgYXNzZXRJZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShRdWVyeUJ1aWxkZXIuZXEoQXNzZXRDb25uZWN0aW9uQ29sdW1ucy5CVUNLRVQsIEJVQ0tFVCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYkZhY3RvcnkuZGIoKS5kYkFzc2V0KCkuZGVsZXRlKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXREYkZhY3RvcnkoKS5kYigpLmRiQXNzZXQoKS5kZWxldGUoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShRdWVyeUJ1aWxkZXIuZXEoQXNzZXRDb25uZWN0aW9uQ29sdW1ucy5BU1NFVF9JRCwgYXNzZXRJZCkpOwo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShRdWVyeUJ1aWxkZXIuZXEoQXNzZXRDb25uZWN0aW9uQ29sdW1ucy5CVUNLRVQsIEJVQ0tFVCkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkYkZhY3RvcnkuZGIoKS5kYkFzc2V0KCkuZGVsZXRlKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBnZXREYkZhY3RvcnkoKS5kYigpLmRiQXNzZXQoKS5kZWxldGUoKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShRdWVyeUJ1aWxkZXIuZXEoQXNzZXRDb25uZWN0aW9uQ29sdW1ucy5BU1NFVF9JRCwgYXNzZXRJZCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
