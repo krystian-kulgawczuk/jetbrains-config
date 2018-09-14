@@ -33,8 +33,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1536845587545">
-        <mark key="'" line="37" column="24" />
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1536908098515">
+        <mark key="'" line="91" column="67" />
+        <mark key="[" line="74" column="56" />
+        <mark key="]" line="75" column="36" />
+        <mark key="^" line="75" column="36" />
+        <mark key="." line="75" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/scripts_common/pull_repositories.py" timestamp="1536316476666">
         <mark key="[" line="41" column="4" />
@@ -276,8 +280,8 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/quest/orbital/portal-schema/1.0.0/portal-schema-1.0.0.jar!/portal/schema/impl/DbImpl.class" timestamp="1536825774125">
-        <mark key="'" line="124" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/quest/orbital/portal-schema/1.0.0/portal-schema-1.0.0.jar!/portal/schema/impl/DbImpl.class" timestamp="1536907697938">
+        <mark key="'" line="166" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1536821591048">
         <mark key="'" line="119" column="23" />
@@ -449,13 +453,13 @@
         <mark key="." line="13" column="59" />
         <mark key="^" line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/UnregistrationNVImpl.java" timestamp="1536841329814">
+      <file name="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/UnregistrationNVImpl.java" timestamp="1536908528111">
         <mark key="[" line="19" column="28" />
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" timestamp="1536831224066">
-        <mark key="'" line="51" column="29" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" timestamp="1536908690788">
+        <mark key="'" line="139" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" timestamp="1536748497457">
         <mark key="'" line="26" column="19" />
@@ -502,8 +506,8 @@
         <mark key="^" line="33" column="7" />
         <mark key="." line="33" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" timestamp="1536840734710">
-        <mark key="'" line="349" column="22" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" timestamp="1536908630286">
+        <mark key="'" line="214" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/connector-cassandra/Makefile" timestamp="1535710502219">
         <mark key="[" line="15" column="7" />
@@ -653,13 +657,19 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" timestamp="1536908176831">
+        <mark key="'" line="45" column="27" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/model/impl/MetadataEsConsumerInitImpl.java" timestamp="1536305660875">
         <mark key="[" line="13" column="67" />
         <mark key="]" line="13" column="67" />
         <mark key="^" line="13" column="67" />
         <mark key="." line="13" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationImpl.java" timestamp="1536836798104">
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationImpl.java" timestamp="1536909687268">
         <mark key="'" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/.gitignore" timestamp="1536306565463">
@@ -996,14 +1006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" />
-      <jump line="23" column="13" filename="$USER_HOME$/Projects/Orbital/orbital-job-chart-aggregator/scripts_common/deploy_marathon.py" />
-      <jump line="14" column="32" filename="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/web/package.json" />
-      <jump line="9" column="5" filename="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/web/package.json" />
-      <jump line="48" column="0" filename="$USER_HOME$/Projects/Orbital/orbital-ui-netvault/deploy/marathon-template.json" />
-      <jump line="12" column="27" filename="$USER_HOME$/Projects/orbital-ui-netvault/config/nginx.conf" />
-      <jump line="31" column="4" filename="$USER_HOME$/Projects/orbital-ui-netvault/config/nginx.conf" />
       <jump line="1062" column="6" filename="$USER_HOME$/Projects/orbital-ui-netvault/src/js/nvcommon.js" />
       <jump line="32" column="89" filename="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" />
       <jump line="45" column="43" filename="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" />
@@ -1055,7 +1057,6 @@
       <jump line="230" column="4" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="225" column="16" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="218" column="4" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="214" column="18" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="203" column="4" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="199" column="26" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="198" column="4" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
@@ -1096,55 +1097,64 @@
       <jump line="0" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/app/config/security/WebSecurityConfig.java" />
       <jump line="36" column="76" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
       <jump line="37" column="24" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
+      <jump line="66" column="22" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
+      <jump line="39" column="19" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
+      <jump line="76" column="27" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
+      <jump line="37" column="74" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
+      <jump line="166" column="24" filename="$MAVEN_REPOSITORY$/com/quest/orbital/portal-schema/1.0.0/portal-schema-1.0.0.jar!/portal/schema/impl/DbImpl.class" />
+      <jump line="45" column="27" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
+      <jump line="214" column="15" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="91" column="67" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
+      <jump line="139" column="49" filename="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dbR3Asset</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZGJOCg==</text>
       </register>
       <register name="-" type="4">
         <text>dbR3Asset</text>
       </register>
       <register name="/" type="4">
-        <text>asset_net</text>
+        <text>access_token</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBnZXREYkZhY3RvcnkoKS5kYigpLmRiUjNBc3NldCgpLmRlbGV0ZSgpCiAgICAgICAgICAgICAgICAud2hlcmUoUXVlcnlCdWlsZGVyLmVxKFIzQXNzZXRDb2x1bW5zLkJVQ0tFVCwgMSkpCiAgICAgICAgICAgICAgICAud2hlcmUoUXVlcnlCdWlsZGVyLmVxKFIzQXNzZXRDb2x1bW5zLkFTU0VUX0lELCBnZXRBc3NldElkKCkpKQogICAgICAgICAgICAgICAgLmFkZFRvKGdldEJhdGNoKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShRdWVyeUJ1aWxkZXIuZXEoQXNzZXRDb25uZWN0aW9uQ29sdW1ucy5BU1NFVF9JRCwgYXNzZXRJZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZGJOCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShRdWVyeUJ1aWxkZXIuZXEoQXNzZXRDb25uZWN0aW9uQ29sdW1ucy5CVUNLRVQsIEJVQ0tFVCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAvL0RFQlVHIENPTU1FTlQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYkZhY3RvcnkuZGIoKS5kYkFzc2V0KCkuZGVsZXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXREYkZhY3RvcnkoKS5kYigpLmRiQXNzZXQoKS5kZWxldGUoKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShRdWVyeUJ1aWxkZXIuZXEoQXNzZXRDb25uZWN0aW9uQ29sdW1ucy5BU1NFVF9JRCwgYXNzZXRJZCkpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShRdWVyeUJ1aWxkZXIuZXEoQXNzZXRDb25uZWN0aW9uQ29sdW1ucy5CVUNLRVQsIEJVQ0tFVCkpCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkYkZhY3RvcnkuZGIoKS5kYkFzc2V0KCkuZGVsZXRlKCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYkZhY3RvcnkuZGIoKS5kYkFzc2V0QnlTdWJkb21haW4oKS5kZWxldGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBnZXREYkZhY3RvcnkoKS5kYigpLmRiQXNzZXQoKS5kZWxldGUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4Lm1hbmFnZW1lbnQuUXVlcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShRdWVyeUJ1aWxkZXIuZXEoQXNzZXRDb25uZWN0aW9uQ29sdW1ucy5BU1NFVF9JRCwgYXNzZXRJZCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYkZhY3RvcnkuZGIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShRdWVyeUJ1aWxkZXIuZXEoQXNzZXRDb25uZWN0aW9uQ29sdW1ucy5CVUNLRVQsIEJVQ0tFVCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>asset_net</last-search>
+      <last-search>access_token</last-search>
       <last-offset />
-      <last-pattern>asset_net</last-pattern>
+      <last-pattern>access_token</last-pattern>
       <last-replace>app</last-replace>
       <last-substitute>myFatApp</last-substitute>
       <last-dir>1</last-dir>
@@ -1180,6 +1190,8 @@
         <entry>assets_by_sub</entry>
         <entry>subdomain</entry>
         <entry>asset_net</entry>
+        <entry>init</entry>
+        <entry>access_token</entry>
       </history-search>
       <history-cmd>
         <entry>44,46y</entry>
