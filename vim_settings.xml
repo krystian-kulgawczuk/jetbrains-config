@@ -518,10 +518,10 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/schema/Organization.java" timestamp="1537176463620">
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="26" column="30" />
-        <mark key="." line="26" column="30" />
-        <mark key="^" line="26" column="28" />
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/README.md" timestamp="1536236867217">
         <mark key="[" line="0" column="2" />
@@ -802,6 +802,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/resources/application-us-prod.properties" timestamp="1537184766984">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="24" column="63" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/quest/orbital/portal-schema/1.0.1/portal-schema-1.0.1.jar!/portal/schema/metadata/fields/RegisteredAssetColumns.class" timestamp="1536933142115">
         <mark key="'" line="5" column="22" />
       </file>
@@ -1012,10 +1018,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>gvcusprodcool</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>gvcusprodcool</text>
       </register>
       <register name="/" type="4">
         <text>table *asset</text>
