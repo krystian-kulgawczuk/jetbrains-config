@@ -215,6 +215,7 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/files/azuredeploy.json" timestamp="1537254643182" />
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-charts/README.md" timestamp="1536236867217">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
@@ -513,6 +514,9 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-prod/files/azuredeploy.parameters.json" timestamp="1537254402787">
+        <mark key="'" line="52" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/view/stats/controller/MetadataController.java" timestamp="1536304609409">
         <mark key="[" line="11" column="0" />
@@ -906,7 +910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="9" filename="$USER_HOME$/Projects/Orbital/orbital-lib-portal-schema/pom.xml" />
       <jump line="56" column="16" filename="$USER_HOME$/Projects/Orbital/orbital-lib-portal-schema/pom.xml" />
       <jump line="263" column="42" filename="$USER_HOME$/Projects/Orbital/orbital-lib-portal-schema/pom.xml" />
       <jump line="53" column="33" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
@@ -1006,6 +1009,7 @@
       <jump line="673" column="7" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="683" column="7" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="692" column="7" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="52" column="24" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-prod/files/azuredeploy.parameters.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1015,7 +1019,7 @@
         <text>gvcusprodcool</text>
       </register>
       <register name="/" type="4">
-        <text>table *asset</text>
+        <text>gvc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVucmVnaXN0cmF0aW9uIHVucmVnaXN0cmF0aW9uID0gbmV3IFVucmVnaXN0cmF0aW9uKCk7CiAgICAgICAgICAgICAgICB1bnJlZ2lzdHJhdGlvbi5zZXRBc3NldElkKGFzc2V0SWQpOwogICAgICAgICAgICAgICAgdW5yZWdpc3RyYXRpb24uc2V0VXNlcm5hbWUoand0VXNlci5nZXRVc2VybmFtZSgpKTsKICAgICAgICAgICAgICAgIHVucmVnaXN0cmF0aW9uLnNldFZpYUFzc2V0KGZhbHNlKTsKCi8vICAgICAgICAgICAgVE9ETyByZWZhY3RvcmluZyBvbmx5IGZvciBkZW1vCiAgICAgICAgICAgICAgICBLZlJlY29yZCBrZlVucmVnaXN0cmF0aW9uUmVjb3JkID0ga2ZGYWN0b3J5LmtmVG9waWMoInJlbW92YWwiKQogICAgICAgICAgICAgICAgICAgICAgICAua2ZSZWNvcmQoand0VXNlci5nZXRVc2VybmFtZSgpLCBnc29uLnRvSnNvbih1bnJlZ2lzdHJhdGlvbikpOwoKCiAgICAgICAgICAgICAgICBrZlVucmVnaXN0cmF0aW9uUmVjb3JkLnNhdmUoKTsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJrZlVucmVnaXN0cmF0aW9uUmVjb3JkIHNlbnQiKTsK</text>
@@ -1052,9 +1056,9 @@
       </register>
     </registers>
     <search>
-      <last-search>table *asset</last-search>
+      <last-search>gvc</last-search>
       <last-offset />
-      <last-pattern>table *asset</last-pattern>
+      <last-pattern>gvc</last-pattern>
       <last-replace>app</last-replace>
       <last-substitute>myFatApp</last-substitute>
       <last-dir>1</last-dir>
@@ -1077,11 +1081,11 @@
         <entry>assetId</entry>
         <entry>asset</entry>
         <entry>stats</entry>
-        <entry>gvc</entry>
         <entry>jwt</entry>
         <entry>username</entry>
         <entry>kfFactory</entry>
         <entry>table *asset</entry>
+        <entry>gvc</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${main\.version}/1\.0\.0/</entry>
