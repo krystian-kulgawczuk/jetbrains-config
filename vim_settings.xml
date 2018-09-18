@@ -53,8 +53,8 @@
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1537167648149">
-        <mark key="'" line="86" column="28" />
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1537259345691">
+        <mark key="'" line="70" column="26" />
         <mark key="[" line="86" column="34" />
         <mark key="]" line="86" column="40" />
         <mark key="^" line="86" column="40" />
@@ -472,8 +472,8 @@
         <mark key="]" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" timestamp="1537253310248">
-        <mark key="'" line="692" column="7" />
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" timestamp="1537259274109">
+        <mark key="'" line="42" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/impl/ChartsEsKfMessage.java" timestamp="1535365725249">
         <mark key="[" line="10" column="0" />
@@ -910,8 +910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="16" filename="$USER_HOME$/Projects/Orbital/orbital-lib-portal-schema/pom.xml" />
-      <jump line="263" column="42" filename="$USER_HOME$/Projects/Orbital/orbital-lib-portal-schema/pom.xml" />
       <jump line="53" column="33" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
       <jump line="54" column="21" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
@@ -956,12 +954,10 @@
       <jump line="107" column="56" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
       <jump line="106" column="56" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
       <jump line="706" column="24" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="42" column="12" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="123" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="132" column="2" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="140" column="15" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="148" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="37" column="18" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
       <jump line="58" column="27" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
       <jump line="170" column="36" filename="$MAVEN_REPOSITORY$/com/quest/orbital/portal-schema/1.0.1/portal-schema-1.0.1.jar!/portal/schema/impl/DbImpl.class" />
       <jump line="49" column="20" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
@@ -1010,6 +1006,10 @@
       <jump line="683" column="7" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="692" column="7" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="52" column="24" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-prod/files/azuredeploy.parameters.json" />
+      <jump line="12" column="43" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="42" column="12" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="37" column="19" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
+      <jump line="70" column="26" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1019,7 +1019,7 @@
         <text>gvcusprodcool</text>
       </register>
       <register name="/" type="4">
-        <text>gvc</text>
+        <text>asset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVucmVnaXN0cmF0aW9uIHVucmVnaXN0cmF0aW9uID0gbmV3IFVucmVnaXN0cmF0aW9uKCk7CiAgICAgICAgICAgICAgICB1bnJlZ2lzdHJhdGlvbi5zZXRBc3NldElkKGFzc2V0SWQpOwogICAgICAgICAgICAgICAgdW5yZWdpc3RyYXRpb24uc2V0VXNlcm5hbWUoand0VXNlci5nZXRVc2VybmFtZSgpKTsKICAgICAgICAgICAgICAgIHVucmVnaXN0cmF0aW9uLnNldFZpYUFzc2V0KGZhbHNlKTsKCi8vICAgICAgICAgICAgVE9ETyByZWZhY3RvcmluZyBvbmx5IGZvciBkZW1vCiAgICAgICAgICAgICAgICBLZlJlY29yZCBrZlVucmVnaXN0cmF0aW9uUmVjb3JkID0ga2ZGYWN0b3J5LmtmVG9waWMoInJlbW92YWwiKQogICAgICAgICAgICAgICAgICAgICAgICAua2ZSZWNvcmQoand0VXNlci5nZXRVc2VybmFtZSgpLCBnc29uLnRvSnNvbih1bnJlZ2lzdHJhdGlvbikpOwoKCiAgICAgICAgICAgICAgICBrZlVucmVnaXN0cmF0aW9uUmVjb3JkLnNhdmUoKTsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJrZlVucmVnaXN0cmF0aW9uUmVjb3JkIHNlbnQiKTsK</text>
@@ -1056,9 +1056,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gvc</last-search>
+      <last-search>asset</last-search>
       <last-offset />
-      <last-pattern>gvc</last-pattern>
+      <last-pattern>asset</last-pattern>
       <last-replace>app</last-replace>
       <last-substitute>myFatApp</last-substitute>
       <last-dir>1</last-dir>
@@ -1079,13 +1079,13 @@
         <entry>quest</entry>
         <entry>gson</entry>
         <entry>assetId</entry>
-        <entry>asset</entry>
         <entry>stats</entry>
         <entry>jwt</entry>
         <entry>username</entry>
         <entry>kfFactory</entry>
         <entry>table *asset</entry>
         <entry>gvc</entry>
+        <entry>asset</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${main\.version}/1\.0\.0/</entry>
