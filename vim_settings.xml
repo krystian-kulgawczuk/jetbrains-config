@@ -33,6 +33,9 @@
         <mark key="^" line="186" column="24" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1537272830297">
+        <mark key="'" line="266" column="68" />
+      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1536914932055">
         <mark key="'" line="147" column="0" />
         <mark key="[" line="21" column="0" />
@@ -54,12 +57,12 @@
         <mark key="." line="152" column="0" />
         <mark key="^" line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1537265507048">
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1537271376667">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="127" column="43" />
-        <mark key="]" line="127" column="59" />
-        <mark key="." line="127" column="59" />
-        <mark key="^" line="127" column="59" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="79" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" timestamp="1537173658808">
         <mark key="'" line="0" column="0" />
@@ -73,8 +76,8 @@
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/prepare_disks.sh" timestamp="1537173648296">
         <mark key="'" line="199" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" timestamp="1537176662027">
-        <mark key="'" line="139" column="48" />
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" timestamp="1537271815759">
+        <mark key="'" line="83" column="30" />
         <mark key="[" line="139" column="59" />
         <mark key="]" line="139" column="59" />
         <mark key="." line="139" column="59" />
@@ -85,6 +88,9 @@
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" timestamp="1536908630286">
         <mark key="'" line="214" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" timestamp="1537273522731">
+        <mark key="'" line="100" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" timestamp="1537170267066">
         <mark key="'" line="27" column="66" />
@@ -123,13 +129,16 @@
         <mark key="^" line="313" column="14" />
         <mark key="." line="313" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-charts/src/main/java/portal/kcch/model/impl/MessageFactoryImpl.java" timestamp="1537270717917" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-charts/src/main/java/portal/kcch/model/impl/MessageFactoryImpl.java" timestamp="1537271342257" />
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" timestamp="1537268210555">
         <mark key="'" line="78" column="71" />
         <mark key="[" line="90" column="36" />
         <mark key="]" line="90" column="35" />
         <mark key="^" line="90" column="35" />
         <mark key="." line="90" column="35" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE.jar!/org/springframework/http/HttpStatus.class" timestamp="1537272422508">
+        <mark key="'" line="64" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/quest/orbital/portal-schema/1.0.1/portal-schema-1.0.1.jar!/portal/schema/impl/DbImpl.class" timestamp="1537167589372">
         <mark key="'" line="170" column="36" />
@@ -158,26 +167,11 @@
       <file name="$MAVEN_REPOSITORY$/com/quest/orbital/portal-schema/1.0.1/portal-schema-1.0.1.jar!/portal/schema/metadata/fields/RegisteredAssetColumns.class" timestamp="1536933142115">
         <mark key="'" line="5" column="22" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java" timestamp="1537273536730">
+        <mark key="'" line="42" column="40" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="31" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="442" column="12" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="443" column="15" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="447" column="40" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="450" column="31" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="451" column="12" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="452" column="15" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="456" column="41" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="459" column="39" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="137" column="21" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="165" column="1" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="168" column="16" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="170" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="178" column="2" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="183" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="187" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="188" column="19" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="189" column="9" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="191" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="194" column="38" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="196" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
@@ -260,55 +254,73 @@
       <jump line="163" column="2" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="164" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="78" column="71" filename="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" />
+      <jump line="35" column="32" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" />
+      <jump line="63" column="30" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" />
+      <jump line="83" column="30" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" />
+      <jump line="232" column="35" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="233" column="46" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="234" column="46" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="235" column="46" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="236" column="46" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="231" column="39" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="28" column="20" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
+      <jump line="64" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE.jar!/org/springframework/http/HttpStatus.class" />
+      <jump line="98" column="32" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
+      <jump line="176" column="47" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="179" column="44" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="266" column="68" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="93" column="24" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
+      <jump line="100" column="37" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
+      <jump line="42" column="40" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ZMg7z4K2cbWv4PxvlgjIeRwR51wkDb7rL9GGKcF9npBWJJM1IW7vvTLdTk79BUxx3WDj90rj7oxZnJRRertHbg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGRiRmFjdG9yeS5kYigpLmRiQXNzZXQoKS5zYXZlKCkK</text>
       </register>
       <register name="-" type="4">
         <text>ZMg7z4K2cbWv4PxvlgjIeRwR51wkDb7rL9GGKcF9npBWJJM1IW7vvTLdTk79BUxx3WDj90rj7oxZnJRRertHbg==</text>
       </register>
       <register name="/" type="4">
-        <text>asset</text>
+        <text>500</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVucmVnaXN0cmF0aW9uIHVucmVnaXN0cmF0aW9uID0gbmV3IFVucmVnaXN0cmF0aW9uKCk7CiAgICAgICAgICAgICAgICB1bnJlZ2lzdHJhdGlvbi5zZXRBc3NldElkKGFzc2V0SWQpOwogICAgICAgICAgICAgICAgdW5yZWdpc3RyYXRpb24uc2V0VXNlcm5hbWUoand0VXNlci5nZXRVc2VybmFtZSgpKTsKICAgICAgICAgICAgICAgIHVucmVnaXN0cmF0aW9uLnNldFZpYUFzc2V0KGZhbHNlKTsKCi8vICAgICAgICAgICAgVE9ETyByZWZhY3RvcmluZyBvbmx5IGZvciBkZW1vCiAgICAgICAgICAgICAgICBLZlJlY29yZCBrZlVucmVnaXN0cmF0aW9uUmVjb3JkID0ga2ZGYWN0b3J5LmtmVG9waWMoInJlbW92YWwiKQogICAgICAgICAgICAgICAgICAgICAgICAua2ZSZWNvcmQoand0VXNlci5nZXRVc2VybmFtZSgpLCBnc29uLnRvSnNvbih1bnJlZ2lzdHJhdGlvbikpOwoKCiAgICAgICAgICAgICAgICBrZlVucmVnaXN0cmF0aW9uUmVjb3JkLnNhdmUoKTsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJrZlVucmVnaXN0cmF0aW9uUmVjb3JkIHNlbnQiKTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGRiRmFjdG9yeS5kYigpLmRiQXNzZXQoKS5zYXZlKCkK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CkNSRUFURSBUQUJMRSBuZXR2YXVsdF9hc3NldCAoCiAgICBidWNrZXQgaW50LAogICAgYXNzZXRfaWQgdGV4dCwKCXNlcnZpY2VfdGFnIHRleHQsCiAgICBzdWJkb21haW4gdGV4dCwKCXByb2R1Y3RfbW9kZWwgdGV4dCwKCW5yX29mX2FsZXJ0cyBiaWdpbnQsCglucl9vZl9kaWFnbm9zdGljcyBiaWdpbnQsCglob3N0bmFtZSB0ZXh0LAoJc3lzdGVtX3N0YXRlIHRleHQsCglhc3NldF90eXBlIHRleHQsCglQUklNQVJZIEtFWSAoKGJ1Y2tldCksIGFzc2V0X2lkKQopOw==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyJhc3NldElkIjoiNDYxNTk3MmItYzAwMi00YWU4LThhYzYtYWVmZTQzMjRhZWFlIiwidXNlcm5hbWUiOiAiIiwgImlzVmlhQXNzZXQiOnRydWV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBUT0RPIHJlZmFjdG9yaW5nIG9ubHkgZm9yIGRlbW8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdzb24gPSBHc29uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLndoZXJlKFF1ZXJ5QnVpbGRlci5lcShSZWdpc3RlcmVkQXNzZXRDb2x1bW5zLkJVQ0tFVCwgIjEiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLndoZXJlKFF1ZXJ5QnVpbGRlci5lcShFdmVudHNCeUFzc2V0Q29sdW1ucy5CVUNLRVQsICIxIikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CkNSRUFURSBUQUJMRSBuZXR2YXVsdF9hc3NldCAoCiAgICBidWNrZXQgaW50LAogICAgYXNzZXRfaWQgdGV4dCwKCXNlcnZpY2VfdGFnIHRleHQsCiAgICBzdWJkb21haW4gdGV4dCwKCXByb2R1Y3RfbW9kZWwgdGV4dCwKCW5yX29mX2FsZXJ0cyBiaWdpbnQsCglucl9vZl9kaWFnbm9zdGljcyBiaWdpbnQsCglob3N0bmFtZSB0ZXh0LAoJc3lzdGVtX3N0YXRlIHRleHQsCglhc3NldF90eXBlIHRleHQsCglQUklNQVJZIEtFWSAoKGJ1Y2tldCksIGFzc2V0X2lkKQopOw==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>asset</last-search>
+      <last-search>500</last-search>
       <last-offset />
-      <last-pattern>asset</last-pattern>
+      <last-pattern>500</last-pattern>
       <last-replace>app</last-replace>
       <last-substitute>myFatApp</last-substitute>
       <last-dir>1</last-dir>
@@ -338,6 +350,10 @@
         <entry>nv</entry>
         <entry>netvault_asset</entry>
         <entry>asset</entry>
+        <entry>organizations</entry>
+        <entry>api</entry>
+        <entry>principal</entry>
+        <entry>500</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${main\.version}/1\.0\.0/</entry>
