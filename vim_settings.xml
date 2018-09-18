@@ -89,8 +89,12 @@
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/database/createCassandra.cql" timestamp="1536908630286">
         <mark key="'" line="214" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" timestamp="1537273522731">
-        <mark key="'" line="100" column="37" />
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" timestamp="1537275466615">
+        <mark key="'" line="90" column="31" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="91" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" timestamp="1537170267066">
         <mark key="'" line="27" column="66" />
@@ -172,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="194" column="38" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="196" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="198" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
@@ -272,46 +275,47 @@
       <jump line="93" column="24" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
       <jump line="100" column="37" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
       <jump line="42" column="40" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java" />
+      <jump line="87" column="31" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGRiRmFjdG9yeS5kYigpLmRiQXNzZXQoKS5zYXZlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEN1c3RvbUp3dEV4Y2VwdGlvbigiVG9rZW4gZXJyb3I6ICIgKyBleC5nZXRNZXNzYWdlKCksIGV4KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ZMg7z4K2cbWv4PxvlgjIeRwR51wkDb7rL9GGKcF9npBWJJM1IW7vvTLdTk79BUxx3WDj90rj7oxZnJRRertHbg==</text>
+        <text>gson</text>
       </register>
       <register name="/" type="4">
         <text>500</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVucmVnaXN0cmF0aW9uIHVucmVnaXN0cmF0aW9uID0gbmV3IFVucmVnaXN0cmF0aW9uKCk7CiAgICAgICAgICAgICAgICB1bnJlZ2lzdHJhdGlvbi5zZXRBc3NldElkKGFzc2V0SWQpOwogICAgICAgICAgICAgICAgdW5yZWdpc3RyYXRpb24uc2V0VXNlcm5hbWUoand0VXNlci5nZXRVc2VybmFtZSgpKTsKICAgICAgICAgICAgICAgIHVucmVnaXN0cmF0aW9uLnNldFZpYUFzc2V0KGZhbHNlKTsKCi8vICAgICAgICAgICAgVE9ETyByZWZhY3RvcmluZyBvbmx5IGZvciBkZW1vCiAgICAgICAgICAgICAgICBLZlJlY29yZCBrZlVucmVnaXN0cmF0aW9uUmVjb3JkID0ga2ZGYWN0b3J5LmtmVG9waWMoInJlbW92YWwiKQogICAgICAgICAgICAgICAgICAgICAgICAua2ZSZWNvcmQoand0VXNlci5nZXRVc2VybmFtZSgpLCBnc29uLnRvSnNvbih1bnJlZ2lzdHJhdGlvbikpOwoKCiAgICAgICAgICAgICAgICBrZlVucmVnaXN0cmF0aW9uUmVjb3JkLnNhdmUoKTsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJrZlVucmVnaXN0cmF0aW9uUmVjb3JkIHNlbnQiKTsK</text>
+      <register name="0" type="4">
+        <text>CustomJwtException(&quot;Token error: &quot; + ex.getMessage(), ex);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGRiRmFjdG9yeS5kYigpLmRiQXNzZXQoKS5zYXZlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEN1c3RvbUp3dEV4Y2VwdGlvbigiVG9rZW4gZXJyb3I6ICIgKyBleC5nZXRNZXNzYWdlKCksIGV4KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3VzdG9tSnd0RXhjZXB0aW9uIGp3dEV4Y2VwdGlvbiA9IEN1c3RvbUp3dEV4Y2VwdGlvbigiVG9rZW4gZXJyb3I6ICIgKyBleC5nZXRNZXNzYWdlKCksIGV4KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGRiRmFjdG9yeS5kYigpLmRiQXNzZXQoKS5zYXZlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CkNSRUFURSBUQUJMRSBuZXR2YXVsdF9hc3NldCAoCiAgICBidWNrZXQgaW50LAogICAgYXNzZXRfaWQgdGV4dCwKCXNlcnZpY2VfdGFnIHRleHQsCiAgICBzdWJkb21haW4gdGV4dCwKCXByb2R1Y3RfbW9kZWwgdGV4dCwKCW5yX29mX2FsZXJ0cyBiaWdpbnQsCglucl9vZl9kaWFnbm9zdGljcyBiaWdpbnQsCglob3N0bmFtZSB0ZXh0LAoJc3lzdGVtX3N0YXRlIHRleHQsCglhc3NldF90eXBlIHRleHQsCglQUklNQVJZIEtFWSAoKGJ1Y2tldCksIGFzc2V0X2lkKQopOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
