@@ -80,6 +80,12 @@
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/prepare_disks.sh" timestamp="1537173648296">
         <mark key="'" line="199" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/DiagnosticsImpl.java" timestamp="1537341161770">
+        <mark key="[" line="105" column="35" />
+        <mark key="]" line="105" column="51" />
+        <mark key="." line="105" column="51" />
+        <mark key="^" line="105" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" timestamp="1537271815759">
         <mark key="'" line="83" column="30" />
         <mark key="[" line="139" column="59" />
@@ -282,11 +288,11 @@
       <jump line="0" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/security-common/src/main/java/portal/security/keys/filter/SubdomainFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEN1c3RvbUp3dEV4Y2VwdGlvbigiVG9rZW4gZXJyb3I6ICIgKyBleC5nZXRNZXNzYWdlKCksIGV4KTsK</text>
+      <register name="&quot;" type="4">
+        <text>dbAsset</text>
       </register>
       <register name="-" type="4">
-        <text>gson</text>
+        <text>dbAsset</text>
       </register>
       <register name="/" type="4">
         <text>500</text>
