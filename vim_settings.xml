@@ -16,6 +16,9 @@
         <mark key="^" line="86" column="40" />
         <mark key="." line="86" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/src/main/java/portal/diagnostics/upload/BlobChecker.java" timestamp="1537349889522">
+        <mark key="'" line="43" column="78" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1537170754033">
         <mark key="'" line="73" column="48" />
       </file>
@@ -68,6 +71,9 @@
         <mark key="^" line="152" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1537280152819" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" timestamp="1537350268097">
+        <mark key="'" line="101" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KcsStatsMessage.java" timestamp="1537271376667">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="95" column="0" />
@@ -193,16 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="199" column="26" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="203" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="214" column="18" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="218" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="225" column="16" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="230" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="235" column="16" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="239" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="244" column="18" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="248" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="254" column="18" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="264" column="19" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
@@ -293,6 +289,16 @@
       <jump line="87" column="31" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
       <jump line="0" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/security-common/src/main/java/portal/security/keys/filter/SubdomainFilter.java" />
       <jump line="20" column="37" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="43" column="78" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/src/main/java/portal/diagnostics/upload/BlobChecker.java" />
+      <jump line="46" column="39" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
+      <jump line="129" column="24" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
+      <jump line="127" column="19" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
+      <jump line="102" column="27" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
+      <jump line="206" column="35" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
+      <jump line="207" column="24" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
+      <jump line="55" column="38" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
+      <jump line="100" column="39" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
+      <jump line="101" column="28" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -302,7 +308,7 @@
         <text>WpMFfpoB9KAFioXbmqdWu3rlWvye1Fd72uCHgwxbJf2LzUyFXF2/U2ncclB13wQm6Q1lUYFx0OeoAq4qaPbhQQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXcE1GZnBvQjlLQUZpb1hibXFkV3UzcmxXdnllMUZkNzJ1Q0hnd3hiSmYyTHpVeUZYRjJcPg==</text>
+        <text>azure</text>
       </register>
       <register name="0" type="4">
         <text>CustomJwtException(&quot;Token error: &quot; + ex.getMessage(), ex);</text>
@@ -339,12 +345,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXcE1GZnBvQjlLQUZpb1hibXFkV3UzcmxXdnllMUZkNzJ1Q0hnd3hiSmYyTHpVeUZYRjJcPg==</last-search>
+      <last-search>azure</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXcE1GZnBvQjlLQUZpb1hibXFkV3UzcmxXdnllMUZkNzJ1Q0hnd3hiSmYyTHpVeUZYRjJcPg==</last-pattern>
+      <last-pattern>azure</last-pattern>
       <last-replace>app</last-replace>
       <last-substitute>myFatApp</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -376,6 +382,9 @@
         <entry>principal</entry>
         <entry>500</entry>
         <entry encoding="base64">XDxXcE1GZnBvQjlLQUZpb1hibXFkV3UzcmxXdnllMUZkNzJ1Q0hnd3hiSmYyTHpVeUZYRjJcPg==</entry>
+        <entry>Failed to check</entry>
+        <entry>connector</entry>
+        <entry>azure</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${main\.version}/1\.0\.0/</entry>
