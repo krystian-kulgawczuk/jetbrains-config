@@ -313,11 +313,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1537361404201">
-        <mark key="'" line="76" column="49" />
-        <mark key="[" line="21" column="46" />
-        <mark key="]" line="21" column="47" />
-        <mark key="." line="21" column="47" />
+      <file name="$USER_HOME$/Projects/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1537363601250">
+        <mark key="'" line="124" column="52" />
+        <mark key="[" line="139" column="91" />
+        <mark key="]" line="139" column="105" />
+        <mark key="." line="139" column="105" />
+        <mark key="^" line="139" column="105" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/view/stats/controller/MetadataController.java" timestamp="1536304609409">
         <mark key="[" line="11" column="0" />
@@ -1016,7 +1017,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="11" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="294" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="296" column="18" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="302" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
@@ -1116,6 +1116,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/apimodel.json" />
       <jump line="28" column="27" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" />
       <jump line="76" column="49" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" />
+      <jump line="124" column="52" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1250,6 +1251,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
