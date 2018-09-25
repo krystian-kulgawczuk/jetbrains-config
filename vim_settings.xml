@@ -42,18 +42,30 @@
         <mark key="]" line="88" column="1" />
         <mark key="." line="88" column="1" />
       </file>
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.lock" timestamp="1537876051228" />
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/cmd/agentstatistics/main.go" timestamp="1537790249264" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/.gitignore" timestamp="1537875840684">
+        <mark key="[" line="79" column="8" />
+        <mark key="]" line="79" column="7" />
+        <mark key="^" line="80" column="9" />
+        <mark key="." line="79" column="7" />
+      </file>
       <file name="$USER_HOME$/golang/src/orbital-agent-netvault/pkg/api/api_managebutton/errors.go" timestamp="1537793492158" />
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1537871864865">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1537874699072">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="15" column="53" />
+        <mark key="." line="15" column="53" />
+        <mark key="^" line="15" column="53" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/schema/schema.sql" timestamp="1537871392307">
         <mark key="'" line="39" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/build.sh" timestamp="1537859527996" />
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/Makefile" timestamp="1537865240697" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/Makefile" timestamp="1537874538041">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="53" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/out/linux/restart.sh" timestamp="1537795391863" />
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/build.sh" timestamp="1537860643337">
         <mark key="[" line="10" column="0" />
@@ -66,15 +78,26 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Jenkinsfile.groovy" timestamp="1537868371838" />
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" timestamp="1537871300628">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="253" column="7" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Jenkinsfile.groovy" timestamp="1537875926817">
+        <mark key="'" line="57" column="12" />
+        <mark key="[" line="32" column="48" />
+        <mark key="]" line="32" column="107" />
+        <mark key="^" line="32" column="107" />
+        <mark key="." line="32" column="107" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" timestamp="1537874542775">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build/run.vm.sh" timestamp="1537794492731" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.toml" timestamp="1537876074281">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+      </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/schema/initial_setup.sql" timestamp="1537871588397">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -105,10 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="46" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="235" column="46" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="236" column="46" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="231" column="39" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="28" column="20" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
       <jump line="64" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE.jar!/org/springframework/http/HttpStatus.class" />
       <jump line="98" column="32" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
@@ -205,55 +224,59 @@
       <jump line="14" column="0" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
       <jump line="68" column="1" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/schema/schema.sql" />
       <jump line="39" column="33" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/schema/schema.sql" />
+      <jump line="36" column="29" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Jenkinsfile.groovy" />
+      <jump line="57" column="12" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Jenkinsfile.groovy" />
+      <jump line="157" column="4" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
+      <jump line="0" column="0" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZG9ja2VyIHJtIGFnZXRuLW5ldHZhdWx0LSR7VkVSU0lPTn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cp</text>
+        <text>ssh://git@git.labs.quest.com/dpdr/orbital-svc-gateway.git</text>
       </register>
       <register name="/" type="4">
-        <text>insert_remotemanagementstatus</text>
+        <text>Gopkg.lock</text>
       </register>
       <register name="0" type="4">
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZG9ja2VyIHJtIGFnZXRuLW5ldHZhdWx0LSR7VkVSU0lPTn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1ZG8gcm0gLXJkZiAvdXNyL25ldHZhdWx0L252YWcK</text>
+        <text encoding="base64">X3ZlbmRvci0yMDE4MDkyNDE2MzAwNgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZ2V0IHJpZCBvZmYgb2xkIGJpbmFyaWVzCg==</text>
+        <text encoding="base64">S0VZRklMRT0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZGYgdGFyZ2V0Cg==</text>
+        <text encoding="base64">S0VZRklMRT0ke0hPTUV9Ly5vcmJpdGFsLWVuY3J5cHRpb24tJHtQUk9GSUxFfS5zZWNyZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgY2xlYW51cCB0YXJnZXQK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlcj0kMTsgc2hpZnQK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3Agfi90YXJnZXQvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmV0dmF1bHRfcGFzc3BocmFzZT1VajFoVU9tMmRRYmtkb0ZSdjVnQno2L3h1NlcyU0tTTFlZQT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>20,21d</text>
       </register>
     </registers>
     <search>
-      <last-search>insert_remotemanagementstatus</last-search>
+      <last-search>Gopkg.lock</last-search>
       <last-offset />
-      <last-pattern>insert_remotemanagementstatus</last-pattern>
+      <last-pattern>Gopkg.lock</last-pattern>
       <last-replace>org</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
@@ -294,6 +317,8 @@
         <entry>~</entry>
         <entry>insert_remotemanage</entry>
         <entry>insert_remotemanagementstatus</entry>
+        <entry>branch_name</entry>
+        <entry>Gopkg.lock</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${main\.version}/1\.0\.0/</entry>
