@@ -5,6 +5,7 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="private-key-us-dev" type="PLAIN_TEXT" />
       <mapping ext="encrypted" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
