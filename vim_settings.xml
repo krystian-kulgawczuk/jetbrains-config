@@ -69,11 +69,11 @@
         <mark key="^" line="23" column="124" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/build/restart.sh" timestamp="1537790163780" />
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build.sh" timestamp="1537860677322">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="44" />
-        <mark key="^" line="5" column="44" />
-        <mark key="." line="5" column="44" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build.sh" timestamp="1537861742656">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/resources/application-us-prod.properties" timestamp="1537184766984">
         <mark key="[" line="22" column="38" />
@@ -125,7 +125,7 @@
         <mark key="." line="105" column="51" />
         <mark key="^" line="105" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/Makefile" timestamp="1537859646028" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/Makefile" timestamp="1537861852534" />
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-agent-manage/Jenkinsfile.groovy" timestamp="1537450652638">
         <mark key="'" line="59" column="29" />
       </file>
@@ -144,8 +144,11 @@
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1537472930489">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Dockerfile" timestamp="1537861251791">
-        <mark key="[" line="20" column="103" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Dockerfile" timestamp="1537863324571">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="12" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/pom.xml" timestamp="1537450095748">
         <mark key="[" line="203" column="0" />
@@ -153,12 +156,12 @@
         <mark key="^" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" timestamp="1537859674589">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" timestamp="1537861905424">
+        <mark key="'" line="33" column="21" />
+        <mark key="[" line="250" column="12" />
+        <mark key="]" line="250" column="12" />
+        <mark key="." line="250" column="12" />
+        <mark key="^" line="250" column="12" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build/run.vm.sh" timestamp="1537794492731" />
       <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/src/main/resources/application-us-dev.properties" timestamp="1537359959960">
@@ -178,9 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="22" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="155" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="163" column="2" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="164" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="78" column="71" filename="$USER_HOME$/Projects/orbital-svc-kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KcrRemovalMessage.java" />
       <jump line="35" column="32" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" />
@@ -278,28 +278,31 @@
       <jump line="245" column="38" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
       <jump line="249" column="4" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
       <jump line="28" column="0" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
+      <jump line="247" column="5" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
+      <jump line="248" column="4" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
+      <jump line="33" column="21" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>bin</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>bin</text>
       </register>
       <register name="/" type="4">
         <text>com</text>
       </register>
       <register name="0" type="4">
-        <text>$GOPATH/src/bitbucket.com/acaisoft/net-vault-agents</text>
+        <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09QWSAtLWZyb209YnVpbGRlciAvZ28vc3JjL2JpdGJ1Y2tldC5vcmcvYWNhaXNvZnQvbmV0LXZhdWx0LWFnZW50cy9jbWQvYXBwLmpzb24gL2dvL2Jpbi9hcHAuanNvbgo=</text>
+        <text encoding="base64">Q09QWSAtLWZyb209YnVpbGRlciAvZ28vdGFyZ2V0L2NsZWFybnYgL2dvL3RhcmdldC9jbGVhcm52Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09QWSAvZ28vc3JjL2JpdGJ1Y2tldC5vcmcvYWNhaXNvZnQvbmV0LXZhdWx0LWFnZW50cy9jbWQvYXBwLmpzb24K</text>
+        <text encoding="base64">Q09QWSAtLWZyb209YnVpbGRlciAvZ28vc3JjL2JpdGJ1Y2tldC5vcmcvYWNhaXNvZnQvbmV0LXZhdWx0LWFnZW50cy9jbWQvYXBwLmpzb24gL2dvL2Jpbi9hcHAuanNvbgpDT1BZIC0tZnJvbT1idWlsZGVyIC9nby9zcmMvYml0YnVja2V0Lm9yZy9hY2Fpc29mdC9uZXQtdmF1bHQtYWdlbnRzL2J1aWxkL3Jlc3RhcnQuc2ggL2dvL2Jpbi9yZXN0YXJ0LnNoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAtLWZyb209YnVpbGRlciAvZ28vc3JjL2JpdGJ1Y2tldC5vcmcvYWNhaXNvZnQvbmV0LXZhdWx0LWFnZW50cy9jbWQvYXBwLmpzb24gL2dvL2Jpbi9hcHAuanNvbgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Q09QWSAvZ28vc3JjL2JpdGJ1Y2tldC5vcmcvYWNhaXNvZnQvbmV0LXZhdWx0LWFnZW50cy9jbWQvYXBwLmpzb24K</text>
@@ -308,19 +311,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAvZ28vc3JjL2JpdGJ1Y2tldC5vcmcvYWNhaXNvZnQvbmV0LXZhdWx0LWFnZW50cy9jbWQvYXBwLmpzb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZG9ja2VyIHB1c2ggJHtET0NLRVJfUkVHSVNUUll9L2thZmthLWNhc3NhbmRyYS1zdGF0czoke1ZFUlNJT059Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZG9ja2VyIGJ1aWxkIC0tYnVpbGQtYXJnIERPQ0tFUl9SRUdJU1RSWT0ke0RPQ0tFUl9SRUdJU1RSWX0gLXQgJHtET0NLRVJfUkVHSVNUUll9L2thZmthLWNhc3NhbmRyYS1zdGF0czoke1ZFUlNJT059IC4K</text>
+        <text encoding="base64">ZG9ja2VyIHB1c2ggJHtET0NLRVJfUkVHSVNUUll9L2thZmthLWNhc3NhbmRyYS1zdGF0czoke1ZFUlNJT059Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/com/org/g</text>
+        <text>20,21d</text>
       </register>
     </registers>
     <search>
@@ -386,6 +389,7 @@
         <entry>139,150y</entry>
         <entry>q</entry>
         <entry>%s/com/org/g</entry>
+        <entry>20,21d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
