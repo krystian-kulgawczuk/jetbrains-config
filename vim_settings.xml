@@ -43,12 +43,6 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-metadata-organizations/Jenkinsfile.groovy" timestamp="1537452544870">
-        <mark key="'" line="32" column="139" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" timestamp="1537454202715">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -75,11 +69,11 @@
         <mark key="^" line="23" column="124" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/build/restart.sh" timestamp="1537790163780" />
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build.sh" timestamp="1537859278322">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build.sh" timestamp="1537860677322">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/resources/application-us-prod.properties" timestamp="1537184766984">
         <mark key="[" line="22" column="38" />
@@ -142,21 +136,16 @@
         <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/out/linux/restart.sh" timestamp="1537795391863" />
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/Jenkinsfile.groovy" timestamp="1537452773507">
-        <mark key="'" line="32" column="123" />
-        <mark key="[" line="32" column="48" />
-        <mark key="]" line="32" column="48" />
-        <mark key="." line="32" column="48" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/build.sh" timestamp="1537860643337">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="63" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/build.sh" timestamp="1537859630652" />
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1537472930489">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Dockerfile" timestamp="1537859859790">
-        <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Dockerfile" timestamp="1537861251791">
+        <mark key="[" line="20" column="103" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/pom.xml" timestamp="1537450095748">
         <mark key="[" line="203" column="0" />
@@ -292,10 +281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>com</text>
@@ -304,31 +293,31 @@
         <text>$GOPATH/src/bitbucket.com/acaisoft/net-vault-agents</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAtLWZyb209YnVpbGRlciAvZ28vc3JjL2JpdGJ1Y2tldC5vcmcvYWNhaXNvZnQvbmV0LXZhdWx0LWFnZW50cy9jbWQvYXBwLmpzb24gL2dvL2Jpbi9hcHAuanNvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q01EIFsiL2Jpbi9iYXNoIl0K</text>
+        <text encoding="base64">Q09QWSAvZ28vc3JjL2JpdGJ1Y2tldC5vcmcvYWNhaXNvZnQvbmV0LXZhdWx0LWFnZW50cy9jbWQvYXBwLmpzb24K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBtYWtlIF9ibGRwcmVwYXJlCg==</text>
+        <text encoding="base64">Q09QWSAvZ28vc3JjL2JpdGJ1Y2tldC5vcmcvYWNhaXNvZnQvbmV0LXZhdWx0LWFnZW50cy9jbWQvYXBwLmpzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">V09SS0RJUiAvZ28vc3JjL2JpdGJ1Y2tldC5jb20vYWNhaXNvZnQvbmV0LXZhdWx0LWFnZW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9ja2VyIHB1c2ggJHtET0NLRVJfUkVHSVNUUll9L2thZmthLWNhc3NhbmRyYS1zdGF0czoke1ZFUlNJT059Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RlJPTSBzY3JhdGNoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIGdvIGJ1aWxkIC1vICJnby9iaW4vc2VydmVyIiAiJEdPUEFUSC9zcmMvYml0YnVja2V0LmNvbS9hY2Fpc29mdC9uZXQtdmF1bHQtYWdlbnRzL2NtZC9zZXJ2ZXIvbWFpbi5nbyIK</text>
+        <text encoding="base64">ZG9ja2VyIGJ1aWxkIC0tYnVpbGQtYXJnIERPQ0tFUl9SRUdJU1RSWT0ke0RPQ0tFUl9SRUdJU1RSWX0gLXQgJHtET0NLRVJfUkVHSVNUUll9L2thZmthLWNhc3NhbmRyYS1zdGF0czoke1ZFUlNJT059IC4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/com/org/g</text>
