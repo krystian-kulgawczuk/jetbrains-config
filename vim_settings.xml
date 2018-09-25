@@ -20,7 +20,7 @@
       <file name="$USER_HOME$/golang/src/orbital-agent-netvault/Makefile" timestamp="1537792851209">
         <mark key="'" line="43" column="16" />
       </file>
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/resources/private-key-us-dev" timestamp="1537866628010">
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/resources/private-key-us-dev" timestamp="1537867775855">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-job-backup-org-data/src/main/resources/application-us-dev.properties" timestamp="1537360173371">
@@ -85,11 +85,11 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1537867086114">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1537868496039">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="31" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="19" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/scripts_common/get_free_port.py" timestamp="1537446574958">
         <mark key="[" line="13" column="19" />
@@ -135,7 +135,7 @@
         <mark key="^" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Jenkinsfile.groovy" timestamp="1537864588133" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Jenkinsfile.groovy" timestamp="1537868371838" />
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" timestamp="1537865410446">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="253" column="7" />
@@ -156,10 +156,10 @@
         <mark key="." line="71" column="48" />
         <mark key="^" line="71" column="48" />
       </file>
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/resources/application-us-dev.properties" timestamp="1537865639726">
-        <mark key="[" line="1" column="51" />
-        <mark key="]" line="2" column="55" />
-        <mark key="." line="2" column="55" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/resources/application-us-dev.properties" timestamp="1537868506455">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="55" />
       </file>
     </filemarks>
@@ -266,11 +266,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bmV0dmF1bHRfcGFzc3BocmFzZT1VajFoVU9tMmRRYmtkb0ZSdjVnQno2L3h1NlcyU0tTTFlZQT0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>otherhost</text>
       </register>
       <register name="/" type="4">
         <text>cfg-default</text>
@@ -279,31 +279,31 @@
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAke2Ruc30K</text>
+        <text encoding="base64">bmV0dmF1bHRfcGFzc3BocmFzZT1VajFoVU9tMmRRYmtkb0ZSdjVnQno2L3h1NlcyU0tTTFlZQT0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAuL3NvbWVfb3RoZXJfYWN0aW9uICdvdGhlciBwYXJhbXMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgZWNobyAkUFJPUF9WQUxVRQo=</text>
+        <text encoding="base64">ICBwd2QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgUFJPUF9WQUxVRT1gY2F0ICRQUk9QRVJUWV9GSUxFIHwgZ3JlcCAiJFBST1BfS0VZIiB8IGN1dCAtZCc9JyAtZjJgCg==</text>
+        <text encoding="base64">ICAuL3NvbWVhY3Rpb24uc2ggJ3NvbWUgcGFyYW1zJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgUFJPUF9LRVk9JDEK</text>
+        <text encoding="base64">ICBscyBzb21lX2ZvbGRlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0UHJvcGVydHkgewo=</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFzc3BocmFzZT0kKGdldFByb3BlcnR5ICJuZXR2YXVsdF9wYXNzcGhyYXNlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UFJPUEVSVFlfRklMRT1hcHBzLnByb3BlcnRpZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TkVUVkFVTFRfRE5TCg==</text>
+        <text encoding="base64">aW5zdGFsbCAtdm03MDAgPChlY2hvICJlY2hvICRQQVNTIikgIiRQV0QvcHMuc2giCg==</text>
       </register>
       <register name=":" type="4">
         <text>20,21d</text>
