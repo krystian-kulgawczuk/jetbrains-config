@@ -51,6 +51,7 @@
         <mark key="." line="28" column="17" />
         <mark key="^" line="28" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/docker-compose.yaml" timestamp="1537962624541" />
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/cmd/agentstatistics/main.go" timestamp="1537790249264" />
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/.gitignore" timestamp="1537875840684">
         <mark key="[" line="79" column="8" />
@@ -59,11 +60,12 @@
         <mark key="." line="79" column="7" />
       </file>
       <file name="$USER_HOME$/golang/src/orbital-agent-netvault/pkg/api/api_managebutton/errors.go" timestamp="1537793492158" />
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1537960391923">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1537963197875">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="23" column="10" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/resources/application-us-dev.properties.encrypted" timestamp="1537877178016" />
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/schema/schema.sql" timestamp="1537871392307">
@@ -239,11 +241,11 @@
       <jump line="38" column="4" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDEwCg==</text>
+      <register name="&quot;" type="4">
+        <text>%</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZFw+</text>
