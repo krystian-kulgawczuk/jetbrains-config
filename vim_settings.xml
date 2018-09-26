@@ -59,11 +59,11 @@
         <mark key="." line="79" column="7" />
       </file>
       <file name="$USER_HOME$/golang/src/orbital-agent-netvault/pkg/api/api_managebutton/errors.go" timestamp="1537793492158" />
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1537951041322">
-        <mark key="[" line="19" column="88" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
-        <mark key="^" line="18" column="26" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1537960391923">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/resources/application-us-dev.properties.encrypted" timestamp="1537877178016" />
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/schema/schema.sql" timestamp="1537871392307">
@@ -137,7 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE.jar!/org/springframework/http/HttpStatus.class" />
       <jump line="98" column="32" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
       <jump line="176" column="47" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="179" column="44" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
@@ -237,58 +236,59 @@
       <jump line="157" column="4" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
       <jump line="0" column="0" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
       <jump line="26" column="0" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.lock" />
+      <jump line="38" column="4" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNsZWVwIDEwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>go-colorable</text>
+        <text encoding="base64">XDxjZFw+</text>
       </register>
       <register name="0" type="4">
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNsZWVwIDEwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uID0gInYwLjAuOSIK</text>
+        <text encoding="base64">RU9GCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXZpc2lvbiA9ICIxNjdkZTZiZmRmYmEwNTJmYTZiMmQzNjY0YzhmNTI3MmUyM2M5MDcyIgo=</text>
+        <text encoding="base64">ICAgIHNzaCAtbyBTdHJpY3RIb3N0S2V5Q2hlY2tpbmc9bm8gJHt1c2VyfUAke2Ruc30gPDwgRU9GCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcnVuZW9wdHMgPSAiVVQiCg==</text>
+        <text encoding="base64">ICAgICAgICBkb25lOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYWNrYWdlcyA9IFsiLiJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAgNQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuYW1lID0gImdpdGh1Yi5jb20vbWF0dG4vZ28tY29sb3JhYmxlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyBzdGlsbCBjb3B5aW5nIGZpbGUgfi90YXJnZXQvJGZpbGUuLi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkaWdlc3QgPSAiMTpjNjU4ZTg0YWQzOTE2ZGExMDVhNzYxNjYwZGNhZWIwMWU2MzQxNmM4ZWM3YmM2MjI1NmE5YjQxMWEwNWZjZDY3Igo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBbWyAkKGxzb2YgfCBncmVwICRmaWxlIHwgd2MgLWwpIC1uZSAwIF1dOyBkbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W1twcm9qZWN0c11dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHNvZnJlc3VsdD1gbHNvZiB8IGdyZXAgfi90YXJnZXQvJGZpbGUgfCB3YyAtbGAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsc29mIHwgZ3JlcCAkZmlsZSB8IHdjIC1sCg==</text>
       </register>
       <register name=":" type="4">
         <text>20,21d</text>
       </register>
     </registers>
     <search>
-      <last-search>go-colorable</last-search>
+      <last-search encoding="base64">XDxjZFw+</last-search>
       <last-offset />
-      <last-pattern>go-colorable</last-pattern>
+      <last-pattern encoding="base64">XDxjZFw+</last-pattern>
       <last-replace>org</last-replace>
       <last-substitute>com</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -329,6 +329,7 @@
         <entry>branch_name</entry>
         <entry>Gopkg.lock</entry>
         <entry>go-colorable</entry>
+        <entry encoding="base64">XDxjZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${main\.version}/1\.0\.0/</entry>
