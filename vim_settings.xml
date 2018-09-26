@@ -60,12 +60,12 @@
         <mark key="." line="79" column="7" />
       </file>
       <file name="$USER_HOME$/golang/src/orbital-agent-netvault/pkg/api/api_managebutton/errors.go" timestamp="1537793492158" />
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1537967167203">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1537967978630">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="31" column="5" />
+        <mark key="^" line="31" column="5" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/resources/application-us-dev.properties.encrypted" timestamp="1537877178016" />
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/schema/schema.sql" timestamp="1537871392307">
@@ -126,12 +126,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="55" />
       </file>
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build/restart.sh" timestamp="1537967140569">
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build/restart.sh" timestamp="1537967842627">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="16" column="6" />
-        <mark key="^" line="16" column="6" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/temp/orbital-ui-netvault/Jenkinsfile.groovy" timestamp="1537453997768">
         <mark key="[" line="32" column="48" />
@@ -242,11 +242,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build/restart.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2xlZXAgMjQwCg==</text>
+      <register name="&quot;" type="4">
+        <text>mv</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mv</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZFw+</text>
@@ -255,31 +255,31 @@
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2xlZXAgMjQwCg==</text>
+        <text encoding="base64">ICAgIHNsZWVwIDUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2FpdCAkIQo=</text>
+        <text encoding="base64">ICAgIHNsZWVwIDUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2FpdCAkIQo=</text>
+        <text encoding="base64">c2xlZXAgMjQwCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">d2FpdCAkIQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2FpdCAlIQo=</text>
+        <text encoding="base64">d2FpdCAkIQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjcCAtaSAke1JFU09VUkNFU30vcHJpdmF0ZS1rZXktJHtQUk9GSUxFfS5wcm9wZXJ0aWVzIC1ycCB0YXJnZXQvJHtmaWxlfSAke3VzZXJ9QCR7ZG5zfTp+L3RhcmdldC8ke2ZpbGV9ICYK</text>
+        <text encoding="base64">d2FpdCAkIQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJAo=</text>
+        <text encoding="base64">d2FpdCAlIQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDEwCg==</text>
+        <text encoding="base64">ICAgIHNjcCAtaSAke1JFU09VUkNFU30vcHJpdmF0ZS1rZXktJHtQUk9GSUxFfS5wcm9wZXJ0aWVzIC1ycCB0YXJnZXQvJHtmaWxlfSAke3VzZXJ9QCR7ZG5zfTp+L3RhcmdldC8ke2ZpbGV9ICYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU9GCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJAo=</text>
       </register>
       <register name=":" type="4">
         <text>20,21d</text>
