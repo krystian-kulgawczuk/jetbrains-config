@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" timestamp="1537970112798">
-        <mark key="'" line="345" column="4" />
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" timestamp="1538031882261">
+        <mark key="'" line="349" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1537452892925">
         <mark key="'" line="36" column="0" />
@@ -51,18 +51,13 @@
         <mark key="^" line="3" column="52" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/dev/config.cfg" timestamp="1537864216394" />
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-metadata-organizations/Jenkinsfile.groovy" timestamp="1537452544870">
-        <mark key="'" line="32" column="139" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" timestamp="1537454202715">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="^" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1538032356625" />
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/resources/private-key-us-dev.properties.encrypted" timestamp="1537877170454" />
       <file name="$USER_HOME$/Projects/Orbital/orbital-ui-qs-410/Jenkinsfile.groovy" timestamp="1537454100806">
         <mark key="'" line="0" column="0" />
@@ -72,6 +67,13 @@
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-charts/Jenkinsfile.groovy" timestamp="1537451990986">
         <mark key="'" line="40" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/impl/DibFactoryImpl.java" timestamp="1538035670942">
+        <mark key="'" line="11" column="40" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/out.bak/linux/restart.sh" timestamp="1537871698231">
         <mark key="[" line="13" column="0" />
@@ -84,11 +86,6 @@
         <mark key="]" line="23" column="124" />
         <mark key="." line="23" column="124" />
         <mark key="^" line="23" column="124" />
-      </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/Jenkinsfile.groovy" timestamp="1537450482782">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/vendor/restart.sh" timestamp="1537985198019">
         <mark key="[" line="0" column="11" />
@@ -103,16 +100,6 @@
         <mark key="^" line="19" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/build/restart.sh" timestamp="1537790163780" />
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build.sh" timestamp="1537872142756">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-job-backup-org-data/Jenkinsfile.groovy" timestamp="1537450225596">
-        <mark key="[" line="88" column="1" />
-        <mark key="]" line="88" column="1" />
-        <mark key="." line="88" column="1" />
-      </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.lock" timestamp="1537883424683">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="28" column="16" />
@@ -127,6 +114,7 @@
         <mark key="." line="22" column="38" />
         <mark key="^" line="24" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1538034081167" />
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/schema/Organization.java" timestamp="1537176463620">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="30" />
@@ -137,24 +125,19 @@
         <mark key="'" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/cmd/agentstatistics/main.go" timestamp="1537790249264" />
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/.gitignore" timestamp="1537875840684">
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/.gitignore" timestamp="1538036259239">
         <mark key="[" line="79" column="8" />
         <mark key="]" line="79" column="7" />
         <mark key="^" line="80" column="9" />
         <mark key="." line="79" column="7" />
       </file>
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/target/app.json" timestamp="1538034821168" />
       <file name="$USER_HOME$/golang/src/orbital-agent-netvault/pkg/api/api_managebutton/errors.go" timestamp="1537793492158" />
       <file name="$USER_HOME$/Projects/Orbital/orbital-lib-portal-schema/src/main/java/portal/schema/dto/asset/AlertByAssetDto.java" timestamp="1536924630875">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1537989694413">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="67" />
-        <mark key="." line="19" column="67" />
-        <mark key="^" line="19" column="67" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/resources/application-us-dev.properties.encrypted" timestamp="1537877178016" />
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/scripts_common/get_free_port.py" timestamp="1537446574958">
@@ -187,6 +170,13 @@
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-agent-manage/Jenkinsfile.groovy" timestamp="1537450652638">
         <mark key="'" line="59" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibAuthenticationFilter.java" timestamp="1538035771400">
+        <mark key="'" line="104" column="42" />
+        <mark key="[" line="105" column="56" />
+        <mark key="]" line="104" column="42" />
+        <mark key="^" line="104" column="42" />
+        <mark key="." line="104" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/Registration.java" timestamp="1536931173573">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="32" />
@@ -194,11 +184,11 @@
         <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/out/linux/restart.sh" timestamp="1537795391863" />
-      <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-stats/Jenkinsfile.groovy" timestamp="1537452773507">
-        <mark key="'" line="32" column="123" />
-        <mark key="[" line="32" column="48" />
-        <mark key="]" line="32" column="48" />
-        <mark key="." line="32" column="48" />
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/dib/impl/DibFactoryImpl.java" timestamp="1538033466770">
+        <mark key="[" line="22" column="135" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/build.sh" timestamp="1537860643337">
         <mark key="[" line="10" column="0" />
@@ -227,12 +217,15 @@
         <mark key="^" line="32" column="107" />
         <mark key="." line="32" column="107" />
       </file>
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" timestamp="1537880744117">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" timestamp="1538035380436">
+        <mark key="'" line="42" column="13" />
+      </file>
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" timestamp="1538036160867">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="7" />
+        <mark key="[" line="238" column="63" />
+        <mark key="]" line="238" column="68" />
+        <mark key="." line="238" column="68" />
+        <mark key="^" line="238" column="68" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build/run.vm.sh" timestamp="1537794492731" />
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.toml" timestamp="1537881718419">
@@ -267,28 +260,10 @@
         <mark key="^" line="2" column="55" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build/restart.sh" timestamp="1537988265542">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Orbital/temp/orbital-ui-netvault/Jenkinsfile.groovy" timestamp="1537453997768">
-        <mark key="[" line="32" column="48" />
-        <mark key="]" line="32" column="48" />
-        <mark key="." line="32" column="48" />
+        <mark key="'" line="28" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="78" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/src/main/java/portal/diagnostics/upload/BlobChecker.java" />
-      <jump line="46" column="39" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
-      <jump line="129" column="24" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
-      <jump line="127" column="19" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
-      <jump line="102" column="27" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
-      <jump line="206" column="35" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
-      <jump line="207" column="24" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
-      <jump line="55" column="38" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
-      <jump line="100" column="39" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
-      <jump line="101" column="28" filename="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/pom.xml" />
       <jump line="3730" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
       <jump line="3729" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
@@ -377,57 +352,67 @@
       <jump line="257" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="259" column="2" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="267" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="349" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="345" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="262" column="12" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="266" column="11" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="340" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="349" column="22" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="11" column="40" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/impl/DibFactoryImpl.java" />
+      <jump line="71" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
+      <jump line="10" column="47" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
+      <jump line="36" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
+      <jump line="38" column="155" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
+      <jump line="42" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
+      <jump line="104" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibAuthenticationFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>out</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>out</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>dibFactory</text>
       </register>
       <register name="0" type="4">
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2QgL3Vzci9uZXR2YXVsdC9udmFnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihleCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bXYgL2hvbWUvJHt1c2VyfS90YXJnZXQvKiAvdXNyL25ldHZhdWx0L252YWcvICY+IC9kZXYvbnVsbCAmMj4gL2Rldi9udWxsCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWtkaXIgLXAgL3Vzci9uZXR2YXVsdC9udmFnICY+IC9kZXYvbnVsbCAmMj4gL2Rldi9udWxsCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihleCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2NkIC91c3IvbmV0dmF1bHQvbnZhZwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I3NsZWVwIDUK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I212IC9ob21lLyR7dXNlcn0vdGFyZ2V0LyogL3Vzci9uZXR2YXVsdC9udmFnLwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>20,21d</text>
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>dibFactory</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>dibFactory</last-pattern>
       <last-replace>org</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
@@ -473,6 +458,8 @@
         <entry>go-colorable</entry>
         <entry encoding="base64">XDxjZFw+</entry>
         <entry>user</entry>
+        <entry>organization</entry>
+        <entry>dibFactory</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${main\.version}/1\.0\.0/</entry>
