@@ -174,6 +174,9 @@
         <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/out/linux/restart.sh" timestamp="1537795391863" />
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" timestamp="1538043912350">
+        <mark key="'" line="119" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/app/config/security/dib/impl/DibFactoryImpl.java" timestamp="1538033466770">
         <mark key="[" line="22" column="135" />
         <mark key="]" line="22" column="29" />
@@ -183,6 +186,7 @@
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1537472930489">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationImpl.java" timestamp="1538044164064" />
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Dockerfile" timestamp="1537882426355">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="14" column="9" />
@@ -243,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
       <jump line="3729" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/apimodel.json" />
       <jump line="28" column="27" filename="$USER_HOME$/Projects/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" />
@@ -343,6 +346,7 @@
       <jump line="42" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
       <jump line="104" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibAuthenticationFilter.java" />
       <jump line="87" column="78" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
+      <jump line="119" column="30" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
