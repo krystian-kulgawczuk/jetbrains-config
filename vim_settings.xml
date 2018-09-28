@@ -409,7 +409,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>return</text>
+        <text>scp</text>
       </register>
       <register name="0" type="4">
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
@@ -446,9 +446,9 @@
       </register>
     </registers>
     <search>
-      <last-search>return</last-search>
+      <last-search>scp</last-search>
       <last-offset />
-      <last-pattern>return</last-pattern>
+      <last-pattern>scp</last-pattern>
       <last-replace>org</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
@@ -501,6 +501,7 @@
         <entry>private</entry>
         <entry>private4</entry>
         <entry>return</entry>
+        <entry>scp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${main\.version}/1\.0\.0/</entry>
