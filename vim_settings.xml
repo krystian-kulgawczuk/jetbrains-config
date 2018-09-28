@@ -114,11 +114,11 @@
         <mark key="^" line="19" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/build/restart.sh" timestamp="1537790163780" />
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build.sh" timestamp="1538049094154">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build.sh" timestamp="1538120438121">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="9" column="10" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.lock" timestamp="1537883424683">
         <mark key="'" line="34" column="0" />
@@ -164,11 +164,11 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1538047355720">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="27" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="24" column="27" />
+      <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" timestamp="1538120310972">
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="10" />
+        <mark key="^" line="27" column="30" />
+        <mark key="." line="27" column="10" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/resources/application-us-dev.properties.encrypted" timestamp="1537877178016" />
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/scripts_common/get_free_port.py" timestamp="1537446574958">
@@ -403,10 +403,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>REQUEST_TIMEOUT</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>REQUEST_TIMEOUT</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>return</text>
@@ -415,31 +415,31 @@
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VkIC1FIC1pIC1lICdzLygic2VydmVyIjopLiovXDEic3RhY2siLC8nIHRhcmdldC9hcHAuanNvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBtYWtlIF9ibGRwcmVwYXJlCg==</text>
+        <text encoding="base64">ICAgIHJtIC1kIC9ob21lLyR7dXNlcn0vbnZ3cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBtYWtlIHZtLXJ1biBlPSIgY2QgJHtWTV9ESVJfQUdFTlRTfSAmJiBmaW5kIG52d3MgLXR5cGUgZiAtZXhlYyBjcCAtdiB7fSBcIiR7Vk1fRElSX0NMSX0ve31cIiBcOyAiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">c2VkIC1FIC1pIC1lICdzLygic2VydmVyIjopLiovXDEic3RhY2siLC8nIHRhcmdldC9hcHAuanNvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihleCk7Cg==</text>
+        <text encoding="base64">CUBtYWtlIF9ibGRwcmVwYXJlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsK</text>
+        <text encoding="base64">CUBtYWtlIHZtLXJ1biBlPSIgY2QgJHtWTV9ESVJfQUdFTlRTfSAmJiBmaW5kIG52d3MgLXR5cGUgZiAtZXhlYyBjcCAtdiB7fSBcIiR7Vk1fRElSX0NMSX0ve31cIiBcOyAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihleCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>20,21d</text>
