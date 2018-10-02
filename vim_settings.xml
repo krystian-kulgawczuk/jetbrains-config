@@ -9,7 +9,9 @@
       <file name="$USER_HOME$/Projects/Orbital/orbital-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1537452892925">
         <mark key="'" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" timestamp="1538471609365" />
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" timestamp="1538472196031">
+        <mark key="'" line="828" column="171" />
+      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-job-diagnostics-upload-monitor/src/main/resources/application-us-dev.properties" timestamp="1537347614655">
         <mark key="[" line="16" column="79" />
         <mark key="]" line="16" column="84" />
@@ -329,17 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="1" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/schema/schema.sql" />
-      <jump line="39" column="33" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/schema/schema.sql" />
-      <jump line="36" column="29" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Jenkinsfile.groovy" />
-      <jump line="57" column="12" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Jenkinsfile.groovy" />
-      <jump line="157" column="4" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
-      <jump line="0" column="0" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Makefile" />
-      <jump line="26" column="0" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.lock" />
-      <jump line="38" column="4" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/deploy.sh" />
-      <jump line="14" column="21" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build/restart.sh" />
-      <jump line="31" column="0" filename="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/build/restart.sh" />
-      <jump line="30" column="15" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="136" column="8" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="252" column="16" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="257" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
@@ -429,6 +420,17 @@
       <jump line="128" column="23" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" />
       <jump line="131" column="39" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationMetadataImpl.java" />
       <jump line="29" column="65" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/model/MessageFactoryImpl.java" />
+      <jump line="143" column="5" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
+      <jump line="492" column="171" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
+      <jump line="493" column="47" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
+      <jump line="499" column="42" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
+      <jump line="604" column="171" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
+      <jump line="605" column="47" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
+      <jump line="611" column="42" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
+      <jump line="716" column="171" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
+      <jump line="717" column="47" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
+      <jump line="723" column="42" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
+      <jump line="828" column="171" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -438,7 +440,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>topic</text>
+        <text>scaleset</text>
       </register>
       <register name="0" type="4">
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
@@ -475,9 +477,9 @@
       </register>
     </registers>
     <search>
-      <last-search>topic</last-search>
+      <last-search>scaleset</last-search>
       <last-offset />
-      <last-pattern>topic</last-pattern>
+      <last-pattern>scaleset</last-pattern>
       <last-replace>org</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
@@ -505,6 +507,7 @@
         <entry>scp</entry>
         <entry>sql-init</entry>
         <entry>topic</entry>
+        <entry>scaleset</entry>
       </history-search>
       <history-cmd>
         <entry>40,43d</entry>
