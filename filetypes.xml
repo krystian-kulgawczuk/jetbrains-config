@@ -11,6 +11,7 @@
       <mapping ext="encrypted" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="ThymeleafExpressions" />
     </extensionMap>
   </component>
 </application>
