@@ -77,8 +77,10 @@
         <mark key="^" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-agent-netvault/build.sh" timestamp="1538486241446">
-        <mark key="[" line="13" column="33" />
+      <file name="$USER_HOME$/Projects/orbital-agent-netvault/build.sh" timestamp="1538487420969">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-ui-qs-410/Jenkinsfile.groovy" timestamp="1537454100806">
         <mark key="'" line="0" column="0" />
@@ -435,8 +437,8 @@
       <jump line="828" column="171" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -451,28 +453,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm0gdGFyZ2V0L2FwcC5qc29uLWUgJj4gL2Rldi9udWxsIDI+L2Rldi9udWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJtIC1kIC9ob21lLyR7dXNlcn0vbnZ3cwo=</text>
+        <text encoding="base64">cm0gdGFyZ2V0L2FwcC5qc29uLWUgJj4gL2Rldi9udWxsIDI+L2Rldi9udWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VkIC1FIC1pIC1lICdzLygic2VydmVyIjopLiovXDEic3RhY2siLC8nIHRhcmdldC9hcHAuanNvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBtYWtlIF9ibGRwcmVwYXJlCg==</text>
+        <text encoding="base64">ICAgIHJtIC1kIC9ob21lLyR7dXNlcn0vbnZ3cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBtYWtlIHZtLXJ1biBlPSIgY2QgJHtWTV9ESVJfQUdFTlRTfSAmJiBmaW5kIG52d3MgLXR5cGUgZiAtZXhlYyBjcCAtdiB7fSBcIiR7Vk1fRElSX0NMSX0ve31cIiBcOyAiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">c2VkIC1FIC1pIC1lICdzLygic2VydmVyIjopLiovXDEic3RhY2siLC8nIHRhcmdldC9hcHAuanNvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihleCk7Cg==</text>
+        <text encoding="base64">CUBtYWtlIF9ibGRwcmVwYXJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>20,21d</text>
