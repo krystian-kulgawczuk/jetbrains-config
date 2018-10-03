@@ -47,7 +47,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" timestamp="1538557933652">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" timestamp="1538560708319">
+        <mark key="'" line="42" column="24" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="42" column="26" />
@@ -74,10 +75,6 @@
         <mark key="'" line="110" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/model/impl/ActorsKeepaliveImpl.java" timestamp="1538466720033" />
-      <file name="$USER_HOME$/Projects/programistok-k8s/workshop/helloworld-service.yml" timestamp="1538139678741">
-        <mark key="i" line="6" column="15" />
-        <mark key="[" line="6" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/Makefile" timestamp="1537874538041">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="53" />
@@ -85,6 +82,9 @@
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-agent-manage/Jenkinsfile.groovy" timestamp="1537450652638">
         <mark key="'" line="59" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" timestamp="1538560716727">
+        <mark key="'" line="35" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" timestamp="1538043912350">
         <mark key="'" line="119" column="30" />
@@ -124,11 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="8" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="252" column="16" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="257" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="259" column="2" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="267" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="345" column="4" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="262" column="12" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="340" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
@@ -224,6 +219,11 @@
       <jump line="717" column="47" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
       <jump line="723" column="42" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
       <jump line="828" column="171" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" />
+      <jump line="19" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
+      <jump line="39" column="49" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
+      <jump line="42" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
+      <jump line="35" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
