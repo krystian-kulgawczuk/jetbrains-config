@@ -47,7 +47,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" timestamp="1538560708319">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" timestamp="1538562229328">
         <mark key="'" line="42" column="24" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -83,7 +83,13 @@
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-agent-manage/Jenkinsfile.groovy" timestamp="1537450652638">
         <mark key="'" line="59" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" timestamp="1538560716727">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1538562112215">
+        <mark key="[" line="62" column="44" />
+        <mark key="]" line="62" column="43" />
+        <mark key="^" line="62" column="44" />
+        <mark key="." line="62" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" timestamp="1538561832659">
         <mark key="'" line="35" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" timestamp="1538043912350">
@@ -227,10 +233,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>scaleset</text>
