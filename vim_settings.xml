@@ -39,6 +39,9 @@
       <file name="$USER_HOME$/Projects/orbital-svc-kafka-elasticsearch-removal/Jenkinsfile.groovy" timestamp="1537452651912">
         <mark key="'" line="34" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/token/controller/TokenController.java" timestamp="1538568510965">
+        <mark key="'" line="19" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-charts/Jenkinsfile.groovy" timestamp="1537451990986">
         <mark key="'" line="40" column="28" />
       </file>
@@ -53,6 +56,9 @@
         <mark key="]" line="42" column="0" />
         <mark key="^" line="42" column="26" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetRegistrationTokenKeysImpl.java" timestamp="1538569258274">
+        <mark key="'" line="5" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/src/main/java/portal/kemo/model/MessageFactoryImpl.java" timestamp="1538377383465">
         <mark key="'" line="29" column="65" />
@@ -77,6 +83,7 @@
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/CustomerManageButton.java" timestamp="1538056947705">
         <mark key="'" line="110" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/data/VER_2016_07_29Data.java" timestamp="1538568441125" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/model/impl/ActorsKeepaliveImpl.java" timestamp="1538466720033" />
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/Makefile" timestamp="1537874538041">
         <mark key="[" line="3" column="0" />
@@ -89,12 +96,12 @@
       <file name="/Dummy.txt" timestamp="1538565867253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1538566351792">
-        <mark key="'" line="62" column="76" />
-        <mark key="[" line="61" column="39" />
-        <mark key="]" line="61" column="39" />
-        <mark key="^" line="61" column="39" />
-        <mark key="." line="61" column="39" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1538568958773">
+        <mark key="'" line="66" column="74" />
+        <mark key="[" line="62" column="82" />
+        <mark key="]" line="63" column="70" />
+        <mark key="^" line="63" column="70" />
+        <mark key="." line="63" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" timestamp="1538561832659">
         <mark key="'" line="35" column="24" />
@@ -137,10 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="47" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
-      <jump line="36" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
-      <jump line="38" column="155" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
-      <jump line="42" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
       <jump line="104" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibAuthenticationFilter.java" />
       <jump line="87" column="78" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
       <jump line="119" column="30" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" />
@@ -237,13 +240,17 @@
       <jump line="421" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="47" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
       <jump line="61" column="76" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
+      <jump line="66" column="74" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
+      <jump line="19" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/token/controller/TokenController.java" />
+      <jump line="14" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetRegistrationTokenKeysImpl.java" />
+      <jump line="5" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetRegistrationTokenKeysImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>access_token</text>
