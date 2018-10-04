@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" timestamp="1538644873074">
+        <mark key="'" line="3217" column="6426" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" timestamp="1538046713680">
         <mark key="'" line="266" column="11" />
       </file>
@@ -64,6 +67,7 @@
         <mark key="'" line="29" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/portal/orbital-lib-portal-schema/src/main/java/portal/schema/batch/BatchStm.java" timestamp="1538483366873" />
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/docker-compose.yaml" timestamp="1538644904552" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1538563698453">
         <mark key="'" line="421" column="17" />
       </file>
@@ -144,15 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="78" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
-      <jump line="119" column="30" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" />
-      <jump line="349" column="34" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="357" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="391" column="22" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="397" column="43" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="399" column="18" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="425" column="13" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="450" column="44" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="459" column="52" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="461" column="9" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="467" column="25" filename="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/database/createCassandra.cql" />
@@ -244,6 +239,15 @@
       <jump line="14" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetRegistrationTokenKeysImpl.java" />
       <jump line="5" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetRegistrationTokenKeysImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/bootstrap-vm" />
+      <jump line="251" column="24" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
+      <jump line="3358" column="5713" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
+      <jump line="3667" column="6345" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
+      <jump line="2623" column="6418" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
+      <jump line="2727" column="6416" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
+      <jump line="2831" column="6424" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
+      <jump line="2934" column="83" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
+      <jump line="2935" column="6413" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
+      <jump line="3217" column="6426" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -253,7 +257,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>access_token</text>
+        <text>provision\.sh</text>
       </register>
       <register name="0" type="4">
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
@@ -290,9 +294,9 @@
       </register>
     </registers>
     <search>
-      <last-search>access_token</last-search>
+      <last-search>provision\.sh</last-search>
       <last-offset />
-      <last-pattern>access_token</last-pattern>
+      <last-pattern>provision\.sh</last-pattern>
       <last-replace>org</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
@@ -324,6 +328,7 @@
         <entry>getKey</entry>
         <entry>signature_a</entry>
         <entry>access_token</entry>
+        <entry>provision\.sh</entry>
       </history-search>
       <history-cmd>
         <entry>40,43d</entry>
