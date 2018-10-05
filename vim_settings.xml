@@ -21,8 +21,8 @@
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/template.json" timestamp="1538472196031">
         <mark key="'" line="828" column="171" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" timestamp="1538741164071">
-        <mark key="'" line="223" column="49" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" timestamp="1538742111039">
+        <mark key="'" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/golang/src/orbital-agent-netvault/Makefile" timestamp="1537792851209">
         <mark key="'" line="43" column="16" />
@@ -43,7 +43,6 @@
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/DiagnosticsController.java" timestamp="1538377185627">
         <mark key="'" line="66" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/template" timestamp="1538732210952" />
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/Jenkinsfile.groovy" timestamp="1537451939405">
         <mark key="'" line="48" column="40" />
       </file>
@@ -116,7 +115,6 @@
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1537472930489">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/get_nodes.sh" timestamp="1538734763632" />
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationMetadataImpl.java" timestamp="1538377240621">
         <mark key="'" line="131" column="39" />
       </file>
@@ -156,8 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3188" column="99" filename="$USER_HOME$/Projects/docker-devtools/template" />
-      <jump line="3192" column="184" filename="$USER_HOME$/Projects/docker-devtools/template" />
       <jump line="3194" column="62" filename="$USER_HOME$/Projects/docker-devtools/template" />
       <jump line="3205" column="99" filename="$USER_HOME$/Projects/docker-devtools/template" />
       <jump line="3210" column="184" filename="$USER_HOME$/Projects/docker-devtools/template" />
@@ -256,6 +252,8 @@
       <jump line="35" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
       <jump line="2" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/ModelFactory.java" />
       <jump line="223" column="49" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
+      <jump line="322" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
+      <jump line="22" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -265,7 +263,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Organizations</text>
+        <text>list</text>
       </register>
       <register name="0" type="4">
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
@@ -302,9 +300,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Organizations</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>Organizations</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-replace>org</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
@@ -312,7 +310,6 @@
     </search>
     <history>
       <history-search>
-        <entry>branch_name</entry>
         <entry>Gopkg.lock</entry>
         <entry>go-colorable</entry>
         <entry encoding="base64">XDxjZFw+</entry>
@@ -333,6 +330,7 @@
         <entry>provision\.sh</entry>
         <entry>user</entry>
         <entry>Organizations</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>40,43d</entry>
