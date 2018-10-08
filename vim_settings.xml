@@ -122,22 +122,22 @@
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1537472930489">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1538996256889">
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539005070970">
         <mark key="'" line="63" column="66" />
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationMetadataImpl.java" timestamp="1538377240621">
         <mark key="'" line="131" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1539002042779">
-        <mark key="'" line="2" column="7" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="33" column="0" />
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1539004957556">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="58" column="40" />
+        <mark key="]" line="59" column="8" />
+        <mark key="." line="59" column="8" />
+        <mark key="^" line="59" column="8" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/master.tf" timestamp="1538983224559">
         <mark key="'" line="361" column="46" />
@@ -157,10 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
-      <jump line="61" column="76" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
-      <jump line="66" column="74" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
-      <jump line="19" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/token/controller/TokenController.java" />
       <jump line="14" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetRegistrationTokenKeysImpl.java" />
       <jump line="5" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetRegistrationTokenKeysImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/bootstrap-vm" />
@@ -253,17 +249,21 @@
       <jump line="182" column="14" filename="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" />
       <jump line="24" column="22" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="63" column="66" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
       <jump line="26" column="8" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
       <jump line="2" column="7" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="28" column="26" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="4" column="4" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="24" column="12" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="58" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="75" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeUJ1aWxkKCJqZW5raW5zIG1lc3NhZ2UgdGVzdCIpCg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>expiration</text>
@@ -272,34 +272,34 @@
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGlmeUJ1aWxkKCJqZW5raW5zIG1lc3NhZ2UgdGVzdCIpCg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnlCdWlsZCgiIikK</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0Qyc192MyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnlCdWlsZChjdXJyZW50QnVpbGQucmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIC8vIElmIHRoZXJlIHdhcyBhbiBleGNlcHRpb24gdGhyb3duLCB0aGUgYnVpbGQgZmFpbGVkCiAgICAgICAgICAgIGN1cnJlbnRCdWlsZC5yZXN1bHQgPSAiRkFJTEVEIgogICAgICAgICAgICB0aHJvdyBlCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgLy8gU3VjY2VzcyBvciBmYWlsdXJlLCBhbHdheXMgc2VuZCBub3RpZmljYXRpb25zCiAgICAgICAgICAgIG5vdGlmeUJ1aWxkKGN1cnJlbnRCdWlsZC5yZXN1bHQpCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJZiB0aGVyZSB3YXMgYW4gZXhjZXB0aW9uIHRocm93biwgdGhlIGJ1aWxkIGZhaWxlZAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50QnVpbGQucmVzdWx0ID0gIkZBSUxFRCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChicmFuY2hfbmFtZSA9PSAibWFzdGVyIikgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBlCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAvLyBJZiB0aGVyZSB3YXMgYW4gZXhjZXB0aW9uIHRocm93biwgdGhlIGJ1aWxkIGZhaWxlZAogICAgICAgIGN1cnJlbnRCdWlsZC5yZXN1bHQgPSAiRkFJTEVEIgogICAgICAgIHRocm93IGUKICAgIH0gZmluYWxseSB7CiAgICAgICAgLy8gU3VjY2VzcyBvciBmYWlsdXJlLCBhbHdheXMgc2VuZCBub3RpZmljYXRpb25zCiAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJtYXN0ZXIiKSB7CiAgICAgICAgICAgIG5vdGlmeUJ1aWxkKGN1cnJlbnRCdWlsZC5yZXN1bHQpCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>20,21d</text>
+        <text>15,22d</text>
       </register>
     </registers>
     <search>
@@ -359,6 +359,10 @@
         <entry>q</entry>
         <entry>%s/com/org/g</entry>
         <entry>20,21d</entry>
+        <entry>27,34d</entry>
+        <entry>51,58d</entry>
+        <entry>51,59d</entry>
+        <entry>15,22d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
