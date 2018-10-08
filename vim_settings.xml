@@ -92,6 +92,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1538986444894">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars.example" timestamp="1538984443959">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="19" />
@@ -159,6 +165,7 @@
       <file name="$USER_HOME$/dev/terraform_dcos/master.tf" timestamp="1538983224559">
         <mark key="'" line="361" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/public-agent.tf" timestamp="1538986801519" />
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.toml" timestamp="1537881718419">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="90" column="24" />
@@ -285,8 +292,8 @@
       <jump line="182" column="14" filename="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDCJtEX2fuZ4EWXCL3M37Qbr0mj3saEdhOwnLGJk8hr5xFOa8DoTs5IofaHfeRoiOKwfg44PW4fpDIz/e7X/9tmKTuwOszuAE9QTWQijZesCanLSf5nwYCTMsNGlUfxhjpJhcgQIcZ6vcDbNeGIQTElgsBKXoIXDosP3qjdWuwEEIfaQJDo4Mv16P+SqzPJ1KIV16lfw2NW71y7JzNApPRWxlxkoTiydv1hs6Ye6b6MTLLeDIsyzPqNro5/LpQkT7hr37pG88xC22Cn2lA18hhusP0wP+6pZbnbveKLVFkSdVlZAKgsEZ0UyAXsKElWtTHN+SXuqXmldg8h7n6GF1/tmEz7n/2+SBH+nNBlQPM/VOxW7yDwCKWr87mFI009a6ge66U4q+lqrfKzNSIsoamuICYg8GtAGK3yuPQq+pwFluJRUEihZQDlJ7IvezAKThglyDgV31D9frCqJ4gMTfzSnZ2PW54vJjNyAHZQoCqp/Y0aIdjwpnHw6F+blPmgXzzsheMahME7iCMQP1F/ckgXfq1rtI0mT1QNZhUtfFf1qYguNT0EdCGy3G3oWnHiIqjcq/wfhCTpf22ph7h1Q+b1ygXXIGnQWfyY/vZTDdW2lbrX36X/fZA3M74SBmQFEMWrul4tX//YwGtpHSyN380fdRHyCPPo6+BSB7KHVwDevw== default@mesosphere.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyB7XCJvd25lclwiOlwiJCh3aG9hbWkpXCJ9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDCJtEX2fuZ4EWXCL3M37Qbr0mj3saEdhOwnLGJk8hr5xFOa8DoTs5IofaHfeRoiOKwfg44PW4fpDIz/e7X/9tmKTuwOszuAE9QTWQijZesCanLSf5nwYCTMsNGlUfxhjpJhcgQIcZ6vcDbNeGIQTElgsBKXoIXDosP3qjdWuwEEIfaQJDo4Mv16P+SqzPJ1KIV16lfw2NW71y7JzNApPRWxlxkoTiydv1hs6Ye6b6MTLLeDIsyzPqNro5/LpQkT7hr37pG88xC22Cn2lA18hhusP0wP+6pZbnbveKLVFkSdVlZAKgsEZ0UyAXsKElWtTHN+SXuqXmldg8h7n6GF1/tmEz7n/2+SBH+nNBlQPM/VOxW7yDwCKWr87mFI009a6ge66U4q+lqrfKzNSIsoamuICYg8GtAGK3yuPQq+pwFluJRUEihZQDlJ7IvezAKThglyDgV31D9frCqJ4gMTfzSnZ2PW54vJjNyAHZQoCqp/Y0aIdjwpnHw6F+blPmgXzzsheMahME7iCMQP1F/ckgXfq1rtI0mT1QNZhUtfFf1qYguNT0EdCGy3G3oWnHiIqjcq/wfhCTpf22ph7h1Q+b1ygXXIGnQWfyY/vZTDdW2lbrX36X/fZA3M74SBmQFEMWrul4tX//YwGtpHSyN380fdRHyCPPo6+BSB7KHVwDevw== default@mesosphere.com</text>
@@ -298,31 +305,31 @@
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyB7XCJvd25lclwiOlwiJCh3aG9hbWkpXCJ9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUT0RPOiBjb3B5IGZyb20gYm9vdHN0cmFwIG5vZGUgL29wdC9henVyZS9jb250YWluZXJzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBjb3B5IGZyb20gYm9vdHN0cmFwIG5vZGUgL29wdC9henVyZS9nZW5jb25mCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c3VkbyAvb3B0L2F6dXJlL2Rjb3MvcG9zdGluc3RhbGwtY29uZC5zaAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">IyBUT0RPOiBjb3B5IGZyb20gYm9vdHN0cmFwIG5vZGUgL29wdC9henVyZS9jb250YWluZXJzCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBjb3B5IGZyb20gYm9vdHN0cmFwIG5vZGUgL29wdC9henVyZS9nZW5jb25mCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c3VkbyAvb3B0L2F6dXJlL2Rjb3MvcG9zdGluc3RhbGwtY29uZC5zaAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">c2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2sK</text>
+        <text encoding="base64">IyBUT0RPOiBjb3B5IGZyb20gYm9vdHN0cmFwIG5vZGUgL29wdC9henVyZS9jb250YWluZXJzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ImxpbnV4Q29uZmlndXJhdGlvbiI6IHsK</text>
+        <text encoding="base64">c2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ImxpbnV4Q29uZmlndXJhdGlvbiI6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>20,21d</text>
