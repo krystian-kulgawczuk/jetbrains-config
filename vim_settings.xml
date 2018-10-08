@@ -102,11 +102,11 @@
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/CustomerManageButton.java" timestamp="1538056947705">
         <mark key="'" line="110" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539009345368">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="2" column="16" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539014350267">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-agent-manage/Jenkinsfile.groovy" timestamp="1537450652638">
         <mark key="'" line="59" column="29" />
@@ -123,12 +123,12 @@
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1537472930489">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539005070970">
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539014435539">
         <mark key="'" line="63" column="66" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="16" column="0" />
+        <mark key="[" line="69" column="13" />
+        <mark key="]" line="69" column="14" />
+        <mark key="." line="69" column="14" />
+        <mark key="^" line="69" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationMetadataImpl.java" timestamp="1538377240621">
         <mark key="'" line="131" column="39" />
@@ -260,11 +260,11 @@
       <jump line="75" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>coreos_1235.9.0</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>coreos_1235.9.0</text>
       </register>
       <register name="/" type="4">
         <text>expiration</text>
@@ -279,25 +279,25 @@
         <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0Qyc192MyIK</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMV92MiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIC8vIElmIHRoZXJlIHdhcyBhbiBleGNlcHRpb24gdGhyb3duLCB0aGUgYnVpbGQgZmFpbGVkCiAgICAgICAgICAgIGN1cnJlbnRCdWlsZC5yZXN1bHQgPSAiRkFJTEVEIgogICAgICAgICAgICB0aHJvdyBlCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgLy8gU3VjY2VzcyBvciBmYWlsdXJlLCBhbHdheXMgc2VuZCBub3RpZmljYXRpb25zCiAgICAgICAgICAgIG5vdGlmeUJ1aWxkKGN1cnJlbnRCdWlsZC5yZXN1bHQpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0Qyc192MyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChicmFuY2hfbmFtZSA9PSAibWFzdGVyIikgewo=</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0Qyc192MyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIC8vIElmIHRoZXJlIHdhcyBhbiBleGNlcHRpb24gdGhyb3duLCB0aGUgYnVpbGQgZmFpbGVkCiAgICAgICAgICAgIGN1cnJlbnRCdWlsZC5yZXN1bHQgPSAiRkFJTEVEIgogICAgICAgICAgICB0aHJvdyBlCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgLy8gU3VjY2VzcyBvciBmYWlsdXJlLCBhbHdheXMgc2VuZCBub3RpZmljYXRpb25zCiAgICAgICAgICAgIG5vdGlmeUJ1aWxkKGN1cnJlbnRCdWlsZC5yZXN1bHQpCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAvLyBJZiB0aGVyZSB3YXMgYW4gZXhjZXB0aW9uIHRocm93biwgdGhlIGJ1aWxkIGZhaWxlZAogICAgICAgIGN1cnJlbnRCdWlsZC5yZXN1bHQgPSAiRkFJTEVEIgogICAgICAgIHRocm93IGUKICAgIH0gZmluYWxseSB7CiAgICAgICAgLy8gU3VjY2VzcyBvciBmYWlsdXJlLCBhbHdheXMgc2VuZCBub3RpZmljYXRpb25zCiAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJtYXN0ZXIiKSB7CiAgICAgICAgICAgIG5vdGlmeUJ1aWxkKGN1cnJlbnRCdWlsZC5yZXN1bHQpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>15,22d</text>
