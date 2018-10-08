@@ -113,10 +113,10 @@
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-manage-button/src/main/java/portal/portal/poc/CustomerManageButton.java" timestamp="1538056947705">
         <mark key="'" line="110" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1538992054527">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1538994915086">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-agent-manage/Jenkinsfile.groovy" timestamp="1537450652638">
@@ -134,7 +134,8 @@
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1537472930489">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1538992615851">
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1538996256889">
+        <mark key="'" line="63" column="66" />
         <mark key="[" line="15" column="1" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -161,8 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
-      <jump line="42" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
       <jump line="35" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" />
       <jump line="54" column="54" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
       <jump line="718" column="2" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
@@ -261,6 +260,8 @@
       <jump line="215" column="30" filename="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" />
       <jump line="200" column="14" filename="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" />
       <jump line="182" column="14" filename="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" />
+      <jump line="24" column="22" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
+      <jump line="63" column="66" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -270,7 +271,7 @@
         <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDCJtEX2fuZ4EWXCL3M37Qbr0mj3saEdhOwnLGJk8hr5xFOa8DoTs5IofaHfeRoiOKwfg44PW4fpDIz/e7X/9tmKTuwOszuAE9QTWQijZesCanLSf5nwYCTMsNGlUfxhjpJhcgQIcZ6vcDbNeGIQTElgsBKXoIXDosP3qjdWuwEEIfaQJDo4Mv16P+SqzPJ1KIV16lfw2NW71y7JzNApPRWxlxkoTiydv1hs6Ye6b6MTLLeDIsyzPqNro5/LpQkT7hr37pG88xC22Cn2lA18hhusP0wP+6pZbnbveKLVFkSdVlZAKgsEZ0UyAXsKElWtTHN+SXuqXmldg8h7n6GF1/tmEz7n/2+SBH+nNBlQPM/VOxW7yDwCKWr87mFI009a6ge66U4q+lqrfKzNSIsoamuICYg8GtAGK3yuPQq+pwFluJRUEihZQDlJ7IvezAKThglyDgV31D9frCqJ4gMTfzSnZ2PW54vJjNyAHZQoCqp/Y0aIdjwpnHw6F+blPmgXzzsheMahME7iCMQP1F/ckgXfq1rtI0mT1QNZhUtfFf1qYguNT0EdCGy3G3oWnHiIqjcq/wfhCTpf22ph7h1Q+b1ygXXIGnQWfyY/vZTDdW2lbrX36X/fZA3M74SBmQFEMWrul4tX//YwGtpHSyN380fdRHyCPPo6+BSB7KHVwDevw== default@mesosphere.com</text>
       </register>
       <register name="/" type="4">
-        <text>azurerm</text>
+        <text>expiration</text>
       </register>
       <register name="0" type="4">
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
@@ -307,9 +308,9 @@
       </register>
     </registers>
     <search>
-      <last-search>azurerm</last-search>
+      <last-search>expiration</last-search>
       <last-offset />
-      <last-pattern>azurerm</last-pattern>
+      <last-pattern>expiration</last-pattern>
       <last-replace>org</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
@@ -340,6 +341,7 @@
         <entry>os</entry>
         <entry>resource</entry>
         <entry>azurerm</entry>
+        <entry>expiration</entry>
       </history-search>
       <history-cmd>
         <entry>40,43d</entry>
