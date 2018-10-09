@@ -59,7 +59,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539091283323" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539093710197">
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="244" column="27" />
+        <mark key="^" line="244" column="27" />
+        <mark key="." line="244" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1539085674150">
         <mark key="'" line="110" column="6" />
       </file>
@@ -203,10 +208,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>elastic</text>
