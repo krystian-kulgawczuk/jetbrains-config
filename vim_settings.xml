@@ -3,13 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/svc-authentication/src/main/java/com/quest/orbital/registration/validator/FieldValidator.java" timestamp="1539072392428" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/nginx-proxy/us-prod/ssl/wildcard-certificate.key" timestamp="1539074913080" />
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Makefile" timestamp="1539009109011" />
+      <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1538986444894">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars.example" timestamp="1538984443959">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539091874995">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="7" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/build.sh" timestamp="1538487420969">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/Makefile" timestamp="1537874538041">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="53" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/svc-authentication/Jenkinsfile.groovy" timestamp="1539081539581">
         <mark key="[" line="46" column="0" />
@@ -17,8 +37,16 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="32" column="102" />
       </file>
+      <file name="/Dummy.txt" timestamp="1539082626942">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/gvc.md" timestamp="1539083916737">
         <mark key="'" line="99" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/svc-authentication/Dockerfile" timestamp="1539081381438">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
         <mark key="[" line="6" column="39" />
@@ -31,46 +59,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/view/actors/controller/ActorsController.java" timestamp="1539070207196">
-        <mark key="'" line="24" column="37" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1538986444894">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="2" column="1" />
-        <mark key="^" line="2" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/README.md" timestamp="1539087896026" />
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars.example" timestamp="1538984443959">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/svc-authentication/src/main/java/com/quest/orbital/registration/controller/CodeRegistrationController.java" timestamp="1539074930785" />
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539086186862" />
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539070961678">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="7" column="15" />
-      </file>
-      <file name="/VER_2016_07_29VerifierTest.java" timestamp="1539074793035" />
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/Makefile" timestamp="1537874538041">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="53" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1539082626942">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/svc-authentication/Dockerfile" timestamp="1539081381438">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1539070282990" />
-      <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539072147589" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539091283323" />
       <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1539085674150">
         <mark key="'" line="110" column="6" />
       </file>
@@ -86,6 +75,9 @@
         <mark key="." line="49" column="13" />
         <mark key="^" line="93" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/view/actors/controller/ActorsController.java" timestamp="1539070207196">
+        <mark key="'" line="24" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1539074180813">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="58" column="40" />
@@ -93,7 +85,6 @@
         <mark key="." line="59" column="8" />
         <mark key="^" line="59" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/public-agent.tf" timestamp="1538986801519" />
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.toml" timestamp="1537881718419">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="90" column="24" />
@@ -104,7 +95,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/svc-authentication/pom.xml" timestamp="1539086965645" />
       <file name="/fragment.java" timestamp="1539082621258">
         <mark key="[" line="0" column="0" />
       </file>
@@ -266,12 +256,6 @@
     </search>
     <history>
       <history-search>
-        <entry>go-colorable</entry>
-        <entry encoding="base64">XDxjZFw+</entry>
-        <entry>dibFactory</entry>
-        <entry>organization</entry>
-        <entry>3</entry>
-        <entry>vnet</entry>
         <entry>private</entry>
         <entry>private4</entry>
         <entry>return</entry>
@@ -294,10 +278,6 @@
         <entry>elastic</entry>
       </history-search>
       <history-cmd>
-        <entry>40,43d</entry>
-        <entry>%s/myFatApp/app</entry>
-        <entry>69,77d</entry>
-        <entry>61,79d</entry>
         <entry>70,90d</entry>
         <entry>83,84d</entry>
         <entry>80,96d</entry>
