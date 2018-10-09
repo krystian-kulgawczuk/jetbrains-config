@@ -46,18 +46,14 @@
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-charts/Jenkinsfile.groovy" timestamp="1537451990986">
         <mark key="'" line="40" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" timestamp="1538562229328">
-        <mark key="'" line="42" column="24" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="26" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/main.tf" timestamp="1538984133430">
         <mark key="'" line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationsImpl.java" timestamp="1538743941894">
         <mark key="'" line="48" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/view/actors/controller/ActorsController.java" timestamp="1539070207196">
+        <mark key="'" line="24" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetRegistrationTokenKeysImpl.java" timestamp="1538569258274">
         <mark key="'" line="5" column="35" />
@@ -83,13 +79,6 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/mesos_node/README.md" timestamp="1538657725213">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/DiagnosticsController.java" timestamp="1538377185627">
         <mark key="'" line="66" column="43" />
       </file>
@@ -114,6 +103,7 @@
       <file name="/Dummy.txt" timestamp="1538731419443">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1539070282990" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" timestamp="1538561832659">
         <mark key="'" line="35" column="24" />
       </file>
@@ -158,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetRegistrationTokenKeysImpl.java" />
       <jump line="5" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetRegistrationTokenKeysImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/bootstrap-vm" />
       <jump line="251" column="24" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
@@ -258,6 +247,7 @@
       <jump line="24" column="12" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
       <jump line="75" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="24" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/view/actors/controller/ActorsController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
