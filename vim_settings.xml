@@ -18,6 +18,7 @@
       <file name="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" timestamp="1538984251970">
         <mark key="'" line="182" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/svc-authentication/src/main/java/com/quest/orbital/registration/validator/FieldValidator.java" timestamp="1539072392428" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" timestamp="1538743556986">
         <mark key="'" line="224" column="33" />
       </file>
@@ -79,6 +80,7 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/svc-authentication/src/main/java/com/quest/orbital/registration/controller/CodeRegistrationController.java" timestamp="1539072698474" />
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/DiagnosticsController.java" timestamp="1538377185627">
         <mark key="'" line="66" column="43" />
       </file>
@@ -107,12 +109,12 @@
       <file name="$USER_HOME$/Projects/orbital-customer-subdomain/src/main/java/portal/customer/view/controller/PrincipalController.java" timestamp="1538043912350">
         <mark key="'" line="119" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539071435338" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539072147589" />
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1537472930489">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539071340050">
-        <mark key="'" line="63" column="66" />
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539072174516">
+        <mark key="'" line="8" column="21" />
         <mark key="[" line="49" column="12" />
         <mark key="]" line="49" column="13" />
         <mark key="." line="49" column="13" />
@@ -146,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetRegistrationTokenKeysImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/bootstrap-vm" />
       <jump line="251" column="24" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
       <jump line="3358" column="5713" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
@@ -246,6 +247,7 @@
       <jump line="58" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
       <jump line="75" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
       <jump line="24" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/view/actors/controller/ActorsController.java" />
+      <jump line="8" column="21" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -255,7 +257,7 @@
         <text>128</text>
       </register>
       <register name="/" type="4">
-        <text>expiration</text>
+        <text>state</text>
       </register>
       <register name="0" type="4">
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
@@ -292,9 +294,9 @@
       </register>
     </registers>
     <search>
-      <last-search>expiration</last-search>
+      <last-search>state</last-search>
       <last-offset />
-      <last-pattern>expiration</last-pattern>
+      <last-pattern>state</last-pattern>
       <last-replace>org</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
@@ -326,6 +328,7 @@
         <entry>resource</entry>
         <entry>azurerm</entry>
         <entry>expiration</entry>
+        <entry>state</entry>
       </history-search>
       <history-cmd>
         <entry>40,43d</entry>
