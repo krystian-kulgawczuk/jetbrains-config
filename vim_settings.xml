@@ -17,6 +17,9 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="32" column="102" />
       </file>
+      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1539083916737">
+        <mark key="'" line="99" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="6" column="39" />
@@ -66,6 +69,9 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1539070282990" />
       <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539072147589" />
+      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1539084290758">
+        <mark key="'" line="110" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/build.sh" timestamp="1537860643337">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="63" />
@@ -101,13 +107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/bootstrap-vm" />
-      <jump line="251" column="24" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
-      <jump line="3358" column="5713" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
-      <jump line="3667" column="6345" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
-      <jump line="2623" column="6418" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
-      <jump line="2727" column="6416" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
-      <jump line="2831" column="6424" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
       <jump line="2934" column="83" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
       <jump line="2935" column="6413" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
       <jump line="3217" column="6426" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
@@ -201,6 +200,13 @@
       <jump line="75" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
       <jump line="24" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/view/actors/controller/ActorsController.java" />
       <jump line="8" column="21" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
+      <jump line="30" column="27" filename="$USER_HOME$/Documents/gvc.md" />
+      <jump line="74" column="6" filename="$USER_HOME$/Documents/gvc.md" />
+      <jump line="99" column="6" filename="$USER_HOME$/Documents/gvc.md" />
+      <jump line="98" column="14" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="195" column="3" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="74" column="6" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="110" column="6" filename="$USER_HOME$/Documents/dev-commands.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -210,7 +216,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text>elastic</text>
       </register>
       <register name="0" type="4">
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
@@ -247,9 +253,9 @@
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search>elastic</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern>elastic</last-pattern>
       <last-replace>org</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
@@ -282,6 +288,7 @@
         <entry>azurerm</entry>
         <entry>expiration</entry>
         <entry>state</entry>
+        <entry>elastic</entry>
       </history-search>
       <history-cmd>
         <entry>40,43d</entry>
