@@ -18,7 +18,7 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539157684445">
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539159627348">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
@@ -85,13 +85,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/view/actors/controller/ActorsController.java" timestamp="1539070207196">
         <mark key="'" line="24" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1539156818896">
-        <mark key="'" line="73" column="35" />
-        <mark key="[" line="69" column="89" />
-        <mark key="]" line="69" column="89" />
-        <mark key="." line="69" column="89" />
-        <mark key="^" line="69" column="16" />
-      </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.toml" timestamp="1537881718419">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="90" column="24" />
@@ -105,7 +98,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" timestamp="1539157016827">
         <mark key="'" line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1539158137804" />
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1539158867806" />
       <file name="/fragment.java" timestamp="1539082621258">
         <mark key="[" line="0" column="0" />
       </file>
@@ -219,8 +212,8 @@
       <jump line="26" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedChartsImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVudi5CVUlMRF9VUkwgPSBzaChyZXR1cm5TdGRvdXQ6IHRydWUsIHNjcmlwdDogJ3NjcmlwdHMvcmVwbGFjZV91cmxfamVua2lucy5zaCAke2Vudi5CVUlMRF9VUkx9JykK</text>
       </register>
       <register name="-" type="4">
         <text>E</text>
@@ -232,31 +225,31 @@
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudi5CVUlMRF9VUkwgPSBzaChyZXR1cm5TdGRvdXQ6IHRydWUsIHNjcmlwdDogJ3NjcmlwdHMvcmVwbGFjZV91cmxfamVua2lucy5zaCAke2Vudi5CVUlMRF9VUkx9JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggIm1ha2UgZGVjcnlwdCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggIm1ha2UgZGVjcnlwdCIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMV92MiIK</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0Qyc192MyIK</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMV92MiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0Qyc192MyIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0Qyc192MyIK</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>15,22d</text>
