@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1539156923160">
+        <mark key="'" line="51" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1538986444894">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="1" />
@@ -15,7 +18,7 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539112616585">
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539157684445">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
@@ -59,6 +62,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1539156952859">
+        <mark key="'" line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedChartsImpl.java" timestamp="1539157104780">
+        <mark key="'" line="26" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539093710197">
         <mark key="[" line="240" column="0" />
         <mark key="]" line="244" column="27" />
@@ -73,22 +82,15 @@
         <mark key="]" line="10" column="63" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539072174516">
-        <mark key="'" line="8" column="21" />
-        <mark key="[" line="49" column="12" />
-        <mark key="]" line="49" column="13" />
-        <mark key="." line="49" column="13" />
-        <mark key="^" line="93" column="13" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/view/actors/controller/ActorsController.java" timestamp="1539070207196">
         <mark key="'" line="24" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1539074180813">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="58" column="40" />
-        <mark key="]" line="59" column="8" />
-        <mark key="." line="59" column="8" />
-        <mark key="^" line="59" column="8" />
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1539156818896">
+        <mark key="'" line="73" column="35" />
+        <mark key="[" line="69" column="89" />
+        <mark key="]" line="69" column="89" />
+        <mark key="." line="69" column="89" />
+        <mark key="^" line="69" column="16" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.toml" timestamp="1537881718419">
         <mark key="[" line="0" column="0" />
@@ -100,21 +102,21 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" timestamp="1539157016827">
+        <mark key="'" line="112" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1539158137804" />
       <file name="/fragment.java" timestamp="1539082621258">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/scripts/replace_url_jenkins.sh" timestamp="1539156438044">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2934" column="83" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
-      <jump line="2935" column="6413" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
-      <jump line="3217" column="6426" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/orbital-us-dev/files/azuredeploy.json" />
-      <jump line="376" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="380" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="363" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="358" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="357" column="30" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="353" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="321" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="345" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="267" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="259" column="2" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
@@ -205,55 +207,65 @@
       <jump line="195" column="3" filename="$USER_HOME$/Documents/dev-commands.md" />
       <jump line="74" column="6" filename="$USER_HOME$/Documents/dev-commands.md" />
       <jump line="110" column="6" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="69" column="4" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="70" column="4" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="73" column="35" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="23" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="59" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
+      <jump line="100" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
+      <jump line="51" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="19" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
+      <jump line="112" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" />
+      <jump line="26" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedChartsImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
-        <text>elastic</text>
+        <text>standarized</text>
       </register>
       <register name="0" type="4">
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggIm1ha2UgZGVjcnlwdCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggIm1ha2UgZGVjcnlwdCIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMV92MiIK</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0Qyc192MyIK</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMV92MiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0Qyc192MyIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0Qyc192MyIK</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0RTMTFfdjIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICAgIC8vIElmIHRoZXJlIHdhcyBhbiBleGNlcHRpb24gdGhyb3duLCB0aGUgYnVpbGQgZmFpbGVkCiAgICAgICAgICAgIGN1cnJlbnRCdWlsZC5yZXN1bHQgPSAiRkFJTEVEIgogICAgICAgICAgICB0aHJvdyBlCiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgLy8gU3VjY2VzcyBvciBmYWlsdXJlLCBhbHdheXMgc2VuZCBub3RpZmljYXRpb25zCiAgICAgICAgICAgIG5vdGlmeUJ1aWxkKGN1cnJlbnRCdWlsZC5yZXN1bHQpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIlN0YW5kYXJkX0Qyc192MyIK</text>
       </register>
       <register name=":" type="4">
         <text>15,22d</text>
       </register>
     </registers>
     <search>
-      <last-search>elastic</last-search>
+      <last-search>standarized</last-search>
       <last-offset />
-      <last-pattern>elastic</last-pattern>
+      <last-pattern>standarized</last-pattern>
       <last-replace>org</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
@@ -281,6 +293,8 @@
         <entry>expiration</entry>
         <entry>state</entry>
         <entry>elastic</entry>
+        <entry>JOB_DISPLAYNAME</entry>
+        <entry>standarized</entry>
       </history-search>
       <history-cmd>
         <entry>70,90d</entry>
