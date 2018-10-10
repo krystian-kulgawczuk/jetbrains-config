@@ -18,10 +18,10 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539164364284">
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539166291612">
         <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
         <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/build.sh" timestamp="1538487420969">
@@ -212,11 +212,11 @@
       <jump line="26" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedChartsImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVudi5CVUlMRF9VUkwgPSBzaChyZXR1cm5TdGRvdXQ6IHRydWUsIHNjcmlwdDogJ3NjcmlwdHMvcmVwbGFjZV91cmxfamVua2lucy5zaCAke2Vudi5CVUlMRF9VUkx9JykK</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>standarized</text>
