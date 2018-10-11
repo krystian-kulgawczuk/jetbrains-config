@@ -35,6 +35,13 @@
         <mark key="." line="69" column="0" />
       </file>
       <file name="/VER_2016_07_29Verifier.java" timestamp="1539178575151" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1539266088290">
+        <mark key="'" line="199" column="19" />
+        <mark key="[" line="230" column="39" />
+        <mark key="]" line="230" column="39" />
+        <mark key="." line="230" column="39" />
+        <mark key="^" line="278" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/devtools-common/Makefile" timestamp="1539259779258" />
       <file name="$USER_HOME$/Projects/docker-devtools/docker/docker-compose.yaml" timestamp="1539248413883">
         <mark key="[" line="15" column="12" />
@@ -66,12 +73,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1539261558777">
-        <mark key="'" line="280" column="0" />
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="57" />
-        <mark key="^" line="8" column="57" />
-        <mark key="." line="8" column="57" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1539266063193">
+        <mark key="'" line="199" column="19" />
+        <mark key="[" line="230" column="39" />
+        <mark key="]" line="230" column="39" />
+        <mark key="^" line="258" column="51" />
+        <mark key="." line="230" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/pkg/net/headers/headers.go" timestamp="1539244744141">
         <mark key="'" line="52" column="15" />
@@ -83,23 +90,23 @@
         <mark key="^" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539260725194">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539265959783">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/Makefile" timestamp="1537874538041">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="53" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1539261904948">
-        <mark key="'" line="280" column="0" />
-        <mark key="[" line="279" column="32" />
-        <mark key="]" line="279" column="33" />
-        <mark key="." line="279" column="33" />
-        <mark key="^" line="279" column="33" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1539266032779">
+        <mark key="'" line="230" column="39" />
+        <mark key="[" line="199" column="19" />
+        <mark key="]" line="199" column="19" />
+        <mark key="." line="199" column="19" />
+        <mark key="^" line="258" column="46" />
         <mark key="n" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/svc-authentication/Dockerfile" timestamp="1539081381438">
@@ -135,12 +142,12 @@
         <mark key="]" line="10" column="63" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539261782986">
-        <mark key="'" line="57" column="26" />
-        <mark key="[" line="37" column="16" />
-        <mark key="]" line="37" column="17" />
-        <mark key="^" line="37" column="17" />
-        <mark key="." line="37" column="17" />
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539265924043">
+        <mark key="'" line="39" column="22" />
+        <mark key="[" line="121" column="19" />
+        <mark key="]" line="121" column="26" />
+        <mark key="." line="121" column="26" />
+        <mark key="^" line="121" column="26" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.toml" timestamp="1537881718419">
         <mark key="[" line="0" column="0" />
@@ -158,18 +165,6 @@
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1539158867806" />
     </filemarks>
     <jumps>
-      <jump line="95" column="63" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
-      <jump line="109" column="63" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
-      <jump line="123" column="63" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
-      <jump line="135" column="63" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
-      <jump line="146" column="53" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
-      <jump line="147" column="63" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
-      <jump line="149" column="39" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
-      <jump line="159" column="63" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
-      <jump line="171" column="63" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
-      <jump line="183" column="63" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
-      <jump line="195" column="52" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
-      <jump line="203" column="52" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
       <jump line="214" column="54" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
       <jump line="232" column="62" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
       <jump line="247" column="62" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
@@ -258,57 +253,69 @@
       <jump line="280" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
       <jump line="271" column="28" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
       <jump line="280" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
+      <jump line="1" column="33" filename="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" />
+      <jump line="60" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
+      <jump line="39" column="22" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
+      <jump line="258" column="46" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
+      <jump line="199" column="8" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
+      <jump line="230" column="39" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
+      <jump line="259" column="39" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
+      <jump line="230" column="28" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
+      <jump line="199" column="19" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
+      <jump line="254" column="17" filename="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" />
+      <jump line="230" column="28" filename="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" />
+      <jump line="199" column="19" filename="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>general</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>general</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>general</text>
+        <text>dcos-mesos-elastic-agent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyaWFibGUgImF6dXJlX2dlbmVyYWxfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogIGRlc2NyaXB0aW9uID0gIkF6dXJlIERDL09TIFByaXZhdGUgQWdlbnQgaW5zdGFuY2UgdHlwZSIKICBkZWZhdWx0ID0gIlN0YW5kYXJkX0Qyc192MyIKfQo=</text>
+        <text encoding="base64">dmFyaWFibGUgImluc3RhbmNlX2dlbmVyYWxfZGlza19zaXplIiB7CiBkZXNjcmlwdGlvbiA9ICJEZWZhdWx0IHNpemUgb2YgdGhlIHJvb3QgZGlzayAoR0IpIgogZGVmYXVsdCA9ICI2NCIKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnVtX29mX3ByaXZhdGVfZGJfYWdlbnRzID0gIjEiCg==</text>
+        <text encoding="base64">bnVtX29mX3ByaXZhdGVfZ2VuZXJhbF9hZ2VudHMgPSAiMSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bnVtX29mX3ByaXZhdGVfZGJfYWdlbnRzID0gIjEiCg==</text>
+        <text encoding="base64">bnVtX29mX3ByaXZhdGVfZ2VuZXJhbF9hZ2VudHMgPSAiMSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fbmV0d29ya19zZWN1cml0eV9ncm91cCIgImRiX2FnZW50X3NlY3VyaXR5X2dyb3VwIiB7CiAgICBuYW1lID0gIiR7ZGF0YS50ZW1wbGF0ZV9maWxlLmNsdXN0ZXItbmFtZS5yZW5kZXJlZH0tZGItYWdlbnQtc2VjdXJpdHktZ3JvdXAiCg==</text>
+        <text encoding="base64">bnVtX29mX3ByaXZhdGVfZGJfYWdlbnRzID0gIjEiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bnVtX29mX3ByaXZhdGVfZGJfYWdlbnRzID0gIjEiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fbmV0d29ya19zZWN1cml0eV9ncm91cCIgImRiX2FnZW50X3NlY3VyaXR5X2dyb3VwIiB7CiAgICBuYW1lID0gIiR7ZGF0YS50ZW1wbGF0ZV9maWxlLmNsdXN0ZXItbmFtZS5yZW5kZXJlZH0tZGItYWdlbnQtc2VjdXJpdHktZ3JvdXAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IGRlZmF1bHQgPSAyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IGRlc2NyaXB0aW9uID0gIkRDL09TIFByaXZhdGUgQWdlbnRzIENvdW50Igo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyaWFibGUgIm51bV9vZl9wcml2YXRlX2FnZW50cyIgewo=</text>
+        <text encoding="base64">IGRlZmF1bHQgPSAyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cm1vZHVsZV9hY3Rvcl9zeXN0ZW1fYnVpbGQ6Cg==</text>
+        <text encoding="base64">IGRlc2NyaXB0aW9uID0gIkRDL09TIFByaXZhdGUgQWdlbnRzIENvdW50Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>33,36y</text>
+        <text>117,120y</text>
       </register>
     </registers>
     <search>
-      <last-search>general</last-search>
+      <last-search>dcos-mesos-elastic-agent</last-search>
       <last-offset />
-      <last-pattern>general</last-pattern>
-      <last-replace>org</last-replace>
-      <last-substitute>com</last-substitute>
+      <last-pattern>dcos-mesos-elastic-agent</last-pattern>
+      <last-replace>elastic</last-replace>
+      <last-substitute>db</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -338,9 +345,15 @@
         <entry>standarized</entry>
         <entry>req</entry>
         <entry>systemState</entry>
-        <entry>db</entry>
         <entry>instance_disk_size</entry>
         <entry>general</entry>
+        <entry>db</entry>
+        <entry>num_of</entry>
+        <entry>disk_</entry>
+        <entry>dcos-mesos-db-agent</entry>
+        <entry>dcos-mesos</entry>
+        <entry>dcos-mesos-general-agent</entry>
+        <entry>dcos-mesos-elastic-agent</entry>
       </history-search>
       <history-cmd>
         <entry>70,90d</entry>
@@ -366,6 +379,11 @@
         <entry>48,51y</entry>
         <entry>97,100y</entry>
         <entry>33,36y</entry>
+        <entry>%s/db/elastic/g</entry>
+        <entry>63,65y</entry>
+        <entry>58,61y</entry>
+        <entry>38,41y</entry>
+        <entry>117,120y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
