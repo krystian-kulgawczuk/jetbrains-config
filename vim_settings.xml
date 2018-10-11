@@ -54,11 +54,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1538986444894">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="2" column="1" />
-        <mark key="^" line="2" column="1" />
+      <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="64" />
+        <mark key="." line="2" column="64" />
+        <mark key="^" line="2" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/README.md" timestamp="1539252641531" />
       <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars.example" timestamp="1538984443959">
@@ -73,12 +73,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1539266063193">
-        <mark key="'" line="199" column="19" />
-        <mark key="[" line="230" column="39" />
-        <mark key="]" line="230" column="39" />
-        <mark key="^" line="258" column="51" />
-        <mark key="." line="230" column="39" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1539266311329">
+        <mark key="'" line="203" column="2" />
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="203" column="5" />
+        <mark key="." line="8" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/pkg/net/headers/headers.go" timestamp="1539244744141">
         <mark key="'" line="52" column="15" />
@@ -142,12 +142,12 @@
         <mark key="]" line="10" column="63" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539265924043">
-        <mark key="'" line="39" column="22" />
-        <mark key="[" line="121" column="19" />
-        <mark key="]" line="121" column="26" />
-        <mark key="." line="121" column="26" />
-        <mark key="^" line="121" column="26" />
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539266357689">
+        <mark key="'" line="152" column="12" />
+        <mark key="[" line="111" column="19" />
+        <mark key="]" line="111" column="19" />
+        <mark key="." line="111" column="19" />
+        <mark key="^" line="110" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.toml" timestamp="1537881718419">
         <mark key="[" line="0" column="0" />
@@ -165,8 +165,6 @@
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1539158867806" />
     </filemarks>
     <jumps>
-      <jump line="214" column="54" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
-      <jump line="232" column="62" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
       <jump line="247" column="62" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
       <jump line="261" column="62" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
       <jump line="275" column="62" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
@@ -265,19 +263,21 @@
       <jump line="254" column="17" filename="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" />
       <jump line="230" column="28" filename="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" />
       <jump line="199" column="19" filename="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" />
+      <jump line="203" column="2" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
+      <jump line="147" column="12" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>dcos-mesos-elastic-agent</text>
+        <text>instance_genera</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyaWFibGUgImluc3RhbmNlX2dlbmVyYWxfZGlza19zaXplIiB7CiBkZXNjcmlwdGlvbiA9ICJEZWZhdWx0IHNpemUgb2YgdGhlIHJvb3QgZGlzayAoR0IpIgogZGVmYXVsdCA9ICI2NCIKfQo=</text>
+        <text encoding="base64">dmFyaWFibGUgImluc3RhbmNlX2RiX2Rpc2tfc2l6ZSIgewogZGVzY3JpcHRpb24gPSAiRGVmYXVsdCBzaXplIG9mIHRoZSByb290IGRpc2sgKEdCKSIKIGRlZmF1bHQgPSAiNjQiCn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bnVtX29mX3ByaXZhdGVfZ2VuZXJhbF9hZ2VudHMgPSAiMSIK</text>
@@ -307,13 +307,13 @@
         <text encoding="base64">IGRlc2NyaXB0aW9uID0gIkRDL09TIFByaXZhdGUgQWdlbnRzIENvdW50Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>117,120y</text>
+        <text>112,115y</text>
       </register>
     </registers>
     <search>
-      <last-search>dcos-mesos-elastic-agent</last-search>
+      <last-search>instance_genera</last-search>
       <last-offset />
-      <last-pattern>dcos-mesos-elastic-agent</last-pattern>
+      <last-pattern>instance_genera</last-pattern>
       <last-replace>elastic</last-replace>
       <last-substitute>db</last-substitute>
       <last-dir>1</last-dir>
@@ -354,6 +354,11 @@
         <entry>dcos-mesos</entry>
         <entry>dcos-mesos-general-agent</entry>
         <entry>dcos-mesos-elastic-agent</entry>
+        <entry>azurerm_managed_disk.public_agent_managed_disk</entry>
+        <entry>.public_agent_managed_disk</entry>
+        <entry>public_agent_managed_disk</entry>
+        <entry>instance_general</entry>
+        <entry>instance_genera</entry>
       </history-search>
       <history-cmd>
         <entry>70,90d</entry>
@@ -384,6 +389,7 @@
         <entry>58,61y</entry>
         <entry>38,41y</entry>
         <entry>117,120y</entry>
+        <entry>112,115y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
