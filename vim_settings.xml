@@ -28,12 +28,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" timestamp="1539252354014">
-        <mark key="'" line="12" column="5" />
-        <mark key="[" line="51" column="33" />
-        <mark key="]" line="51" column="49" />
-        <mark key="^" line="51" column="49" />
-        <mark key="." line="51" column="49" />
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" timestamp="1539255739491">
+        <mark key="'" line="68" column="2" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/VER_2016_07_29Verifier.java" timestamp="1539178575151" />
       <file name="$USER_HOME$/Projects/docker-devtools/docker/docker-compose.yaml" timestamp="1539248413883">
@@ -81,6 +80,9 @@
         <mark key="]" line="3" column="53" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1539082626942">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/svc-authentication/Dockerfile" timestamp="1539081381438">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="4" />
@@ -95,6 +97,9 @@
       <file name="$USER_HOME$/Projects/docker-devtools/docker/es/bootstrap-schema.py" timestamp="1539251098973" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedChartsImpl.java" timestamp="1539157104780">
         <mark key="'" line="26" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/assets.json" timestamp="1539255852653">
+        <mark key="[" line="23" column="12" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539183047845">
         <mark key="[" line="258" column="47" />
@@ -121,10 +126,11 @@
         <mark key="'" line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1539158867806" />
+      <file name="/fragment.java" timestamp="1539082621258">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="50" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
-      <jump line="35" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
       <jump line="2" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/ModelFactory.java" />
       <jump line="223" column="49" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
       <jump line="322" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
@@ -223,13 +229,15 @@
       <jump line="33" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
       <jump line="12" column="5" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
+      <jump line="8" column="13" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
+      <jump line="65" column="2" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lowercase_keyword</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>lowercase_keyword</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
@@ -238,31 +246,31 @@
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIm1haW4iOiB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImluZGV4IjogIm5vdF9hbmFseXplZCIK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImluZGV4IjogIm5vdF9hbmFseXplZCIK</text>
+        <text encoding="base64">ICAgICAgIm1haW4iOiB7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImluZGV4IjogIm5vdF9hbmFseXplZCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVudi5CVUlMRF9VUkwgPSBzaChyZXR1cm5TdGRvdXQ6IHRydWUsIHNjcmlwdDogJ3NjcmlwdHMvcmVwbGFjZV91cmxfamVua2lucy5zaCAke2Vudi5CVUlMRF9VUkx9JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImluZGV4IjogIm5vdF9hbmFseXplZCIK</text>
       </register>
       <register name=":" type="4">
         <text>15,22d</text>
