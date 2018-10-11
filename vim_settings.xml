@@ -19,7 +19,7 @@
         <mark key="^" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/deploy/marathon-template.json" timestamp="1539171204188" />
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539174270585">
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539183055556">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedChartsImpl.java" timestamp="1539157104780">
         <mark key="'" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539174258305">
-        <mark key="[" line="258" column="59" />
-        <mark key="]" line="258" column="60" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539183047845">
+        <mark key="[" line="258" column="47" />
+        <mark key="]" line="258" column="47" />
         <mark key="^" line="258" column="60" />
-        <mark key="." line="258" column="60" />
+        <mark key="." line="258" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1539085674150">
         <mark key="'" line="110" column="6" />
@@ -180,10 +180,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SUPER_DB</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SUPER_DB</text>
       </register>
       <register name="/" type="4">
         <text>standarized</text>
