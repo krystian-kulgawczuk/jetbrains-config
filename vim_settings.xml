@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1539156923160">
         <mark key="'" line="51" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-agent-netvault/pkg/net/headers/headers.go" timestamp="1539244744141">
+        <mark key="'" line="52" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/deploy/marathon-template.json" timestamp="1539171204188" />
       <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539183055556">
         <mark key="[" line="2" column="25" />
@@ -14,10 +17,16 @@
         <mark key="^" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" timestamp="1539241942917" />
+      <file name="$USER_HOME$/Projects/orbital-agent-netvault/pkg/api/registration/handlers.go" timestamp="1539243122098" />
       <file name="$USER_HOME$/Documents/gvc.md" timestamp="1539083916737">
         <mark key="'" line="99" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1539242047500" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1539244775444">
+        <mark key="[" line="89" column="38" />
+        <mark key="]" line="89" column="38" />
+        <mark key="^" line="89" column="38" />
+        <mark key="." line="89" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/resources/application-us-dev.properties" timestamp="1539241739671" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1539156952859">
         <mark key="'" line="19" column="13" />
@@ -50,8 +59,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="267" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="259" column="2" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/mesos_node/README.md" />
       <jump line="0" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
@@ -150,6 +157,8 @@
       <jump line="19" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
       <jump line="112" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" />
       <jump line="26" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedChartsImpl.java" />
+      <jump line="45" column="32" filename="$USER_HOME$/Projects/orbital-agent-netvault/pkg/net/headers/headers.go" />
+      <jump line="52" column="15" filename="$USER_HOME$/Projects/orbital-agent-netvault/pkg/net/headers/headers.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -159,7 +168,7 @@
         <text>SUPER_DB</text>
       </register>
       <register name="/" type="4">
-        <text>standarized</text>
+        <text>req</text>
       </register>
       <register name="0" type="4">
         <text>${DOCKER_REGISTRY}/agent-netvault:${VERSION} .</text>
@@ -196,9 +205,9 @@
       </register>
     </registers>
     <search>
-      <last-search>standarized</last-search>
+      <last-search>req</last-search>
       <last-offset />
-      <last-pattern>standarized</last-pattern>
+      <last-pattern>req</last-pattern>
       <last-replace>org</last-replace>
       <last-substitute>com</last-substitute>
       <last-dir>1</last-dir>
@@ -228,6 +237,7 @@
         <entry>elastic</entry>
         <entry>JOB_DISPLAYNAME</entry>
         <entry>standarized</entry>
+        <entry>req</entry>
       </history-search>
       <history-cmd>
         <entry>70,90d</entry>
