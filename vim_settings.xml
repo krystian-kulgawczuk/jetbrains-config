@@ -34,6 +34,13 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1539329341055">
+        <mark key="'" line="28" column="44" />
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="42" column="60" />
+        <mark key="." line="42" column="60" />
+        <mark key="^" line="42" column="60" />
+      </file>
       <file name="/VER_2016_07_29Verifier.java" timestamp="1539178575151" />
       <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1539266088290">
         <mark key="'" line="199" column="19" />
@@ -165,7 +172,6 @@
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1539158867806" />
     </filemarks>
     <jumps>
-      <jump line="247" column="62" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
       <jump line="261" column="62" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
       <jump line="275" column="62" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
       <jump line="289" column="62" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
@@ -265,16 +271,17 @@
       <jump line="199" column="19" filename="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" />
       <jump line="203" column="2" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
       <jump line="147" column="12" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
+      <jump line="28" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>instance_genera</text>
+        <text>gvc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImluc3RhbmNlX2RiX2Rpc2tfc2l6ZSIgewogZGVzY3JpcHRpb24gPSAiRGVmYXVsdCBzaXplIG9mIHRoZSByb290IGRpc2sgKEdCKSIKIGRlZmF1bHQgPSAiNjQiCn0K</text>
@@ -307,15 +314,15 @@
         <text encoding="base64">IGRlc2NyaXB0aW9uID0gIkRDL09TIFByaXZhdGUgQWdlbnRzIENvdW50Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>112,115y</text>
+        <text>%s/gvc/orbital/g</text>
       </register>
     </registers>
     <search>
-      <last-search>instance_genera</last-search>
+      <last-search>gvc</last-search>
       <last-offset />
-      <last-pattern>instance_genera</last-pattern>
-      <last-replace>elastic</last-replace>
-      <last-substitute>db</last-substitute>
+      <last-pattern>gvc</last-pattern>
+      <last-replace>orbital</last-replace>
+      <last-substitute>gvc</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -359,6 +366,7 @@
         <entry>public_agent_managed_disk</entry>
         <entry>instance_general</entry>
         <entry>instance_genera</entry>
+        <entry>gvc</entry>
       </history-search>
       <history-cmd>
         <entry>70,90d</entry>
@@ -390,6 +398,7 @@
         <entry>38,41y</entry>
         <entry>117,120y</entry>
         <entry>112,115y</entry>
+        <entry>%s/gvc/orbital/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
