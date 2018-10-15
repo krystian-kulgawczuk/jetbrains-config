@@ -47,6 +47,7 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/portal/orbital-lib-azure-blobs/src/main/java/portal/azure/blobs/config/blobs/AzureStorageConfig.java" timestamp="1539598026440" />
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/build.sh" timestamp="1538487420969">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -130,7 +131,7 @@
         <mark key="." line="84" column="26" />
         <mark key="^" line="84" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/action/impl/DiagnosticsUploadAction.java" timestamp="1539595977352">
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/action/impl/DiagnosticsUploadAction.java" timestamp="1539598193171">
         <mark key="'" line="59" column="91" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1539337744411">
@@ -173,8 +174,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" timestamp="1539596381188">
-        <mark key="'" line="48" column="206" />
+      <file name="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" timestamp="1539598070807">
+        <mark key="'" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/scripts/replace_url_jenkins.sh" timestamp="1539156438044">
         <mark key="[" line="3" column="0" />
@@ -281,9 +282,9 @@
       <jump line="117" column="0" filename="$USER_HOME$/dev/terraform_dcos/public-agent.tf" />
       <jump line="227" column="3" filename="$USER_HOME$/dev/terraform_dcos/public-agent.tf" />
       <jump line="407" column="0" filename="$USER_HOME$/dev/terraform_dcos/public-agent.tf" />
-      <jump line="39" column="21" filename="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" />
       <jump line="59" column="91" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/action/impl/DiagnosticsUploadAction.java" />
       <jump line="48" column="206" filename="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" />
+      <jump line="39" column="22" filename="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
