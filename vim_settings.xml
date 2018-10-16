@@ -11,6 +11,12 @@
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/dto/RegistrationRequestDto.java" timestamp="1539604287812" />
       <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/Dockerfile" timestamp="1539594866501" />
+      <file name="$USER_HOME$/Projects/migrationcassandra/pom.xml" timestamp="1539674906933">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-agent-netvault/build.sh" timestamp="1538487420969">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -293,8 +299,8 @@
       <jump line="39" column="22" filename="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -312,25 +318,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAudGZzdGF0ZSBmaWxlcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ki50ZnN0YXRlLioK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ki50ZnN0YXRlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LmlkZWEvaHR0cFJlcXVlc3RzCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBFZGl0b3ItYmFzZWQgUmVzdCBDbGllbnQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyAudGZzdGF0ZSBmaWxlcwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ki50ZnN0YXRlLioK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ki50ZnN0YXRlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LmlkZWEvaHR0cFJlcXVlc3RzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBFZGl0b3ItYmFzZWQgUmVzdCBDbGllbnQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmFicmljLnByb3BlcnRpZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/gvc/orbital/g</text>
