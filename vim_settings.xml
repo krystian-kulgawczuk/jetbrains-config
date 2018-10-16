@@ -5,6 +5,16 @@
     <filemarks>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/dto/RegistrationRequestDto.java" timestamp="1539604287812" />
       <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/Dockerfile" timestamp="1539594866501" />
+      <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/migrations/schema/AddAccountByExternalSourceTableMigration.java" timestamp="1539696079460">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/migrations/schema/InitializeSchema.java" timestamp="1539696067355">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/migrationcassandra/pom.xml" timestamp="1539674906933">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -25,6 +35,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1539337744411">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
+        <mark key="^" line="274" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" timestamp="1539676102046">
         <mark key="'" line="119" column="25" />
       </file>
@@ -35,12 +52,23 @@
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/us-dev/Dockerfile" timestamp="1539684481414" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1539685770225" />
+      <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="70" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" timestamp="1539598070807">
         <mark key="'" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1539688319866" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/model/impl/KeepaliveImpl.java" timestamp="1539688578771">
         <mark key="'" line="37" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/support/DcosCassandraCluster.java" timestamp="1539696937668">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/navbar.html" timestamp="1539607342303" />
       <file name="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/CassandraConfiguration.java" timestamp="1539680703396">
@@ -49,6 +77,13 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1539684420012">
         <mark key="'" line="20" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1539337757305">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="^" line="199" column="5" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/sas/model/impl/AzureSasImpl.java" timestamp="1539595391978" />
       <file name="$USER_HOME$/dev/terraform_dcos/README.md" timestamp="1539337882092">
@@ -64,8 +99,12 @@
         <mark key="^" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/portal/orbital-lib-azure-blobs/src/main/java/portal/azure/blobs/config/blobs/AzureStorageConfig.java" timestamp="1539598026440" />
-      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" timestamp="1539678815387">
-        <mark key="'" line="379" column="49" />
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" timestamp="1539695947120">
+        <mark key="'" line="286" column="19" />
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="7" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="55" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/Makefile" timestamp="1537874538041">
         <mark key="[" line="3" column="0" />
@@ -77,15 +116,38 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/migrations/schema/InitializeSchema.java" timestamp="1539680947743" />
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/assets.json" timestamp="1539257115743">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/migrations/schema/InitializeSchema.java" timestamp="1539697171482" />
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/build.sh" timestamp="1537860643337">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="63" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539336857556">
+        <mark key="'" line="152" column="12" />
+        <mark key="[" line="84" column="13" />
+        <mark key="]" line="84" column="26" />
+        <mark key="." line="84" column="26" />
+        <mark key="^" line="84" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/action/impl/DiagnosticsUploadAction.java" timestamp="1539598193171">
         <mark key="'" line="59" column="91" />
       </file>
+      <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" timestamp="1539697141108">
+        <mark key="'" line="21" column="29" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="^" line="74" column="3" />
+        <mark key="." line="163" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/support/CassandraCluster.java" timestamp="1539696798659" />
+      <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/support/SingleCassandraCluster.java" timestamp="1539696968689" />
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.toml" timestamp="1537881718419">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="90" column="24" />
@@ -109,14 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="3" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
-      <jump line="0" column="1" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
-      <jump line="33" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
-      <jump line="34" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
-      <jump line="12" column="5" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
-      <jump line="8" column="13" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
-      <jump line="65" column="2" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
-      <jump line="66" column="10" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/assets.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/assets.json" />
       <jump line="84" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/assets.json" />
       <jump line="13" column="57" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
@@ -209,55 +263,63 @@
       <jump line="20" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="35" column="55" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/view/keepalive/controller/KeepaliveController.java" />
       <jump line="37" column="52" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/model/impl/KeepaliveImpl.java" />
+      <jump line="55" column="34" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
+      <jump line="78" column="29" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
+      <jump line="68" column="29" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
+      <jump line="286" column="19" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
+      <jump line="128" column="21" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
+      <jump line="178" column="0" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
+      <jump line="67" column="36" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
+      <jump line="21" column="29" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">PHN3YWdnZXItbXZjLnZlcnNpb24+Mi42LjE8L3N3YWdnZXItbXZjLnZlcnNpb24+</text>
       </register>
       <register name="/" type="4">
-        <text>nginx-proxy</text>
+        <text>MigrationType</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyaWFibGUgImluc3RhbmNlX2RiX2Rpc2tfc2l6ZSIgewogZGVzY3JpcHRpb24gPSAiRGVmYXVsdCBzaXplIG9mIHRoZSByb290IGRpc2sgKEdCKSIKIGRlZmF1bHQgPSAiNjQiCn0K</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAudGZzdGF0ZSBmaWxlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2x1c3RlciA9IG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ki50ZnN0YXRlLioK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2x1c3Rlci5jbG9zZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ki50ZnN0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2x1c3RlciAhPSBudWxsKXsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmlkZWEvaHR0cFJlcXVlc3RzCg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiRGlzcG9zaW5nIGNsdXN0ZXIge30iLCBjbHVzdGVyLmdldENsdXN0ZXJOYW1lKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBFZGl0b3ItYmFzZWQgUmVzdCBDbGllbnQK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNsb3NlQ2x1c3RlcigpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQcmVEZXN0cm95Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/gvc/orbital/g</text>
+        <text>42,49y</text>
       </register>
     </registers>
     <search>
-      <last-search>nginx-proxy</last-search>
+      <last-search>MigrationType</last-search>
       <last-offset />
-      <last-pattern>nginx-proxy</last-pattern>
+      <last-pattern>MigrationType</last-pattern>
       <last-replace>orbital</last-replace>
       <last-substitute>gvc</last-substitute>
       <last-dir>1</last-dir>
@@ -288,6 +350,8 @@
         <entry>keyspace</entry>
         <entry>cassandra-driver.version</entry>
         <entry>nginx-proxy</entry>
+        <entry>datastax</entry>
+        <entry>MigrationType</entry>
       </history-search>
       <history-cmd>
         <entry>90,100d</entry>
@@ -310,6 +374,7 @@
         <entry>117,120y</entry>
         <entry>112,115y</entry>
         <entry>%s/gvc/orbital/g</entry>
+        <entry>42,49y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
