@@ -51,12 +51,8 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1539337744411">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
-        <mark key="^" line="274" column="22" />
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" timestamp="1539676102046">
+        <mark key="'" line="119" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/docker-compose.yaml" timestamp="1539248413883">
         <mark key="[" line="15" column="12" />
@@ -91,13 +87,6 @@
         <mark key="^" line="1" column="18" />
       </file>
       <file name="/navbar.html" timestamp="1539607342303" />
-      <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1539337757305">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="^" line="199" column="5" />
-        <mark key="." line="191" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/sas/model/impl/AzureSasImpl.java" timestamp="1539595391978" />
       <file name="$USER_HOME$/dev/terraform_dcos/README.md" timestamp="1539337882092">
         <mark key="[" line="0" column="0" />
@@ -134,13 +123,6 @@
         <mark key="^" line="89" column="38" />
         <mark key="." line="89" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/assets.json" timestamp="1539257115743">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539260430816">
         <mark key="[" line="226" column="32" />
         <mark key="]" line="226" column="34" />
@@ -151,13 +133,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="63" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539336857556">
-        <mark key="'" line="152" column="12" />
-        <mark key="[" line="84" column="13" />
-        <mark key="]" line="84" column="26" />
-        <mark key="." line="84" column="26" />
-        <mark key="^" line="84" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/action/impl/DiagnosticsUploadAction.java" timestamp="1539598193171">
         <mark key="'" line="59" column="91" />
@@ -197,20 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="6" filename="$USER_HOME$/Documents/gvc.md" />
-      <jump line="99" column="6" filename="$USER_HOME$/Documents/gvc.md" />
-      <jump line="98" column="14" filename="$USER_HOME$/Documents/dev-commands.md" />
-      <jump line="195" column="3" filename="$USER_HOME$/Documents/dev-commands.md" />
-      <jump line="74" column="6" filename="$USER_HOME$/Documents/dev-commands.md" />
-      <jump line="110" column="6" filename="$USER_HOME$/Documents/dev-commands.md" />
-      <jump line="69" column="4" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
-      <jump line="70" column="4" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
-      <jump line="73" column="35" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
-      <jump line="23" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="59" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
-      <jump line="100" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
-      <jump line="51" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="19" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
       <jump line="112" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" />
       <jump line="26" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedChartsImpl.java" />
       <jump line="45" column="32" filename="$USER_HOME$/Projects/orbital-agent-netvault/pkg/net/headers/headers.go" />
@@ -297,6 +258,20 @@
       <jump line="59" column="91" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/action/impl/DiagnosticsUploadAction.java" />
       <jump line="48" column="206" filename="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" />
       <jump line="39" column="22" filename="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" />
+      <jump line="12" column="17" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="617" column="2" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="627" column="56" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="857" column="7" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="858" column="7" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="861" column="61" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="862" column="24" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="29" column="2" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="35" column="32" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="98" column="32" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="108" column="25" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="114" column="51" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="118" column="61" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="119" column="25" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -306,7 +281,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>expiration</text>
+        <text>keyspace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImluc3RhbmNlX2RiX2Rpc2tfc2l6ZSIgewogZGVzY3JpcHRpb24gPSAiRGVmYXVsdCBzaXplIG9mIHRoZSByb290IGRpc2sgKEdCKSIKIGRlZmF1bHQgPSAiNjQiCn0K</text>
@@ -343,9 +318,9 @@
       </register>
     </registers>
     <search>
-      <last-search>expiration</last-search>
+      <last-search>keyspace</last-search>
       <last-offset />
-      <last-pattern>expiration</last-pattern>
+      <last-pattern>keyspace</last-pattern>
       <last-replace>orbital</last-replace>
       <last-substitute>gvc</last-substitute>
       <last-dir>1</last-dir>
@@ -373,6 +348,7 @@
         <entry>gvc</entry>
         <entry>uuid</entry>
         <entry>expiration</entry>
+        <entry>keyspace</entry>
       </history-search>
       <history-cmd>
         <entry>90,100d</entry>
