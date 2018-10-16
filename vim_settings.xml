@@ -107,6 +107,9 @@
         <mark key="^" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/portal/orbital-lib-azure-blobs/src/main/java/portal/azure/blobs/config/blobs/AzureStorageConfig.java" timestamp="1539598026440" />
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" timestamp="1539678815387">
+        <mark key="'" line="379" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/Makefile" timestamp="1537874538041">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="53" />
@@ -172,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" />
       <jump line="26" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedChartsImpl.java" />
       <jump line="45" column="32" filename="$USER_HOME$/Projects/orbital-agent-netvault/pkg/net/headers/headers.go" />
       <jump line="52" column="15" filename="$USER_HOME$/Projects/orbital-agent-netvault/pkg/net/headers/headers.go" />
@@ -272,6 +274,7 @@
       <jump line="114" column="51" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="118" column="61" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="119" column="25" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="379" column="49" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -281,7 +284,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>keyspace</text>
+        <text>cassandra-driver.version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImluc3RhbmNlX2RiX2Rpc2tfc2l6ZSIgewogZGVzY3JpcHRpb24gPSAiRGVmYXVsdCBzaXplIG9mIHRoZSByb290IGRpc2sgKEdCKSIKIGRlZmF1bHQgPSAiNjQiCn0K</text>
@@ -318,9 +321,9 @@
       </register>
     </registers>
     <search>
-      <last-search>keyspace</last-search>
+      <last-search>cassandra-driver.version</last-search>
       <last-offset />
-      <last-pattern>keyspace</last-pattern>
+      <last-pattern>cassandra-driver.version</last-pattern>
       <last-replace>orbital</last-replace>
       <last-substitute>gvc</last-substitute>
       <last-dir>1</last-dir>
@@ -349,6 +352,7 @@
         <entry>uuid</entry>
         <entry>expiration</entry>
         <entry>keyspace</entry>
+        <entry>cassandra-driver.version</entry>
       </history-search>
       <history-cmd>
         <entry>90,100d</entry>
