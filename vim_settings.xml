@@ -16,6 +16,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/view/keepalive/controller/KeepaliveController.java" timestamp="1539688588401">
+        <mark key="'" line="35" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/spring-cassandra-showcase-application/common.gradle" timestamp="1539679562238" />
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/out.bak/linux/restart.sh" timestamp="1537871698231">
         <mark key="[" line="13" column="0" />
@@ -34,6 +37,10 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1539685770225" />
       <file name="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" timestamp="1539598070807">
         <mark key="'" line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1539688319866" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/model/impl/KeepaliveImpl.java" timestamp="1539688578771">
+        <mark key="'" line="37" column="52" />
       </file>
       <file name="/navbar.html" timestamp="1539607342303" />
       <file name="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/CassandraConfiguration.java" timestamp="1539680703396">
@@ -102,8 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="15" filename="$USER_HOME$/Projects/orbital-agent-netvault/pkg/net/headers/headers.go" />
-      <jump line="31" column="3" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
       <jump line="32" column="3" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
       <jump line="0" column="1" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
@@ -202,6 +207,8 @@
       <jump line="379" column="49" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
       <jump line="26" column="96" filename="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/CassandraConfiguration.java" />
       <jump line="20" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="35" column="55" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/view/keepalive/controller/KeepaliveController.java" />
+      <jump line="37" column="52" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/model/impl/KeepaliveImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
