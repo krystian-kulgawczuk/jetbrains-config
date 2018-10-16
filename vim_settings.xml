@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" timestamp="1539337989559">
-        <mark key="'" line="315" column="17" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/view/registration/dto/RegistrationRequestDto.java" timestamp="1539604287812" />
       <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/Dockerfile" timestamp="1539594866501" />
       <file name="$USER_HOME$/Projects/migrationcassandra/pom.xml" timestamp="1539674906933">
@@ -39,18 +33,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/main.tf" timestamp="1539337722899">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" timestamp="1539256890974">
-        <mark key="'" line="68" column="2" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" timestamp="1539676102046">
         <mark key="'" line="119" column="25" />
@@ -88,6 +70,10 @@
         <mark key="^" line="1" column="18" />
       </file>
       <file name="/navbar.html" timestamp="1539607342303" />
+      <file name="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/CassandraConfiguration.java" timestamp="1539680703396">
+        <mark key="'" line="26" column="96" />
+        <mark key="." line="26" column="95" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/sas/model/impl/AzureSasImpl.java" timestamp="1539595391978" />
       <file name="$USER_HOME$/dev/terraform_dcos/README.md" timestamp="1539337882092">
         <mark key="[" line="0" column="0" />
@@ -133,6 +119,7 @@
         <mark key="^" line="226" column="34" />
         <mark key="." line="226" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/migrations/schema/InitializeSchema.java" timestamp="1539680947743" />
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-kafka-cassandra-stats/build.sh" timestamp="1537860643337">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="63" />
@@ -140,18 +127,6 @@
       </file>
       <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/action/impl/DiagnosticsUploadAction.java" timestamp="1539598193171">
         <mark key="'" line="59" column="91" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/public-agent.tf" timestamp="1539338018899">
-        <mark key="'" line="407" column="0" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="." line="252" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/master.tf" timestamp="1539337957492">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/golang/src/bitbucket.org/acaisoft/net-vault-agents/Gopkg.toml" timestamp="1537881718419">
         <mark key="[" line="0" column="0" />
@@ -176,7 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedChartsImpl.java" />
       <jump line="45" column="32" filename="$USER_HOME$/Projects/orbital-agent-netvault/pkg/net/headers/headers.go" />
       <jump line="52" column="15" filename="$USER_HOME$/Projects/orbital-agent-netvault/pkg/net/headers/headers.go" />
       <jump line="31" column="3" filename="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" />
@@ -276,6 +250,7 @@
       <jump line="118" column="61" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="119" column="25" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="379" column="49" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
+      <jump line="26" column="96" filename="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/CassandraConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
