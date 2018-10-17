@@ -184,11 +184,11 @@
         <mark key="." line="84" column="26" />
         <mark key="^" line="84" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddTestFieldMigration.java" timestamp="1539769453803">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddTestFieldMigration.java" timestamp="1539770653068">
         <mark key="[" line="20" column="81" />
-        <mark key="]" line="20" column="87" />
-        <mark key="^" line="20" column="87" />
-        <mark key="." line="20" column="87" />
+        <mark key="]" line="20" column="81" />
+        <mark key="^" line="24" column="31" />
+        <mark key="." line="20" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" timestamp="1539700208465">
         <mark key="'" line="21" column="29" />
@@ -342,10 +342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>organization</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>organization</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>organization</text>
