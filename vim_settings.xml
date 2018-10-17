@@ -45,7 +45,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/resources/application-us-dev.properties" timestamp="1539699925797" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" timestamp="1539766856418">
+        <mark key="[" line="70" column="18" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/resources/application-us-dev.properties" timestamp="1539767573647" />
       <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1539337744411">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="191" column="0" />
@@ -53,8 +59,8 @@
         <mark key="." line="191" column="0" />
         <mark key="^" line="274" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" timestamp="1539676102046">
-        <mark key="'" line="119" column="25" />
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" timestamp="1539768293139">
+        <mark key="'" line="108" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/docker-compose.yaml" timestamp="1539248413883">
         <mark key="[" line="15" column="12" />
@@ -81,18 +87,20 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1539766119587">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1539767325280">
         <mark key="[" line="5" column="59" />
         <mark key="]" line="31" column="10" />
         <mark key="." line="31" column="10" />
         <mark key="^" line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1539688319866" />
-      <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/support/DcosCassandraCluster.java" timestamp="1539696937668">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" timestamp="1539768018848">
+        <mark key="'" line="47" column="25" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="50" column="22" />
+        <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1539688319866" />
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="64" />
@@ -106,7 +114,7 @@
         <mark key="^" line="1" column="18" />
       </file>
       <file name="/navbar.html" timestamp="1539607342303" />
-      <file name="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/CassandraConfiguration.java" timestamp="1539765045916">
+      <file name="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/CassandraConfiguration.java" timestamp="1539767392161">
         <mark key="'" line="26" column="96" />
         <mark key="." line="26" column="95" />
       </file>
@@ -190,12 +198,23 @@
         <mark key="]" line="10" column="63" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1539768298106">
+        <mark key="[" line="0" column="116" />
+        <mark key="]" line="0" column="117" />
+        <mark key="." line="0" column="117" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539336857556">
         <mark key="'" line="152" column="12" />
         <mark key="[" line="84" column="13" />
         <mark key="]" line="84" column="26" />
         <mark key="." line="84" column="26" />
         <mark key="^" line="84" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddTestFieldMigration.java" timestamp="1539767266075">
+        <mark key="[" line="24" column="83" />
+        <mark key="]" line="24" column="81" />
+        <mark key="^" line="24" column="81" />
+        <mark key="." line="24" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" timestamp="1539700208465">
         <mark key="'" line="21" column="29" />
@@ -232,6 +251,12 @@
         <mark key="]" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" timestamp="1539768273333">
+        <mark key="[" line="301" column="21" />
+        <mark key="]" line="309" column="0" />
+        <mark key="^" line="309" column="0" />
+        <mark key="." line="309" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/resources/application.properties" timestamp="1539699964054">
         <mark key="[" line="5" column="47" />
         <mark key="]" line="5" column="47" />
@@ -243,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="57" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
       <jump line="240" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
       <jump line="279" column="2" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
       <jump line="258" column="36" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
@@ -315,7 +339,6 @@
       <jump line="48" column="206" filename="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" />
       <jump line="39" column="22" filename="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" />
       <jump line="12" column="17" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
-      <jump line="617" column="2" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="627" column="56" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="857" column="7" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="858" column="7" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
@@ -323,11 +346,8 @@
       <jump line="862" column="24" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="29" column="2" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="35" column="32" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
-      <jump line="98" column="32" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
-      <jump line="108" column="25" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="114" column="51" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="118" column="61" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
-      <jump line="119" column="25" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="379" column="49" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
       <jump line="26" column="96" filename="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/CassandraConfiguration.java" />
       <jump line="20" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
@@ -343,55 +363,60 @@
       <jump line="21" column="29" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
       <jump line="58" column="24" filename="$USER_HOME$/Projects/svc-authentication/pom.xml" />
       <jump line="9" column="53" filename="$USER_HOME$/Projects/svc-authentication/src/main/java/com/quest/orbital/registration/CassandraConfig.java" />
+      <jump line="47" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" />
+      <jump line="617" column="46" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="119" column="34" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="98" column="41" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
+      <jump line="108" column="34" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>192.168.99.100</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.99.100</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>restassured</text>
+        <text>replication factor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2Vzc2lvbjsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbml0KCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuYWRkTWlncmF0aW9uKG5ldyBBZGRBY2NvdW50QnlFeHRlcm5hbFNvdXJjZVRhYmxlTWlncmF0aW9uKDIpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuYWRkTWlncmF0aW9uKG5ldyBJbml0aWFsaXplU2NoZW1hKDEpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuYWRkTWlncmF0aW9uKG5ldyBJbml0aWFsaXplU2NoZW1hKDEpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuYWRkTWlncmF0aW9uKG5ldyBBZGRBY2NvdW50QnlFeHRlcm5hbFNvdXJjZVRhYmxlTWlncmF0aW9uKDIpKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuYWRkTWlncmF0aW9uKG5ldyBJbml0aWFsaXplU2NoZW1hKDEpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiRXhlY3V0aW5nIHNjaGVtYSBtaWdyYXRpb25zLiIpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2Vzc2lvbjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbml0KCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuYWRkTWlncmF0aW9uKG5ldyBBZGRBY2NvdW50QnlFeHRlcm5hbFNvdXJjZVRhYmxlTWlncmF0aW9uKDIpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuYWRkTWlncmF0aW9uKG5ldyBJbml0aWFsaXplU2NoZW1hKDEpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>42,49y</text>
       </register>
     </registers>
     <search>
-      <last-search>restassured</last-search>
+      <last-search>replication factor</last-search>
       <last-offset />
-      <last-pattern>restassured</last-pattern>
+      <last-pattern>replication factor</last-pattern>
       <last-replace>orbital</last-replace>
       <last-substitute>gvc</last-substitute>
       <last-dir>1</last-dir>
@@ -425,6 +450,7 @@
         <entry>datastax</entry>
         <entry>MigrationType</entry>
         <entry>restassured</entry>
+        <entry>replication factor</entry>
       </history-search>
       <history-cmd>
         <entry>90,100d</entry>
