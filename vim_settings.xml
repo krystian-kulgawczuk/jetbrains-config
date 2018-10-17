@@ -92,12 +92,12 @@
         <mark key="." line="31" column="10" />
         <mark key="^" line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" timestamp="1539768018848">
-        <mark key="'" line="47" column="25" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="50" column="22" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" timestamp="1539775424256">
+        <mark key="'" line="48" column="25" />
+        <mark key="[" line="50" column="61" />
+        <mark key="]" line="51" column="60" />
+        <mark key="." line="51" column="60" />
+        <mark key="^" line="51" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1539688319866" />
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
@@ -347,8 +347,8 @@
       <jump line="266" column="11" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>equals</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>equals</text>
@@ -360,31 +360,31 @@
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZSA9IHVwZGF0ZU9yZ2FuaXphdGlvblRlc3RTdGF0ZW1lbnQuYmluZCgidGVzdDEiLCBzdWJkb21haW4pOwo=</text>
+        <text encoding="base64">bG9uZyBkdXJhdGlvbiA9IChlbmRUaW1lIC0gc3RhcnRUaW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">bG9uZyBlbmRUaW1lID0gU3lzdGVtLm5hbm9UaW1lKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">bWV0aG9kVG9UaW1lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZSA9IHVwZGF0ZU9yZ2FuaXphdGlvblRlc3RTdGF0ZW1lbnQuYmluZCgidGVzdDEiLCBzdWJkb21haW4pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuYWRkTWlncmF0aW9uKG5ldyBJbml0aWFsaXplU2NoZW1hKDEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiRXhlY3V0aW5nIHNjaGVtYSBtaWdyYXRpb25zLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>42,49y</text>
