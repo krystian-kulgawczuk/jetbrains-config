@@ -108,8 +108,12 @@
         <mark key="^" line="1" column="18" />
       </file>
       <file name="/navbar.html" timestamp="1539607342303" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1539684420012">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1539761949363">
         <mark key="'" line="20" column="23" />
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="3" column="7" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1539337757305">
         <mark key="'" line="97" column="0" />
@@ -149,6 +153,9 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="53" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1539761812117">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/svc-authentication/Dockerfile" timestamp="1539081381438">
         <mark key="[" line="2" column="4" />
@@ -230,6 +237,9 @@
         <mark key="]" line="5" column="47" />
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="47" />
+      </file>
+      <file name="/fragment.java" timestamp="1539761812103">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -335,11 +345,11 @@
       <jump line="9" column="53" filename="$USER_HOME$/Projects/svc-authentication/src/main/java/com/quest/orbital/registration/CassandraConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2Vzc2lvbjsK</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>restassured</text>
