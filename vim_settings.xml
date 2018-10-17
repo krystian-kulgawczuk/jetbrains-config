@@ -163,6 +163,12 @@
         <mark key="." line="89" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1539764748441" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/InsertDummyDataMigration.java" timestamp="1539773523559">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="33" />
+        <mark key="." line="30" column="33" />
+        <mark key="^" line="30" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/assets.json" timestamp="1539257115743">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="1" column="13" />
@@ -195,12 +201,6 @@
         <mark key="]" line="20" column="81" />
         <mark key="^" line="24" column="31" />
         <mark key="." line="20" column="81" />
-      </file>
-      <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" timestamp="1539700208465">
-        <mark key="'" line="21" column="29" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/support/CassandraCluster.java" timestamp="1539696798659" />
       <file name="$USER_HOME$/Projects/svc-authentication/src/main/java/com/quest/orbital/registration/CassandraConfig.java" timestamp="1539699566402">
@@ -348,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>equals</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>equals</text>
       </register>
       <register name="/" type="4">
         <text>organization</text>
@@ -360,31 +360,31 @@
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZSA9IHVwZGF0ZU9yZ2FuaXphdGlvblRlc3RTdGF0ZW1lbnQuYmluZCgidGVzdDEiLCBzdWJkb21haW4pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuYWRkTWlncmF0aW9uKG5ldyBJbml0aWFsaXplU2NoZW1hKDEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiRXhlY3V0aW5nIHNjaGVtYSBtaWdyYXRpb25zLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2Vzc2lvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pbml0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuYWRkTWlncmF0aW9uKG5ldyBBZGRBY2NvdW50QnlFeHRlcm5hbFNvdXJjZVRhYmxlTWlncmF0aW9uKDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuYWRkTWlncmF0aW9uKG5ldyBJbml0aWFsaXplU2NoZW1hKDEpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMuYWRkTWlncmF0aW9uKG5ldyBJbml0aWFsaXplU2NoZW1hKDEpKTsK</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygiRXhlY3V0aW5nIHNjaGVtYSBtaWdyYXRpb25zLiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>42,49y</text>
