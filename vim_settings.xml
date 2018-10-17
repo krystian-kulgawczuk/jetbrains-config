@@ -61,6 +61,12 @@
         <mark key="'" line="108" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/us-dev/Dockerfile" timestamp="1539684481414" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddNewTableMigration.java" timestamp="1539771561993">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="8" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/.gitignore" timestamp="1539338604960">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -184,7 +190,7 @@
         <mark key="." line="84" column="26" />
         <mark key="^" line="84" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddTestFieldMigration.java" timestamp="1539770653068">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddTestFieldMigration.java" timestamp="1539771491515">
         <mark key="[" line="20" column="81" />
         <mark key="]" line="20" column="81" />
         <mark key="^" line="24" column="31" />
@@ -342,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>organization</text>
