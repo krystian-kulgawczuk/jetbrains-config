@@ -81,6 +81,12 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1539766119587">
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="31" column="10" />
+        <mark key="." line="31" column="10" />
+        <mark key="^" line="31" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1539688319866" />
       <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/support/DcosCassandraCluster.java" timestamp="1539696937668">
         <mark key="[" line="21" column="0" />
@@ -100,6 +106,10 @@
         <mark key="^" line="1" column="18" />
       </file>
       <file name="/navbar.html" timestamp="1539607342303" />
+      <file name="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/CassandraConfiguration.java" timestamp="1539765045916">
+        <mark key="'" line="26" column="96" />
+        <mark key="." line="26" column="95" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1539761949363">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="3" column="8" />
@@ -160,6 +170,7 @@
         <mark key="^" line="89" column="38" />
         <mark key="." line="89" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1539764748441" />
       <file name="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/assets.json" timestamp="1539257115743">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="1" column="13" />
@@ -335,10 +346,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>192.168.99.100</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>192.168.99.100</text>
       </register>
       <register name="/" type="4">
         <text>restassured</text>
