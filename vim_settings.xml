@@ -23,6 +23,9 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="32" column="102" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/view/keepalive/controller/KeepaliveController.java" timestamp="1539688588401">
+        <mark key="'" line="35" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/web/src/app/shared/constants.ts" timestamp="1539763812243" />
       <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
         <mark key="[" line="6" column="39" />
@@ -47,13 +50,6 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1539337744411">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
-        <mark key="^" line="274" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" timestamp="1539768293139">
         <mark key="'" line="108" column="34" />
       </file>
@@ -77,6 +73,9 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" timestamp="1539598070807">
+        <mark key="'" line="39" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/scripts/replace_url_jenkins.sh" timestamp="1539156438044">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="22" />
@@ -91,6 +90,9 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" timestamp="1539775424256" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1539688319866" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/model/impl/KeepaliveImpl.java" timestamp="1539688578771">
+        <mark key="'" line="37" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="64" />
@@ -108,20 +110,6 @@
         <mark key="'" line="26" column="96" />
         <mark key="." line="26" column="95" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1539761949363">
-        <mark key="'" line="20" column="23" />
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-        <mark key="^" line="3" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1539337757305">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="^" line="199" column="5" />
-        <mark key="." line="191" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/sas/model/impl/AzureSasImpl.java" timestamp="1539595391978" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539247993070">
         <mark key="[" line="59" column="0" />
@@ -137,13 +125,6 @@
         <mark key="^" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/portal/orbital-lib-azure-blobs/src/main/java/portal/azure/blobs/config/blobs/AzureStorageConfig.java" timestamp="1539598026440" />
-      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" timestamp="1539695947120">
-        <mark key="'" line="286" column="19" />
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="55" column="7" />
-        <mark key="." line="55" column="7" />
-        <mark key="^" line="55" column="7" />
-      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1539866461196">
         <mark key="'" line="191" column="0" />
         <mark key="[" line="22" column="0" />
@@ -165,13 +146,6 @@
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/assets.json" timestamp="1539257115743">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539260430816">
         <mark key="[" line="226" column="32" />
         <mark key="]" line="226" column="34" />
@@ -185,18 +159,14 @@
         <mark key="]" line="0" column="117" />
         <mark key="." line="0" column="117" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1539336857556">
-        <mark key="'" line="152" column="12" />
-        <mark key="[" line="84" column="13" />
-        <mark key="]" line="84" column="26" />
-        <mark key="." line="84" column="26" />
-        <mark key="^" line="84" column="26" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddTestFieldMigration.java" timestamp="1539771491515">
         <mark key="[" line="20" column="81" />
         <mark key="]" line="20" column="81" />
         <mark key="^" line="24" column="31" />
         <mark key="." line="20" column="81" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/action/impl/DiagnosticsUploadAction.java" timestamp="1539598193171">
+        <mark key="'" line="59" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/support/CassandraCluster.java" timestamp="1539696798659" />
       <file name="$USER_HOME$/Projects/svc-authentication/src/main/java/com/quest/orbital/registration/CassandraConfig.java" timestamp="1539699566402">
@@ -221,8 +191,12 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
+      <file name="/pom.xml" timestamp="1539873269112" />
       <file name="$USER_HOME$/Projects/svc-authentication/pom.xml" timestamp="1539699340788">
         <mark key="'" line="58" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1539873390898">
+        <mark key="'" line="171" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" timestamp="1539768273333" />
       <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/resources/application.properties" timestamp="1539699964054">
@@ -233,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="35" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
       <jump line="8" column="32" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
       <jump line="52" column="26" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="280" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
@@ -333,6 +306,7 @@
       <jump line="21" column="1" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="2" column="4" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="266" column="11" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="171" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -342,7 +316,7 @@
         <text>equals</text>
       </register>
       <register name="/" type="4">
-        <text>organization</text>
+        <text>smart</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
@@ -379,9 +353,9 @@
       </register>
     </registers>
     <search>
-      <last-search>organization</last-search>
+      <last-search>smart</last-search>
       <last-offset />
-      <last-pattern>organization</last-pattern>
+      <last-pattern>smart</last-pattern>
       <last-replace>orbital</last-replace>
       <last-substitute>gvc</last-substitute>
       <last-dir>1</last-dir>
@@ -417,6 +391,7 @@
         <entry>restassured</entry>
         <entry>replication factor</entry>
         <entry>organization</entry>
+        <entry>smart</entry>
       </history-search>
       <history-cmd>
         <entry>90,100d</entry>
