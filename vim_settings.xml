@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" timestamp="1539337989559">
-        <mark key="'" line="315" column="17" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/HelloController.java" timestamp="1539951459837">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/migrationcassandra/pom.xml" timestamp="1539674906933">
         <mark key="[" line="16" column="0" />
@@ -30,26 +30,20 @@
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/main.tf" timestamp="1539337722899">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" timestamp="1539766856418">
+        <mark key="[" line="70" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/es/mapping/org_metadata.json" timestamp="1539256890974">
-        <mark key="'" line="68" column="2" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/test.rego" timestamp="1539950250692">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" timestamp="1539768293139">
         <mark key="'" line="108" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/docker-compose.yml" timestamp="1539945012668">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="17" column="25" />
-        <mark key="^" line="17" column="25" />
-        <mark key="." line="17" column="25" />
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/docker-compose.yml" timestamp="1539950901243">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="40" />
+        <mark key="^" line="28" column="39" />
+        <mark key="." line="28" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddNewTableMigration.java" timestamp="1539771561993">
         <mark key="[" line="8" column="15" />
@@ -118,6 +112,7 @@
         <mark key="^" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1539944784465" />
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/docker-compose.yml.temp" timestamp="1539950129471" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539247993070">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="56" column="0" />
@@ -150,24 +145,17 @@
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/application/Dockerfile" timestamp="1539945820581">
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/application/Dockerfile" timestamp="1539950043070">
         <mark key="v" line="1" column="18" />
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="53" />
-        <mark key="." line="3" column="22" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539260430816">
         <mark key="[" line="226" column="32" />
         <mark key="]" line="226" column="34" />
         <mark key="^" line="226" column="34" />
         <mark key="." line="226" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1539769430045">
-        <mark key="'" line="266" column="11" />
-        <mark key="[" line="0" column="116" />
-        <mark key="]" line="0" column="117" />
-        <mark key="." line="0" column="117" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/Dockerfile" timestamp="1539944854082" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddTestFieldMigration.java" timestamp="1539771491515">
@@ -181,18 +169,6 @@
       </file>
       <file name="$USER_HOME$/Projects/svc-authentication/src/main/java/com/quest/orbital/registration/CassandraConfig.java" timestamp="1539699566402">
         <mark key="'" line="9" column="53" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/public-agent.tf" timestamp="1539338018899">
-        <mark key="'" line="407" column="0" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="." line="252" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/master.tf" timestamp="1539337957492">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-ui-qs-501/web/src/app/layout/navbar/navbar.html" timestamp="1539607796741">
         <mark key="[" line="8" column="27" />
@@ -320,10 +296,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>z</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>z</text>
       </register>
       <register name="/" type="4">
         <text>spring</text>
@@ -332,31 +308,31 @@
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBvcGVucG9saWN5YWdlbnQvZGVtby1yZXN0ZnVsLWFwaTowLjIK</text>
+        <text encoding="base64">RVhQT1NFIDgwODAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyOwo=</text>
+        <text encoding="base64">ICAgICAgLSAiLS1sb2ctbGV2ZWw9ZGVidWciCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbnRyb2xsZXIK</text>
+        <text encoding="base64">ICAgICAgLSAiLS1zZXJ2ZXIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">ICAgICAgLSAicnVuIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC4yLjUuUkVMRUFTRTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICMgZGV0YWlsczogaHR0cHM6Ly93d3cub3BlbnBvbGljeWFnZW50Lm9yZy9kb2NzL3NlY3VyaXR5Lmh0bWwuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLXdlYjwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">ICAgICMgYXV0aGVudGljYXRpb24gYW5kIGF1dGhvcml6YXRpb24gb24gdGhlIGRhZW1vbi4gU2VlIHRoZSBTZWN1cml0eSBwYWdlIGZvcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">ICAgICMgZGVwbG95aW5nIE9QQSBpbiBhbiBpbnNlY3VyZSBlbnZpcm9ubWVudCwgYmUgc3VyZSB0byBjb25maWd1cmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICMgbWVhbnMgdGhhdCBjbGllbnRzIGNhbiByZWFkIGFuZCB3cml0ZSBwb2xpY2llcyBpbiBPUEEuIElmIHlvdSBhcmUK</text>
       </register>
       <register name=":" type="4">
         <text>42,49y</text>
