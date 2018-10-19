@@ -30,16 +30,23 @@
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/pom.xml" timestamp="1539766856418">
-        <mark key="[" line="70" column="18" />
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/example.rego" timestamp="1539958365478" />
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/test.rego" timestamp="1539960208115">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/test.rego" timestamp="1539950250692">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPADataRequest.java" timestamp="1539957045222" />
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" timestamp="1539768293139">
         <mark key="'" line="108" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/docker-compose.yml" timestamp="1539950901243">
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaDataRequest.java" timestamp="1539956993195">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/docker-compose.yml" timestamp="1539958257731">
         <mark key="[" line="28" column="40" />
         <mark key="]" line="28" column="40" />
         <mark key="^" line="28" column="39" />
@@ -111,7 +118,29 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1539944784465" />
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" timestamp="1539961258189">
+        <mark key="'" line="19" column="22" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" timestamp="1539968833490">
+        <mark key="'" line="25" column="31" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/pom.xml" timestamp="1539956930572">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPADataResponse.java" timestamp="1539957028117">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/docker-compose.yml.temp" timestamp="1539950129471" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539247993070">
         <mark key="[" line="59" column="0" />
@@ -125,13 +154,11 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1539866461196">
-        <mark key="'" line="191" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="254" column="46" />
-        <mark key="n" line="8" column="32" />
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" timestamp="1539956315417">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1539257536072">
         <mark key="[" line="89" column="38" />
@@ -193,17 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
-      <jump line="98" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
-      <jump line="192" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
-      <jump line="278" column="23" filename="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" />
-      <jump line="97" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" />
-      <jump line="8" column="26" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
-      <jump line="97" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" />
       <jump line="60" column="41" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
       <jump line="74" column="0" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
       <jump line="217" column="0" filename="$USER_HOME$/dev/terraform_dcos/master.tf" />
@@ -293,55 +309,66 @@
       <jump line="209" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="212" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="213" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
+      <jump line="22" column="8" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" />
+      <jump line="20" column="5" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
+      <jump line="26" column="42" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
+      <jump line="7" column="57" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
+      <jump line="8" column="43" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
+      <jump line="24" column="60" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
+      <jump line="25" column="31" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
+      <jump line="16" column="19" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
+      <jump line="18" column="27" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
+      <jump line="19" column="22" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>z</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>spring</text>
+        <text>opaUrl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RVhQT1NFIDgwODAK</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0IGFsbG93ID0gZmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAiLS1sb2ctbGV2ZWw9ZGVidWciCg==</text>
+        <text encoding="base64">ZGVmYXVsdCBhbGxvdyA9IGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSAiLS1zZXJ2ZXIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAicnVuIgo=</text>
+        <text encoding="base64">YWxsb3cgPSBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZGV0YWlsczogaHR0cHM6Ly93d3cub3BlbnBvbGljeWFnZW50Lm9yZy9kb2NzL3NlY3VyaXR5Lmh0bWwuCg==</text>
+        <text encoding="base64">YXNrZGphc2tqZHNrYWoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYXV0aGVudGljYXRpb24gYW5kIGF1dGhvcml6YXRpb24gb24gdGhlIGRhZW1vbi4gU2VlIHRoZSBTZWN1cml0eSBwYWdlIGZvcgo=</text>
+        <text encoding="base64">eW91cm1vbSA9IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZGVwbG95aW5nIE9QQSBpbiBhbiBpbnNlY3VyZSBlbnZpcm9ubWVudCwgYmUgc3VyZSB0byBjb25maWd1cmUK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vcGVucG9saWN5YWdlbnQudm90ZXIuT1BBVm90ZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgbWVhbnMgdGhhdCBjbGllbnRzIGNhbiByZWFkIGFuZCB3cml0ZSBwb2xpY2llcyBpbiBPUEEuIElmIHlvdSBhcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>42,49y</text>
       </register>
     </registers>
     <search>
-      <last-search>spring</last-search>
+      <last-search>opaUrl</last-search>
       <last-offset />
-      <last-pattern>spring</last-pattern>
+      <last-pattern>opaUrl</last-pattern>
       <last-replace>orbital</last-replace>
       <last-substitute>gvc</last-substitute>
       <last-dir>1</last-dir>
@@ -370,6 +397,8 @@
         <entry>organization</entry>
         <entry>smart</entry>
         <entry>spring</entry>
+        <entry>vote</entry>
+        <entry>opaUrl</entry>
       </history-search>
       <history-cmd>
         <entry>145,149y</entry>
