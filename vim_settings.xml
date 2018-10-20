@@ -3,102 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/HelloController.java" timestamp="1540024510959">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-securing-web/demo/src/main/java/com/example/demo/TestController.java" timestamp="1540024789079">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="10" column="27" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/migrationcassandra/pom.xml" timestamp="1539674906933">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/svc-authentication/Jenkinsfile.groovy" timestamp="1539081539581">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="32" column="102" />
-      </file>
-      <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/example.rego" timestamp="1539958365478" />
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/test.rego" timestamp="1539960208115">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPADataRequest.java" timestamp="1539957045222" />
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaDataRequest.java" timestamp="1539956993195">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/docker-compose.yml" timestamp="1539958257731">
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="40" />
-        <mark key="^" line="28" column="39" />
-        <mark key="." line="28" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddNewTableMigration.java" timestamp="1539771561993">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="5" column="57" />
-        <mark key="." line="8" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/docker-compose.yaml" timestamp="1539944993089" />
-      <file name="$USER_HOME$/dev/terraform_dcos/.gitignore" timestamp="1539338604960">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="5" column="2" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="70" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/opa-example/src/main/java/com/example/opaexample/TestController.java" timestamp="1539944072303">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="6" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/opa-example/pom.xml" timestamp="1539944019737">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/scripts/replace_url_jenkins.sh" timestamp="1539156438044">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1539767325280">
-        <mark key="[" line="5" column="59" />
-        <mark key="]" line="31" column="10" />
-        <mark key="." line="31" column="10" />
-        <mark key="^" line="31" column="10" />
-      </file>
       <file name="$USER_HOME$/Projects/opa-example/src/main/java/com/example/opaexample/OpaExampleApplication.java" timestamp="1539944249927">
         <mark key="[" line="4" column="76" />
         <mark key="]" line="4" column="76" />
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/HelloController.java" timestamp="1540024510959">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
         <mark key="[" line="1" column="0" />
@@ -118,12 +33,18 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" timestamp="1540024604111">
-        <mark key="'" line="23" column="31" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="17" column="51" />
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" timestamp="1540025284249">
+        <mark key="'" line="24" column="31" />
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="18" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-securing-web/demo/src/main/java/com/example/demo/TestController.java" timestamp="1540024789079">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+        <mark key="." line="10" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/pom.xml" timestamp="1540023216128">
         <mark key="[" line="36" column="21" />
@@ -135,7 +56,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/docker-compose.yml.temp" timestamp="1539950129471" />
       <file name="$USER_HOME$/Projects/OPA/gs-securing-web/complete/src/main/java/hello/Application.java" timestamp="1540024351706">
         <mark key="c" line="5" column="21" />
       </file>
@@ -151,7 +71,18 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/tutorials/spring-security-mvc-boot/src/main/java/org/baeldung/voter/WebSecurityConfig.java" timestamp="1539974812145" />
+      <file name="$USER_HOME$/Projects/migrationcassandra/pom.xml" timestamp="1539674906933">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/svc-authentication/Jenkinsfile.groovy" timestamp="1539081539581">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="32" column="102" />
+      </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" timestamp="1539956315417">
         <mark key="[" line="29" column="37" />
         <mark key="]" line="29" column="37" />
@@ -164,11 +95,22 @@
         <mark key="^" line="89" column="38" />
         <mark key="." line="89" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/InsertDummyDataMigration.java" timestamp="1539773523559">
         <mark key="[" line="30" column="26" />
         <mark key="]" line="30" column="33" />
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/test.rego" timestamp="1539960208115">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/application/Dockerfile" timestamp="1539950043070">
         <mark key="v" line="1" column="18" />
@@ -187,12 +129,35 @@
         <mark key="^" line="226" column="34" />
         <mark key="." line="226" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/Dockerfile" timestamp="1539944854082" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddTestFieldMigration.java" timestamp="1539771491515">
         <mark key="[" line="20" column="81" />
         <mark key="]" line="20" column="81" />
         <mark key="^" line="24" column="31" />
         <mark key="." line="20" column="81" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaDataRequest.java" timestamp="1539956993195">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/docker-compose.yml" timestamp="1539958257731">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="40" />
+        <mark key="^" line="28" column="39" />
+        <mark key="." line="28" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddNewTableMigration.java" timestamp="1539771561993">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/.gitignore" timestamp="1539338604960">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-ui-qs-501/web/src/app/layout/navbar/navbar.html" timestamp="1539607796741">
         <mark key="[" line="8" column="27" />
@@ -200,11 +165,43 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="70" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/opa-example/src/main/java/com/example/opaexample/TestController.java" timestamp="1539944072303">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/opa-example/pom.xml" timestamp="1539944019737">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/resources/application.properties" timestamp="1539699964054">
         <mark key="[" line="5" column="47" />
         <mark key="]" line="5" column="47" />
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-securing-web/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1540025059272">
+        <mark key="[" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/scripts/replace_url_jenkins.sh" timestamp="1539156438044">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1539767325280">
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="31" column="10" />
+        <mark key="." line="31" column="10" />
+        <mark key="^" line="31" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -310,11 +307,11 @@
       <jump line="19" column="22" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
+      <register name="&quot;" type="4">
+        <text>permitAll</text>
       </register>
       <register name="-" type="4">
-        <text>hello</text>
+        <text>permitAll</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -364,10 +361,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dcos-mesos</entry>
-        <entry>dcos-mesos-general-agent</entry>
-        <entry>dcos-mesos-elastic-agent</entry>
-        <entry>azurerm_managed_disk.public_agent_managed_disk</entry>
         <entry>.public_agent_managed_disk</entry>
         <entry>public_agent_managed_disk</entry>
         <entry>instance_general</entry>
