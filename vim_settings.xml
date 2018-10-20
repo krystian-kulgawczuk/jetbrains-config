@@ -124,12 +124,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" timestamp="1539972601798">
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" timestamp="1539975629216">
         <mark key="'" line="25" column="31" />
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="19" column="55" />
-        <mark key="." line="19" column="55" />
-        <mark key="^" line="19" column="55" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/pom.xml" timestamp="1539971580594">
         <mark key="[" line="48" column="0" />
@@ -154,6 +154,7 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/OPA/tutorials/spring-security-mvc-boot/src/main/java/org/baeldung/voter/WebSecurityConfig.java" timestamp="1539974812145" />
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" timestamp="1539956315417">
         <mark key="[" line="29" column="37" />
         <mark key="]" line="29" column="37" />
@@ -177,6 +178,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1539975519961">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539260430816">
         <mark key="[" line="226" column="32" />
@@ -322,11 +328,11 @@
       <jump line="19" column="22" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>authenticated().accessDecisionManager(accessDecisionManager());</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>authenticated().accessDecisionManager(accessDecisionManager());</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -335,31 +341,31 @@
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CTx2ZXJzaW9uPjIuMS4yLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTxhcnRpZmFjdElkPnRoeW1lbGVhZi1leHRyYXMtc3ByaW5nc2VjdXJpdHk0PC9hcnRpZmFjdElkPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CTxncm91cElkPm9yZy50aHltZWxlYWYuZXh0cmFzPC9ncm91cElkPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CTx2ZXJzaW9uPjIuMS4yLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CTxhcnRpZmFjdElkPnRoeW1lbGVhZi1leHRyYXMtc3ByaW5nc2VjdXJpdHk0PC9hcnRpZmFjdElkPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CTxncm91cElkPm9yZy50aHltZWxlYWYuZXh0cmFzPC9ncm91cElkPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CTx2ZXJzaW9uPjUuMS4xLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTxhcnRpZmFjdElkPnNwcmluZy1zZWN1cml0eS1jb25maWc8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHk8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">CTx2ZXJzaW9uPjUuMS4xLlJFTEVBU0U8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>42,49y</text>
