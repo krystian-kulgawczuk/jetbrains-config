@@ -27,11 +27,10 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" timestamp="1540133040778">
-        <mark key="'" line="60" column="7" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="64" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" timestamp="1540134076802">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="52" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" timestamp="1540132739834">
         <mark key="'" line="24" column="31" />
@@ -309,7 +308,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRWxhcHNlZCB0aW1lOiIgKyBTdHJpbmcudmFsdWVPZihlbGFwc2VkVGltZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>opa</text>
@@ -321,34 +320,34 @@
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRWxhcHNlZCB0aW1lOiIgKyBTdHJpbmcudmFsdWVPZihlbGFwc2VkVGltZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGVsYXBzZWRUaW1lID0gc3RvcFRpbWUgLSBzdGFydFRpbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0b3BUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgbG9uZyBlbGFwc2VkVGltZSA9IHN0b3BUaW1lIC0gc3RhcnRUaW1lOwogICAgICAgIGxvZy5pbmZvKCJFbGFwc2VkIHRpbWU6IiArIFN0cmluZy52YWx1ZU9mKGVsYXBzZWRUaW1lKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0b3BUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRWxhcHNlZCB0aW1lOiIgKyBTdHJpbmcudmFsdWVPZihlbGFwc2VkVGltZSkpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBsb25nIGVsYXBzZWRUaW1lID0gc3RvcFRpbWUgLSBzdGFydFRpbWU7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBsb25nIHN0b3BUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRWxhcHNlZCB0aW1lOiIgKyBTdHJpbmcudmFsdWVPZihlbGFwc2VkVGltZSkpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGVsYXBzZWRUaW1lID0gc3RvcFRpbWUgLSBzdGFydFRpbWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0b3BUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>42,49y</text>
+        <text>61,63d</text>
       </register>
     </registers>
     <search>
@@ -404,6 +403,7 @@
         <entry>112,115y</entry>
         <entry>%s/gvc/orbital/g</entry>
         <entry>42,49y</entry>
+        <entry>61,63d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
