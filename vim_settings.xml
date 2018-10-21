@@ -27,19 +27,18 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" timestamp="1540130129185">
-        <mark key="'" line="63" column="7" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="62" column="34" />
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" timestamp="1540133040778">
+        <mark key="'" line="60" column="7" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="64" />
+        <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" timestamp="1540047718399">
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" timestamp="1540132739834">
         <mark key="'" line="24" column="31" />
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="38" />
-        <mark key="^" line="24" column="38" />
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+        <mark key="^" line="24" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-securing-web/demo/src/main/java/com/example/demo/TestController.java" timestamp="1540024789079">
         <mark key="[" line="8" column="18" />
@@ -310,10 +309,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRWxhcHNlZCB0aW1lOiIgKyBTdHJpbmcudmFsdWVPZihlbGFwc2VkVGltZSkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>opa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -322,31 +321,31 @@
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRWxhcHNlZCB0aW1lOiIgKyBTdHJpbmcudmFsdWVPZihlbGFwc2VkVGltZSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGVsYXBzZWRUaW1lID0gc3RvcFRpbWUgLSBzdGFydFRpbWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0b3BUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRWxhcHNlZCB0aW1lOiIgKyBTdHJpbmcudmFsdWVPZihlbGFwc2VkVGltZSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGh0dHBfYXBpLnBhdGggPSBbImZ1Il0K</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGVsYXBzZWRUaW1lID0gc3RvcFRpbWUgLSBzdGFydFRpbWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGh0dHBfYXBpLm1ldGhvZCA9ICJHRVQiCg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0b3BUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWxsb3cgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0VGltZSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmYXVsdCBhbGxvdyA9IGZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>42,49y</text>
