@@ -43,11 +43,11 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540305178816">
-        <mark key="[" line="38" column="22" />
-        <mark key="]" line="38" column="66" />
-        <mark key="." line="38" column="66" />
-        <mark key="^" line="38" column="66" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540306944670">
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="43" column="14" />
+        <mark key="^" line="43" column="67" />
+        <mark key="." line="43" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/svc-authentication/Jenkinsfile.groovy" timestamp="1539081539581">
         <mark key="[" line="46" column="0" />
@@ -355,10 +355,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>schema</text>
@@ -403,7 +403,7 @@
       <last-pattern>schema</last-pattern>
       <last-replace>orbital</last-replace>
       <last-substitute>gvc</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
