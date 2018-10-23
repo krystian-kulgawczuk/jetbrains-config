@@ -3,115 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/HelloController.java" timestamp="1540043985502">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-securing-web/demo/src/main/java/com/example/demo/TestController.java" timestamp="1540024789079">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="10" column="27" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1540201676162">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="17" column="62" />
-        <mark key="^" line="17" column="62" />
-        <mark key="." line="17" column="62" />
-      </file>
-      <file name="$USER_HOME$/Projects/migrationcassandra/pom.xml" timestamp="1539674906933">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/svc-authentication/Jenkinsfile.groovy" timestamp="1539081539581">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="32" column="102" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1540199601101">
-        <mark key="[" line="38" column="10" />
-        <mark key="]" line="39" column="24" />
-        <mark key="^" line="39" column="24" />
-        <mark key="." line="39" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/test.rego" timestamp="1540125387833">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaDataRequest.java" timestamp="1539956993195">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/docker-compose.yml" timestamp="1540047708687">
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="40" />
-        <mark key="^" line="28" column="39" />
-        <mark key="." line="28" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddNewTableMigration.java" timestamp="1539771561993">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="5" column="57" />
-        <mark key="." line="8" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/.gitignore" timestamp="1539338604960">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="5" column="2" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/deploy/marathon.json" timestamp="1540198807303" />
-      <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="70" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/opa-example/src/main/java/com/example/opaexample/TestController.java" timestamp="1539944072303">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="6" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/opa-example/pom.xml" timestamp="1539944019737">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-securing-web/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1540025059272">
-        <mark key="[" line="5" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/scripts/replace_url_jenkins.sh" timestamp="1539156438044">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1539767325280">
-        <mark key="[" line="5" column="59" />
-        <mark key="]" line="31" column="10" />
-        <mark key="." line="31" column="10" />
-        <mark key="^" line="31" column="10" />
-      </file>
       <file name="$USER_HOME$/Projects/opa-example/src/main/java/com/example/opaexample/OpaExampleApplication.java" timestamp="1539944249927">
         <mark key="[" line="4" column="76" />
         <mark key="]" line="4" column="76" />
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/HelloController.java" timestamp="1540043985502">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
         <mark key="[" line="1" column="0" />
@@ -138,7 +40,12 @@
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1540198743796" />
+      <file name="$USER_HOME$/Projects/OPA/gs-securing-web/demo/src/main/java/com/example/demo/TestController.java" timestamp="1540024789079">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/pom.xml" timestamp="1540023216128">
         <mark key="[" line="36" column="21" />
         <mark key="]" line="41" column="0" />
@@ -156,8 +63,18 @@
         <mark key="^" line="75" column="16" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-securing-web/complete/src/main/java/hello/Application.java" timestamp="1540024351706">
-        <mark key="c" line="5" column="21" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migrate.sh" timestamp="1540284815229">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/Makefile" timestamp="1540284494040">
+        <mark key="i" line="0" column="0" />
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="42" />
+        <mark key="^" line="1" column="42" />
+        <mark key="." line="1" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539247993070">
         <mark key="[" line="59" column="0" />
@@ -171,6 +88,30 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1540201676162">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="17" column="62" />
+        <mark key="^" line="17" column="62" />
+        <mark key="." line="17" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/migrationcassandra/pom.xml" timestamp="1539674906933">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/svc-authentication/Jenkinsfile.groovy" timestamp="1539081539581">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="32" column="102" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1540199601101">
+        <mark key="[" line="38" column="10" />
+        <mark key="]" line="39" column="24" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="39" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" timestamp="1539956315417">
         <mark key="[" line="29" column="37" />
         <mark key="]" line="29" column="37" />
@@ -183,11 +124,22 @@
         <mark key="^" line="89" column="38" />
         <mark key="." line="89" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/InsertDummyDataMigration.java" timestamp="1539773523559">
         <mark key="[" line="30" column="26" />
         <mark key="]" line="30" column="33" />
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/test.rego" timestamp="1540125387833">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/application/Dockerfile" timestamp="1540047174834">
         <mark key="v" line="1" column="18" />
@@ -207,21 +159,48 @@
         <mark key="^" line="226" column="34" />
         <mark key="." line="226" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/resources/application-us-dev.properties" timestamp="1540198701159" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddTestFieldMigration.java" timestamp="1539771491515">
         <mark key="[" line="20" column="81" />
         <mark key="]" line="20" column="81" />
         <mark key="^" line="24" column="31" />
         <mark key="." line="20" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/scripts_common/decrypt.py" timestamp="1540199222030" />
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaDataRequest.java" timestamp="1539956993195">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/docker-compose.yml" timestamp="1540047708687">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="40" />
+        <mark key="^" line="28" column="39" />
+        <mark key="." line="28" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddNewTableMigration.java" timestamp="1539771561993">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/.gitignore" timestamp="1539338604960">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-ui-qs-501/web/src/app/layout/navbar/navbar.html" timestamp="1539607796741">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/resources/application-us-prod.properties" timestamp="1540204271950" />
+      <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="70" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1540209575983">
         <mark key="'" line="2" column="7" />
         <mark key="[" line="83" column="0" />
@@ -229,11 +208,37 @@
         <mark key="^" line="84" column="16" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/opa-example/src/main/java/com/example/opaexample/TestController.java" timestamp="1539944072303">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/opa-example/pom.xml" timestamp="1539944019737">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/resources/application.properties" timestamp="1539699964054">
         <mark key="[" line="5" column="47" />
         <mark key="]" line="5" column="47" />
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-securing-web/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1540025059272">
+        <mark key="[" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/scripts/replace_url_jenkins.sh" timestamp="1539156438044">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1539767325280">
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="31" column="10" />
+        <mark key="." line="31" column="10" />
+        <mark key="^" line="31" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -339,11 +344,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/Projects/gvc-svc-gateway/Jenkinsfile.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/usr/bin/env bash</text>
       </register>
       <register name="-" type="4">
-        <text>currentTimeMillis();</text>
+        <text>/usr/bin/env bash</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -352,31 +357,31 @@
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TUlHUkFUSU9OCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYW5XcygpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZSgiQ2xlYW4iKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xlYW5XcygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZSgiQ2xlYW4iKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudi5IT01FID0gIiR7V09SS1NQQUNFfSIKCiAgICBzdGFnZSgnQ2hlY2tvdXQnKSB7CiAgICAgICAgY2xlYW5XcygpCiAgICAgICAgY2hlY2tvdXQoWwogICAgICAgICAgICAgICAgJGNsYXNzICAgICAgICAgICAgICAgICAgICAgICAgICAgOiAiR2l0U0NNIiwKICAgICAgICAgICAgICAgIGJyYW5jaGVzICAgICAgICAgICAgICAgICAgICAgICAgIDogWwogICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogIioiCiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICBkb0dlbmVyYXRlU3VibW9kdWxlQ29uZmlndXJhdGlvbnM6IGZhbHNlLAogICAgICAgICAgICAgICAgZXh0ZW5zaW9ucyAgICAgICAgICAgICAgICAgICAgICAgOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkY2xhc3M6ICJDbGVhbkJlZm9yZUNoZWNrb3V0IgogICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGNsYXNzICAgICAgICAgICAgIDogJ1N1Ym1vZHVsZU9wdGlvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzYWJsZVN1Ym1vZHVsZXMgIDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyZW50Q3JlZGVudGlhbHMgIDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWN1cnNpdmVTdWJtb2R1bGVzOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZmVyZW5jZSAgICAgICAgICA6ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYWNraW5nU3VibW9kdWxlcyA6IGZhbHNlCiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICBzdWJtb2R1bGVDZmcgICAgICAgICAgICAgICAgICAgICA6IFtdLAogICAgICAgICAgICAgICAgdXNlclJlbW90ZUNvbmZpZ3MgICAgICAgICAgICAgICAgOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjcmVkZW50aWFsc0lkOiAiZ2l0bGFiLWplbmtpbnMtYWdlbnQtZGV2IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cmwgICAgICAgICAgOiAic3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL2d2Yy1zdmMtZ2F0ZXdheS5naXQiCiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIF0KICAgICAgICBdKQogICAgICAgIGJyYW5jaF9uYW1lID0gIiR7ZW52LkJSQU5DSF9OQU1FfSIucmVwbGFjZSgnLycsICctJykKICAgICAgICBjb21taXRTaGEgPSBzaChyZXR1cm5TdGRvdXQ6IHRydWUsIHNjcmlwdDogJ2dpdCByZXYtcGFyc2UgSEVBRCcpLnRyaW0oKQogICAgICAgIHNob3J0Q29tbWl0U2hhID0gY29tbWl0U2hhLnRha2UoMTApCiAgICAgICAgZW52LlZFUlNJT04gPSAiJHtCVUlMRF9OVU1CRVJ9LSR7c2hvcnRDb21taXRTaGF9Ii5yZXBsYWNlKCdfJywgJy0nKQogICAgICAgIHNoICJlbnYiCiAgICB9CgogICAgc3RhZ2UoJ0J1aWxkJykgewogICAgICAgIHdpdGhDcmVkZW50aWFscyhbZmlsZShjcmVkZW50aWFsc0lkOiAnY2lwaGVyLWtleScsIHZhcmlhYmxlOiAnQ0lQSEVSX0tFWScpXSkgewogICAgICAgICAgICBzaCAibG4gLXMgJHtDSVBIRVJfS0VZfSAuZ3ZjLWVuY3J5cHRpb24tdXMtZGV2LnNlY3JldCIKICAgICAgICAgICAgc2ggIm1ha2UgZGVjcnlwdCIKICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtbJGNsYXNzICAgICAgICAgIDogJ1VzZXJuYW1lUGFzc3dvcmRNdWx0aUJpbmRpbmcnLCBjcmVkZW50aWFsc0lkOiAnZG9ja2VyLWxvZ2luJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWVWYXJpYWJsZTogJ1VTRVJOQU1FJywgcGFzc3dvcmRWYXJpYWJsZTogJ1BBU1NXT1JEJ11dKSB7CiAgICAgICAgICAgICAgICBzaCAnZG9ja2VyIGxvZ2luIGd2Y3VzZGV2LmF6dXJlY3IuaW8gLXUgJFVTRVJOQU1FIC1wICRQQVNTV09SRCcKICAgICAgICAgICAgfQogICAgICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlIGJ1aWxkIgogICAgICAgIH0KICAgIH0KCiAgICBzdGFnZSgiRGVwbG95IikgewogICAgICAgIG1pbGVzdG9uZSgpCiAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJtYXN0ZXIiKSB7CiAgICAgICAgICAgIGxvY2socmVzb3VyY2U6ICdkY29zQ29ubmVjdGlvbicpIHsKICAgICAgICAgICAgICAgIHNzaGFnZW50KFsnZGNvcyddKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgc2ggJ3NzaCAtTSAtUyAvdG1wL21hcmF0aG9uLXNvY2tldCAtdnZ2IC1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBFeGl0T25Gb3J3YXJkRmFpbHVyZT15ZXMgLU4gLWYgLXAgMjIwMCAnICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnLUwgODAwMDpsb2NhbGhvc3Q6ODAgYXp1cmVkZXZAZ3ZjLXVzLWRldi1tYXN0ZXIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbScKICAgICAgICAgICAgICAgICAgICAgICAgc2ggIm1ha2UgLUIgZGVwbG95IgogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBleCkgewogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBleAogICAgICAgICAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNoICdzc2ggLVMgL3RtcC9tYXJhdGhvbi1zb2NrZXQgLU8gZXhpdCBhenVyZWRldkBndmMtdXMtZGV2LW1hc3Rlci53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tJwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBzdGFnZSgiQ2xlYW4iKSB7CiAgICAgICAgY2xlYW5XcygpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudi5IT01FID0gIiR7V09SS1NQQUNFfSIKCiAgICBzdGFnZSgnQ2hlY2tvdXQnKSB7CiAgICAgICAgY2xlYW5XcygpCiAgICAgICAgY2hlY2tvdXQoWwogICAgICAgICAgICAgICAgJGNsYXNzICAgICAgICAgICAgICAgICAgICAgICAgICAgOiAiR2l0U0NNIiwKICAgICAgICAgICAgICAgIGJyYW5jaGVzICAgICAgICAgICAgICAgICAgICAgICAgIDogWwogICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogIioiCiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICBkb0dlbmVyYXRlU3VibW9kdWxlQ29uZmlndXJhdGlvbnM6IGZhbHNlLAogICAgICAgICAgICAgICAgZXh0ZW5zaW9ucyAgICAgICAgICAgICAgICAgICAgICAgOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkY2xhc3M6ICJDbGVhbkJlZm9yZUNoZWNrb3V0IgogICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGNsYXNzICAgICAgICAgICAgIDogJ1N1Ym1vZHVsZU9wdGlvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzYWJsZVN1Ym1vZHVsZXMgIDogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyZW50Q3JlZGVudGlhbHMgIDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWN1cnNpdmVTdWJtb2R1bGVzOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZmVyZW5jZSAgICAgICAgICA6ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYWNraW5nU3VibW9kdWxlcyA6IGZhbHNlCiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICBzdWJtb2R1bGVDZmcgICAgICAgICAgICAgICAgICAgICA6IFtdLAogICAgICAgICAgICAgICAgdXNlclJlbW90ZUNvbmZpZ3MgICAgICAgICAgICAgICAgOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjcmVkZW50aWFsc0lkOiAiZ2l0bGFiLWplbmtpbnMtYWdlbnQtZGV2IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cmwgICAgICAgICAgOiAic3NoOi8vZ2l0QGdpdC5sYWJzLnF1ZXN0LmNvbS9kcGRyL2d2Yy1zdmMtZ2F0ZXdheS5naXQiCiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIF0KICAgICAgICBdKQogICAgICAgIGJyYW5jaF9uYW1lID0gIiR7ZW52LkJSQU5DSF9OQU1FfSIucmVwbGFjZSgnLycsICctJykKICAgICAgICBjb21taXRTaGEgPSBzaChyZXR1cm5TdGRvdXQ6IHRydWUsIHNjcmlwdDogJ2dpdCByZXYtcGFyc2UgSEVBRCcpLnRyaW0oKQogICAgICAgIHNob3J0Q29tbWl0U2hhID0gY29tbWl0U2hhLnRha2UoMTApCiAgICAgICAgZW52LlZFUlNJT04gPSAiJHtCVUlMRF9OVU1CRVJ9LSR7c2hvcnRDb21taXRTaGF9Ii5yZXBsYWNlKCdfJywgJy0nKQogICAgICAgIHNoICJlbnYiCiAgICB9CgogICAgc3RhZ2UoJ0J1aWxkJykgewogICAgICAgIHdpdGhDcmVkZW50aWFscyhbZmlsZShjcmVkZW50aWFsc0lkOiAnY2lwaGVyLWtleScsIHZhcmlhYmxlOiAnQ0lQSEVSX0tFWScpXSkgewogICAgICAgICAgICBzaCAibG4gLXMgJHtDSVBIRVJfS0VZfSAuZ3ZjLWVuY3J5cHRpb24tdXMtZGV2LnNlY3JldCIKICAgICAgICAgICAgc2ggIm1ha2UgZGVjcnlwdCIKICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtbJGNsYXNzICAgICAgICAgIDogJ1VzZXJuYW1lUGFzc3dvcmRNdWx0aUJpbmRpbmcnLCBjcmVkZW50aWFsc0lkOiAnZG9ja2VyLWxvZ2luJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWVWYXJpYWJsZTogJ1VTRVJOQU1FJywgcGFzc3dvcmRWYXJpYWJsZTogJ1BBU1NXT1JEJ11dKSB7CiAgICAgICAgICAgICAgICBzaCAnZG9ja2VyIGxvZ2luIGd2Y3VzZGV2LmF6dXJlY3IuaW8gLXUgJFVTRVJOQU1FIC1wICRQQVNTV09SRCcKICAgICAgICAgICAgfQogICAgICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlIGJ1aWxkIgogICAgICAgIH0KICAgIH0KCiAgICBzdGFnZSgiRGVwbG95IikgewogICAgICAgIG1pbGVzdG9uZSgpCiAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJtYXN0ZXIiKSB7CiAgICAgICAgICAgIGxvY2socmVzb3VyY2U6ICdkY29zQ29ubmVjdGlvbicpIHsKICAgICAgICAgICAgICAgIHNzaGFnZW50KFsnZGNvcyddKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgc2ggJ3NzaCAtTSAtUyAvdG1wL21hcmF0aG9uLXNvY2tldCAtdnZ2IC1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBFeGl0T25Gb3J3YXJkRmFpbHVyZT15ZXMgLU4gLWYgLXAgMjIwMCAnICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnLUwgODAwMDpsb2NhbGhvc3Q6ODAgYXp1cmVkZXZAZ3ZjLXVzLWRldi1tYXN0ZXIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbScKICAgICAgICAgICAgICAgICAgICAgICAgc2ggIm1ha2UgLUIgZGVwbG95IgogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBleCkgewogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBleAogICAgICAgICAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNoICdzc2ggLVMgL3RtcC9tYXJhdGhvbi1zb2NrZXQgLU8gZXhpdCBhenVyZWRldkBndmMtdXMtZGV2LW1hc3Rlci53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tJwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBzdGFnZSgiQ2xlYW4iKSB7CiAgICAgICAgY2xlYW5XcygpCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>9,82d</text>
@@ -415,11 +420,6 @@
         <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>145,149y</entry>
-        <entry>139,150y</entry>
-        <entry>q</entry>
-        <entry>%s/com/org/g</entry>
-        <entry>20,21d</entry>
         <entry>27,34d</entry>
         <entry>51,58d</entry>
         <entry>51,59d</entry>
