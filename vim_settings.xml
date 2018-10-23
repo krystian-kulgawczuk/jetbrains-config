@@ -43,11 +43,11 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540306944670">
-        <mark key="[" line="43" column="14" />
-        <mark key="]" line="43" column="14" />
-        <mark key="^" line="43" column="67" />
-        <mark key="." line="43" column="14" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540317675877">
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="56" column="38" />
+        <mark key="." line="56" column="38" />
+        <mark key="^" line="56" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/svc-authentication/Jenkinsfile.groovy" timestamp="1539081539581">
         <mark key="[" line="46" column="0" />
@@ -355,10 +355,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>migration_dir</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>migration_dir</text>
       </register>
       <register name="/" type="4">
         <text>schema</text>
@@ -370,28 +370,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiJSh0aW1lc3RhbXApcyAlKGF1dGhvcilzOiAlKHRleHQpcyIgJSBoaXRbIl9zb3VyY2UiXSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBoaXQgaW4gcmVzWydoaXRzJ11bJ2hpdHMnXToK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJHb3QgJWQgSGl0czoiICUgcmVzWydoaXRzJ11bJ3RvdGFsJ10pCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcyA9IGVzLnNlYXJjaChpbmRleD0idGVzdC1pbmRleCIsIGJvZHk9eyJxdWVyeSI6IHsibWF0Y2hfYWxsIjoge319fSkK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSB0YXJnZXRfbWlncmF0aW9uOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1ldGhvZCB0aGF0IGNoZWNrcyBpZiB0aGUgZ2l2ZW4gbWlncmF0aW9uIG5hbWUgZXhpc3RzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2luZGV4JzogJ3Rlc3QtaW5kZXgnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
