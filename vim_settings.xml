@@ -43,10 +43,10 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540386974945">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540387910806">
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/qs-ui/web/node_modules/engine.io/lib/transports/polling-xhr.js" timestamp="1540367765488" />
       <file name="$USER_HOME$/Projects/svc-authentication/Jenkinsfile.groovy" timestamp="1539081539581">
@@ -139,7 +139,7 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
-      <file name="/Python Console" timestamp="1540387210233">
+      <file name="/Python Console" timestamp="1540388278294">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
@@ -180,12 +180,13 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540387014348">
-        <mark key="a" line="24" column="75" />
-        <mark key="[" line="41" column="30" />
-        <mark key="]" line="90" column="24" />
-        <mark key="." line="90" column="24" />
-        <mark key="^" line="90" column="24" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540389313033">
+        <mark key="a" line="29" column="75" />
+        <mark key="'" line="104" column="8" />
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539247993070">
         <mark key="[" line="59" column="0" />
@@ -271,10 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="0" filename="$USER_HOME$/dev/terraform_dcos/public-agent.tf" />
-      <jump line="227" column="3" filename="$USER_HOME$/dev/terraform_dcos/public-agent.tf" />
-      <jump line="407" column="0" filename="$USER_HOME$/dev/terraform_dcos/public-agent.tf" />
-      <jump line="59" column="91" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/src/main/java/portal/agent/regular/model/action/impl/DiagnosticsUploadAction.java" />
       <jump line="48" column="206" filename="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" />
       <jump line="39" column="22" filename="$MAVEN_REPOSITORY$/com/quest/orbital/azure-blobs/1.0.0/azure-blobs-1.0.0.jar!/portal/azure/blobs/sas/model/impl/AzureSasImpl.class" />
       <jump line="12" column="17" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
@@ -371,57 +368,61 @@
       <jump line="51" column="17" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" />
       <jump line="47" column="51" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="55" column="11" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" />
+      <jump line="24" column="27" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
+      <jump line="82" column="22" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
+      <jump line="93" column="8" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVzLnJlaW5kZXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>dockerHost</text>
+        <text>cassandra</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0WydhY2tub3dsZWRnZWQnXToKICAgICAgICAgICAgcmVzdWx0ID0geydhY2tub3dsZWRnZWQnOiBGYWxzZSwgJ2Rlc2NyaXB0aW9uJzogJ0ZhaWxlZCBkdXJpbmcgaW5kZXggY3JlYXRpb24nfSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVzLnJlaW5kZXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdFtdCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBzZWxmLl9yZWluZGV4KGVzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXRjaCBlcy5leAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiBkaWN0aW9uYXJ5IHdpdGggcm9sbGJhY2sgc3RhdHVzCg==</text>
+        <text encoding="base64">aW1wb3J0IGVsYXN0aWNzZWFyY2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwoK</text>
+        <text encoding="base64">aW1wb3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRbJ2FrdWJ1bmdhJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>61,62y</text>
+        <text>%s/cassandra/es/g</text>
       </register>
     </registers>
     <search>
-      <last-search>dockerHost</last-search>
+      <last-search>cassandra</last-search>
       <last-offset />
-      <last-pattern>dockerHost</last-pattern>
-      <last-replace>orbital</last-replace>
-      <last-substitute>gvc</last-substitute>
+      <last-pattern>cassandra</last-pattern>
+      <last-replace>es</last-replace>
+      <last-substitute>cassandra</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -448,6 +449,8 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>schema</entry>
         <entry>dockerHost</entry>
+        <entry>elasticsearch</entry>
+        <entry>cassandra</entry>
       </history-search>
       <history-cmd>
         <entry>27,34d</entry>
@@ -473,6 +476,8 @@
         <entry>q</entry>
         <entry>15,16d</entry>
         <entry>61,62y</entry>
+        <entry>%s/elasticsearch/es/g</entry>
+        <entry>%s/cassandra/es/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
