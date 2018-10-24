@@ -43,12 +43,12 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540378027033">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="93" column="36" />
-        <mark key="]" line="93" column="36" />
-        <mark key="." line="93" column="36" />
-        <mark key="^" line="78" column="46" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540381618962">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="56" column="31" />
+        <mark key="]" line="56" column="30" />
+        <mark key="." line="56" column="30" />
+        <mark key="^" line="56" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/qs-ui/web/node_modules/engine.io/lib/transports/polling-xhr.js" timestamp="1540367765488" />
       <file name="$USER_HOME$/Projects/svc-authentication/Jenkinsfile.groovy" timestamp="1539081539581">
@@ -63,7 +63,7 @@
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/new-index.json" timestamp="1540375677406">
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/new-index.json" timestamp="1540381750861">
         <mark key="[" line="28" column="9" />
         <mark key="]" line="29" column="2" />
         <mark key="^" line="29" column="2" />
@@ -141,7 +141,7 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
-      <file name="/Python Console" timestamp="1540378025368">
+      <file name="/Python Console" timestamp="1540381190361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
@@ -182,11 +182,11 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540380322331">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="60" />
-        <mark key="." line="36" column="60" />
-        <mark key="^" line="36" column="60" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540381648801">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539247993070">
         <mark key="[" line="59" column="0" />
@@ -375,10 +375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>neccesary</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>neccesary</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dockerHost</text>
@@ -387,31 +387,31 @@
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIHN0cmF0ZWd5Wyd0eXBlJ10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzdHJhdGVneV90eXBlKToK</text>
+        <text encoding="base64">ZGVmIGNvbm5lY3RfZXMoaG9zdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQmFzaWNTdHJhdGVneToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzdHJhdGVneV90eXBlKToK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
