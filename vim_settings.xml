@@ -137,7 +137,7 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
-      <file name="/Python Console" timestamp="1540388278294">
+      <file name="/Python Console" timestamp="1540391991104">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
@@ -164,13 +164,12 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540389313033">
-        <mark key="a" line="29" column="75" />
-        <mark key="'" line="104" column="8" />
-        <mark key="[" line="36" column="11" />
-        <mark key="]" line="32" column="24" />
-        <mark key="." line="32" column="24" />
-        <mark key="^" line="32" column="24" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540393371791">
+        <mark key="a" line="30" column="75" />
+        <mark key="'" line="55" column="8" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539247993070">
         <mark key="[" line="59" column="0" />
@@ -254,9 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="627" column="56" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
-      <jump line="857" column="7" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
-      <jump line="858" column="7" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="861" column="61" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="862" column="24" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
       <jump line="29" column="2" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
@@ -354,55 +350,58 @@
       <jump line="24" column="11" filename="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/controller/CodeRegistrationController.java" />
       <jump line="27" column="25" filename="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/controller/CodeRegistrationController.java" />
       <jump line="59" column="61" filename="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/filter/VerifyKeyFilter.java" />
+      <jump line="43" column="20" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
+      <jump line="39" column="54" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
+      <jump line="48" column="8" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnaGVqJykK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>cassandra</text>
+        <text>error creating new index</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0WydhY2tub3dsZWRnZWQnXToKICAgICAgICAgICAgcmVzdWx0ID0geydhY2tub3dsZWRnZWQnOiBGYWxzZSwgJ2Rlc2NyaXB0aW9uJzogJ0ZhaWxlZCBkdXJpbmcgaW5kZXggY3JlYXRpb24nfSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnaGVqJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBzZWxmLl9yZWluZGV4KGVzKQo=</text>
+        <text encoding="base64">bG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRjaCBlcy5leAo=</text>
+        <text encoding="base64">Y2guc2V0TGV2ZWwobG9nZ2luZy5ERUJVRykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGVsYXN0aWNzZWFyY2gK</text>
+        <text encoding="base64">bG9nZ2VyLmFkZEhhbmRsZXIoY2gpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3IK</text>
+        <text encoding="base64">Y2ggPSBsb2dnaW5nLlN0cmVhbUhhbmRsZXIoc3lzLnN0ZG91dCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRbJ2FrdWJ1bmdhJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsncmVtb3ZlJzogfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsnYWRkJzogeydpbmRleCc6IHNlbGYudG9faW5kZXgsICdhbGlhcyc6IHNlbGYuYWxpYXN9fSwKICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsncmVtb3ZlJzogfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/cassandra/es/g</text>
       </register>
     </registers>
     <search>
-      <last-search>cassandra</last-search>
+      <last-search>error creating new index</last-search>
       <last-offset />
-      <last-pattern>cassandra</last-pattern>
+      <last-pattern>error creating new index</last-pattern>
       <last-replace>es</last-replace>
       <last-substitute>cassandra</last-substitute>
       <last-dir>1</last-dir>
@@ -433,6 +432,7 @@
         <entry>dockerHost</entry>
         <entry>elasticsearch</entry>
         <entry>cassandra</entry>
+        <entry>error creating new index</entry>
       </history-search>
       <history-cmd>
         <entry>27,34d</entry>
