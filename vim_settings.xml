@@ -127,7 +127,7 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1539767325280">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1540366827574">
         <mark key="[" line="5" column="59" />
         <mark key="]" line="31" column="10" />
         <mark key="." line="31" column="10" />
@@ -213,6 +213,12 @@
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1540366855373">
+        <mark key="'" line="61" column="25" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539260430816">
         <mark key="[" line="226" column="32" />
         <mark key="]" line="226" column="34" />
@@ -252,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" />
       <jump line="123" column="0" filename="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" />
       <jump line="232" column="66" filename="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" />
@@ -352,6 +357,7 @@
       <jump line="69" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-mail-service/pom.xml" />
       <jump line="2" column="46" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-mail-service/pom.xml" />
       <jump line="3" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-mail-service/pom.xml" />
+      <jump line="61" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -361,7 +367,7 @@
         <text>migration_dir</text>
       </register>
       <register name="/" type="4">
-        <text>schema</text>
+        <text>dockerHost</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEua2V5c3BhY2V9IikKICAgIHByaXZhdGUgU3RyaW5nIGtleXNwYWNlOwoKICAgIEBWYWx1ZSgiJHtjYXNzYW5kcmEucmVwbGljYXRpb25TdHJhdGVneX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVwbGljYXRpb25TdHJhdGVneTsKCiAgICBAVmFsdWUoIiR7Y2Fzc2FuZHJhLnJlcGxpY2F0aW9uRmFjdG9yfSIpCiAgICBwcml2YXRlIGludCByZXBsaWNhdGlvbkZhY3RvcjsK</text>
@@ -398,12 +404,12 @@
       </register>
     </registers>
     <search>
-      <last-search>schema</last-search>
+      <last-search>dockerHost</last-search>
       <last-offset />
-      <last-pattern>schema</last-pattern>
+      <last-pattern>dockerHost</last-pattern>
       <last-replace>orbital</last-replace>
       <last-substitute>gvc</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -428,6 +434,7 @@
         <entry>opaUrl</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>schema</entry>
+        <entry>dockerHost</entry>
       </history-search>
       <history-cmd>
         <entry>27,34d</entry>
