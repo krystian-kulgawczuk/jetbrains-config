@@ -176,13 +176,13 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540466091710">
-        <mark key="a" line="34" column="75" />
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="105" column="50" />
-        <mark key="]" line="106" column="38" />
-        <mark key="." line="106" column="38" />
-        <mark key="^" line="106" column="38" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540474546110">
+        <mark key="a" line="38" column="75" />
+        <mark key="'" line="136" column="34" />
+        <mark key="[" line="116" column="39" />
+        <mark key="]" line="116" column="40" />
+        <mark key="." line="116" column="40" />
+        <mark key="^" line="116" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539247993070">
         <mark key="[" line="59" column="0" />
@@ -190,11 +190,12 @@
         <mark key="^" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" timestamp="1540467953896">
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" timestamp="1540474241816">
         <mark key="'" line="31" column="29" />
-        <mark key="[" line="48" column="31" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="37" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539866467898">
         <mark key="[" line="2" column="33" />
@@ -227,11 +228,11 @@
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1540366855373">
-        <mark key="'" line="61" column="25" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001/strategy.json" timestamp="1540474608758">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539260430816">
         <mark key="[" line="226" column="32" />
@@ -272,8 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="19" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
-      <jump line="128" column="21" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
       <jump line="178" column="0" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
       <jump line="67" column="36" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
       <jump line="21" column="29" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
@@ -372,58 +371,60 @@
       <jump line="99" column="25" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" />
       <jump line="100" column="4" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" />
       <jump line="31" column="29" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" />
+      <jump line="87" column="36" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
+      <jump line="132" column="34" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ01pZ3JhdGlvbiBzdWNjZXNzZnVsJykK</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>failed</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
-        <text>reason</text>
+        <text encoding="base64">XDxlcnJvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0WydhY2tub3dsZWRnZWQnXToKICAgICAgICAgICAgcmVzdWx0ID0geydhY2tub3dsZWRnZWQnOiBGYWxzZSwgJ2Rlc2NyaXB0aW9uJzogJ0ZhaWxlZCBkdXJpbmcgaW5kZXggY3JlYXRpb24nfSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ01pZ3JhdGlvbiBzdWNjZXNzZnVsJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ01pZ3JhdGlvbiBmYWlsZWQnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ01pZ3JhdGlvbiBmYWlsZWQnKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzdWx0KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnU3RhcnRpbmcgbWlncmF0aW9uOiAnLCBzdHIobWlncmF0aW9uX25hbWUpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1pZ3JhdGlvbnNfZGlyID0gZ2V0X21pZ3JhdGlvbnNfZGlyKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1pZ3JhdGlvbnNfZGlyID0gZ2V0X21pZ3JhdGlvbnNfZGlyKCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcHBpbmdfanNvbiA9IGxvYWRfbWFwcGluZyhtaWdyYXRpb25fZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/reason/detail/</text>
       </register>
     </registers>
     <search>
-      <last-search>reason</last-search>
+      <last-search encoding="base64">XDxlcnJvclw+</last-search>
       <last-offset />
-      <last-pattern>reason</last-pattern>
+      <last-pattern encoding="base64">XDxlcnJvclw+</last-pattern>
       <last-replace>detail</last-replace>
       <last-substitute>reason</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -454,6 +455,7 @@
         <entry>error creating new index</entry>
         <entry>print</entry>
         <entry>reason</entry>
+        <entry encoding="base64">XDxlcnJvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>27,34d</entry>
