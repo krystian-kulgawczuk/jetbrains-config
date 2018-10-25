@@ -21,11 +21,18 @@
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/strategy.txt" timestamp="1540305478263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/README.md" timestamp="1540461752845">
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="17" column="61" />
-        <mark key="^" line="17" column="61" />
-        <mark key="." line="17" column="61" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/README.md" timestamp="1540466937447">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/Makefile" timestamp="1540467735839">
+        <mark key="i" line="0" column="0" />
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1540201676162">
         <mark key="[" line="18" column="0" />
@@ -57,7 +64,7 @@
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/new-index.json" timestamp="1540461740695">
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/new-index.json" timestamp="1540465635742">
         <mark key="[" line="28" column="9" />
         <mark key="]" line="29" column="2" />
         <mark key="^" line="29" column="2" />
@@ -73,10 +80,9 @@
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/strategy.json" timestamp="1540462237161">
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/strategy.json" timestamp="1540466879484">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="20" />
-        <mark key="^" line="2" column="21" />
         <mark key="." line="3" column="20" />
       </file>
       <file name="/" timestamp="1540410417423">
@@ -143,7 +149,7 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
-      <file name="/Python Console" timestamp="1540391991104">
+      <file name="/Python Console" timestamp="1540466637168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
@@ -170,9 +176,9 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540461340769">
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540466091710">
         <mark key="a" line="34" column="75" />
-        <mark key="'" line="158" column="39" />
+        <mark key="'" line="5" column="0" />
         <mark key="[" line="105" column="50" />
         <mark key="]" line="106" column="38" />
         <mark key="." line="106" column="38" />
@@ -184,11 +190,11 @@
         <mark key="^" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" timestamp="1540462216431">
-        <mark key="[" line="33" column="46" />
-        <mark key="]" line="34" column="19" />
-        <mark key="^" line="34" column="19" />
-        <mark key="." line="34" column="19" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" timestamp="1540467953896">
+        <mark key="'" line="31" column="29" />
+        <mark key="[" line="48" column="31" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539866467898">
         <mark key="[" line="2" column="33" />
@@ -246,7 +252,7 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/old-index.json" timestamp="1540375722486">
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/old-index.json" timestamp="1540465656720">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="4" />
         <mark key="^" line="14" column="4" />
@@ -266,10 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="52" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/model/impl/KeepaliveImpl.java" />
-      <jump line="55" column="34" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
-      <jump line="78" column="29" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
-      <jump line="68" column="29" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
       <jump line="286" column="19" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
       <jump line="128" column="21" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
       <jump line="178" column="0" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
@@ -366,13 +368,17 @@
       <jump line="71" column="16" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="37" column="12" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="158" column="39" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
+      <jump line="99" column="25" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" />
+      <jump line="100" column="4" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" />
+      <jump line="31" column="29" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ01pZ3JhdGlvbiBzdWNjZXNzZnVsJykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>failed</text>
       </register>
       <register name="/" type="4">
         <text>reason</text>
@@ -381,31 +387,31 @@
         <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0WydhY2tub3dsZWRnZWQnXToKICAgICAgICAgICAgcmVzdWx0ID0geydhY2tub3dsZWRnZWQnOiBGYWxzZSwgJ2Rlc2NyaXB0aW9uJzogJ0ZhaWxlZCBkdXJpbmcgaW5kZXggY3JlYXRpb24nfSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1pZ3JhdGlvbnNfZGlyID0gZ2V0X21pZ3JhdGlvbnNfZGlyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ01pZ3JhdGlvbiBzdWNjZXNzZnVsJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1pZ3JhdGlvbnNfZGlyID0gZ2V0X21pZ3JhdGlvbnNfZGlyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ01pZ3JhdGlvbiBmYWlsZWQnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ01pZ3JhdGlvbiBmYWlsZWQnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcHBpbmdfanNvbiA9IGxvYWRfbWFwcGluZyhtaWdyYXRpb25fZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzdWx0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0cmF0ZWd5X2pzb24gPSBsb2FkX3N0cmF0ZWd5KG1pZ3JhdGlvbl9kaXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnU3RhcnRpbmcgbWlncmF0aW9uOiAnLCBzdHIobWlncmF0aW9uX25hbWUpKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIG1pZ3JhdGlvbnNfZGlyID0gZ2V0X21pZ3JhdGlvbnNfZGlyKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgIG1pZ3JhdGlvbnNfZGlyID0gZ2V0X21pZ3JhdGlvbnNfZGlyKCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0cmF0ZWd5X2pzb24gPSBsb2FkX3N0cmF0ZWd5KG1pZ3JhdGlvbl9kaXIpCg==</text>
+        <text encoding="base64">ICAgIG1hcHBpbmdfanNvbiA9IGxvYWRfbWFwcGluZyhtaWdyYXRpb25fZGlyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/reason/detail/</text>
