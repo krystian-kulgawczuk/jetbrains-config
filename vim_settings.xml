@@ -9,7 +9,7 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1540299806659">
+      <file name="/a.dummy" timestamp="1540458972730">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-securing-web/demo/src/main/java/com/example/demo/TestController.java" timestamp="1540024789079">
@@ -167,13 +167,12 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540455940312">
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540458489931">
         <mark key="a" line="34" column="75" />
-        <mark key="'" line="106" column="52" />
-        <mark key="[" line="168" column="48" />
-        <mark key="]" line="168" column="53" />
-        <mark key="." line="168" column="53" />
-        <mark key="^" line="168" column="53" />
+        <mark key="'" line="37" column="12" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539247993070">
         <mark key="[" line="59" column="0" />
@@ -257,8 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="96" filename="$USER_HOME$/Projects/spring-cassandra-showcase-application/api/src/main/java/io/smartcat/spring/cassandra/showcase/adapter/cassandra/CassandraConfiguration.java" />
-      <jump line="20" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="35" column="55" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/view/keepalive/controller/KeepaliveController.java" />
       <jump line="37" column="52" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/model/impl/KeepaliveImpl.java" />
       <jump line="55" column="34" filename="$USER_HOME$/Projects/orbital-svc-agent-regular/pom.xml" />
@@ -357,13 +354,15 @@
       <jump line="147" column="8" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="9" column="18" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="105" column="52" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
+      <jump line="71" column="16" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
+      <jump line="37" column="12" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX21ha2Vfcm9sbGJhY2soZXMsICdkZWxldGUgb2xkIGluZGV4JykK</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>realias</text>
       </register>
       <register name="/" type="4">
         <text>reason</text>
@@ -372,31 +371,31 @@
         <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0WydhY2tub3dsZWRnZWQnXToKICAgICAgICAgICAgcmVzdWx0ID0geydhY2tub3dsZWRnZWQnOiBGYWxzZSwgJ2Rlc2NyaXB0aW9uJzogJ0ZhaWxlZCBkdXJpbmcgaW5kZXggY3JlYXRpb24nfSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX21ha2Vfcm9sbGJhY2soZXMsICdkZWxldGUgb2xkIGluZGV4JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl9tYWtlX3JvbGxiYWNrKCd2ZXJzaW9uX2VudHJ5JykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gZXM6IGNvbm5lY3Rpb24gaW5zdGFuY2UK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHN0ZXAgPT0gJ2RlbGV0ZSBvbGQgaW5kZXgnOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygnRXJyb3IgZHVyaW5nIHJlaW5kZXgnLCByZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB7J2Vycm9yJzogJ3JvbGxiYWNrIHJlYWxpYXMnfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygnRXJyb3IgZHVyaW5nIGNyZWF0aW5nIG5ldyBpbmRleDogJywgcmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignUm9sbGJhY2sgZmFpbGVkIG9uIHZlcnNpb24gZW50cnknKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoJ3N0YXJ0IG1pZ3JhdGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGVsYXN0aWNzZWFyY2guZXhjZXB0aW9ucy5FbGFzdGljc2VhcmNoRXhjZXB0aW9uOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuSU5GTykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVzLmluZGljZXMuZGVsZXRlKGluZGV4PXNlbGYudG9faW5kZXgsIGlnbm9yZT1bNDAwLCA0MDRdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/reason/detail/</text>
