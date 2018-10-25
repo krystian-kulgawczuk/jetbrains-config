@@ -197,11 +197,11 @@
         <mark key="." line="45" column="37" />
         <mark key="^" line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1539866467898">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-        <mark key="^" line="4" column="21" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1540475644565">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/controller/CodeRegistrationController.java" timestamp="1540389832791">
         <mark key="'" line="27" column="25" />
@@ -211,6 +211,9 @@
         <mark key="]" line="29" column="37" />
         <mark key="." line="29" column="37" />
         <mark key="^" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" timestamp="1540475618311">
+        <mark key="'" line="137" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1540461075048">
         <mark key="[" line="0" column="0" />
@@ -273,37 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
-      <jump line="67" column="36" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
-      <jump line="21" column="29" filename="$USER_HOME$/Projects/cassandra-migration-example/src/main/java/com/acaisoft/cassandramigrationexample/cassandra/CassandraConfiguration.java" />
-      <jump line="58" column="24" filename="$USER_HOME$/Projects/svc-authentication/pom.xml" />
-      <jump line="9" column="53" filename="$USER_HOME$/Projects/svc-authentication/src/main/java/com/quest/orbital/registration/CassandraConfig.java" />
-      <jump line="47" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" />
-      <jump line="617" column="46" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
-      <jump line="119" column="34" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
-      <jump line="98" column="41" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
-      <jump line="108" column="34" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/cassandra.yaml" />
-      <jump line="21" column="1" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="2" column="4" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="266" column="11" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="171" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="85" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="14" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="15" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="228" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="229" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="276" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="277" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="316" column="37" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="317" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="46" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="47" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="175" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="176" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="179" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="181" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="182" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="185" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="186" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="200" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
@@ -373,58 +345,89 @@
       <jump line="31" column="29" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" />
       <jump line="87" column="36" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="132" column="34" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
+      <jump line="1" column="53" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="2" column="47" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="3" column="70" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="8" column="41" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="12" column="30" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="13" column="55" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="14" column="78" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="18" column="67" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="26" column="43" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="27" column="56" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="36" column="42" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="47" column="68" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="51" column="42" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="62" column="68" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="65" column="42" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="76" column="68" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="81" column="38" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="82" column="83" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="85" column="64" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="86" column="52" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="92" column="74" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="101" column="37" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="102" column="78" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="111" column="36" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="112" column="84" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="115" column="69" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="116" column="67" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="117" column="52" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="118" column="61" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="130" column="33" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
+      <jump line="137" column="46" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcnJvclw+</text>
+        <text>elastic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0WydhY2tub3dsZWRnZWQnXToKICAgICAgICAgICAgcmVzdWx0ID0geydhY2tub3dsZWRnZWQnOiBGYWxzZSwgJ2Rlc2NyaXB0aW9uJzogJ0ZhaWxlZCBkdXJpbmcgaW5kZXggY3JlYXRpb24nfSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bnVtX29mX3ByaXZhdGVfZWxhc3RpY19hZ2VudHMgPSAiMSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/reason/detail/</text>
+        <text>%s/elastic/gateway/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcnJvclw+</last-search>
+      <last-search>elastic</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcnJvclw+</last-pattern>
-      <last-replace>detail</last-replace>
-      <last-substitute>reason</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>elastic</last-pattern>
+      <last-replace>gateway</last-replace>
+      <last-substitute>elastic</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -456,6 +459,8 @@
         <entry>print</entry>
         <entry>reason</entry>
         <entry encoding="base64">XDxlcnJvclw+</entry>
+        <entry>gateway</entry>
+        <entry>elastic</entry>
       </history-search>
       <history-cmd>
         <entry>27,34d</entry>
@@ -484,6 +489,7 @@
         <entry>%s/elasticsearch/es/g</entry>
         <entry>%s/cassandra/es/g</entry>
         <entry>%s/reason/detail/</entry>
+        <entry>%s/elastic/gateway/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
