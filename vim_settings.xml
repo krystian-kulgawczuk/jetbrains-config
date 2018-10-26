@@ -286,12 +286,12 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="20" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1540560549963">
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1540562628783">
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="47" column="16" />
-        <mark key="]" line="47" column="16" />
-        <mark key="." line="47" column="16" />
-        <mark key="^" line="6" column="22" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="412" />
+        <mark key="." line="2" column="412" />
+        <mark key="^" line="2" column="412" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/resources/application.yml" timestamp="1540389721697" />
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/test/java/com/quest/orbital/gateway/SvcGatewayApplicationTests.java" timestamp="1540548204036" />
@@ -440,10 +440,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw/XrvfIGH64TuGbZ4pKGX/Fppa+XPWMylSiElw6y45NuKuh0351SZE29C/PcRjTIkrjrNYHO1SHgiqgijiZQZH2+sOCFb7BRY2tglBv621f+L0qTorl7IkEHCU9am4NwIN1VDCarLGyVI3aIWjONVjmCFF1SsBNj13sHVSpy8tfUsX41msiR7WQ76/EFXxJRNJ/G4cliARz8yy3hgbmc4W+eO9K6JjOaQRnK0QGp5J9IL8piqEjeawlBwCKXp5MOq7WOMBUzjlEP8Tr5E845B7h5F7sGjLGa9tbGAlDCHrZPF0qNXVm00aLsqYDzxlTe8YzWjPxsezTIQgPYtGP8T devops@acaisoft.com</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw/XrvfIGH64TuGbZ4pKGX/Fppa+XPWMylSiElw6y45NuKuh0351SZE29C/PcRjTIkrjrNYHO1SHgiqgijiZQZH2+sOCFb7BRY2tglBv621f+L0qTorl7IkEHCU9am4NwIN1VDCarLGyVI3aIWjONVjmCFF1SsBNj13sHVSpy8tfUsX41msiR7WQ76/EFXxJRNJ/G4cliARz8yy3hgbmc4W+eO9K6JjOaQRnK0QGp5J9IL8piqEjeawlBwCKXp5MOq7WOMBUzjlEP8Tr5E845B7h5F7sGjLGa9tbGAlDCHrZPF0qNXVm00aLsqYDzxlTe8YzWjPxsezTIQgPYtGP8T devops@acaisoft.com</text>
       </register>
       <register name="/" type="4">
         <text>realease</text>
