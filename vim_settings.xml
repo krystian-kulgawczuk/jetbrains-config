@@ -206,7 +206,7 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/mesos_node/README.md" timestamp="1540558221208" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/mesos_node/README.md" timestamp="1540560474953" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540474546110">
         <mark key="a" line="38" column="75" />
         <mark key="'" line="136" column="34" />
@@ -233,10 +233,10 @@
         <mark key="." line="45" column="37" />
         <mark key="^" line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1540475644565">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1540560495190">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
         <mark key="^" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" timestamp="1539956315417">
@@ -286,12 +286,12 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="20" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1540544457785">
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1540560549963">
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="72" column="31" />
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="47" column="16" />
+        <mark key="." line="47" column="16" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/resources/application.yml" timestamp="1540389721697" />
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/test/java/com/quest/orbital/gateway/SvcGatewayApplicationTests.java" timestamp="1540548204036" />
@@ -439,11 +439,11 @@
       <jump line="20" column="31" filename="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/config/CassandraConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8L3Jlc291cmNlcz4K</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>realease</text>
