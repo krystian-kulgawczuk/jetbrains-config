@@ -303,11 +303,12 @@
         <mark key="^" line="72" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/resources/application.yml" timestamp="1540389721697" />
-      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/pom.xml" timestamp="1540547000565">
-        <mark key="[" line="87" column="41" />
-        <mark key="]" line="90" column="43" />
-        <mark key="^" line="90" column="43" />
-        <mark key="." line="90" column="43" />
+      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/test/java/com/quest/orbital/gateway/SvcGatewayApplicationTests.java" timestamp="1540548204036" />
+      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/pom.xml" timestamp="1540550629561">
+        <mark key="[" line="105" column="65" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="83" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-ui-qs-501/web/src/app/layout/navbar/navbar.html" timestamp="1539607796741">
         <mark key="[" line="8" column="27" />
@@ -447,8 +448,8 @@
       <jump line="20" column="31" filename="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/config/CassandraConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQk8L3Jlc291cmNlcz4K</text>
       </register>
       <register name="-" type="4">
         <text>localhost</text>
@@ -460,63 +461,31 @@
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaQo=</text>
+        <text encoding="base64">CQk8L3Jlc291cmNlcz4K</text>
       </register>
-      <register name="2" type="4">
-        <text>CREATE KEYSPACE IF NOT EXISTS gateway  WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : 3 };
-
-USE gateway;
-
-CREATE TABLE asset_registration_token (
-    asset_token text,
-    subdomain text,
-    used boolean,
-    PRIMARY KEY (asset_token)
-);
-
-CREATE TABLE access_token(
-    asset_id text,
-    key_id text,
-    subdomain text,
-    private_key text,
-    public_key text,
-    asset_type text,
-    PRIMARY KEY((asset_id),key_id)
-);
-
-CREATE TABLE registered_asset(
-    bucket int,
-    asset_id text,
-    PRIMARY KEY((bucket),asset_id)
-);
-
-# Table with 5 min TTL #
-CREATE TABLE access_message_cache (
-    asset_id text,
-    nonce text,
-    PRIMARY KEY ((asset_id), nonce)
-) WITH default_time_to_live = 300;</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJPHJlc291cmNlPjwvcmVzb3VyY2U+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8cmVzb3VyY2VzPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBbeF0gSW50ZWdyYXRpb24gVGVzdCBzaG91bGQgYmUgcnVuIChtdm4gaW50ZWdyYXRpb24tdGVzdCkgd2hlbiBhcHBsaWNhdGlvbiBpcyBydW5uaW5nLiBEZWZhdWx0IHJ1bm5pbmcgY29uZmlndXJhdGlvbiBpcyBzZXQgZm9yIGh0dHA6Ly9sb2NhbGhvc3QvODA4MCBpZiB5b3UgbmVlZCBvdGhlciBjb25maWd1cmUgYWRkaXRpb25hbCBwYXJhbXMgYXMgZXhhbXBsZTogKiAtRHNlcnZlci5wb3J0PTkwMDAgKiAtRHNlcnZlci5ob3N0PWh0dHA6Ly9leGFtcGxlLmNvbSAqIC1Ec2VydmVyLmJhc2U9YmFzZS8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBbeF0gUnVuIG9uIGRlZmF1bHQgU3ByaW5nIEJvb3QgVG9tY2F0IDogbXZuIHNwcmluZy1ib290OnJ1bgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnZlcmlmeTwvZ29hbD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBbeF0gQnVpbGQgd2l0aCBNYXZlbiA6IG12biBjbGVhbiBpbnN0YWxsIC1Ec2tpcElUcyAqIFRoaXMgbmVlZCBjYXNzYW5kcmEgZGIgd29ya2luZyB3aXRoIHNjaGVtYSByZXNvdXJjZXMvZGIvc2NoZW1hLnNxbCAqIEFsc28gcHJvcGVydGllcyBmb3IgY2Fzc2FuZHJhIHNob3VsZCBiZSBzZXQgOiAqIGNhc3NhbmRyYS5wb3J0PTkwNDIgKiBjYXNzYW5kcmEua2V5c3BhY2U9Z2F0ZXdheQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmludGVncmF0aW9uLXRlc3Q8L2dvYWw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgo=</text>
       </register>
       <register name=":" type="4">
         <text>43,46y</text>
