@@ -70,15 +70,17 @@
         <mark key="^" line="29" column="2" />
         <mark key="." line="29" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/filter/VerifyKeyFilter.java" timestamp="1540390053800">
-        <mark key="'" line="59" column="61" />
-      </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/test/java/com/quest/orbital/gateway/controller/RegisterAssetFlowITCase.java" timestamp="1540389893514" />
       <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="6" column="39" />
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/test.rego" timestamp="1540125387833">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/strategy.json" timestamp="1540466879484">
         <mark key="[" line="3" column="19" />
@@ -87,9 +89,6 @@
       </file>
       <file name="/" timestamp="1540410417423">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-mail-service/pom.xml" timestamp="1540289019721">
-        <mark key="'" line="3" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaDataRequest.java" timestamp="1539956993195">
         <mark key="[" line="0" column="13" />
@@ -129,6 +128,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/opa-example/pom.xml" timestamp="1539944019737">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/resources/application.properties" timestamp="1540390732948" />
       <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/scripts/replace_url_jenkins.sh" timestamp="1539156438044">
@@ -177,6 +181,16 @@
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/pom.xml" timestamp="1540023216128">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPADataResponse.java" timestamp="1539957028117">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Jenkinsfile.groovy" timestamp="1540212158290">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="74" column="0" />
@@ -198,6 +212,11 @@
         <mark key="." line="116" column="40" />
         <mark key="^" line="116" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/README.md" timestamp="1540540623667">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539247993070">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="56" column="0" />
@@ -216,9 +235,6 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/controller/CodeRegistrationController.java" timestamp="1540389832791">
-        <mark key="'" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" timestamp="1539956315417">
         <mark key="[" line="29" column="37" />
@@ -413,8 +429,8 @@
       <jump line="250" column="17" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Elastic</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBbeF0gSW50ZWdyYXRpb24gVGVzdCBzaG91bGQgYmUgcnVuIChtdm4gaW50ZWdyYXRpb24tdGVzdCkgd2hlbiBhcHBsaWNhdGlvbiBpcyBydW5uaW5nLiBEZWZhdWx0IHJ1bm5pbmcgY29uZmlndXJhdGlvbiBpcyBzZXQgZm9yIGh0dHA6Ly9sb2NhbGhvc3QvODA4MCBpZiB5b3UgbmVlZCBvdGhlciBjb25maWd1cmUgYWRkaXRpb25hbCBwYXJhbXMgYXMgZXhhbXBsZTogKiAtRHNlcnZlci5wb3J0PTkwMDAgKiAtRHNlcnZlci5ob3N0PWh0dHA6Ly9leGFtcGxlLmNvbSAqIC1Ec2VydmVyLmJhc2U9YmFzZS8K</text>
       </register>
       <register name="-" type="4">
         <text>Elastic</text>
@@ -426,31 +442,31 @@
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnVtX29mX3ByaXZhdGVfZWxhc3RpY19hZ2VudHMgPSAiMSIK</text>
+        <text encoding="base64">LSBbeF0gSW50ZWdyYXRpb24gVGVzdCBzaG91bGQgYmUgcnVuIChtdm4gaW50ZWdyYXRpb24tdGVzdCkgd2hlbiBhcHBsaWNhdGlvbiBpcyBydW5uaW5nLiBEZWZhdWx0IHJ1bm5pbmcgY29uZmlndXJhdGlvbiBpcyBzZXQgZm9yIGh0dHA6Ly9sb2NhbGhvc3QvODA4MCBpZiB5b3UgbmVlZCBvdGhlciBjb25maWd1cmUgYWRkaXRpb25hbCBwYXJhbXMgYXMgZXhhbXBsZTogKiAtRHNlcnZlci5wb3J0PTkwMDAgKiAtRHNlcnZlci5ob3N0PWh0dHA6Ly9leGFtcGxlLmNvbSAqIC1Ec2VydmVyLmJhc2U9YmFzZS8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">LSBbeF0gUnVuIG9uIGRlZmF1bHQgU3ByaW5nIEJvb3QgVG9tY2F0IDogbXZuIHNwcmluZy1ib290OnJ1bgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">LSBbeF0gQnVpbGQgd2l0aCBNYXZlbiA6IG12biBjbGVhbiBpbnN0YWxsIC1Ec2tpcElUcyAqIFRoaXMgbmVlZCBjYXNzYW5kcmEgZGIgd29ya2luZyB3aXRoIHNjaGVtYSByZXNvdXJjZXMvZGIvc2NoZW1hLnNxbCAqIEFsc28gcHJvcGVydGllcyBmb3IgY2Fzc2FuZHJhIHNob3VsZCBiZSBzZXQgOiAqIGNhc3NhbmRyYS5wb3J0PTkwNDIgKiBjYXNzYW5kcmEua2V5c3BhY2U9Z2F0ZXdheQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
+        <text encoding="base64">QnVpbGQgJiBSdW4gSW5zdHJ1Y3Rpb25zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
+        <text encoding="base64">bnVtX29mX3ByaXZhdGVfZWxhc3RpY19hZ2VudHMgPSAiMSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>43,46y</text>
