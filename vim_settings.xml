@@ -27,12 +27,10 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/Makefile" timestamp="1540467735839">
-        <mark key="i" line="0" column="0" />
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="35" />
-        <mark key="." line="1" column="20" />
+      <file name="$USER_HOME$/tmp/letsencrypt-dcos/letsencrypt-dcos.json" timestamp="1540761699958">
+        <mark key="[" line="22" column="49" />
+        <mark key="]" line="22" column="50" />
+        <mark key="." line="22" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1540201676162">
         <mark key="[" line="18" column="0" />
@@ -51,6 +49,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="12" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540387910806">
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/qs-ui/web/node_modules/engine.io/lib/transports/polling-xhr.js" timestamp="1540367765488" />
       <file name="$USER_HOME$/Projects/svc-authentication/Jenkinsfile.groovy" timestamp="1539081539581">
@@ -82,6 +85,11 @@
         <mark key="[" line="4" column="21" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/strategy.json" timestamp="1540466879484">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
       </file>
       <file name="/" timestamp="1540410417423">
         <mark key="[" line="0" column="0" />
@@ -183,6 +191,12 @@
         <mark key="^" line="24" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-cassandra/2.0.11.RELEASE/spring-data-cassandra-2.0.11.RELEASE.jar!/org/springframework/data/cassandra/config/AbstractClusterConfiguration.class" timestamp="1540545245917" />
+      <file name="$USER_HOME$/tmp/letsencrypt-dcos/run.sh" timestamp="1540761480147">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="46" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/pom.xml" timestamp="1540023216128">
         <mark key="[" line="36" column="21" />
         <mark key="]" line="41" column="0" />
@@ -207,14 +221,6 @@
         <mark key="^" line="5" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/mesos_node/README.md" timestamp="1540560474953" />
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" timestamp="1540474546110">
-        <mark key="a" line="38" column="75" />
-        <mark key="'" line="136" column="34" />
-        <mark key="[" line="116" column="39" />
-        <mark key="]" line="116" column="40" />
-        <mark key="." line="116" column="40" />
-        <mark key="^" line="116" column="40" />
-      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/README.md" timestamp="1540540631548">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -267,6 +273,12 @@
         <mark key="]" line="30" column="33" />
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
+      </file>
+      <file name="$USER_HOME$/tmp/letsencrypt-dcos/Dockerfile" timestamp="1540761437905">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001/strategy.json" timestamp="1540474608758">
         <mark key="[" line="3" column="20" />
@@ -439,11 +451,11 @@
       <jump line="20" column="31" filename="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/config/CassandraConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw/XrvfIGH64TuGbZ4pKGX/Fppa+XPWMylSiElw6y45NuKuh0351SZE29C/PcRjTIkrjrNYHO1SHgiqgijiZQZH2+sOCFb7BRY2tglBv621f+L0qTorl7IkEHCU9am4NwIN1VDCarLGyVI3aIWjONVjmCFF1SsBNj13sHVSpy8tfUsX41msiR7WQ76/EFXxJRNJ/G4cliARz8yy3hgbmc4W+eO9K6JjOaQRnK0QGp5J9IL8piqEjeawlBwCKXp5MOq7WOMBUzjlEP8Tr5E845B7h5F7sGjLGa9tbGAlDCHrZPF0qNXVm00aLsqYDzxlTe8YzWjPxsezTIQgPYtGP8T devops@acaisoft.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtLXN0YW5kYWxvbmUtc3VwcG9ydGVkLWNoYWxsZW5nZXMgaHR0cC0wMSAkRE9NQUlOX0FSR1MgXAo=</text>
       </register>
       <register name="-" type="4">
-        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCw/XrvfIGH64TuGbZ4pKGX/Fppa+XPWMylSiElw6y45NuKuh0351SZE29C/PcRjTIkrjrNYHO1SHgiqgijiZQZH2+sOCFb7BRY2tglBv621f+L0qTorl7IkEHCU9am4NwIN1VDCarLGyVI3aIWjONVjmCFF1SsBNj13sHVSpy8tfUsX41msiR7WQ76/EFXxJRNJ/G4cliARz8yy3hgbmc4W+eO9K6JjOaQRnK0QGp5J9IL8piqEjeawlBwCKXp5MOq7WOMBUzjlEP8Tr5E845B7h5F7sGjLGa9tbGAlDCHrZPF0qNXVm00aLsqYDzxlTe8YzWjPxsezTIQgPYtGP8T devops@acaisoft.com</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>realease</text>
@@ -452,31 +464,31 @@
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8L3Jlc291cmNlcz4K</text>
+        <text encoding="base64">ICAtLXN0YW5kYWxvbmUtc3VwcG9ydGVkLWNoYWxsZW5nZXMgaHR0cC0wMSAkRE9NQUlOX0FSR1MgXAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPHJlc291cmNlPjwvcmVzb3VyY2U+Cg==</text>
+        <text encoding="base64">CQk8L3Jlc291cmNlcz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8cmVzb3VyY2VzPgo=</text>
+        <text encoding="base64">CQkJPHJlc291cmNlPjwvcmVzb3VyY2U+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4K</text>
+        <text encoding="base64">CQk8cmVzb3VyY2VzPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnZlcmlmeTwvZ29hbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmludGVncmF0aW9uLXRlc3Q8L2dvYWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnZlcmlmeTwvZ29hbD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmludGVncmF0aW9uLXRlc3Q8L2dvYWw+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>43,46y</text>
