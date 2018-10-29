@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/tmp/letsencrypt-marathon-lb/letsencrypt-marathon-lb-http.json" timestamp="1540804570016">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="82" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/tmp/letsencrypt-marathon-lb/letsencrypt-marathon-lb-http.json" timestamp="1540807520626">
+        <mark key="[" line="42" column="3" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/HelloController.java" timestamp="1540043985502">
         <mark key="[" line="11" column="5" />
@@ -132,11 +132,11 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/letsencrypt-marathon-lb/letsencrypt-marathon-lb-dns.json" timestamp="1540804585687">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+      <file name="$USER_HOME$/tmp/letsencrypt-marathon-lb/letsencrypt-marathon-lb-dns.json" timestamp="1540807267257">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="26" />
         <mark key="^" line="32" column="11" />
-        <mark key="." line="34" column="0" />
+        <mark key="." line="33" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/opa-example/src/main/java/com/example/opaexample/TestController.java" timestamp="1539944072303">
         <mark key="[" line="3" column="0" />
@@ -434,11 +434,11 @@
       <jump line="20" column="31" filename="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/config/CassandraConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJBV1NfSE9TVEVEX1pPTkVfSUQiOiAiVE9ETyIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>HAPROXY_0_VHOST</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>role</text>
@@ -447,31 +447,31 @@
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJBV1NfSE9TVEVEX1pPTkVfSUQiOiAiVE9ETyIsCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJBV1NfUkVHSU9OIjogIlRPRE8iLAo=</text>
+        <text encoding="base64">ICAgICJtYXhpbXVtT3ZlckNhcGFjaXR5IjogMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJBV1NfU0VDUkVUX0FDQ0VTU19LRVkiOiAiVE9ETyIsCg==</text>
+        <text encoding="base64">ICAgICJtaW5pbXVtSGVhbHRoQ2FwYWNpdHkiOiAwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJBV1NfQUNDRVNTX0tFWV9JRCI6ICJUT0RPIiwK</text>
+        <text encoding="base64">ICAidXBncmFkZVN0cmF0ZWd5Ijogewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJET01BSU5TIjogImV4YW1wbGUuY29tLCouZXhhbXBsZS5jb20iLAo=</text>
+        <text encoding="base64">ICAgICJBV1NfUkVHSU9OIjogIlRPRE8iLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJIQVBST1hZXzBfVkhPU1QiOiAib3JiaXRhbC11cy1kZXYtdGZiZjExLW1hc3Rlci0xLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iLAo=</text>
+        <text encoding="base64">ICAgICJBV1NfU0VDUkVUX0FDQ0VTU19LRVkiOiAiVE9ETyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJMRVRTRU5DUllQVF9VUkwiOiAiaHR0cHM6Ly9hY21lLXN0YWdpbmctdjAyLmFwaS5sZXRzZW5jcnlwdC5vcmcvZGlyZWN0b3J5Igo=</text>
+        <text encoding="base64">ICAgICJBV1NfQUNDRVNTX0tFWV9JRCI6ICJUT0RPIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtLXN0YW5kYWxvbmUtc3VwcG9ydGVkLWNoYWxsZW5nZXMgaHR0cC0wMSAkRE9NQUlOX0FSR1MgXAo=</text>
+        <text encoding="base64">ICAgICJEQ09TX1NFUlZJQ0VfQUNDT1VOVF9DUkVERU5USUFMIjogeyAic2VjcmV0IjogInNlcnZpY2VDcmVkZW50aWFsIiB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8L3Jlc291cmNlcz4K</text>
+        <text encoding="base64">ICAgICJBV1NfSE9TVEVEX1pPTkVfSUQiOiAiVE9ETyIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>43,46y</text>
