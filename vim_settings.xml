@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/tmp/letsencrypt-marathon-lb/letsencrypt-marathon-lb-http.json" timestamp="1540804570016">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="82" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/HelloController.java" timestamp="1540043985502">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="8" column="22" />
@@ -127,6 +132,12 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/tmp/letsencrypt-marathon-lb/letsencrypt-marathon-lb-dns.json" timestamp="1540804585687">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/opa-example/src/main/java/com/example/opaexample/TestController.java" timestamp="1539944072303">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -183,13 +194,6 @@
         <mark key="." line="60" column="41" />
         <mark key="^" line="60" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" timestamp="1540132739834">
-        <mark key="'" line="24" column="31" />
-        <mark key="[" line="24" column="45" />
-        <mark key="]" line="24" column="45" />
-        <mark key="." line="24" column="45" />
-        <mark key="^" line="24" column="44" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-cassandra/2.0.11.RELEASE/spring-data-cassandra-2.0.11.RELEASE.jar!/org/springframework/data/cassandra/config/AbstractClusterConfiguration.class" timestamp="1540545245917" />
       <file name="$USER_HOME$/tmp/letsencrypt-dcos/run.sh" timestamp="1540761480147">
         <mark key="[" line="26" column="0" />
@@ -206,13 +210,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/Jenkinsfile.groovy" timestamp="1540212158290">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="75" column="16" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migrate.sh" timestamp="1540284815229">
         <mark key="[" line="5" column="51" />
@@ -250,13 +247,6 @@
         <mark key="]" line="29" column="37" />
         <mark key="." line="29" column="37" />
         <mark key="^" line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" timestamp="1540477638620">
-        <mark key="'" line="250" column="17" />
-        <mark key="[" line="274" column="16" />
-        <mark key="]" line="274" column="22" />
-        <mark key="." line="274" column="22" />
-        <mark key="^" line="274" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1540545973933">
         <mark key="[" line="0" column="0" />
@@ -324,13 +314,6 @@
         <mark key="]" line="14" column="4" />
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1540209575983">
-        <mark key="'" line="2" column="7" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="84" column="16" />
-        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/src/main/resources/application.properties" timestamp="1539699964054">
         <mark key="[" line="5" column="47" />
@@ -452,52 +435,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAtLXN0YW5kYWxvbmUtc3VwcG9ydGVkLWNoYWxsZW5nZXMgaHR0cC0wMSAkRE9NQUlOX0FSR1MgXAo=</text>
+        <text encoding="base64">ICAgICJBV1NfSE9TVEVEX1pPTkVfSUQiOiAiVE9ETyIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>HAPROXY_0_VHOST</text>
       </register>
       <register name="/" type="4">
-        <text>realease</text>
+        <text>role</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtLXN0YW5kYWxvbmUtc3VwcG9ydGVkLWNoYWxsZW5nZXMgaHR0cC0wMSAkRE9NQUlOX0FSR1MgXAo=</text>
+        <text encoding="base64">ICAgICJBV1NfSE9TVEVEX1pPTkVfSUQiOiAiVE9ETyIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8L3Jlc291cmNlcz4K</text>
+        <text encoding="base64">ICAgICJBV1NfUkVHSU9OIjogIlRPRE8iLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPHJlc291cmNlPjwvcmVzb3VyY2U+Cg==</text>
+        <text encoding="base64">ICAgICJBV1NfU0VDUkVUX0FDQ0VTU19LRVkiOiAiVE9ETyIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8cmVzb3VyY2VzPgo=</text>
+        <text encoding="base64">ICAgICJBV1NfQUNDRVNTX0tFWV9JRCI6ICJUT0RPIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4K</text>
+        <text encoding="base64">ICAgICJET01BSU5TIjogImV4YW1wbGUuY29tLCouZXhhbXBsZS5jb20iLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
+        <text encoding="base64">ICAgICJIQVBST1hZXzBfVkhPU1QiOiAib3JiaXRhbC11cy1kZXYtdGZiZjExLW1hc3Rlci0xLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4K</text>
+        <text encoding="base64">ICAgICJMRVRTRU5DUllQVF9VUkwiOiAiaHR0cHM6Ly9hY21lLXN0YWdpbmctdjAyLmFwaS5sZXRzZW5jcnlwdC5vcmcvZGlyZWN0b3J5Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnZlcmlmeTwvZ29hbD4K</text>
+        <text encoding="base64">ICAtLXN0YW5kYWxvbmUtc3VwcG9ydGVkLWNoYWxsZW5nZXMgaHR0cC0wMSAkRE9NQUlOX0FSR1MgXAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmludGVncmF0aW9uLXRlc3Q8L2dvYWw+Cg==</text>
+        <text encoding="base64">CQk8L3Jlc291cmNlcz4K</text>
       </register>
       <register name=":" type="4">
         <text>43,46y</text>
       </register>
     </registers>
     <search>
-      <last-search>realease</last-search>
+      <last-search>role</last-search>
       <last-offset />
-      <last-pattern>realease</last-pattern>
+      <last-pattern>role</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -536,6 +519,7 @@
         <entry>elastic</entry>
         <entry>Private</entry>
         <entry>realease</entry>
+        <entry>role</entry>
       </history-search>
       <history-cmd>
         <entry>27,34d</entry>
