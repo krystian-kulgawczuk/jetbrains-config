@@ -130,6 +130,13 @@
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration.py" timestamp="1540299750068">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" timestamp="1540902377489">
+        <mark key="'" line="85" column="8" />
+        <mark key="[" line="18" column="72" />
+        <mark key="]" line="18" column="72" />
+        <mark key="^" line="17" column="57" />
+        <mark key="." line="18" column="72" />
+      </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -158,6 +165,12 @@
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" timestamp="1540902175638">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/scripts/replace_url_jenkins.sh" timestamp="1539156438044">
         <mark key="[" line="3" column="0" />
@@ -336,11 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="22" column="8" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" />
-      <jump line="20" column="5" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
-      <jump line="26" column="42" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
-      <jump line="7" column="57" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
       <jump line="8" column="43" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
       <jump line="24" column="60" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
       <jump line="25" column="31" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
@@ -436,13 +444,18 @@
       <jump line="50" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
       <jump line="48" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
       <jump line="63" column="45" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
+      <jump line="16" column="20" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="55" column="13" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="17" column="19" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="85" column="8" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>get_depl</text>
