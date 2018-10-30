@@ -35,10 +35,11 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/tmp/letsencrypt-dcos/letsencrypt-dcos.json" timestamp="1540823808951">
-        <mark key="[" line="22" column="49" />
-        <mark key="]" line="22" column="50" />
-        <mark key="." line="22" column="50" />
+      <file name="$USER_HOME$/tmp/letsencrypt-dcos/letsencrypt-dcos.json" timestamp="1540907615004">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1540201676162">
         <mark key="[" line="18" column="0" />
@@ -57,11 +58,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="12" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540387910806">
-        <mark key="[" line="50" column="48" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/qs-ui/web/node_modules/engine.io/lib/transports/polling-xhr.js" timestamp="1540367765488" />
       <file name="$USER_HOME$/tmp/letsencrypt-marathon-lb/app/cert.py" timestamp="1540809819234" />
@@ -95,11 +91,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/strategy.json" timestamp="1540466879484">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-      </file>
       <file name="/" timestamp="1540410417423">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,12 +121,12 @@
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration.py" timestamp="1540299750068">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" timestamp="1540906060919">
-        <mark key="'" line="55" column="35" />
-        <mark key="[" line="58" column="19" />
-        <mark key="]" line="58" column="21" />
-        <mark key="." line="58" column="21" />
-        <mark key="^" line="58" column="21" />
+      <file name="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" timestamp="1540908909479">
+        <mark key="'" line="71" column="52" />
+        <mark key="[" line="69" column="47" />
+        <mark key="]" line="69" column="48" />
+        <mark key="." line="69" column="48" />
+        <mark key="^" line="69" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
         <mark key="[" line="54" column="0" />
@@ -246,6 +237,7 @@
         <mark key="^" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/.terraform/modules/ffefe48b9899a8772689417486258aac/open/download-variables.tf" timestamp="1540909811156" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" timestamp="1540474241816">
         <mark key="'" line="31" column="29" />
         <mark key="[" line="44" column="44" />
@@ -253,10 +245,10 @@
         <mark key="." line="45" column="37" />
         <mark key="^" line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1540560495190">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1540909203962">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
         <mark key="^" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" timestamp="1539956315417">
@@ -349,7 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="51" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="55" column="11" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" />
       <jump line="24" column="27" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="82" column="22" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
@@ -445,20 +436,21 @@
       <jump line="37" column="42" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="40" column="82" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="61" column="20" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
-      <jump line="28" column="25" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="30" column="52" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="58" column="28" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="55" column="35" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="28" column="15" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="71" column="52" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>POST</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>POST</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>json.loads</text>
+        <text>unreachableStrategy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
@@ -495,9 +487,9 @@
       </register>
     </registers>
     <search>
-      <last-search>json.loads</last-search>
+      <last-search>unreachableStrategy</last-search>
       <last-offset />
-      <last-pattern>json.loads</last-pattern>
+      <last-pattern>unreachableStrategy</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -549,6 +541,7 @@
         <entry>authorization</entry>
         <entry>json_loads</entry>
         <entry>json.loads</entry>
+        <entry>unreachableStrategy</entry>
       </history-search>
       <history-cmd>
         <entry>27,34d</entry>
