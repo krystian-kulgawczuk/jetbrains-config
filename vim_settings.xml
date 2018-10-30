@@ -17,6 +17,9 @@
       <file name="/a.dummy" timestamp="1540458972730">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" timestamp="1540900906734">
+        <mark key="'" line="50" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/OPA/gs-securing-web/demo/src/main/java/com/example/demo/TestController.java" timestamp="1540024789079">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="10" column="27" />
@@ -333,8 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="208" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="209" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="212" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="213" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
@@ -433,6 +434,8 @@
       <jump line="66" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="250" column="17" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
       <jump line="20" column="31" filename="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/config/CassandraConfig.java" />
+      <jump line="53" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
+      <jump line="50" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
