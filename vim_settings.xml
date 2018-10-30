@@ -130,12 +130,12 @@
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration.py" timestamp="1540299750068">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" timestamp="1540902377489">
-        <mark key="'" line="85" column="8" />
-        <mark key="[" line="18" column="72" />
-        <mark key="]" line="18" column="72" />
-        <mark key="^" line="17" column="57" />
-        <mark key="." line="18" column="72" />
+      <file name="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" timestamp="1540906060919">
+        <mark key="'" line="55" column="35" />
+        <mark key="[" line="58" column="19" />
+        <mark key="]" line="58" column="21" />
+        <mark key="." line="58" column="21" />
+        <mark key="^" line="58" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
         <mark key="[" line="54" column="0" />
@@ -349,33 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="43" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
-      <jump line="24" column="60" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
-      <jump line="25" column="31" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
-      <jump line="16" column="19" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
-      <jump line="18" column="27" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
-      <jump line="19" column="22" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
-      <jump line="61" column="7" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
-      <jump line="22" column="16" filename="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" />
-      <jump line="6" column="27" filename="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" />
-      <jump line="37" column="106" filename="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" />
-      <jump line="2" column="7" filename="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/gvc-svc-gateway/Jenkinsfile.groovy" />
-      <jump line="31" column="47" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-mail-service/pom.xml" />
-      <jump line="69" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-mail-service/pom.xml" />
-      <jump line="2" column="46" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-mail-service/pom.xml" />
-      <jump line="3" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-mail-service/pom.xml" />
-      <jump line="61" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="67" column="7" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" />
-      <jump line="56" column="43" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" />
-      <jump line="104" column="4" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
-      <jump line="51" column="8" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
-      <jump line="51" column="17" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" />
       <jump line="47" column="51" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="55" column="11" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" />
       <jump line="24" column="27" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
@@ -444,60 +417,87 @@
       <jump line="50" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
       <jump line="48" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
       <jump line="63" column="45" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
-      <jump line="16" column="20" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
-      <jump line="55" column="13" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="17" column="19" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="52" column="10" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="65" column="66" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="74" column="70" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="80" column="50" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="72" column="37" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="82" column="26" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="67" column="42" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="75" column="50" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="68" column="26" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="76" column="34" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="54" column="29" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="56" column="33" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="15" column="78" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="86" column="8" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="85" column="8" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="29" column="25" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="62" column="40" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="37" column="42" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="40" column="82" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="61" column="20" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="28" column="25" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="30" column="52" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="58" column="28" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
+      <jump line="55" column="35" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>POST</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
-        <text>get_depl</text>
+        <text>json.loads</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHVybCA9IGYnaHR0cDovL3tEQ09TX1VSTH0vbWFyYXRob24vdjIvYXBwcy8nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJtYXhpbXVtT3ZlckNhcGFjaXR5IjogMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJy1IJywgZidBdXRob3JpemF0aW9uOiB0b2tlbj17RENPU19UT0tFTn0nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJtaW5pbXVtSGVhbHRoQ2FwYWNpdHkiOiAwLAo=</text>
+        <text encoding="base64">UE9SVCA9IG9zLmVudmlyb25bJ1BPUlQnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAidXBncmFkZVN0cmF0ZWd5Ijogewo=</text>
+        <text encoding="base64">ICAgICMgcmVtb3ZlIGluc2VjdXJlIHdoZW4gc3NsIHN0YXJ0cyB3b3JraW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJBV1NfUkVHSU9OIjogIlRPRE8iLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJBV1NfU0VDUkVUX0FDQ0VTU19LRVkiOiAiVE9ETyIsCg==</text>
+        <text encoding="base64">ICAgIFBPUlQgPSAnODAwMCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJBV1NfQUNDRVNTX0tFWV9JRCI6ICJUT0RPIiwK</text>
+        <text encoding="base64">aWYgbm90IFBPUlQ6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJEQ09TX1NFUlZJQ0VfQUNDT1VOVF9DUkVERU5USUFMIjogeyAic2VjcmV0IjogInNlcnZpY2VDcmVkZW50aWFsIiB9Cg==</text>
+        <text encoding="base64">ICAgIFBPUlQgPSAnODAwMCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJBV1NfSE9TVEVEX1pPTkVfSUQiOiAiVE9ETyIsCg==</text>
+        <text encoding="base64">aWYgbm90IFBPUlQ6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>43,46y</text>
       </register>
     </registers>
     <search>
-      <last-search>get_depl</last-search>
+      <last-search>json.loads</last-search>
       <last-offset />
-      <last-pattern>get_depl</last-pattern>
+      <last-pattern>json.loads</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -537,7 +537,18 @@
         <entry>Private</entry>
         <entry>realease</entry>
         <entry>role</entry>
+        <entry>TEMLATE</entry>
+        <entry>MARATHON</entry>
+        <entry>MARATHON_APPS</entry>
+        <entry>MARATHON_DEPLOYMENTS_URL</entry>
+        <entry>MARATHON_DEPLOYME</entry>
         <entry>get_depl</entry>
+        <entry>get_deployments</entry>
+        <entry>PORT</entry>
+        <entry>AUthorization</entry>
+        <entry>authorization</entry>
+        <entry>json_loads</entry>
+        <entry>json.loads</entry>
       </history-search>
       <history-cmd>
         <entry>27,34d</entry>
