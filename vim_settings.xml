@@ -14,20 +14,19 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1540458972730">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" timestamp="1540901676774">
         <mark key="'" line="63" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" timestamp="1540912391645">
+        <mark key="[" line="210" column="26" />
+        <mark key="]" line="210" column="26" />
+        <mark key="." line="210" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-securing-web/demo/src/main/java/com/example/demo/TestController.java" timestamp="1540024789079">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="10" column="27" />
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/strategy.txt" timestamp="1540305478263">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/README.md" timestamp="1540478587612">
         <mark key="[" line="14" column="1" />
@@ -91,8 +90,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/" timestamp="1540410417423">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1540912398148">
+        <mark key="[" line="196" column="37" />
+        <mark key="]" line="196" column="37" />
+        <mark key="." line="196" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaDataRequest.java" timestamp="1539956993195">
         <mark key="[" line="0" column="13" />
@@ -117,9 +118,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="5" column="2" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration.py" timestamp="1540299750068">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" timestamp="1540908909479">
         <mark key="'" line="71" column="52" />
@@ -181,9 +179,6 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
-      <file name="/Python Console" timestamp="1540466637168">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="64" />
@@ -225,6 +220,11 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1540912403668">
+        <mark key="[" line="196" column="37" />
+        <mark key="]" line="196" column="37" />
+        <mark key="." line="196" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/mesos_node/README.md" timestamp="1540560474953" />
       <file name="$USER_HOME$/dev/terraform_dcos/README.md" timestamp="1540540631548">
         <mark key="[" line="0" column="0" />
@@ -245,11 +245,17 @@
         <mark key="." line="45" column="37" />
         <mark key="^" line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1540909203962">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="5" column="21" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1540911717108">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/tmp/.terraform/modules/4a41c39e6ee50489ea5c51ab8ad4844a/download-variables.tf" timestamp="1540911677702" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1540912374475">
+        <mark key="[" line="196" column="37" />
+        <mark key="]" line="196" column="37" />
+        <mark key="." line="196" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" timestamp="1539956315417">
         <mark key="[" line="29" column="37" />
@@ -257,8 +263,12 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540545973933">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" timestamp="1540912181311">
+        <mark key="'" line="250" column="17" />
+        <mark key="[" line="274" column="16" />
+        <mark key="]" line="274" column="22" />
+        <mark key="." line="274" column="22" />
+        <mark key="^" line="274" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/type/AssetType.java" timestamp="1540390531773" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1539257536072">
@@ -306,6 +316,16 @@
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/resources/application.yml" timestamp="1540389721697" />
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/test/java/com/quest/orbital/gateway/SvcGatewayApplicationTests.java" timestamp="1540548204036" />
+      <file name="$USER_HOME$/dev/terraform_dcos/master.tf" timestamp="1540912367373">
+        <mark key="[" line="457" column="37" />
+        <mark key="]" line="457" column="37" />
+        <mark key="." line="457" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/public-agent.tf" timestamp="1540912382357">
+        <mark key="[" line="351" column="37" />
+        <mark key="]" line="351" column="37" />
+        <mark key="." line="351" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/pom.xml" timestamp="1540550629561">
         <mark key="[" line="105" column="65" />
         <mark key="]" line="82" column="0" />
@@ -329,9 +349,6 @@
         <mark key="]" line="5" column="47" />
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="47" />
-      </file>
-      <file name="/fragment.java" timestamp="1540545973927">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/requirements.txt" timestamp="1540300730181">
         <mark key="[" line="0" column="13" />
@@ -444,13 +461,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>dcos/tf_dcos_core</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>dcos/tf_dcos_core</text>
       </register>
       <register name="/" type="4">
-        <text>unreachableStrategy</text>
+        <text>1.12.0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
@@ -483,13 +500,13 @@
         <text encoding="base64">aWYgbm90IFBPUlQ6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>43,46y</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>unreachableStrategy</last-search>
+      <last-search>1.12.0</last-search>
       <last-offset />
-      <last-pattern>unreachableStrategy</last-pattern>
+      <last-pattern>1.12.0</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -542,6 +559,7 @@
         <entry>json_loads</entry>
         <entry>json.loads</entry>
         <entry>unreachableStrategy</entry>
+        <entry>1.12.0</entry>
       </history-search>
       <history-cmd>
         <entry>27,34d</entry>
@@ -574,6 +592,7 @@
         <entry>68,71y</entry>
         <entry>132,135y</entry>
         <entry>43,46y</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
