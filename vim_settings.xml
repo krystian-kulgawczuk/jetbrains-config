@@ -17,8 +17,8 @@
       <file name="/a.dummy" timestamp="1540458972730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" timestamp="1540900906734">
-        <mark key="'" line="50" column="29" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" timestamp="1540901676774">
+        <mark key="'" line="63" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-securing-web/demo/src/main/java/com/example/demo/TestController.java" timestamp="1540024789079">
         <mark key="[" line="8" column="18" />
@@ -336,8 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="212" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="213" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="22" column="8" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" />
       <jump line="20" column="5" filename="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" />
@@ -436,6 +434,8 @@
       <jump line="20" column="31" filename="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/config/CassandraConfig.java" />
       <jump line="53" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
       <jump line="50" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
+      <jump line="48" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
+      <jump line="63" column="45" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -445,7 +445,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>role</text>
+        <text>get_depl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
@@ -482,9 +482,9 @@
       </register>
     </registers>
     <search>
-      <last-search>role</last-search>
+      <last-search>get_depl</last-search>
       <last-offset />
-      <last-pattern>role</last-pattern>
+      <last-pattern>get_depl</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -524,6 +524,7 @@
         <entry>Private</entry>
         <entry>realease</entry>
         <entry>role</entry>
+        <entry>get_depl</entry>
       </history-search>
       <history-cmd>
         <entry>27,34d</entry>
