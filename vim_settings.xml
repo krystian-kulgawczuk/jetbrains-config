@@ -34,10 +34,10 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/tmp/letsencrypt-dcos/letsencrypt-dcos.json" timestamp="1540907615004">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
+      <file name="$USER_HOME$/tmp/letsencrypt-dcos/letsencrypt-dcos.json" timestamp="1540973718026">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="24" />
+        <mark key="." line="39" column="24" />
         <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1540201676162">
@@ -462,10 +462,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dcos/tf_dcos_core</text>
+        <text>orbital-us-dev-tfbf11-master-1.westus.cloudapp.azure.com,orbital-us-dev-tfbf11-master-2.westus.cloudapp.azure.com,orbital-us-dev-tfbf11-master-3.westus.cloudapp.azure.com</text>
       </register>
       <register name="-" type="4">
-        <text>dcos/tf_dcos_core</text>
+        <text>orbital-us-dev-tfbf11-master-1.westus.cloudapp.azure.com,orbital-us-dev-tfbf11-master-2.westus.cloudapp.azure.com,orbital-us-dev-tfbf11-master-3.westus.cloudapp.azure.com</text>
       </register>
       <register name="/" type="4">
         <text>1.12.0</text>
