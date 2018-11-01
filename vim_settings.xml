@@ -112,12 +112,12 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" timestamp="1541069052458">
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" timestamp="1541075489820">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="5" />
-        <mark key="]" line="79" column="3" />
-        <mark key="^" line="79" column="3" />
-        <mark key="." line="79" column="3" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
         <mark key="[" line="54" column="0" />
@@ -312,11 +312,25 @@
         <mark key="." line="2" column="64" />
         <mark key="^" line="2" column="64" />
       </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" timestamp="1540132739834">
+        <mark key="'" line="24" column="31" />
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+        <mark key="^" line="24" column="44" />
+      </file>
       <file name="$USER_HOME$/tmp/letsencrypt-dcos/run.sh" timestamp="1540824110467">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="46" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/Jenkinsfile.groovy" timestamp="1540212158290">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="75" column="16" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migrate.sh" timestamp="1540284815229">
         <mark key="[" line="5" column="51" />
@@ -507,11 +521,11 @@
       <jump line="197" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>*&quot;</text>
       </register>
       <register name="/" type="4">
         <text>backup_cassandra_org_data</text>
