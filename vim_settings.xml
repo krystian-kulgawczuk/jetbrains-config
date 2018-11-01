@@ -119,12 +119,12 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" timestamp="1541062337603">
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" timestamp="1541064523079">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="6" />
-        <mark key="]" line="53" column="26" />
-        <mark key="." line="53" column="26" />
-        <mark key="^" line="53" column="26" />
+        <mark key="[" line="61" column="24" />
+        <mark key="]" line="61" column="27" />
+        <mark key="." line="61" column="27" />
+        <mark key="^" line="61" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
         <mark key="[" line="54" column="0" />
@@ -560,10 +560,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;)</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>org_data</text>
@@ -572,31 +572,31 @@
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpdGhDcmVkZW50aWFscyhbZmlsZShjcmVkZW50aWFsc0lkOiAnY2lwaGVyLWtleScsIHZhcmlhYmxlOiAnQ0lQSEVSX0tFWScpXSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggImxuIC1zICR7Q0lQSEVSX0tFWX0gLm9yYml0YWwtZW5jcnlwdGlvbi11cy1kZXYuc2VjcmV0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNoICJlY2hvIGNvbm5lY3RpbmcgdGhyb3VnaCBwb3J0OiAke3BvcnROdW1iZXJ9Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggIm1ha2UgZGVjcnlwdCIK</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuU3Rkb3V0OiB0cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0OiAnc2NyaXB0c19jb21tb24vZ2V0X2ZyZWVfcG9ydC5weScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRocm93IGV4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZiBkZHBvcnROdW1iZXIgPSBzaCgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBleCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGhDcmVkZW50aWFscyhbZmlsZShjcmVkZW50aWFsc0lkOiAnY2lwaGVyLWtleScsIHZhcmlhYmxlOiAnQ0lQSEVSX0tFWScpXSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
