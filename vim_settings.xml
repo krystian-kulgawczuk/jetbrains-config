@@ -119,11 +119,12 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" timestamp="1541060726853">
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" timestamp="1541062337603">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="35" column="6" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="]" line="53" column="26" />
+        <mark key="." line="53" column="26" />
+        <mark key="^" line="53" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
         <mark key="[" line="54" column="0" />
@@ -408,12 +409,6 @@
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1540366855373">
-        <mark key="'" line="61" column="25" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539260430816">
         <mark key="[" line="226" column="32" />
         <mark key="]" line="226" column="34" />
@@ -564,11 +559,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>org_data</text>
