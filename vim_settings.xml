@@ -109,12 +109,12 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" timestamp="1541066069160">
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" timestamp="1541069052458">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="61" column="24" />
-        <mark key="]" line="61" column="27" />
-        <mark key="." line="61" column="27" />
-        <mark key="^" line="61" column="27" />
+        <mark key="[" line="70" column="5" />
+        <mark key="]" line="71" column="3" />
+        <mark key="^" line="71" column="3" />
+        <mark key="." line="71" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
         <mark key="[" line="54" column="0" />
@@ -504,8 +504,8 @@
       <jump line="197" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -520,28 +520,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2ggImVjaG8gc3RhcnQgZGVwbG95bWVudCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNoICJlY2hvIGNvbm5lY3RpbmcgdGhyb3VnaCBwb3J0OiAke3BvcnROdW1iZXJ9Igo=</text>
+        <text encoding="base64">ICAgICAgc2ggImVjaG8gc3RhcnQgZGVwbG95bWVudCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuU3Rkb3V0OiB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0OiAnc2NyaXB0c19jb21tb24vZ2V0X2ZyZWVfcG9ydC5weScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNoICJlY2hvIGNvbm5lY3RpbmcgdGhyb3VnaCBwb3J0OiAke3BvcnROdW1iZXJ9Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZiBkZHBvcnROdW1iZXIgPSBzaCgK</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuU3Rkb3V0OiB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGhDcmVkZW50aWFscyhbZmlsZShjcmVkZW50aWFsc0lkOiAnY2lwaGVyLWtleScsIHZhcmlhYmxlOiAnQ0lQSEVSX0tFWScpXSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0OiAnc2NyaXB0c19jb21tb24vZ2V0X2ZyZWVfcG9ydC5weScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
