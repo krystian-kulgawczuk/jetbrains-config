@@ -3,22 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/tmp/letsencrypt-marathon-lb/letsencrypt-marathon-lb-http.json" timestamp="1540807520626">
-        <mark key="[" line="42" column="3" />
-        <mark key="]" line="42" column="3" />
-        <mark key="." line="42" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1540988280315" />
       <file name="/a.dummy" timestamp="1540458972730">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" timestamp="1540901676774">
         <mark key="'" line="63" column="45" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" timestamp="1540912391645">
-        <mark key="[" line="210" column="26" />
-        <mark key="]" line="210" column="26" />
-        <mark key="." line="210" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/deploy/marathon-template.json" timestamp="1541057248087">
         <mark key="[" line="8" column="4" />
@@ -132,11 +122,6 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/opa-example/pom.xml" timestamp="1539944019737">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/resources/application.properties" timestamp="1540545846348">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="25" />
@@ -172,8 +157,8 @@
         <mark key="^" line="60" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-cassandra/2.0.11.RELEASE/spring-data-cassandra-2.0.11.RELEASE.jar!/org/springframework/data/cassandra/config/AbstractClusterConfiguration.class" timestamp="1540545245917" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1541000036525">
-        <mark key="'" line="166" column="14" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1541067284333">
+        <mark key="'" line="197" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/mesos_node/README.md" timestamp="1540560474953" />
       <file name="$USER_HOME$/dev/terraform_dcos/.terraform/modules/ffefe48b9899a8772689417486258aac/open/download-variables.tf" timestamp="1540909811156" />
@@ -218,11 +203,6 @@
         <mark key="^" line="2" column="412" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/resources/application.yml" timestamp="1540389721697" />
-      <file name="$USER_HOME$/dev/terraform_dcos/public-agent.tf" timestamp="1540912382357">
-        <mark key="[" line="351" column="37" />
-        <mark key="]" line="351" column="37" />
-        <mark key="." line="351" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/pom.xml" timestamp="1540550629561">
         <mark key="[" line="105" column="65" />
         <mark key="]" line="82" column="0" />
@@ -271,16 +251,6 @@
         <mark key="]" line="6" column="39" />
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/test.rego" timestamp="1540125387833">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1540912398148">
-        <mark key="[" line="196" column="37" />
-        <mark key="]" line="196" column="37" />
-        <mark key="." line="196" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddNewTableMigration.java" timestamp="1539771561993">
         <mark key="[" line="8" column="15" />
@@ -345,36 +315,16 @@
         <mark key="^" line="26" column="46" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/pom.xml" timestamp="1540023216128">
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPADataResponse.java" timestamp="1539957028117">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migrate.sh" timestamp="1540284815229">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="5" column="50" />
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1540912403668">
-        <mark key="[" line="196" column="37" />
-        <mark key="]" line="196" column="37" />
-        <mark key="." line="196" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Dockerfile" timestamp="1540996553231">
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Dockerfile" timestamp="1541067232083">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="9" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/README.md" timestamp="1540540631548">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539247993070">
         <mark key="[" line="59" column="0" />
@@ -428,11 +378,6 @@
         <mark key="." line="43" column="41" />
         <mark key="^" line="43" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/master.tf" timestamp="1540912367373">
-        <mark key="[" line="457" column="37" />
-        <mark key="]" line="457" column="37" />
-        <mark key="." line="457" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1541059101552">
         <mark key="'" line="2" column="7" />
         <mark key="[" line="83" column="0" />
@@ -457,7 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="8" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="9" column="18" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="105" column="52" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="71" column="16" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
@@ -557,6 +501,7 @@
       <jump line="85" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" />
+      <jump line="197" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -566,7 +511,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>org_data</text>
+        <text>backup_cassandra_org_data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
@@ -603,9 +548,9 @@
       </register>
     </registers>
     <search>
-      <last-search>org_data</last-search>
+      <last-search>backup_cassandra_org_data</last-search>
       <last-offset />
-      <last-pattern>org_data</last-pattern>
+      <last-pattern>backup_cassandra_org_data</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -660,6 +605,9 @@
         <entry>unreachableStrategy</entry>
         <entry>1.12.0</entry>
         <entry>org_data</entry>
+        <entry>module_kafka_backup_cassandra_org_data_build</entry>
+        <entry>kafka_backup_cassandra</entry>
+        <entry>backup_cassandra_org_data</entry>
       </history-search>
       <history-cmd>
         <entry>27,34d</entry>
