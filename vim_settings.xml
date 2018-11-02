@@ -4,6 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1540988280315" />
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/pom.xml" timestamp="1541141608756">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
       <file name="/a.dummy" timestamp="1540458972730">
         <mark key="[" line="0" column="0" />
       </file>
@@ -199,6 +205,7 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/Dockerfile" timestamp="1541141991374" />
       <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1540988582014">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="2" column="13" />
@@ -242,6 +249,12 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/Dockerfile" timestamp="1541142027781">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" timestamp="1540998324096" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540387910806">
         <mark key="[" line="50" column="48" />
@@ -250,21 +263,21 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/qs-ui/web/node_modules/engine.io/lib/transports/polling-xhr.js" timestamp="1540367765488" />
       <file name="$USER_HOME$/tmp/letsencrypt-marathon-lb/app/cert.py" timestamp="1540809819234" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/build.sh" timestamp="1541142048894" />
       <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="6" column="39" />
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/.gitignore" timestamp="1541141878124">
+        <mark key="[" line="39" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddNewTableMigration.java" timestamp="1539771561993">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
         <mark key="^" line="5" column="57" />
         <mark key="." line="8" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/us-dev/Dockerfile" timestamp="1540995203558">
-        <mark key="'" line="10" column="38" />
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/.gitignore" timestamp="1539338604960">
         <mark key="[" line="19" column="0" />
@@ -307,6 +320,12 @@
         <mark key="^" line="4" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/pom.xml" timestamp="1540992266200" />
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" timestamp="1541141939424">
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="14" />
+        <mark key="." line="38" column="14" />
+        <mark key="^" line="19" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="64" />
@@ -371,6 +390,13 @@
       <file name="/Dummy.txt" timestamp="1540545973933">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/build.sh" timestamp="1541142142090">
+        <mark key="'" line="8" column="15" />
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/InsertDummyDataMigration.java" timestamp="1539773523559">
         <mark key="[" line="30" column="26" />
         <mark key="]" line="30" column="33" />
@@ -420,7 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="18" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="105" column="52" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="71" column="16" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="37" column="12" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
@@ -520,13 +545,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" />
       <jump line="197" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="8" column="15" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/build.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*&quot;</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>*&quot;</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>backup_cassandra_org_data</text>
@@ -535,31 +561,35 @@
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzcG9ydGFsOiR7VkVSU0lPTn0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2ggImVjaG8gc3RhcnQgZGVwbG95bWVudCIK</text>
+      <register name="2" type="4">
+        <text>h
+set -xe
+
+docker build -t ${DOCKER_REGISTRY}/ui-portal:${VERSION} .
+docker push ${DOCKER_REGISTRY}/orbital-ui-</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2ggImVjaG8gc3RhcnQgZGVwbG95bWVudCIK</text>
+        <text encoding="base64">T1BZIGNvbmZpZy9uZ2lueC5jb25mIC9ldGMvbmdpbngvbmdpbnguY29uZgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">RlJPTSBub2RlOjEwLjEyLjAtYWxwaW5lIGFzIGJ1aWxkZXIKCldPUktESVIgL2FwcAoKQ09QWSAuIC4KClJVTiBucG0gY2kgJiYgbnBtIHJ1biBsaW50ICYmIG5wbSBydW4gYnVpbGQtZGV2CgpGUk9NIHJlZ2lzdHJ5Lmh1Yi5kb2NrZXIuY29tL2xpYnJhcnkvbmdpbngKClJVTiBhcHQtZ2V0IHVwZGF0ZSAteSBcCiAmJiBhcHQtZ2V0IGRpc3QtdXBncmFkZSAteQoKQ09QWSAtLWZyb209YnVpbGRlciAvYXBwL2Rpc3Qvb3JiaXRhbC11aS1wb3J0YWwgL3d3dy9kYXRhCkM=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNoICJlY2hvIGNvbm5lY3RpbmcgdGhyb3VnaCBwb3J0OiAke3BvcnROdW1iZXJ9Igo=</text>
+        <text encoding="base64">ICAgICAgc2ggImVjaG8gc3RhcnQgZGVwbG95bWVudCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgc2ggImVjaG8gc3RhcnQgZGVwbG95bWVudCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuU3Rkb3V0OiB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0OiAnc2NyaXB0c19jb21tb24vZ2V0X2ZyZWVfcG9ydC5weScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
