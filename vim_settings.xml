@@ -249,11 +249,11 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/Dockerfile" timestamp="1541142027781">
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/Dockerfile" timestamp="1541142944703">
         <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" timestamp="1540998324096" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540387910806">
@@ -320,11 +320,11 @@
         <mark key="^" line="4" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/pom.xml" timestamp="1540992266200" />
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" timestamp="1541141939424">
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="38" column="14" />
-        <mark key="." line="38" column="14" />
-        <mark key="^" line="19" column="36" />
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" timestamp="1541143721283">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
         <mark key="[" line="1" column="0" />
@@ -375,6 +375,12 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/Jenkinsfile.groovy" timestamp="1541144129810">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1540988818483">
         <mark key="[" line="196" column="37" />
         <mark key="]" line="196" column="37" />
@@ -390,12 +396,12 @@
       <file name="/Dummy.txt" timestamp="1540545973933">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/build.sh" timestamp="1541142142090">
-        <mark key="'" line="8" column="15" />
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="7" />
-        <mark key="." line="12" column="7" />
-        <mark key="^" line="12" column="7" />
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/build.sh" timestamp="1541143269999">
+        <mark key="'" line="9" column="15" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="11" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/InsertDummyDataMigration.java" timestamp="1539773523559">
         <mark key="[" line="30" column="26" />
@@ -549,10 +555,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>backup_cassandra_org_data</text>
@@ -561,35 +567,35 @@
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">bXZuIGNsZWFuIGluc3RhbGwK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzcG9ydGFsOiR7VkVSU0lPTn0K</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>h
 set -xe
 
 docker build -t ${DOCKER_REGISTRY}/ui-portal:${VERSION} .
 docker push ${DOCKER_REGISTRY}/orbital-ui-</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">T1BZIGNvbmZpZy9uZ2lueC5jb25mIC9ldGMvbmdpbngvbmdpbnguY29uZgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">RlJPTSBub2RlOjEwLjEyLjAtYWxwaW5lIGFzIGJ1aWxkZXIKCldPUktESVIgL2FwcAoKQ09QWSAuIC4KClJVTiBucG0gY2kgJiYgbnBtIHJ1biBsaW50ICYmIG5wbSBydW4gYnVpbGQtZGV2CgpGUk9NIHJlZ2lzdHJ5Lmh1Yi5kb2NrZXIuY29tL2xpYnJhcnkvbmdpbngKClJVTiBhcHQtZ2V0IHVwZGF0ZSAteSBcCiAmJiBhcHQtZ2V0IGRpc3QtdXBncmFkZSAteQoKQ09QWSAtLWZyb209YnVpbGRlciAvYXBwL2Rpc3Qvb3JiaXRhbC11aS1wb3J0YWwgL3d3dy9kYXRhCkM=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2ggImVjaG8gc3RhcnQgZGVwbG95bWVudCIK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2ggImVjaG8gc3RhcnQgZGVwbG95bWVudCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2ggImVjaG8gc3RhcnQgZGVwbG95bWVudCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2ggImVjaG8gc3RhcnQgZGVwbG95bWVudCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
