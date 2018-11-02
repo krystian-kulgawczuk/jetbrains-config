@@ -241,6 +241,12 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="19" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui/Jenkinsfile.groovy" timestamp="1541156995880">
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="53" column="24" />
+        <mark key="." line="53" column="24" />
+        <mark key="^" line="11" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="64" />
@@ -546,10 +552,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://git.labs.quest.com/scm/dpdr/scripts_common.git</text>
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>https://git.labs.quest.com/scm/dpdr/scripts_common.git</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>backup_cassandra_org_data</text>
