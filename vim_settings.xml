@@ -12,9 +12,6 @@
       <file name="/a.dummy" timestamp="1540458972730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" timestamp="1540901676774">
-        <mark key="'" line="63" column="45" />
-      </file>
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/deploy/marathon-template.json" timestamp="1541057248087">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
@@ -85,11 +82,6 @@
         <mark key="[" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui/deploy/marathon-template.json" timestamp="1541159375862" />
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/strategy.json" timestamp="1540466879484">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-      </file>
       <file name="/" timestamp="1540410417423">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,9 +160,6 @@
         <mark key="]" line="60" column="41" />
         <mark key="." line="60" column="41" />
         <mark key="^" line="60" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1541067284333">
-        <mark key="'" line="197" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" timestamp="1540474241816">
         <mark key="'" line="31" column="29" />
@@ -254,11 +243,6 @@
         <mark key="^" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" timestamp="1541147801550" />
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540387910806">
-        <mark key="[" line="50" column="48" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="6" column="39" />
@@ -314,6 +298,7 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/pom.xml" timestamp="1541166793312" />
       <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" timestamp="1541143721283">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="9" />
@@ -352,11 +337,6 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Dockerfile" timestamp="1541067232083">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="9" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1539247993070">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="56" column="0" />
@@ -381,11 +361,6 @@
         <mark key="." line="2" column="61" />
         <mark key="^" line="2" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1540988818483">
-        <mark key="[" line="196" column="37" />
-        <mark key="]" line="196" column="37" />
-        <mark key="." line="196" column="37" />
-      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" timestamp="1540912181311">
         <mark key="'" line="250" column="17" />
         <mark key="[" line="274" column="16" />
@@ -408,6 +383,9 @@
         <mark key="]" line="30" column="33" />
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1541167217863">
+        <mark key="'" line="195" column="12" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539260430816">
         <mark key="[" line="226" column="32" />
@@ -451,8 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="52" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
-      <jump line="71" column="16" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="37" column="12" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="158" column="39" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
@@ -551,6 +527,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" />
       <jump line="197" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="8" column="15" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/build.sh" />
+      <jump line="184" column="81" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="195" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -560,7 +538,7 @@
         <text>dev</text>
       </register>
       <register name="/" type="4">
-        <text>backup_cassandra_org_data</text>
+        <text>dib</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
@@ -601,9 +579,9 @@ docker push ${DOCKER_REGISTRY}/orbital-ui-</text>
       </register>
     </registers>
     <search>
-      <last-search>backup_cassandra_org_data</last-search>
+      <last-search>dib</last-search>
       <last-offset />
-      <last-pattern>backup_cassandra_org_data</last-pattern>
+      <last-pattern>dib</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -631,6 +609,7 @@ docker push ${DOCKER_REGISTRY}/orbital-ui-</text>
         <entry>module_kafka_backup_cassandra_org_data_build</entry>
         <entry>kafka_backup_cassandra</entry>
         <entry>backup_cassandra_org_data</entry>
+        <entry>dib</entry>
       </history-search>
       <history-cmd>
         <entry>117,120y</entry>
