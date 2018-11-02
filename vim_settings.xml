@@ -3,12 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1540988280315" />
       <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/pom.xml" timestamp="1541141608756">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="1" />
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/HelloController.java" timestamp="1540043985502">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="/a.dummy" timestamp="1540458972730">
         <mark key="[" line="0" column="0" />
@@ -28,8 +33,19 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/us-dev/config/nginx.conf" timestamp="1541057478529">
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="16" />
+        <mark key="." line="40" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/strategy.txt" timestamp="1540305478263">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/README.md" timestamp="1540478587612">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
       </file>
       <file name="$USER_HOME$/tmp/letsencrypt-dcos/letsencrypt-dcos.json" timestamp="1540973718026">
         <mark key="[" line="39" column="24" />
@@ -37,6 +53,13 @@
         <mark key="." line="39" column="24" />
         <mark key="^" line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/Dockerfile" timestamp="1541142944703">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" timestamp="1541147801550" />
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1540201676162">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="17" column="62" />
@@ -55,6 +78,11 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540387910806">
+        <mark key="[" line="50" column="48" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/svc-authentication/Jenkinsfile.groovy" timestamp="1539081539581">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -67,14 +95,12 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui/scripts_common/tests/fixtures/key.txt" timestamp="1541141079721" />
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1540199601101">
         <mark key="[" line="38" column="10" />
         <mark key="]" line="39" column="24" />
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/README.md" timestamp="1540546157332" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/new-index.json" timestamp="1540465635742">
         <mark key="[" line="28" column="9" />
         <mark key="]" line="29" column="2" />
@@ -84,8 +110,17 @@
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/.gitignore" timestamp="1541058408299">
         <mark key="[" line="40" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/deploy/values/us-prod.env" timestamp="1541073632114">
         <mark key="[" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/.gitignore" timestamp="1541141878124">
+        <mark key="[" line="39" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/strategy.json" timestamp="1540466879484">
         <mark key="[" line="3" column="19" />
@@ -126,153 +161,6 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="70" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/resources/application.properties" timestamp="1540545846348">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="25" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" timestamp="1540902175638">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/deploy/values/us-dev.env" timestamp="1541057845503" />
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/scripts/replace_url_jenkins.sh" timestamp="1539156438044">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-      </file>
-      <file name="/Python Console" timestamp="1540466637168">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars.example" timestamp="1538984443959">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" timestamp="1540140042798">
-        <mark key="[" line="60" column="31" />
-        <mark key="]" line="60" column="41" />
-        <mark key="." line="60" column="41" />
-        <mark key="^" line="60" column="41" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-cassandra/2.0.11.RELEASE/spring-data-cassandra-2.0.11.RELEASE.jar!/org/springframework/data/cassandra/config/AbstractClusterConfiguration.class" timestamp="1540545245917" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1541067284333">
-        <mark key="'" line="197" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/mesos_node/README.md" timestamp="1540560474953" />
-      <file name="$USER_HOME$/dev/terraform_dcos/.terraform/modules/ffefe48b9899a8772689417486258aac/open/download-variables.tf" timestamp="1540909811156" />
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" timestamp="1540474241816">
-        <mark key="'" line="31" column="29" />
-        <mark key="[" line="44" column="44" />
-        <mark key="]" line="45" column="37" />
-        <mark key="." line="45" column="37" />
-        <mark key="^" line="45" column="37" />
-      </file>
-      <file name="$USER_HOME$/tmp/.terraform/modules/4a41c39e6ee50489ea5c51ab8ad4844a/download-variables.tf" timestamp="1540911677702" />
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" timestamp="1539956315417">
-        <mark key="[" line="29" column="37" />
-        <mark key="]" line="29" column="37" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/type/AssetType.java" timestamp="1540390531773" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1539257536072">
-        <mark key="[" line="89" column="38" />
-        <mark key="]" line="89" column="38" />
-        <mark key="^" line="89" column="38" />
-        <mark key="." line="89" column="38" />
-      </file>
-      <file name="$USER_HOME$/tmp/letsencrypt-dcos/Dockerfile" timestamp="1540825190879">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001/strategy.json" timestamp="1540474608758">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/Dockerfile" timestamp="1541141991374" />
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1540988582014">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="412" />
-        <mark key="." line="2" column="412" />
-        <mark key="^" line="2" column="412" />
-      </file>
-      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/resources/application.yml" timestamp="1540389721697" />
-      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/pom.xml" timestamp="1540550629561">
-        <mark key="[" line="105" column="65" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="83" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-qs-501/web/src/app/layout/navbar/navbar.html" timestamp="1539607796741">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/old-index.json" timestamp="1540465656720">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="14" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/HelloController.java" timestamp="1540043985502">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/us-dev/config/nginx.conf" timestamp="1541057478529">
-        <mark key="[" line="40" column="16" />
-        <mark key="]" line="40" column="16" />
-        <mark key="." line="40" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/README.md" timestamp="1540478587612">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="6" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/Dockerfile" timestamp="1541142944703">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-ui-qs-501/Jenkinsfile.groovy" timestamp="1540998324096" />
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration_2_X.py" timestamp="1540387910806">
-        <mark key="[" line="50" column="48" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/qs-ui/web/node_modules/engine.io/lib/transports/polling-xhr.js" timestamp="1540367765488" />
-      <file name="$USER_HOME$/tmp/letsencrypt-marathon-lb/app/cert.py" timestamp="1540809819234" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/build.sh" timestamp="1541142048894" />
-      <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/.gitignore" timestamp="1541141878124">
-        <mark key="[" line="39" column="11" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddNewTableMigration.java" timestamp="1539771561993">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
@@ -295,6 +183,12 @@
         <mark key="." line="69" column="48" />
         <mark key="^" line="69" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="70" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/tmp/letsencrypt-marathon-lb/letsencrypt-marathon-lb-dns.json" timestamp="1540809853323">
         <mark key="[" line="33" column="26" />
         <mark key="]" line="33" column="26" />
@@ -307,11 +201,32 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/resources/application.properties" timestamp="1540545846348">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/scripts_common/deploy_chronos.py" timestamp="1540902175638">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/scripts/replace_url_jenkins.sh" timestamp="1539156438044">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1540366827574">
         <mark key="[" line="5" column="59" />
         <mark key="]" line="31" column="10" />
         <mark key="." line="31" column="10" />
         <mark key="^" line="31" column="10" />
+      </file>
+      <file name="/Python Console" timestamp="1540466637168">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/opa-example/src/main/java/com/example/opaexample/OpaExampleApplication.java" timestamp="1540816918411">
         <mark key="[" line="4" column="76" />
@@ -319,7 +234,6 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/pom.xml" timestamp="1540992266200" />
       <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" timestamp="1541143721283">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="9" />
@@ -332,12 +246,27 @@
         <mark key="." line="2" column="64" />
         <mark key="^" line="2" column="64" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars.example" timestamp="1538984443959">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OPAVoter.java" timestamp="1540140042798">
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="60" column="41" />
+        <mark key="." line="60" column="41" />
+        <mark key="^" line="60" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" timestamp="1540132739834">
         <mark key="'" line="24" column="31" />
         <mark key="[" line="24" column="45" />
         <mark key="]" line="24" column="45" />
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1541067284333">
+        <mark key="'" line="197" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/letsencrypt-dcos/run.sh" timestamp="1540824110467">
         <mark key="[" line="26" column="0" />
@@ -369,22 +298,41 @@
         <mark key="^" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" timestamp="1540474241816">
+        <mark key="'" line="31" column="29" />
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1540988886336">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="29" />
         <mark key="." line="3" column="29" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/Jenkinsfile.groovy" timestamp="1541144129810">
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/Jenkinsfile.groovy" timestamp="1541148703382">
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="17" />
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/.gitmodules" timestamp="1541148920328">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="61" />
+        <mark key="." line="2" column="61" />
+        <mark key="^" line="2" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1540988818483">
         <mark key="[" line="196" column="37" />
         <mark key="]" line="196" column="37" />
         <mark key="." line="196" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" timestamp="1539956315417">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" timestamp="1540912181311">
         <mark key="'" line="250" column="17" />
@@ -403,11 +351,29 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1539257536072">
+        <mark key="[" line="89" column="38" />
+        <mark key="]" line="89" column="38" />
+        <mark key="^" line="89" column="38" />
+        <mark key="." line="89" column="38" />
+      </file>
+      <file name="$USER_HOME$/tmp/letsencrypt-dcos/Dockerfile" timestamp="1540825190879">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/InsertDummyDataMigration.java" timestamp="1539773523559">
         <mark key="[" line="30" column="26" />
         <mark key="]" line="30" column="33" />
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001/strategy.json" timestamp="1540474608758">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-agent.tf" timestamp="1539260430816">
         <mark key="[" line="226" column="32" />
@@ -415,20 +381,44 @@
         <mark key="^" line="226" column="34" />
         <mark key="." line="226" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1540988582014">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="412" />
+        <mark key="." line="2" column="412" />
+        <mark key="^" line="2" column="412" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migration/AddTestFieldMigration.java" timestamp="1539771491515">
         <mark key="[" line="20" column="81" />
         <mark key="]" line="20" column="81" />
         <mark key="^" line="24" column="31" />
         <mark key="." line="20" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/src/test/java/com/quest/orbital/gateway/SvcGatewayApplicationTests.java" timestamp="1540548204036" />
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" timestamp="1540984991361">
         <mark key="[" line="43" column="36" />
         <mark key="]" line="43" column="41" />
         <mark key="." line="43" column="41" />
         <mark key="^" line="43" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1541059101552">
+      <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/pom.xml" timestamp="1540550629561">
+        <mark key="[" line="105" column="65" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="83" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-ui-qs-501/web/src/app/layout/navbar/navbar.html" timestamp="1539607796741">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/old-index.json" timestamp="1540465656720">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1541148398799">
         <mark key="'" line="2" column="7" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -555,10 +545,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>https://git.labs.quest.com/scm/dpdr/scripts_common.git</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>https://git.labs.quest.com/scm/dpdr/scripts_common.git</text>
       </register>
       <register name="/" type="4">
         <text>backup_cassandra_org_data</text>
@@ -612,36 +602,6 @@ docker push ${DOCKER_REGISTRY}/orbital-ui-</text>
     </search>
     <history>
       <history-search>
-        <entry>public_agent_managed_disk</entry>
-        <entry>instance_general</entry>
-        <entry>instance_genera</entry>
-        <entry>gvc</entry>
-        <entry>uuid</entry>
-        <entry>expiration</entry>
-        <entry>keyspace</entry>
-        <entry>cassandra-driver.version</entry>
-        <entry>nginx-proxy</entry>
-        <entry>datastax</entry>
-        <entry>MigrationType</entry>
-        <entry>restassured</entry>
-        <entry>replication factor</entry>
-        <entry>organization</entry>
-        <entry>smart</entry>
-        <entry>spring</entry>
-        <entry>vote</entry>
-        <entry>opaUrl</entry>
-        <entry encoding="base64">XDwoXD4=</entry>
-        <entry>schema</entry>
-        <entry>dockerHost</entry>
-        <entry>elasticsearch</entry>
-        <entry>cassandra</entry>
-        <entry>error creating new index</entry>
-        <entry>print</entry>
-        <entry>reason</entry>
-        <entry encoding="base64">XDxlcnJvclw+</entry>
-        <entry>gateway</entry>
-        <entry>elastic</entry>
-        <entry>Private</entry>
         <entry>realease</entry>
         <entry>role</entry>
         <entry>TEMLATE</entry>
@@ -664,17 +624,6 @@ docker push ${DOCKER_REGISTRY}/orbital-ui-</text>
         <entry>backup_cassandra_org_data</entry>
       </history-search>
       <history-cmd>
-        <entry>27,34d</entry>
-        <entry>51,58d</entry>
-        <entry>51,59d</entry>
-        <entry>15,22d</entry>
-        <entry>48,51y</entry>
-        <entry>97,100y</entry>
-        <entry>33,36y</entry>
-        <entry>%s/db/elastic/g</entry>
-        <entry>63,65y</entry>
-        <entry>58,61y</entry>
-        <entry>38,41y</entry>
         <entry>117,120y</entry>
         <entry>112,115y</entry>
         <entry>%s/gvc/orbital/g</entry>
