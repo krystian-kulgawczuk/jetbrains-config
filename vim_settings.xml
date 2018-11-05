@@ -51,10 +51,11 @@
         <mark key="." line="39" column="24" />
         <mark key="^" line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/Jenkinsfile.groovy" timestamp="1541170145655">
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="32" column="26" />
-        <mark key="." line="32" column="26" />
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/Jenkinsfile.groovy" timestamp="1541410966995">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+        <mark key="." line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/Dockerfile" timestamp="1541142944703">
         <mark key="[" line="2" column="4" />
@@ -175,10 +176,11 @@
         <mark key="." line="69" column="48" />
         <mark key="^" line="69" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/build.sh" timestamp="1541170283896">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/build.sh" timestamp="1541412149675">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
         <mark key="[" line="54" column="0" />
@@ -230,6 +232,12 @@
         <mark key="]" line="4" column="76" />
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
+      </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/pom.xml" timestamp="1541412623820">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" timestamp="1541143721283">
         <mark key="[" line="1" column="9" />
@@ -363,6 +371,7 @@
         <mark key="." line="30" column="33" />
         <mark key="^" line="30" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/src/main/resources/db/schema.cql" timestamp="1541410913769" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001/strategy.json" timestamp="1540474608758">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="21" />
@@ -538,11 +547,11 @@
       <jump line="195" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">XSkK</text>
+      <register name="&quot;" type="4">
+        <text>gateway</text>
       </register>
       <register name="-" type="4">
-        <text>91</text>
+        <text>gateway</text>
       </register>
       <register name="/" type="4">
         <text>dib</text>
