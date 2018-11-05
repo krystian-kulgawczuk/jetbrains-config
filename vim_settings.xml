@@ -176,11 +176,11 @@
         <mark key="." line="69" column="48" />
         <mark key="^" line="69" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/build.sh" timestamp="1541412149675">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-        <mark key="^" line="7" column="17" />
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/build.sh" timestamp="1541413340871">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
         <mark key="[" line="54" column="0" />
@@ -330,6 +330,12 @@
         <mark key="." line="2" column="61" />
         <mark key="^" line="2" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/.gitignore" timestamp="1541413305953">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="26" column="19" />
+        <mark key="^" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" timestamp="1539956315417">
         <mark key="[" line="29" column="37" />
         <mark key="]" line="29" column="37" />
@@ -397,11 +403,12 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="20" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" timestamp="1540984991361">
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="43" column="41" />
-        <mark key="." line="43" column="41" />
-        <mark key="^" line="43" column="41" />
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" timestamp="1541413284216">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/pom.xml" timestamp="1540550629561">
         <mark key="[" line="105" column="65" />
@@ -445,10 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="12" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
-      <jump line="158" column="39" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
-      <jump line="99" column="25" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" />
       <jump line="100" column="4" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" />
       <jump line="31" column="29" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" />
       <jump line="87" column="36" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
@@ -545,55 +548,59 @@
       <jump line="8" column="15" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/build.sh" />
       <jump line="184" column="81" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
       <jump line="195" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
+      <jump line="1" column="14" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" />
+      <jump line="21" column="8" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" />
+      <jump line="35" column="11" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gateway</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cm0gLi90YXJnZXQvKmV4ZWMuamFyCg==</text>
       </register>
       <register name="-" type="4">
         <text>gateway</text>
       </register>
       <register name="/" type="4">
-        <text>dib</text>
+        <text>gate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XSkK</text>
+        <text encoding="base64">cm0gLi90YXJnZXQvKmV4ZWMuamFyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1c2VyUmVtb3RlQ29uZmlnczogW1t1cmw6ICdnaXRAYml0YnVja2V0Lm9yZzpCUk5UWk4vcmVwb3NpdG9yeTIuZ2l0J10sW2NyZWRlbnRpYWxzSWQ6J2plbmtpbnNtYXN0ZXInXV0K</text>
+        <text encoding="base64">XSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAkY2xhc3M6ICdHaXRTQ00nLCBicmFuY2hlczogW1tuYW1lOiAnKi9tYXN0ZXInXV0sCg==</text>
+        <text encoding="base64">ICB1c2VyUmVtb3RlQ29uZmlnczogW1t1cmw6ICdnaXRAYml0YnVja2V0Lm9yZzpCUk5UWk4vcmVwb3NpdG9yeTIuZ2l0J10sW2NyZWRlbnRpYWxzSWQ6J2plbmtpbnNtYXN0ZXInXV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNoZWNrb3V0KFsK</text>
+        <text encoding="base64">ICAkY2xhc3M6ICdHaXRTQ00nLCBicmFuY2hlczogW1tuYW1lOiAnKi9tYXN0ZXInXV0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF0pCg==</text>
+        <text encoding="base64">ICAgIGNoZWNrb3V0KFsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICAgIF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVybCAgICAgICAgICA6ICJzc2g6Ly9naXRAZ2l0LmxhYnMucXVlc3QuY29tL2RwZHIvb3JiaXRhbC11aS1wb3J0YWwuZ2l0Igo=</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNyZWRlbnRpYWxzSWQ6ICJnaXRsYWItamVua2lucy1hZ2VudC1kZXYiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHVybCAgICAgICAgICA6ICJzc2g6Ly9naXRAZ2l0LmxhYnMucXVlc3QuY29tL2RwZHIvb3JiaXRhbC11aS1wb3J0YWwuZ2l0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dib</last-search>
+      <last-search>gate</last-search>
       <last-offset />
-      <last-pattern>dib</last-pattern>
+      <last-pattern>gate</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -621,6 +628,7 @@
         <entry>kafka_backup_cassandra</entry>
         <entry>backup_cassandra_org_data</entry>
         <entry>dib</entry>
+        <entry>gate</entry>
       </history-search>
       <history-cmd>
         <entry>117,120y</entry>
