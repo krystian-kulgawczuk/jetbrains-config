@@ -237,11 +237,10 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui/Jenkinsfile.groovy" timestamp="1541156995880">
-        <mark key="[" line="53" column="24" />
-        <mark key="]" line="53" column="24" />
-        <mark key="." line="53" column="24" />
-        <mark key="^" line="11" column="17" />
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui/Jenkinsfile.groovy" timestamp="1541408150708">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/scripts/local/whoami.sh" timestamp="1539266479010">
         <mark key="[" line="1" column="0" />
@@ -539,8 +538,8 @@
       <jump line="195" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>91</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">XSkK</text>
       </register>
       <register name="-" type="4">
         <text>91</text>
@@ -552,35 +551,31 @@
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2VyUmVtb3RlQ29uZmlnczogW1t1cmw6ICdnaXRAYml0YnVja2V0Lm9yZzpCUk5UWk4vcmVwb3NpdG9yeTIuZ2l0J10sW2NyZWRlbnRpYWxzSWQ6J2plbmtpbnNtYXN0ZXInXV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bXZuIGNsZWFuIGluc3RhbGwK</text>
+        <text encoding="base64">ICAkY2xhc3M6ICdHaXRTQ00nLCBicmFuY2hlczogW1tuYW1lOiAnKi9tYXN0ZXInXV0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzcG9ydGFsOiR7VkVSU0lPTn0K</text>
+        <text encoding="base64">ICAgIGNoZWNrb3V0KFsK</text>
       </register>
-      <register name="5" type="4">
-        <text>h
-set -xe
-
-docker build -t ${DOCKER_REGISTRY}/ui-portal:${VERSION} .
-docker push ${DOCKER_REGISTRY}/orbital-ui-</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">T1BZIGNvbmZpZy9uZ2lueC5jb25mIC9ldGMvbmdpbngvbmdpbnguY29uZgo=</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">RlJPTSBub2RlOjEwLjEyLjAtYWxwaW5lIGFzIGJ1aWxkZXIKCldPUktESVIgL2FwcAoKQ09QWSAuIC4KClJVTiBucG0gY2kgJiYgbnBtIHJ1biBsaW50ICYmIG5wbSBydW4gYnVpbGQtZGV2CgpGUk9NIHJlZ2lzdHJ5Lmh1Yi5kb2NrZXIuY29tL2xpYnJhcnkvbmdpbngKClJVTiBhcHQtZ2V0IHVwZGF0ZSAteSBcCiAmJiBhcHQtZ2V0IGRpc3QtdXBncmFkZSAteQoKQ09QWSAtLWZyb209YnVpbGRlciAvYXBwL2Rpc3Qvb3JiaXRhbC11aS1wb3J0YWwgL3d3dy9kYXRhCkM=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHVybCAgICAgICAgICA6ICJzc2g6Ly9naXRAZ2l0LmxhYnMucXVlc3QuY29tL2RwZHIvb3JiaXRhbC11aS1wb3J0YWwuZ2l0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2ggImVjaG8gc3RhcnQgZGVwbG95bWVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgIGNyZWRlbnRpYWxzSWQ6ICJnaXRsYWItamVua2lucy1hZ2VudC1kZXYiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
