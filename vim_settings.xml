@@ -108,6 +108,7 @@
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/.gitignore" timestamp="1541058408299">
         <mark key="[" line="40" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/src/main/resources/application-us-dev.properties" timestamp="1541414555645" />
       <file name="$USER_HOME$/Projects/svc-authentication/build.sh" timestamp="1539081641561">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="6" column="39" />
@@ -122,6 +123,13 @@
       </file>
       <file name="/" timestamp="1540410417423">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon.json" timestamp="1541415307528">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaDataRequest.java" timestamp="1539956993195">
         <mark key="[" line="0" column="13" />
@@ -182,6 +190,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/deploy/marathon.json" timestamp="1541414068559" />
       <file name="$USER_HOME$/Projects/cassandra-migration-example/pom.xml" timestamp="1539696011445">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -239,11 +248,12 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" timestamp="1541143721283">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="19" column="24" />
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" timestamp="1541414265802">
+        <mark key="'" line="30" column="11" />
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="44" column="46" />
+        <mark key="." line="44" column="46" />
+        <mark key="^" line="44" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui/Jenkinsfile.groovy" timestamp="1541408150708">
         <mark key="[" line="8" column="0" />
@@ -336,6 +346,11 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/src/main/resources/application-us-dev.properties" timestamp="1541414562417">
+        <mark key="]" line="4" column="67" />
+        <mark key="^" line="4" column="67" />
+        <mark key="." line="4" column="67" />
+      </file>
       <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/OpaFilter.java" timestamp="1539956315417">
         <mark key="[" line="29" column="37" />
         <mark key="]" line="29" column="37" />
@@ -403,12 +418,12 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="20" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" timestamp="1541413284216">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="38" column="19" />
-        <mark key="." line="38" column="19" />
-        <mark key="^" line="38" column="19" />
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" timestamp="1541414110664">
+        <mark key="'" line="3" column="13" />
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="44" column="41" />
+        <mark key="." line="44" column="41" />
+        <mark key="^" line="44" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/svc-gateway/pom.xml" timestamp="1540550629561">
         <mark key="[" line="105" column="65" />
@@ -452,17 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="4" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" />
-      <jump line="31" column="29" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/migration_2_X.py" />
-      <jump line="87" column="36" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
-      <jump line="132" column="34" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/strategies.py" />
-      <jump line="1" column="53" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
-      <jump line="2" column="47" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
-      <jump line="3" column="70" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
-      <jump line="8" column="41" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
-      <jump line="12" column="30" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
-      <jump line="13" column="55" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
-      <jump line="14" column="78" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
       <jump line="18" column="67" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
       <jump line="26" column="43" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
       <jump line="27" column="56" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
@@ -552,16 +556,27 @@
       <jump line="21" column="8" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" />
       <jump line="35" column="11" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" />
+      <jump line="5" column="15" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon.json" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon.json" />
+      <jump line="83" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon.json" />
+      <jump line="88" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon.json" />
+      <jump line="2" column="15" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon.json" />
+      <jump line="89" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" />
+      <jump line="3" column="13" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" />
+      <jump line="84" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" />
+      <jump line="88" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" />
+      <jump line="30" column="11" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cm0gLi90YXJnZXQvKmV4ZWMuamFyCg==</text>
+      <register name="&quot;" type="4">
+        <text>ui-api</text>
       </register>
       <register name="-" type="4">
-        <text>gateway</text>
+        <text>ui-api</text>
       </register>
       <register name="/" type="4">
-        <text>gate</text>
+        <text>ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
@@ -598,9 +613,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gate</last-search>
+      <last-search>ui</last-search>
       <last-offset />
-      <last-pattern>gate</last-pattern>
+      <last-pattern>ui</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -629,6 +644,8 @@
         <entry>backup_cassandra_org_data</entry>
         <entry>dib</entry>
         <entry>gate</entry>
+        <entry>customer</entry>
+        <entry>ui</entry>
       </history-search>
       <history-cmd>
         <entry>117,120y</entry>
