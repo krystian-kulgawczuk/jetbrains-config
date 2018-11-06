@@ -230,6 +230,9 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1541509868857">
+        <mark key="'" line="196" column="35" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1540988582014">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="2" column="13" />
@@ -481,7 +484,6 @@
       <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/src/main/resources/application.properties" timestamp="1541420897439" />
     </filemarks>
     <jumps>
-      <jump line="332" column="12" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="499" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="66" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="250" column="17" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
@@ -581,6 +583,7 @@
       <jump line="18" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/jwt/JwtWebAuthenticationFilter.java" />
       <jump line="82" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibAuthenticationFilter.java" />
       <jump line="35" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserInvitationImpl.java" />
+      <jump line="196" column="35" filename="$USER_HOME$/Documents/dev-commands.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -590,7 +593,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>BUILD_NUMBER</text>
+        <text>ssh -L</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
@@ -627,9 +630,9 @@
       </register>
     </registers>
     <search>
-      <last-search>BUILD_NUMBER</last-search>
+      <last-search>ssh -L</last-search>
       <last-offset />
-      <last-pattern>BUILD_NUMBER</last-pattern>
+      <last-pattern>ssh -L</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -666,6 +669,7 @@
         <entry>currentBuild</entry>
         <entry>builder</entry>
         <entry>BUILD_NUMBER</entry>
+        <entry>ssh -L</entry>
       </history-search>
       <history-cmd>
         <entry>117,120y</entry>
