@@ -99,6 +99,7 @@
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/.gitignore" timestamp="1541058408299">
         <mark key="[" line="40" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1541574723333" />
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/deploy/values/us-prod.env" timestamp="1541073632114">
         <mark key="[" line="2" column="8" />
       </file>
@@ -241,8 +242,8 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1541511391046">
-        <mark key="'" line="196" column="35" />
+      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1541574706005">
+        <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1540988582014">
         <mark key="'" line="66" column="0" />
@@ -498,8 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
-      <jump line="250" column="17" filename="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" />
       <jump line="20" column="31" filename="$USER_HOME$/Projects/new_orbital/svc-gateway/src/main/java/com/quest/orbital/gateway/config/CassandraConfig.java" />
       <jump line="53" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
       <jump line="50" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
@@ -598,6 +597,8 @@
       <jump line="35" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserInvitationImpl.java" />
       <jump line="196" column="35" filename="$USER_HOME$/Documents/dev-commands.md" />
       <jump line="119" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="21" column="37" filename="$USER_HOME$/Documents/dev-commands.md" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/dev-commands.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -607,7 +608,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>smartcat</text>
+        <text>ssh -L</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
@@ -644,9 +645,9 @@
       </register>
     </registers>
     <search>
-      <last-search>smartcat</last-search>
+      <last-search>ssh -L</last-search>
       <last-offset />
-      <last-pattern>smartcat</last-pattern>
+      <last-pattern>ssh -L</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -673,8 +674,8 @@
         <entry>currentBuild</entry>
         <entry>builder</entry>
         <entry>BUILD_NUMBER</entry>
-        <entry>ssh -L</entry>
         <entry>smartcat</entry>
+        <entry>ssh -L</entry>
       </history-search>
       <history-cmd>
         <entry>117,120y</entry>
