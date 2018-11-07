@@ -86,6 +86,12 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1541617579635">
+        <mark key="[" line="43" column="27" />
+        <mark key="]" line="43" column="60" />
+        <mark key="^" line="43" column="60" />
+        <mark key="." line="43" column="60" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/cassandra/backup_restore/README.md" timestamp="1541576338419" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/make_cassandra_backup.sh" timestamp="1541576520087" />
       <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/Jenkinsfile.groovy" timestamp="1541602357986" />
@@ -212,11 +218,11 @@
       <jump line="59" column="16" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImphdmEiLCAiLXNlcnZlciIsICItWG1zMjU2bSIsICItWG14NTEybSIsICItWHNzNTEyayIsICItWFg6K1VzZUNvbmNNYXJrU3dlZXBHQyIsICItWFg6K0NNU0luY3JlbWVudGFsTW9kZSIsICItRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kbSIsICItamFyIiwgIi1Ec3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT11cy1kZXYiLCAiYXBwLmphciJdCg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost:${local_port}/_cat/indices?v</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>localhost:${local_port}/_cat/indices?v</text>
       </register>
       <register name="/" type="4">
         <text>slave</text>
