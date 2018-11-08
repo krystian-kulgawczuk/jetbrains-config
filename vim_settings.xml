@@ -46,15 +46,16 @@
       <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/.gitignore" timestamp="1541141878124">
         <mark key="[" line="39" column="11" />
       </file>
+      <file name="/UserImpl.java" timestamp="1541673332905" />
       <file name="/" timestamp="1540410417423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1541667295146" />
-      <file name="$USER_HOME$/Projects/new_orbital/orbital-gateway/src/main/java/com/quest/orbital/gateway/SvcGatewayApplication.java" timestamp="1541601512716">
-        <mark key="v" line="7" column="52" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1541673101776">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="26" />
+        <mark key="^" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1541667371043">
         <mark key="[" line="39" column="18" />
@@ -62,8 +63,22 @@
         <mark key="^" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" timestamp="1541075489820">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration.py" timestamp="1540299750068">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" timestamp="1540908909479">
+        <mark key="'" line="71" column="52" />
+        <mark key="[" line="69" column="47" />
+        <mark key="]" line="69" column="48" />
+        <mark key="." line="69" column="48" />
+        <mark key="^" line="69" column="48" />
       </file>
       <file name="/Python Console" timestamp="1540466637168">
         <mark key="[" line="0" column="0" />
@@ -74,11 +89,39 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui/Jenkinsfile.groovy" timestamp="1541432898754">
+        <mark key="'" line="17" column="21" />
+        <mark key="[" line="28" column="42" />
+        <mark key="]" line="28" column="73" />
+        <mark key="^" line="28" column="73" />
+        <mark key="." line="28" column="73" />
+      </file>
+      <file name="$USER_HOME$/Projects/OPA/gs-spring-boot/complete/src/main/java/hello/WebSecurityConfig.java" timestamp="1540132739834">
+        <mark key="'" line="24" column="31" />
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+        <mark key="^" line="24" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/Jenkinsfile.groovy" timestamp="1540212158290">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="75" column="16" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1541618861229">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="43" column="60" />
         <mark key="^" line="43" column="60" />
         <mark key="." line="43" column="60" />
+      </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserImpl.java" timestamp="1541673435206">
+        <mark key="'" line="63" column="16" />
+        <mark key="[" line="634" column="5" />
+        <mark key="]" line="63" column="17" />
+        <mark key="^" line="63" column="17" />
+        <mark key="." line="63" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/one_time_migrations/production_7_10_18.sh" timestamp="1541672113055">
         <mark key="'" line="15" column="6" />
@@ -86,6 +129,13 @@
         <mark key="]" line="15" column="4" />
         <mark key="." line="15" column="4" />
         <mark key="^" line="14" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" timestamp="1540912181311">
+        <mark key="'" line="250" column="17" />
+        <mark key="[" line="274" column="16" />
+        <mark key="]" line="274" column="22" />
+        <mark key="." line="274" column="22" />
+        <mark key="^" line="274" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1541616314634">
         <mark key="[" line="0" column="0" />
@@ -95,6 +145,12 @@
         <mark key="]" line="10" column="31" />
         <mark key="." line="10" column="31" />
         <mark key="^" line="8" column="88" />
+      </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/User.java" timestamp="1541673269220">
+        <mark key="[" line="35" column="61" />
+        <mark key="]" line="35" column="60" />
+        <mark key="^" line="35" column="60" />
+        <mark key="." line="35" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001/strategy.json" timestamp="1541516140453">
         <mark key="[" line="3" column="20" />
@@ -108,27 +164,45 @@
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1540988582014">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="412" />
+        <mark key="." line="2" column="412" />
+        <mark key="^" line="2" column="412" />
+      </file>
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/deploy/marathon-template.json" timestamp="1541601438220">
         <mark key="[" line="19" column="36" />
         <mark key="]" line="19" column="41" />
         <mark key="." line="19" column="41" />
         <mark key="^" line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/new_orbital/orbital-ui/build.sh" timestamp="1541433213000">
+        <mark key="'" line="3" column="55" />
+        <mark key="[" line="3" column="95" />
+        <mark key="]" line="3" column="95" />
+        <mark key="^" line="3" column="95" />
+        <mark key="." line="3" column="95" />
+      </file>
+      <file name="/UserColumns.java" timestamp="1541673476156" />
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/Dockerfile" timestamp="1541595502167">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="3" column="215" />
         <mark key="^" line="3" column="215" />
         <mark key="." line="3" column="215" />
       </file>
+      <file name="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1541169555444">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="84" column="16" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1540545973927">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
-      <jump line="63" column="45" filename="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" />
-      <jump line="17" column="19" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="52" column="10" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="65" column="66" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="74" column="70" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
@@ -225,13 +299,17 @@
       <jump line="71" column="27" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" />
       <jump line="59" column="16" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" />
       <jump line="15" column="6" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/one_time_migrations/production_7_10_18.sh" />
+      <jump line="39" column="34" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserImpl.java" />
+      <jump line="436" column="30" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserImpl.java" />
+      <jump line="63" column="16" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>InvalidArgumentException</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>InvalidArgumentException</text>
       </register>
       <register name="/" type="4">
         <text>slave</text>
@@ -240,31 +318,31 @@
         <text encoding="base64">dmFyaWFibGUgImF6dXJlX2VsYXN0aWNfYWdlbnRfaW5zdGFuY2VfdHlwZSIgewogZGVzY3JpcHRpb24gPSAiQXp1cmUgREMvT1MgUHJpdmF0ZSBBZ2VudCBpbnN0YW5jZSB0eXBlIgogZGVmYXVsdCA9ICJTdGFuZGFyZF9EMnNfdjMiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImphdmEiLCAiLXNlcnZlciIsICItWG1zMjU2bSIsICItWG14NTEybSIsICItWHNzNTEyayIsICItWFg6K1VzZUNvbmNNYXJrU3dlZXBHQyIsICItWFg6K0NNU0luY3JlbWVudGFsTW9kZSIsICItRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kbSIsICItamFyIiwgIi1Ec3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT11cy1kZXYiLCAiYXBwLmphciJdCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uamF2YXdkZHMuZXhjZXB0aW9ucy5JbnZhbGlkQXJndW1lbnRFeGNlcHRpb247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y2xhc3NpZmllcj5leGVjPC9jbGFzc2lmaWVyPgo=</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5wbHVnaW4uZG9tLmV4Y2VwdGlvbi5JbnZhbGlkU3RhdGVFeGNlcHRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbImphdmEiLCAiLXNlcnZlciIsICItWG1zMjU2bSIsICItWG14NTEybSIsICItWHNzNTEyayIsICItWFg6K1VzZUNvbmNNYXJrU3dlZXBHQyIsICItWFg6K0NNU0luY3JlbWVudGFsTW9kZSIsICItRGphdmEuc2VjdXJpdHkuZWdkPWZpbGU6L2Rldi8uL3VyYW5kbSIsICItamFyIiwgIi1Ec3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT11cy1kZXYiLCAiYXBwLmphciJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y2xhc3NpZmllcj5leGVjPC9jbGFzc2lmaWVyPgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y2xhc3NpZmllcj5leGVjPC9jbGFzc2lmaWVyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
