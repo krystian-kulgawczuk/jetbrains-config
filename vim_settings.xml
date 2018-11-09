@@ -14,6 +14,7 @@
         <mark key="]" line="44" column="19" />
         <mark key="." line="44" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-manage-button/deploy/marathon-template.json" timestamp="1541774837956" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/Makefile" timestamp="1541770928539">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
@@ -21,11 +22,6 @@
         <mark key="^" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/Jenkinsfile.groovy" timestamp="1541757730676" />
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V13_R3AssetMigration.java" timestamp="1541761092934">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="33" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1541680053767">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -78,7 +74,8 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/metadata/controller/OrganizationsMetadataController.java" timestamp="1541769457554">
         <mark key="'" line="51" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1541667371043">
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/Makefile" timestamp="1541774512990" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1541774724904">
         <mark key="[" line="39" column="18" />
         <mark key="]" line="39" column="23" />
         <mark key="^" line="39" column="23" />
@@ -109,6 +106,7 @@
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-qs-501/deploy/marathon-template.json" timestamp="1541774894336" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/UserInvitationByUser.java" timestamp="1541716881380">
         <mark key="'" line="20" column="20" />
       </file>
@@ -161,6 +159,7 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" timestamp="1541725989342">
         <mark key="'" line="112" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/deploy/marathon-template.json" timestamp="1541774807778" />
     </filemarks>
     <jumps>
       <jump line="55" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" />
