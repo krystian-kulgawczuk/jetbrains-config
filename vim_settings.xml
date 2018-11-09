@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/web/src/app/shared/constants.ts" timestamp="1541680795186">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="5" />
-        <mark key="^" line="61" column="5" />
-        <mark key="." line="61" column="5" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/bootstrap_node.yml" timestamp="1541693582434">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="16" />
@@ -26,7 +20,7 @@
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/migrations/001_23_10_18/strategy.txt" timestamp="1540305478263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/Makefile" timestamp="1541686468600">
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/Makefile" timestamp="1541770928539">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
@@ -41,7 +35,6 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1541680053767">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
-        <mark key="^" line="23" column="0" />
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V11_AddNameFieldToInvitation.java" timestamp="1541724542627">
@@ -97,11 +90,14 @@
       <file name="/" timestamp="1540410417423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1541762957432">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="61" />
-        <mark key="^" line="28" column="61" />
-        <mark key="." line="28" column="61" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1541768756341">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="61" />
+        <mark key="^" line="20" column="61" />
+        <mark key="." line="20" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/metadata/controller/OrganizationsMetadataController.java" timestamp="1541769457554">
+        <mark key="'" line="51" column="77" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1541667371043">
         <mark key="[" line="39" column="18" />
@@ -125,6 +121,9 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/OrganizationMetadata.java" timestamp="1541769665204">
+        <mark key="'" line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/Organization.java" timestamp="1541719270901">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="5" />
@@ -134,11 +133,11 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/UserInvitationByUser.java" timestamp="1541716881380">
         <mark key="'" line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Makefile" timestamp="1541682404325">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="2" column="14" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Makefile" timestamp="1541769732499">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1541716986549">
         <mark key="'" line="209" column="27" />
@@ -163,6 +162,13 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationMetadataImpl.java" timestamp="1541770180738">
+        <mark key="'" line="131" column="31" />
+        <mark key="[" line="30" column="59" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+        <mark key="^" line="30" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserInvitationsByUserImpl.java" timestamp="1541717208126">
         <mark key="'" line="33" column="47" />
       </file>
@@ -180,8 +186,8 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationInvitationsByUserImpl.java" timestamp="1541724251977">
         <mark key="'" line="90" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" timestamp="1541720329356">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" timestamp="1541770006873">
+        <mark key="'" line="74" column="37" />
         <mark key="[" line="347" column="79" />
         <mark key="]" line="347" column="82" />
         <mark key="^" line="347" column="82" />
@@ -195,12 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="20" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
-      <jump line="30" column="52" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
-      <jump line="58" column="28" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
-      <jump line="55" column="35" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
-      <jump line="28" column="15" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
-      <jump line="71" column="52" filename="$USER_HOME$/Projects/scripts_common/deploy_marathon.py" />
       <jump line="10" column="38" filename="$USER_HOME$/Projects/Orbital/orbital-svc-gateway/us-dev/Dockerfile" />
       <jump line="33" column="19" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" />
       <jump line="55" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/Jenkinsfile.groovy" />
@@ -295,13 +295,19 @@
       <jump line="53" column="49" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/R3Impl.java" />
       <jump line="27" column="49" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-qs-501/Jenkinsfile.groovy" />
       <jump line="36" column="61" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V14_OrganizationMetadataMigration.java" />
+      <jump line="51" column="77" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/metadata/controller/OrganizationsMetadataController.java" />
+      <jump line="5" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/OrganizationMetadata.java" />
+      <jump line="74" column="37" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
+      <jump line="89" column="32" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" />
+      <jump line="71" column="24" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationMetadataImpl.java" />
+      <jump line="131" column="31" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationMetadataImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>prod</text>
