@@ -33,7 +33,7 @@
         <mark key="^" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-api/Jenkinsfile.groovy" timestamp="1541757730676" />
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V13_R3AssetMigration.java" timestamp="1541726853774">
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V13_R3AssetMigration.java" timestamp="1541761092934">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
@@ -59,6 +59,7 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/R3Impl.java" timestamp="1541726032444">
         <mark key="'" line="53" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V14_OrganizationMetadataMigration.java" timestamp="1541761112692" />
       <file name="$USER_HOME$/Projects/new_orbital/orbital-ui-portal/deploy/values/us-prod.env" timestamp="1541073632114">
         <mark key="[" line="2" column="8" />
       </file>
@@ -105,6 +106,7 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/metadata/fields/InvitationColumns.java" timestamp="1541721002260">
         <mark key="'" line="7" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1541760881485" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/scripts/single_migration.py" timestamp="1540299750068">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,7 +119,6 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1541757845546" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/Organization.java" timestamp="1541719270901">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="5" />
