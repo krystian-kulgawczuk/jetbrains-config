@@ -60,6 +60,12 @@
         <mark key="^" line="40" column="100" />
         <mark key="." line="11" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1542007509733">
+        <mark key="[" line="158" column="14" />
+        <mark key="]" line="158" column="13" />
+        <mark key="^" line="158" column="13" />
+        <mark key="." line="158" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1541768756341">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="61" />
@@ -67,12 +73,12 @@
         <mark key="." line="20" column="61" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/Makefile" timestamp="1541774512990" />
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1541780177286">
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1542006731311">
         <mark key="'" line="148" column="23" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="159" column="6" />
+        <mark key="[" line="159" column="7" />
+        <mark key="]" line="159" column="8" />
+        <mark key="." line="159" column="8" />
+        <mark key="^" line="159" column="8" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1541760881485" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/deploy/marathon.json" timestamp="1541779724413">
@@ -247,7 +253,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>dpsizingtool</text>
       </register>
       <register name="/" type="4">
         <text>resolver</text>
@@ -259,28 +265,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgcHJveHlfcGFzcyBodHRwOi8vbWFyYXRob24tbGIubWFyYXRob24ubWVzb3M6OTA5MS87Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgcHJveHlfcGFzc19yZXF1ZXN0X2hlYWRlcnMgICAgICBvbjsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgcHJveHlfc2V0X2hlYWRlciBYLU1hcmF0aG9uLUFwcC1JZCAiL2Rwc2l6aW5ndG9vbCI7Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgcHJveHlfc2V0X2hlYWRlciBYLUZvcndhcmRlZC1Gb3IgJHByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3I7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgcHJveHlfc2V0X2hlYWRlciBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
