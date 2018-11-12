@@ -9,6 +9,7 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1542011699577" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-prod.properties" timestamp="1541689062616">
         <mark key="[" line="44" column="19" />
         <mark key="]" line="44" column="19" />
@@ -60,11 +61,11 @@
         <mark key="^" line="40" column="100" />
         <mark key="." line="11" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1542009424800">
-        <mark key="[" line="170" column="29" />
-        <mark key="]" line="170" column="29" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1542011631388">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
         <mark key="^" line="158" column="2" />
-        <mark key="." line="170" column="29" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1541768756341">
         <mark key="[" line="20" column="27" />
@@ -249,8 +250,8 @@
       <jump line="148" column="23" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
