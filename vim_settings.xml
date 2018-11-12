@@ -60,11 +60,11 @@
         <mark key="^" line="40" column="100" />
         <mark key="." line="11" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1542007509733">
-        <mark key="[" line="158" column="14" />
-        <mark key="]" line="158" column="13" />
-        <mark key="^" line="158" column="13" />
-        <mark key="." line="158" column="13" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1542009424800">
+        <mark key="[" line="170" column="29" />
+        <mark key="]" line="170" column="29" />
+        <mark key="^" line="158" column="2" />
+        <mark key="." line="170" column="29" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1541768756341">
         <mark key="[" line="20" column="27" />
@@ -73,12 +73,12 @@
         <mark key="." line="20" column="61" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/Makefile" timestamp="1541774512990" />
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1542006731311">
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1542009672108">
         <mark key="'" line="148" column="23" />
-        <mark key="[" line="159" column="7" />
-        <mark key="]" line="159" column="8" />
-        <mark key="." line="159" column="8" />
-        <mark key="^" line="159" column="8" />
+        <mark key="[" line="168" column="29" />
+        <mark key="]" line="168" column="29" />
+        <mark key="^" line="160" column="23" />
+        <mark key="." line="168" column="29" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1541760881485" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/deploy/marathon.json" timestamp="1541779724413">
@@ -249,11 +249,11 @@
       <jump line="148" column="23" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>dpsizingtool</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>resolver</text>
