@@ -27,10 +27,10 @@
         <mark key="]" line="44" column="19" />
         <mark key="." line="44" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1542021905166">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/controller/UiApiServiceController.java" timestamp="1542021881903" />
+      <file name="$USER_HOME$/Projects/orbital-ui-api/Makefile" timestamp="1542109187847">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/Makefile" timestamp="1541775683026">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
@@ -109,6 +109,7 @@
         <mark key="^" line="160" column="23" />
         <mark key="." line="168" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-ui-api/deploy/values/us-dev.env" timestamp="1542109153131" />
       <file name="$USER_HOME$/Projects/orbital-ui-portal/Jenkinsfile.groovy" timestamp="1542020262923" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/deploy/marathon.json" timestamp="1541779724413">
         <mark key="[" line="1" column="16" />
@@ -119,7 +120,7 @@
       <file name="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/Makefile" timestamp="1542024169387">
         <mark key="a" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-api/deploy/marathon-template.json" timestamp="1542021308406" />
+      <file name="$USER_HOME$/Projects/orbital-ui-api/deploy/marathon-template.json" timestamp="1542109171100" />
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-prod/gvc-us-prod" timestamp="1541699133073">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="8" />
@@ -131,6 +132,12 @@
         <mark key="]" line="7" column="3" />
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-gateway/Makefile" timestamp="1542109424704">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/UiApiApplication.java" timestamp="1542021767951">
         <mark key="[" line="19" column="0" />
@@ -197,6 +204,7 @@
         <mark key="^" line="65" column="67" />
         <mark key="." line="69" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-ui-api/Jenkinsfile.groovy" timestamp="1542109503125" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V7_RemoveOrganizationEmailBySubdomainMaterializedView.java" timestamp="1541726318999">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="104" />
@@ -230,6 +238,7 @@
         <mark key="^" line="347" column="82" />
         <mark key="." line="347" column="82" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-gateway/Jenkinsfile.groovy" timestamp="1542109472112" />
       <file name="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/maven-settings.xml" timestamp="1542025382714">
         <mark key="[" line="25" column="55" />
         <mark key="]" line="25" column="61" />
