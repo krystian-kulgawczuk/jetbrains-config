@@ -22,6 +22,11 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-prod.properties" timestamp="1541689062616">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="19" />
+        <mark key="." line="44" column="19" />
+      </file>
       <file name="/a.dummy" timestamp="1542021905166">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,7 +40,17 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/resources/main-k8s-api.tf.azure" timestamp="1542194698356">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-ui-api/pom.xml" timestamp="1542021737095" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1541680053767">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/pom.xml" timestamp="1542028731220">
         <mark key="'" line="175" column="0" />
       </file>
@@ -129,11 +144,26 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/.deploy/main.tf" timestamp="1542194692838">
+        <mark key="[" line="133" column="35" />
+        <mark key="]" line="133" column="36" />
+        <mark key="." line="133" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-gateway/Makefile" timestamp="1542109424704">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/UiApiApplication.java" timestamp="1542021767951">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="5" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1541771910721">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="111" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/Organization.java" timestamp="1541719270901">
         <mark key="[" line="28" column="4" />
@@ -194,6 +224,16 @@
         <mark key="[" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-ui-api/Jenkinsfile.groovy" timestamp="1542109503125" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V7_RemoveOrganizationEmailBySubdomainMaterializedView.java" timestamp="1541726318999">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="104" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1542022680474">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-organization/.gitignore" timestamp="1542022600433">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -218,6 +258,7 @@
         <mark key="." line="347" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-gateway/Jenkinsfile.groovy" timestamp="1542109472112" />
+      <file name="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/Makefile" timestamp="1542194642283" />
       <file name="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/maven-settings.xml" timestamp="1542025382714">
         <mark key="[" line="25" column="55" />
         <mark key="]" line="25" column="61" />
