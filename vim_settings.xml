@@ -120,7 +120,7 @@
         <mark key="^" line="160" column="23" />
         <mark key="." line="168" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/notes/cassandra.md" timestamp="1542290444426">
+      <file name="$USER_HOME$/dev/notes/cassandra.md" timestamp="1542292765153">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="5" column="21" />
         <mark key="^" line="5" column="41" />
@@ -394,7 +394,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>build.plugins</text>
+        <text>scp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oVWlBcGlBcHBsaWNhdGlvbi5jbGFzcywgYXJncyk7CiAgICB9Cg==</text>
@@ -431,9 +431,9 @@
       </register>
     </registers>
     <search>
-      <last-search>build.plugins</last-search>
+      <last-search>scp</last-search>
       <last-offset />
-      <last-pattern>build.plugins</last-pattern>
+      <last-pattern>scp</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -461,6 +461,7 @@
         <entry>kubeconfig</entry>
         <entry>ssl on</entry>
         <entry>build.plugins</entry>
+        <entry>scp</entry>
       </history-search>
       <history-cmd>
         <entry>112,115y</entry>
