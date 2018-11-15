@@ -30,7 +30,6 @@
       <file name="/a.dummy" timestamp="1542021905166">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/controller/UiApiServiceController.java" timestamp="1542021881903" />
       <file name="$USER_HOME$/Projects/orbital-ui-api/Makefile" timestamp="1542109187847">
         <mark key="[" line="1" column="0" />
       </file>
@@ -45,7 +44,6 @@
         <mark key="]" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-api/pom.xml" timestamp="1542021737095" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1541680053767">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -60,7 +58,6 @@
         <mark key="^" line="24" column="97" />
         <mark key="." line="24" column="97" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/us-dev/config/nginx.conf" timestamp="1542272986287" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V14_OrganizationMetadataMigration.java" timestamp="1541762715091">
         <mark key="'" line="36" column="61" />
         <mark key="[" line="17" column="16" />
@@ -118,9 +115,12 @@
         <mark key="^" line="160" column="23" />
         <mark key="." line="168" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/ssl/wildcard-certificate.key" timestamp="1542202127364" />
-      <file name="$USER_HOME$/Projects/orbital-ui-api/deploy/values/us-dev.env" timestamp="1542109153131" />
-      <file name="$USER_HOME$/Projects/orbital-ui-portal/Jenkinsfile.groovy" timestamp="1542020262923" />
+      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1542275580796">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/deploy/marathon.json" timestamp="1541779724413">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="16" />
@@ -133,7 +133,6 @@
         <mark key="." line="2" column="412" />
         <mark key="^" line="2" column="412" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-api/deploy/marathon-template.json" timestamp="1542109171100" />
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-prod/gvc-us-prod" timestamp="1541699133073">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="8" />
@@ -223,7 +222,6 @@
       <file name="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/.deploy/desired_cluster_profile" timestamp="1542191870809">
         <mark key="[" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-api/Jenkinsfile.groovy" timestamp="1542109503125" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V7_RemoveOrganizationEmailBySubdomainMaterializedView.java" timestamp="1541726318999">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="104" />
@@ -240,7 +238,6 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="59" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/Jenkinsfile.groovy" timestamp="1542024159295" />
       <file name="$USER_HOME$/Projects/orbital-common/maven-settings.xml" timestamp="1542274252372">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="16" />
@@ -260,7 +257,6 @@
         <mark key="^" line="347" column="82" />
         <mark key="." line="347" column="82" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-gateway/Jenkinsfile.groovy" timestamp="1542109472112" />
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1542269071829">
         <mark key="[" line="35" column="25" />
         <mark key="]" line="103" column="24" />
@@ -380,11 +376,11 @@
       <jump line="103" column="0" filename="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gvc</text>
       </register>
       <register name="-" type="4">
-        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDCJtEX2fuZ4EWXCL3M37Qbr0mj3saEdhOwnLGJk8hr5xFOa8DoTs5IofaHfeRoiOKwfg44PW4fpDIz/e7X/9tmKTuwOszuAE9QTWQijZesCanLSf5nwYCTMsNGlUfxhjpJhcgQIcZ6vcDbNeGIQTElgsBKXoIXDosP3qjdWuwEEIfaQJDo4Mv16P+SqzPJ1KIV16lfw2NW71y7JzNApPRWxlxkoTiydv1hs6Ye6b6MTLLeDIsyzPqNro5/LpQkT7hr37pG88xC22Cn2lA18hhusP0wP+6pZbnbveKLVFkSdVlZAKgsEZ0UyAXsKElWtTHN+SXuqXmldg8h7n6GF1/tmEz7n/2+SBH+nNBlQPM/VOxW7yDwCKWr87mFI009a6ge66U4q+lqrfKzNSIsoamuICYg8GtAGK3yuPQq+pwFluJRUEihZQDlJ7IvezAKThglyDgV31D9frCqJ4gMTfzSnZ2PW54vJjNyAHZQoCqp/Y0aIdjwpnHw6F+blPmgXzzsheMahME7iCMQP1F/ckgXfq1rtI0mT1QNZhUtfFf1qYguNT0EdCGy3G3oWnHiIqjcq/wfhCTpf22ph7h1Q+b1ygXXIGnQWfyY/vZTDdW2lbrX36X/fZA3M74SBmQFEMWrul4tX//YwGtpHSyN380fdRHyCPPo6+BSB7KHVwDevw== default@mesosphere.com</text>
+        <text>gvc</text>
       </register>
       <register name="/" type="4">
         <text>build.plugins</text>
@@ -434,12 +430,6 @@
     </search>
     <history>
       <history-search>
-        <entry>backup_cassandra_org_data</entry>
-        <entry>dib</entry>
-        <entry>gate</entry>
-        <entry>customer</entry>
-        <entry>ui</entry>
-        <entry>svc</entry>
         <entry>gateway</entry>
         <entry>ui-api</entry>
         <entry>currentBuild</entry>
@@ -462,7 +452,6 @@
         <entry>build.plugins</entry>
       </history-search>
       <history-cmd>
-        <entry>117,120y</entry>
         <entry>112,115y</entry>
         <entry>%s/gvc/orbital/g</entry>
         <entry>42,49y</entry>
