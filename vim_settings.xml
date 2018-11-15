@@ -53,6 +53,7 @@
         <mark key="^" line="24" column="97" />
         <mark key="." line="24" column="97" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/us-dev/config/nginx.conf" timestamp="1542272986287" />
       <file name="$USER_HOME$/Projects/orbital-organization/build.sh" timestamp="1542020117071">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="50" />
@@ -208,7 +209,7 @@
       <file name="$USER_HOME$/Projects/orbital-common/Jenkinsfile.groovy" timestamp="1542025530784">
         <mark key="'" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1542271196845">
+      <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1542273012525">
         <mark key="[" line="35" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-gateway/Jenkinsfile.groovy" timestamp="1542109472112" />
@@ -338,7 +339,7 @@
         <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDCJtEX2fuZ4EWXCL3M37Qbr0mj3saEdhOwnLGJk8hr5xFOa8DoTs5IofaHfeRoiOKwfg44PW4fpDIz/e7X/9tmKTuwOszuAE9QTWQijZesCanLSf5nwYCTMsNGlUfxhjpJhcgQIcZ6vcDbNeGIQTElgsBKXoIXDosP3qjdWuwEEIfaQJDo4Mv16P+SqzPJ1KIV16lfw2NW71y7JzNApPRWxlxkoTiydv1hs6Ye6b6MTLLeDIsyzPqNro5/LpQkT7hr37pG88xC22Cn2lA18hhusP0wP+6pZbnbveKLVFkSdVlZAKgsEZ0UyAXsKElWtTHN+SXuqXmldg8h7n6GF1/tmEz7n/2+SBH+nNBlQPM/VOxW7yDwCKWr87mFI009a6ge66U4q+lqrfKzNSIsoamuICYg8GtAGK3yuPQq+pwFluJRUEihZQDlJ7IvezAKThglyDgV31D9frCqJ4gMTfzSnZ2PW54vJjNyAHZQoCqp/Y0aIdjwpnHw6F+blPmgXzzsheMahME7iCMQP1F/ckgXfq1rtI0mT1QNZhUtfFf1qYguNT0EdCGy3G3oWnHiIqjcq/wfhCTpf22ph7h1Q+b1ygXXIGnQWfyY/vZTDdW2lbrX36X/fZA3M74SBmQFEMWrul4tX//YwGtpHSyN380fdRHyCPPo6+BSB7KHVwDevw== default@mesosphere.com</text>
       </register>
       <register name="/" type="4">
-        <text>kubeconfig</text>
+        <text>ssl on</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oVWlBcGlBcHBsaWNhdGlvbi5jbGFzcywgYXJncyk7CiAgICB9Cg==</text>
@@ -375,9 +376,9 @@
       </register>
     </registers>
     <search>
-      <last-search>kubeconfig</last-search>
+      <last-search>ssl on</last-search>
       <last-offset />
-      <last-pattern>kubeconfig</last-pattern>
+      <last-pattern>ssl on</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -409,6 +410,7 @@
         <entry>lombok</entry>
         <entry>hsts</entry>
         <entry>kubeconfig</entry>
+        <entry>ssl on</entry>
       </history-search>
       <history-cmd>
         <entry>117,120y</entry>
