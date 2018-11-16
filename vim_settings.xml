@@ -200,11 +200,11 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-common/pom.xml" timestamp="1542363231408">
+      <file name="$USER_HOME$/Projects/orbital-common/pom.xml" timestamp="1542364810699">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
+        <mark key="[" line="146" column="62" />
+        <mark key="]" line="146" column="62" />
+        <mark key="." line="146" column="62" />
         <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-qs-501/Makefile" timestamp="1541771942375">
@@ -389,10 +389,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>scp</text>
@@ -442,7 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gateway</entry>
         <entry>ui-api</entry>
         <entry>currentBuild</entry>
         <entry>builder</entry>
