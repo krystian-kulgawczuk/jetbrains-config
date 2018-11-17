@@ -3,20 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/bootstrap_node.yml" timestamp="1541693582434">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
+      <file name="$USER_HOME$/Projects/orbital-common/.gitignore" timestamp="1542274319701">
+        <mark key="'" line="55" column="16" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="177" column="17" />
+        <mark key="." line="177" column="17" />
+        <mark key="^" line="177" column="17" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/StatsEsImpl.java" timestamp="1542457913319">
         <mark key="'" line="49" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/src/main/java/com/quest/orbital/organization/controller/OrganizationServiceController.java" timestamp="1542022011763">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="13" column="42" />
-        <mark key="^" line="13" column="42" />
-        <mark key="." line="13" column="42" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-prod.properties" timestamp="1541689062616">
         <mark key="[" line="44" column="19" />
@@ -39,11 +34,8 @@
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/Dockerfile" timestamp="1542450311429">
         <mark key="[" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/Makefile" timestamp="1541775683026">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="12" />
+      <file name="$USER_HOME$/dev/repair_cassandra/registered_assets.txt" timestamp="1542465443169">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/resources/main-k8s-api.tf.azure" timestamp="1542195665341">
         <mark key="[" line="6" column="35" />
@@ -55,12 +47,6 @@
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-api/pom.xml" timestamp="1542365812382">
-        <mark key="[" line="60" column="21" />
-        <mark key="]" line="60" column="21" />
-        <mark key="^" line="60" column="24" />
-        <mark key="." line="60" column="21" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1541680053767">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -69,12 +55,6 @@
       <file name="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/pom.xml" timestamp="1542028731220">
         <mark key="'" line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V11_AddNameFieldToInvitation.java" timestamp="1541724542627">
-        <mark key="[" line="24" column="97" />
-        <mark key="]" line="24" column="97" />
-        <mark key="^" line="24" column="97" />
-        <mark key="." line="24" column="97" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" timestamp="1542457630763">
         <mark key="'" line="43" column="25" />
         <mark key="[" line="49" column="15" />
@@ -82,108 +62,52 @@
         <mark key="^" line="50" column="14" />
         <mark key="." line="50" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/build.sh" timestamp="1542020117071">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="50" />
-        <mark key="." line="10" column="50" />
-        <mark key="^" line="10" column="50" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V14_OrganizationMetadataMigration.java" timestamp="1541762715091">
+        <mark key="'" line="36" column="61" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="50" />
+        <mark key="." line="17" column="50" />
+        <mark key="^" line="17" column="50" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/docker-compose.yaml" timestamp="1542451815123">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V13_R3Asset_Migration.java" timestamp="1541726662954">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/deploy/marathon-template.json" timestamp="1542021300762">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="30" />
-        <mark key="^" line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V12_OrganizationInvitation.java" timestamp="1541726350542">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="37" />
-        <mark key="^" line="54" column="86" />
-        <mark key="." line="9" column="37" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-qs-501/Jenkinsfile.groovy" timestamp="1541772512261">
+        <mark key="'" line="11" column="36" />
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="56" />
+        <mark key="^" line="40" column="100" />
+        <mark key="." line="11" column="56" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Stats.java" timestamp="1542457230848">
         <mark key="'" line="30" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1542017559373">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="^" line="158" column="2" />
-        <mark key="." line="160" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1541768756341">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="61" />
-        <mark key="^" line="20" column="61" />
-        <mark key="." line="20" column="61" />
-      </file>
-      <file name="$USER_HOME$/dev/notes/cassandra.md" timestamp="1542292765153">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="5" column="21" />
-        <mark key="^" line="5" column="41" />
-        <mark key="." line="5" column="21" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1542009672108">
+        <mark key="'" line="148" column="23" />
+        <mark key="[" line="168" column="29" />
+        <mark key="]" line="168" column="29" />
+        <mark key="^" line="160" column="23" />
+        <mark key="." line="168" column="29" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" timestamp="1542456788778">
         <mark key="'" line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repair_cassandra/es_to_cassandra_r3asset.py" timestamp="1542462344324">
-        <mark key="[" line="6" column="88" />
-        <mark key="]" line="6" column="74" />
-        <mark key="." line="6" column="74" />
-        <mark key="^" line="6" column="74" />
-      </file>
-      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1542362979646">
-        <mark key="[" line="25" column="56" />
-        <mark key="]" line="25" column="56" />
-        <mark key="." line="25" column="56" />
-        <mark key="^" line="24" column="16" />
+      <file name="$USER_HOME$/dev/repair_cassandra/es_to_cassandra_r3asset.py" timestamp="1542467702209">
+        <mark key="'" line="96" column="2" />
+        <mark key="[" line="99" column="32" />
+        <mark key="]" line="99" column="31" />
+        <mark key="^" line="99" column="31" />
+        <mark key="." line="99" column="31" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1542456995964">
         <mark key="'" line="144" column="41" />
-      </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/deploy/marathon.json" timestamp="1541779724413">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-        <mark key="^" line="5" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/.deploy/variables.tf" timestamp="1542124990812">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="412" />
-        <mark key="." line="2" column="412" />
-        <mark key="^" line="2" column="412" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-prod/gvc-us-prod" timestamp="1541699133073">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/src/main/java/com/quest/orbital/organization/OrbitalOrganizationApplication.java" timestamp="1542021786601">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
       </file>
       <file name="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/.deploy/main.tf" timestamp="1542195661588">
         <mark key="[" line="133" column="35" />
         <mark key="]" line="133" column="36" />
         <mark key="." line="133" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-gateway/Makefile" timestamp="1542109424704">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/UiApiApplication.java" timestamp="1542021767951">
         <mark key="[" line="19" column="0" />
@@ -195,31 +119,20 @@
         <mark key="]" line="47" column="111" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/Organization.java" timestamp="1541719270901">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="5" />
-        <mark key="^" line="28" column="5" />
-        <mark key="." line="28" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/README.md" timestamp="1542019366648">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="1" column="19" />
-        <mark key="^" line="1" column="19" />
-        <mark key="." line="1" column="19" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" timestamp="1542468370030">
+        <mark key="'" line="1432" column="13" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-organization/Jenkinsfile.groovy" timestamp="1542025514727">
         <mark key="[" line="32" column="24" />
         <mark key="]" line="32" column="24" />
         <mark key="." line="32" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1542456770570">
-        <mark key="'" line="193" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Makefile" timestamp="1541769732499">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="17" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1542467779787">
+        <mark key="'" line="568" column="4" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1542456825979">
         <mark key="'" line="285" column="22" />
@@ -227,20 +140,15 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1542457017508">
         <mark key="'" line="54" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-qs-501/Makefile" timestamp="1541771942375">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="4" column="24" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationMetadataImpl.java" timestamp="1541770180738">
+        <mark key="'" line="131" column="31" />
+        <mark key="[" line="30" column="59" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+        <mark key="^" line="30" column="8" />
       </file>
       <file name="$USER_HOME$/dev/repair_cassandra/es_to_cassandra.py" timestamp="1542461329046">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/pom.xml" timestamp="1542029181040">
-        <mark key="[" line="69" column="61" />
-        <mark key="]" line="69" column="61" />
-        <mark key="^" line="65" column="67" />
-        <mark key="." line="69" column="61" />
       </file>
       <file name="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/.deploy/desired_cluster_profile" timestamp="1542191870809">
         <mark key="[" line="11" column="24" />
@@ -255,18 +163,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/.gitignore" timestamp="1542022600433">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="59" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-common/maven-settings.xml" timestamp="1542374182245">
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="19" />
-        <mark key="." line="31" column="19" />
-        <mark key="^" line="31" column="19" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1542457336745" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" timestamp="1542457048691">
         <mark key="'" line="27" column="67" />
@@ -277,11 +173,12 @@
       <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1542273012525">
         <mark key="[" line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1542269071829">
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="103" column="24" />
-        <mark key="^" line="103" column="24" />
-        <mark key="." line="103" column="24" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" timestamp="1541770006873">
+        <mark key="'" line="74" column="37" />
+        <mark key="[" line="347" column="79" />
+        <mark key="]" line="347" column="82" />
+        <mark key="^" line="347" column="82" />
+        <mark key="." line="347" column="82" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/cassandra.yaml" timestamp="1542449540495">
         <mark key="[" line="9" column="15" />
@@ -291,12 +188,6 @@
       <file name="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/Makefile" timestamp="1542197251425">
         <mark key="'" line="152" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/maven-settings.xml" timestamp="1542025382714">
-        <mark key="[" line="25" column="55" />
-        <mark key="]" line="25" column="61" />
-        <mark key="." line="25" column="61" />
-        <mark key="^" line="25" column="61" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/model/OutgoingAsset.java" timestamp="1542457897767">
         <mark key="'" line="11" column="24" />
       </file>
@@ -305,170 +196,157 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="61" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/config/support/MesosClusterBuilderConfigurer.java" />
-      <jump line="14" column="23" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/config/support/MesosClusterBuilderConfigurer.java" />
-      <jump line="20" column="53" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/config/support/MesosClusterBuilderConfigurer.java" />
-      <jump line="28" column="23" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/config/support/MesosClusterBuilderConfigurer.java" />
-      <jump line="37" column="30" filename="$USER_HOME$/Projects/new_orbital/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/config/CassandraConfig.java" />
-      <jump line="17" column="21" filename="$USER_HOME$/Projects/new_orbital/orbital-ui/Jenkinsfile.groovy" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-ui/build.sh" />
-      <jump line="3" column="55" filename="$USER_HOME$/Projects/new_orbital/orbital-ui/build.sh" />
-      <jump line="174" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" />
-      <jump line="18" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/jwt/JwtWebAuthenticationFilter.java" />
-      <jump line="82" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/dib/DibAuthenticationFilter.java" />
-      <jump line="35" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserInvitationImpl.java" />
-      <jump line="196" column="35" filename="$USER_HOME$/Documents/dev-commands.md" />
-      <jump line="119" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="21" column="37" filename="$USER_HOME$/Documents/dev-commands.md" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/dev-commands.md" />
-      <jump line="71" column="27" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" />
-      <jump line="59" column="16" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" />
-      <jump line="15" column="6" filename="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/one_time_migrations/production_7_10_18.sh" />
-      <jump line="39" column="34" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserImpl.java" />
-      <jump line="436" column="30" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserImpl.java" />
-      <jump line="63" column="16" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserImpl.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/tasks/main.yml" />
-      <jump line="35" column="4" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/tasks/main.yml" />
-      <jump line="20" column="20" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/UserInvitationByUser.java" />
-      <jump line="200" column="32" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" />
-      <jump line="199" column="27" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" />
-      <jump line="88" column="39" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserInvitationsByUserImpl.java" />
-      <jump line="5" column="48" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/metadata/fields/InvitationColumns.java" />
-      <jump line="33" column="47" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserInvitationsByUserImpl.java" />
-      <jump line="7" column="33" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/metadata/fields/InvitationColumns.java" />
-      <jump line="603" column="34" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserImpl.java" />
-      <jump line="92" column="33" filename="/OrganizationsImpl.java" />
-      <jump line="91" column="42" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationsImpl.java" />
-      <jump line="327" column="48" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/UserImpl.java" />
-      <jump line="11" column="34" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/metadata/fields/OrganizationColumns.java" />
-      <jump line="272" column="15" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
-      <jump line="362" column="0" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
-      <jump line="95" column="37" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationInvitationsByUserImpl.java" />
-      <jump line="92" column="51" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationInvitationsByUserImpl.java" />
-      <jump line="90" column="60" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationInvitationsByUserImpl.java" />
-      <jump line="124" column="22" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
-      <jump line="112" column="14" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
-      <jump line="53" column="49" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/R3Impl.java" />
-      <jump line="27" column="49" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-qs-501/Jenkinsfile.groovy" />
-      <jump line="36" column="61" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V14_OrganizationMetadataMigration.java" />
-      <jump line="51" column="77" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/metadata/controller/OrganizationsMetadataController.java" />
-      <jump line="5" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/OrganizationMetadata.java" />
-      <jump line="74" column="37" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" />
-      <jump line="89" column="32" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" />
-      <jump line="71" column="24" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationMetadataImpl.java" />
-      <jump line="131" column="31" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationMetadataImpl.java" />
-      <jump line="37" column="35" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-qs-501/Jenkinsfile.groovy" />
-      <jump line="11" column="36" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-qs-501/Jenkinsfile.groovy" />
-      <jump line="9" column="27" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="171" column="29" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="193" column="29" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="51" column="29" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="61" column="29" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="71" column="29" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="82" column="29" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="93" column="29" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="104" column="29" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="115" column="29" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="126" column="29" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="137" column="29" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="148" column="23" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="16" column="4" filename="$USER_HOME$/Projects/orbital-common/Jenkinsfile.groovy" />
-      <jump line="34" column="0" filename="$USER_HOME$/Projects/orbital-common/Jenkinsfile.groovy" />
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/orbital-common/.gitignore" />
-      <jump line="44" column="0" filename="$USER_HOME$/Projects/orbital-common/.gitignore" />
-      <jump line="48" column="0" filename="$USER_HOME$/Projects/orbital-common/.gitignore" />
-      <jump line="55" column="16" filename="$USER_HOME$/Projects/orbital-common/.gitignore" />
-      <jump line="118" column="24" filename="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/pom.xml" />
-      <jump line="175" column="0" filename="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/pom.xml" />
-      <jump line="53" column="38" filename="$USER_HOME$/Projects/orbital-common/pom.xml" />
-      <jump line="23" column="32" filename="$USER_HOME$/Projects/orbital-common/pom.xml" />
-      <jump line="24" column="24" filename="$USER_HOME$/Projects/orbital-common/pom.xml" />
-      <jump line="142" column="0" filename="$USER_HOME$/Projects/orbital-common/pom.xml" />
-      <jump line="143" column="0" filename="$USER_HOME$/Projects/orbital-common/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/orbital-common/pom.xml" />
-      <jump line="152" column="11" filename="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/Makefile" />
-      <jump line="92" column="25" filename="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" />
-      <jump line="103" column="0" filename="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" />
-      <jump line="12" column="21" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="193" column="18" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="12" column="17" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" />
-      <jump line="285" column="22" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" />
-      <jump line="37" column="38" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="23" column="19" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="144" column="41" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="54" column="24" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
-      <jump line="27" column="67" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" />
-      <jump line="37" column="31" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" />
-      <jump line="43" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" />
-      <jump line="30" column="21" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Stats.java" />
-      <jump line="11" column="24" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/model/OutgoingAsset.java" />
-      <jump line="49" column="24" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/StatsEsImpl.java" />
+      <jump line="105" column="4" filename="$USER_HOME$/dev/repair_cassandra/es_to_cassandra_r3asset.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/repair_cassandra/es_to_cassandra_r3asset.py" />
+      <jump line="98" column="4" filename="$USER_HOME$/dev/repair_cassandra/es_to_cassandra_r3asset.py" />
+      <jump line="81" column="2" filename="$USER_HOME$/dev/repair_cassandra/es_to_cassandra_r3asset.py" />
+      <jump line="96" column="2" filename="$USER_HOME$/dev/repair_cassandra/es_to_cassandra_r3asset.py" />
+      <jump line="1" column="21" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1394" column="0" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1455" column="4" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="8" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="12" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="24" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="31" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="42" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="47" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="53" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="59" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="66" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="73" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="81" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="88" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="94" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="102" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="108" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="113" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="125" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="131" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="136" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="145" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="154" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="159" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="169" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="174" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="180" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="187" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="209" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="211" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="230" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="253" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="276" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="294" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="319" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="345" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="364" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="392" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="412" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="414" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="433" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="471" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="512" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="532" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="554" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="576" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="597" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="620" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="622" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="641" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="643" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="662" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="706" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="708" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="727" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="745" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="767" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="791" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="793" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="812" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="841" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="870" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="890" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="913" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="915" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="934" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="936" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="955" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="977" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1000" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1022" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1048" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1069" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1089" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1116" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1139" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1141" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1160" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1184" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1186" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1205" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1225" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1245" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1247" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1266" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1298" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1322" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1344" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1366" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1387" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1389" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1408" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
+      <jump line="1432" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>organization</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>organization</text>
       </register>
       <register name="/" type="4">
-        <text>r3_asset</text>
+        <text>test\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oVWlBcGlBcHBsaWNhdGlvbi5jbGFzcywgYXJncyk7CiAgICB9Cg==</text>
+        <text encoding="base64">cHJpbnQoSU5TRVJUX1RFTVBMQVRFLmZvcm1hdCgnMScsIGFzc2V0Wydhc3NldF9pZCddLCBhc3NldFsnYWxlcnRzJ10sIGFzc2V0Wydhc3NldF90eXBlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXNzZXRbJ2RpYWdub3N0aWNzJ10sIGFzc2V0Wydob3N0bmFtZSddLCBhc3NldFsnbnJfb2ZfYWxlcnRzJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXNzZXRbJ25yX29mX2RpYWdub3N0aWNzJ10sICdudWxsJywgYXNzZXRbJ3Byb2R1Y3RfbW9kZWwnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhc3NldFsnc2VydmljZV90YWcnXSwgYXNzZXRbJ3N0b3JhZ2VfZ3JvdXBzJ10sIGFzc2V0WydzdWJkb21haW4nXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhc3NldFsnc3lzdGVtX3N0YXRlJ10pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhc3NldCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVzX2RhdGEpCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgdHJ5IHsKCiAgICAgICAgICAgIExpc3Q8RXZlbnQ+IGV2ZW50cyA9IGRiRXZlbnRzKHRoaXMuc3RhdHMuZ2V0RXZlbnRzKCkpOwoKICAgICAgICAgICAgZm9yIChFdmVudCBldmVudDogZXZlbnRzKSB7CiAgICAgICAgICAgICAgICB0aGlzLmRiRmFjdG9yeS5kYigpCiAgICAgICAgICAgICAgICAgICAgICAgIC5kYkV2ZW50c0J5QXNzZXQoKQogICAgICAgICAgICAgICAgICAgICAgICAuc2F2ZSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC52YWx1ZShFdmVudHNCeUFzc2V0Q29sdW1ucy5BU1NFVF9JRCwgdGhpcy5zdGF0cy5nZXRBc3NldElkKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC52YWx1ZShFdmVudHNCeUFzc2V0Q29sdW1ucy5JTkRFWCwgZXZlbnQuZ2V0SW5kZXgoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnZhbHVlKEV2ZW50c0J5QXNzZXRDb2x1bW5zLk1FU1NBR0UsIGV2ZW50LmdldE1lc3NhZ2UoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnZhbHVlKEV2ZW50c0J5QXNzZXRDb2x1bW5zLlNFVkVSSVRZLCBldmVudC5nZXRTZXZlcml0eSgpKQogICAgICAgICAgICAgICAgICAgICAgICAudmFsdWUoRXZlbnRzQnlBc3NldENvbHVtbnMuU09VUkNFLCBldmVudC5nZXRTb3VyY2UoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnZhbHVlKEV2ZW50c0J5QXNzZXRDb2x1bW5zLlRJTUVTVEFNUCwgZXZlbnQuZ2V0VGltZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAuZXhlY3V0ZSgpOwogICAgICAgICAgICB9CgogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBleCkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJGYWlsZWQgdG8gc2F2ZSBhbGVydHMgIiwgZXgpOwogICAgICAgIH0=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">dHJ5IHsKCiAgICAgICAgICAgIExpc3Q8RXZlbnQ+IGV2ZW50cyA9IGRiRXZlbnRzKHRoaXMuc3RhdHMuZ2V0RXZlbnRzKCkpOwoKICAgICAgICAgICAgZm9yIChFdmVudCBldmVudDogZXZlbnRzKSB7CiAgICAgICAgICAgICAgICB0aGlzLmRiRmFjdG9yeS5kYigpCiAgICAgICAgICAgICAgICAgICAgICAgIC5kYkV2ZW50c0J5QXNzZXQoKQogICAgICAgICAgICAgICAgICAgICAgICAuc2F2ZSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC52YWx1ZShFdmVudHNCeUFzc2V0Q29sdW1ucy5BU1NFVF9JRCwgdGhpcy5zdGF0cy5nZXRBc3NldElkKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC52YWx1ZShFdmVudHNCeUFzc2V0Q29sdW1ucy5JTkRFWCwgZXZlbnQuZ2V0SW5kZXgoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnZhbHVlKEV2ZW50c0J5QXNzZXRDb2x1bW5zLk1FU1NBR0UsIGV2ZW50LmdldE1lc3NhZ2UoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnZhbHVlKEV2ZW50c0J5QXNzZXRDb2x1bW5zLlNFVkVSSVRZLCBldmVudC5nZXRTZXZlcml0eSgpKQogICAgICAgICAgICAgICAgICAgICAgICAudmFsdWUoRXZlbnRzQnlBc3NldENvbHVtbnMuU09VUkNFLCBldmVudC5nZXRTb3VyY2UoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnZhbHVlKEV2ZW50c0J5QXNzZXRDb2x1bW5zLlRJTUVTVEFNUCwgZXZlbnQuZ2V0VGltZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAuZXhlY3V0ZSgpOwogICAgICAgICAgICB9CgogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBleCkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJGYWlsZWQgdG8gc2F2ZSBhbGVydHMgIiwgZXgpOwogICAgICAgIH0=</text>
-      </register>
-      <register name="6" type="4">
-        <text>root /www/data;
-
-    location / {
-      index index.html index.htm;
-      include /etc/nginx/mime.types;
-
-      add_header x-frame-options DENY;
-      add_header x-content-type-options nosniff;
-      add_header strict-transport-security max-age=631138519;
-      add_header x-xss-protection &quot;1;mode=block&quot;;
-    }
-  }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>location =/subdomain-ui/healthcheck {
-      return 200;
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnQoSU5TRVJUX1RFTVBMQVRFLmZvcm1hdCgnMScsICcyJywgJzMnLCAnNCcsICc1JywgJzYnLCAnNycsICc4JywgJzknLCAnMTAnLCAnMTEnLCAnMTInLCAnMTMnKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhc3NldFsnc3lzdGVtX3N0YXRlJ10pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhc3NldFsnc2VydmljZV90YWcnXSwgYXNzZXRbJ3N0b3JhZ2VfZ3JvdXBzJ10sIGFzc2V0WydzdWJkb21haW4nXSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhc3NldFsnbnJfb2ZfZGlhZ25vc3RpY3MnXSwgJ251bGwnLCBhc3NldFsncHJvZHVjdF9tb2RlbCddLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhc3NldFsnZGlhZ25vc3RpY3MnXSwgYXNzZXRbJ2hvc3RuYW1lJ10sIGFzc2V0Wyducl9vZl9hbGVydHMnXSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHJpbnQoSU5TRVJUX1RFTVBMQVRFLmZvcm1hdCgnMScsIGFzc2V0Wydhc3NldF9pZCddLCBhc3NldFsnYWxlcnRzJ10sIGFzc2V0Wydhc3NldF90eXBlJ10sCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnMTMnKSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnMTInLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>20,22y</text>
+        <text>%s/organization\./test\./</text>
       </register>
     </registers>
     <search>
-      <last-search>r3_asset</last-search>
+      <last-search>test\.</last-search>
       <last-offset />
-      <last-pattern>r3_asset</last-pattern>
-      <last-replace>gateway</last-replace>
-      <last-substitute>elastic</last-substitute>
+      <last-pattern>test\.</last-pattern>
+      <last-replace>test\.</last-replace>
+      <last-substitute>organization\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -495,6 +373,11 @@
         <entry>build.plugins</entry>
         <entry>scp</entry>
         <entry>r3_asset</entry>
+        <entry>storage_group</entry>
+        <entry>print</entry>
+        <entry>%s</entry>
+        <entry>organization\.</entry>
+        <entry>test\.</entry>
       </history-search>
       <history-cmd>
         <entry>112,115y</entry>
@@ -517,6 +400,8 @@
         <entry>43,46y</entry>
         <entry>w</entry>
         <entry>20,22y</entry>
+        <entry>11,15y</entry>
+        <entry>%s/organization\./test\./</entry>
       </history-cmd>
       <history-expr />
       <history-input />
