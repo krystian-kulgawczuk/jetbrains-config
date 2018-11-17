@@ -198,12 +198,6 @@
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1542451269555">
-        <mark key="[" line="48" column="30" />
-        <mark key="]" line="48" column="28" />
-        <mark key="." line="48" column="28" />
-        <mark key="^" line="48" column="28" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-organization/README.md" timestamp="1542019366648">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="1" column="19" />
@@ -214,6 +208,9 @@
         <mark key="[" line="32" column="24" />
         <mark key="]" line="32" column="24" />
         <mark key="." line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1542455653766">
+        <mark key="'" line="12" column="21" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Makefile" timestamp="1541769732499">
         <mark key="[" line="2" column="15" />
@@ -311,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" />
       <jump line="30" column="11" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" />
       <jump line="12" column="16" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" />
       <jump line="2" column="18" filename="$USER_HOME$/Projects/new_orbital/orbital-gateway/deploy/marathon-template.json" />
@@ -411,55 +407,80 @@
       <jump line="152" column="11" filename="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/Makefile" />
       <jump line="92" column="25" filename="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" />
       <jump line="103" column="0" filename="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" />
+      <jump line="12" column="21" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTMwMDo5MzAwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>root /www/data;
+
+    location / {
+      index index.html index.htm;
+      include /etc/nginx/mime.types;
+
+      add_header x-frame-options DENY;
+      add_header x-content-type-options nosniff;
+      add_header strict-transport-security max-age=631138519;
+      add_header x-xss-protection &quot;1;mode=block&quot;;
+    }
+  }</text>
       </register>
       <register name="-" type="4">
-        <text>Test Cluster</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>scp</text>
+        <text>r3_asset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oVWlBcGlBcHBsaWNhdGlvbi5jbGFzcywgYXJncyk7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTMwMDo5MzAwIgo=</text>
+      <register name="1" type="4">
+        <text>root /www/data;
+
+    location / {
+      index index.html index.htm;
+      include /etc/nginx/mime.types;
+
+      add_header x-frame-options DENY;
+      add_header x-content-type-options nosniff;
+      add_header strict-transport-security max-age=631138519;
+      add_header x-xss-protection &quot;1;mode=block&quot;;
+    }
+  }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTIwMDo5MjAwIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogZXMK</text>
+      <register name="4" type="4">
+        <text>location =/subdomain-ui/healthcheck {
+      return 200;
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+        <text encoding="base64">ICAgICAgLSAiOTMwMDo5MzAwIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbGFzdGljc2VhcmNoOgo=</text>
+        <text encoding="base64">ICAgICAgLSAiOTIwMDo5MjAwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAiMjE4MToyMTgxIgo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTA5Mjo5MDkyIgo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
       </register>
       <register name=":" type="4">
         <text>20,22y</text>
       </register>
     </registers>
     <search>
-      <last-search>scp</last-search>
+      <last-search>r3_asset</last-search>
       <last-offset />
-      <last-pattern>scp</last-pattern>
+      <last-pattern>r3_asset</last-pattern>
       <last-replace>gateway</last-replace>
       <last-substitute>elastic</last-substitute>
       <last-dir>1</last-dir>
@@ -487,6 +508,7 @@
         <entry>ssl on</entry>
         <entry>build.plugins</entry>
         <entry>scp</entry>
+        <entry>r3_asset</entry>
       </history-search>
       <history-cmd>
         <entry>112,115y</entry>
