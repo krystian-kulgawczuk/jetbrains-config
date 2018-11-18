@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/orbital-common/.gitignore" timestamp="1542274319701">
+        <mark key="'" line="55" column="16" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="177" column="17" />
+        <mark key="." line="177" column="17" />
+        <mark key="^" line="177" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/bootstrap_node.yml" timestamp="1541693582434">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="16" />
@@ -50,10 +57,10 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/repair_cassandra/inserts/copy_to.cql" timestamp="1542546119739">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
+      <file name="$USER_HOME$/dev/repair_cassandra/inserts/copy_to.cql" timestamp="1542547146602">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
         <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repair_cassandra/registered_assets.txt" timestamp="1542465443169">
@@ -108,6 +115,13 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V14_OrganizationMetadataMigration.java" timestamp="1541762715091">
+        <mark key="'" line="36" column="61" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="50" />
+        <mark key="." line="17" column="50" />
+        <mark key="^" line="17" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-organization/build.sh" timestamp="1542020117071">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="50" />
@@ -137,6 +151,13 @@
         <mark key="^" line="54" column="86" />
         <mark key="." line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-qs-501/Jenkinsfile.groovy" timestamp="1541772512261">
+        <mark key="'" line="11" column="36" />
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="56" />
+        <mark key="^" line="40" column="100" />
+        <mark key="." line="11" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Stats.java" timestamp="1542457230848">
         <mark key="'" line="30" column="21" />
       </file>
@@ -151,6 +172,13 @@
         <mark key="]" line="20" column="61" />
         <mark key="^" line="20" column="61" />
         <mark key="." line="20" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1542009672108">
+        <mark key="'" line="148" column="23" />
+        <mark key="[" line="168" column="29" />
+        <mark key="]" line="168" column="29" />
+        <mark key="^" line="160" column="23" />
+        <mark key="." line="168" column="29" />
       </file>
       <file name="$USER_HOME$/dev/notes/cassandra.md" timestamp="1542292765153">
         <mark key="[" line="4" column="14" />
@@ -182,6 +210,13 @@
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/repair_cassandra/inserts/create_tables.cql" timestamp="1542547188298">
+        <mark key="'" line="1432" column="13" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/.deploy/variables.tf" timestamp="1542124990812">
         <mark key="[" line="2" column="13" />
@@ -275,6 +310,13 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/OrganizationMetadataImpl.java" timestamp="1541770180738">
+        <mark key="'" line="131" column="31" />
+        <mark key="[" line="30" column="59" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+        <mark key="^" line="30" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1542449911905">
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
@@ -323,6 +365,13 @@
       <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1542273012525">
         <mark key="[" line="35" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" timestamp="1541770006873">
+        <mark key="'" line="74" column="37" />
+        <mark key="[" line="347" column="79" />
+        <mark key="]" line="347" column="82" />
+        <mark key="^" line="347" column="82" />
+        <mark key="." line="347" column="82" />
+      </file>
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1542269071829">
         <mark key="[" line="35" column="25" />
         <mark key="]" line="103" column="24" />
@@ -369,8 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="31" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="42" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="47" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="53" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
@@ -469,16 +516,18 @@
       <jump line="539" column="4" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="86" column="2" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="84" column="8" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="0" column="16" filename="$USER_HOME$/dev/repair_cassandra/inserts/create_tables.cql" />
+      <jump line="1432" column="13" filename="$USER_HOME$/dev/repair_cassandra/inserts/create_tables.cql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mail_message</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>mail_message</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>container</text>
+        <text>organization</text>
       </register>
       <register name="0" type="4">
         <text>users_by_organization</text>
@@ -511,15 +560,15 @@
         <text encoding="base64">Y29weSByZWdpc3RlcmVkX2Fzc2V0IGZyb20gJy90bXAvY3N2X2JhY2t1cC9yZWdpc3RlcmVkX2Fzc2V0LmNzdic7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/organization\./test\./</text>
+        <text>%s/test\./organization\./g</text>
       </register>
     </registers>
     <search>
-      <last-search>container</last-search>
+      <last-search>organization</last-search>
       <last-offset />
-      <last-pattern>container</last-pattern>
-      <last-replace>test\.</last-replace>
-      <last-substitute>organization\.</last-substitute>
+      <last-pattern>organization</last-pattern>
+      <last-replace>organization\.</last-replace>
+      <last-substitute>test\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -549,7 +598,6 @@
         <entry>print</entry>
         <entry>%s</entry>
         <entry>organization\.</entry>
-        <entry>test\.</entry>
         <entry>r3_asset</entry>
         <entry>diagnostic</entry>
         <entry>file_name</entry>
@@ -560,6 +608,8 @@
         <entry>accessPro</entry>
         <entry>accessProtocols</entry>
         <entry>container</entry>
+        <entry>test\.</entry>
+        <entry>organization</entry>
       </history-search>
       <history-cmd>
         <entry>112,115y</entry>
@@ -584,6 +634,7 @@
         <entry>20,22y</entry>
         <entry>11,15y</entry>
         <entry>%s/organization\./test\./</entry>
+        <entry>%s/test\./organization\./g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
