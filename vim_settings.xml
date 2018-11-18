@@ -26,11 +26,11 @@
       <file name="/a.dummy" timestamp="1542461406496">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/EventsImpl.java" timestamp="1542457598240">
-        <mark key="[" line="32" column="7" />
-        <mark key="]" line="32" column="7" />
-        <mark key="." line="32" column="7" />
-        <mark key="^" line="32" column="7" />
+      <file name="$USER_HOME$/dev/repair_cassandra/create_schema_insert_data.sh" timestamp="1542542232187">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-ui-api/Makefile" timestamp="1542109187847">
         <mark key="[" line="1" column="0" />
@@ -213,7 +213,7 @@
         <mark key="]" line="47" column="111" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" timestamp="1542539979496">
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" timestamp="1542541812081">
         <mark key="'" line="370" column="10" />
         <mark key="[" line="0" column="16" />
         <mark key="]" line="19" column="24" />
@@ -340,11 +340,11 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/model/OutgoingAsset.java" timestamp="1542457897767">
         <mark key="'" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repair_cassandra/inserts/to_insert.cql" timestamp="1542476278631">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
+      <file name="$USER_HOME$/dev/repair_cassandra/inserts/to_insert.cql" timestamp="1542541259293">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/dev/repair_cassandra/r3_asset.json" timestamp="1542461703225">
         <mark key="[" line="0" column="0" />
@@ -460,10 +460,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>container</text>
