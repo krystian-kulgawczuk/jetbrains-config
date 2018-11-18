@@ -35,7 +35,6 @@
       <file name="$USER_HOME$/Projects/orbital-ui-api/Makefile" timestamp="1542109187847">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/config/nginx.conf" timestamp="1542450250949" />
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/Dockerfile" timestamp="1542450311429">
         <mark key="[" line="8" column="36" />
       </file>
@@ -77,6 +76,12 @@
         <mark key="]" line="24" column="97" />
         <mark key="^" line="24" column="97" />
         <mark key="." line="24" column="97" />
+      </file>
+      <file name="$USER_HOME$/dev/repair_cassandra/inserts/create_table.cql" timestamp="1542539996760">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="30" column="42" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" timestamp="1542457630763">
         <mark key="'" line="43" column="25" />
@@ -208,7 +213,7 @@
         <mark key="]" line="47" column="111" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" timestamp="1542474073228">
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" timestamp="1542539979496">
         <mark key="'" line="370" column="10" />
         <mark key="[" line="0" column="16" />
         <mark key="]" line="19" column="24" />
@@ -297,7 +302,6 @@
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1542457336745" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" timestamp="1542457048691">
         <mark key="'" line="27" column="67" />
       </file>
@@ -455,11 +459,11 @@
       <jump line="84" column="8" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>line</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>container</text>
