@@ -22,9 +22,6 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1542461406496">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repair_cassandra/create_schema_insert_data.sh" timestamp="1542542232187">
         <mark key="[" line="6" column="31" />
         <mark key="]" line="6" column="43" />
@@ -37,12 +34,6 @@
         <mark key="." line="32" column="7" />
         <mark key="^" line="32" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-api/Makefile" timestamp="1542109187847">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/Dockerfile" timestamp="1542450311429">
-        <mark key="[" line="8" column="36" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/Makefile" timestamp="1541775683026">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
@@ -54,9 +45,6 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
         <mark key="^" line="22" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/repair_cassandra/registered_assets.txt" timestamp="1542465443169">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-ui-api/pom.xml" timestamp="1542365812382">
         <mark key="[" line="60" column="21" />
@@ -187,9 +175,6 @@
         <mark key="." line="2" column="412" />
         <mark key="^" line="2" column="412" />
       </file>
-      <file name="/Python Console" timestamp="1542473450708">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-prod/gvc-us-prod" timestamp="1541699133073">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="8" />
@@ -244,6 +229,10 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1542457017508">
         <mark key="'" line="54" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/filter/JwtAuthenticationFilter.java" timestamp="1542557591169">
+        <mark key="'" line="38" column="28" />
+        <mark key="[" line="38" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-qs-501/Makefile" timestamp="1541771942375">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="24" />
@@ -262,17 +251,11 @@
         <mark key="]" line="186" column="0" />
         <mark key="." line="186" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repair_cassandra/es_to_cassandra.py" timestamp="1542461329046">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-organization/pom.xml" timestamp="1542029181040">
         <mark key="[" line="69" column="61" />
         <mark key="]" line="69" column="61" />
         <mark key="^" line="65" column="67" />
         <mark key="." line="69" column="61" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/.deploy/desired_cluster_profile" timestamp="1542191870809">
-        <mark key="[" line="11" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1542556011617">
         <mark key="'" line="0" column="0" />
@@ -291,9 +274,6 @@
         <mark key="]" line="31" column="19" />
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1542273012525">
-        <mark key="[" line="35" column="25" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/user/controller/PrincipalController.java" timestamp="1541770006873">
         <mark key="'" line="74" column="37" />
@@ -326,9 +306,6 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/repair_cassandra/r3_asset.json" timestamp="1542461703225">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repair_cassandra/replace_problematic.py" timestamp="1542476505281">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="39" />
@@ -337,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="53" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="59" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="66" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
@@ -437,6 +413,7 @@
       <jump line="0" column="16" filename="$USER_HOME$/dev/repair_cassandra/inserts/create_tables.cql" />
       <jump line="1432" column="13" filename="$USER_HOME$/dev/repair_cassandra/inserts/create_tables.cql" />
       <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="38" column="28" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/filter/JwtAuthenticationFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
