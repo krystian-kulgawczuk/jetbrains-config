@@ -106,7 +106,7 @@
         <mark key="^" line="98" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-gateway/src/main/java/com/quest/orbital/gateway/controller/CodeRegistrationController.java" timestamp="1542631565051" />
-      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/Jenkinsfile.groovy" timestamp="1542637031324" />
+      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/Jenkinsfile.groovy" timestamp="1542715366503" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/AccessToken.java" timestamp="1542621168223" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/impl/JwtImpl.java" timestamp="1542631828357">
         <mark key="'" line="73" column="24" />
@@ -117,6 +117,9 @@
         <mark key="]" line="19" column="24" />
         <mark key="^" line="19" column="24" />
         <mark key="." line="19" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1542715378627">
+        <mark key="'" line="42" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-organization/README.md" timestamp="1542019366648">
         <mark key="[" line="0" column="20" />
@@ -344,7 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="94" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="102" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="108" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
@@ -444,6 +446,7 @@
       <jump line="56" column="63" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/app/config/security/WebSecurityConfig.java" />
       <jump line="73" column="24" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/impl/JwtImpl.java" />
       <jump line="144" column="37" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" />
+      <jump line="42" column="29" filename="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -453,7 +456,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>organization</text>
+        <text>backup-api</text>
       </register>
       <register name="0" type="4">
         <text>users_by_organization</text>
@@ -490,9 +493,9 @@
       </register>
     </registers>
     <search>
-      <last-search>organization</last-search>
+      <last-search>backup-api</last-search>
       <last-offset />
-      <last-pattern>organization</last-pattern>
+      <last-pattern>backup-api</last-pattern>
       <last-replace>organization\.</last-replace>
       <last-substitute>test\.</last-substitute>
       <last-dir>1</last-dir>
@@ -536,6 +539,7 @@
         <entry>container</entry>
         <entry>test\.</entry>
         <entry>organization</entry>
+        <entry>backup-api</entry>
       </history-search>
       <history-cmd>
         <entry>112,115y</entry>
