@@ -130,7 +130,7 @@
         <mark key="^" line="20" column="61" />
         <mark key="." line="20" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/notes/cassandra.md" timestamp="1542719064782">
+      <file name="$USER_HOME$/dev/notes/cassandra.md" timestamp="1542720961470">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="5" column="21" />
         <mark key="^" line="5" column="41" />
@@ -448,7 +448,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>backup-api</text>
+        <text>es_cluster</text>
       </register>
       <register name="0" type="4">
         <text>users_by_organization</text>
@@ -485,9 +485,9 @@
       </register>
     </registers>
     <search>
-      <last-search>backup-api</last-search>
+      <last-search>es_cluster</last-search>
       <last-offset />
-      <last-pattern>backup-api</last-pattern>
+      <last-pattern>es_cluster</last-pattern>
       <last-replace>organization\.</last-replace>
       <last-substitute>test\.</last-substitute>
       <last-dir>1</last-dir>
@@ -515,6 +515,7 @@
         <entry>test\.</entry>
         <entry>organization</entry>
         <entry>backup-api</entry>
+        <entry>es_cluster</entry>
       </history-search>
       <history-cmd>
         <entry>61,63d</entry>
