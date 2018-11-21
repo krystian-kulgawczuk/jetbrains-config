@@ -37,7 +37,7 @@
       <file name="$USER_HOME$/Projects/orbital-gateway/pom.xml" timestamp="1542638112176">
         <mark key="[" line="188" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/backup/SnapshotBackup.java" timestamp="1542791421871" />
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/backup/SnapshotBackup.java" timestamp="1542796220714" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/Makefile" timestamp="1542725596747">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
@@ -137,6 +137,7 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" timestamp="1542456788778">
         <mark key="'" line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/utils/CassandraMonitor.java" timestamp="1542796831876" />
       <file name="$USER_HOME$/.m2/settings.xml" timestamp="1542362979646">
         <mark key="[" line="25" column="56" />
         <mark key="]" line="25" column="56" />
@@ -201,9 +202,10 @@
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/repair_cassandra/inserts/inserts.cql" timestamp="1542796353418" />
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/config/IConfiguration.java" timestamp="1542793875632" />
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1542729028409">
-        <mark key="'" line="568" column="4" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1542796539488">
+        <mark key="'" line="118" column="11" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Makefile" timestamp="1541769732499">
         <mark key="[" line="2" column="15" />
@@ -230,12 +232,6 @@
         <mark key="." line="69" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/cli/Application.java" timestamp="1542791316192" />
-      <file name="/Dummy.txt" timestamp="1542638930084">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-organization/.gitignore" timestamp="1542022600433">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -322,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="136" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="145" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="154" column="12" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
@@ -422,6 +417,7 @@
       <jump line="144" column="2" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="179" column="2" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="568" column="4" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
+      <jump line="118" column="11" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -431,7 +427,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>storage_groups</text>
+        <text>r3</text>
       </register>
       <register name="0" type="4">
         <text>users_by_organization</text>
@@ -468,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search>storage_groups</last-search>
+      <last-search>r3</last-search>
       <last-offset />
-      <last-pattern>storage_groups</last-pattern>
+      <last-pattern>r3</last-pattern>
       <last-replace>organization\.</last-replace>
       <last-substitute>test\.</last-substitute>
       <last-dir>1</last-dir>
@@ -498,6 +494,7 @@
         <entry>backup-api</entry>
         <entry>es_cluster</entry>
         <entry>storage_groups</entry>
+        <entry>r3</entry>
       </history-search>
       <history-cmd>
         <entry>61,63d</entry>
