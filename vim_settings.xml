@@ -37,6 +37,7 @@
       <file name="$USER_HOME$/Projects/orbital-gateway/pom.xml" timestamp="1542638112176">
         <mark key="[" line="188" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/backup/SnapshotBackup.java" timestamp="1542791421871" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/Makefile" timestamp="1542725596747">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
@@ -69,13 +70,6 @@
         <mark key="]" line="0" column="13" />
         <mark key="^" line="30" column="42" />
         <mark key="." line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" timestamp="1542457630763">
-        <mark key="'" line="43" column="25" />
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="51" column="14" />
-        <mark key="^" line="51" column="14" />
-        <mark key="." line="51" column="14" />
       </file>
       <file name="$USER_HOME$/dev/repair_cassandra/to_insert.cql" timestamp="1542476526846">
         <mark key="[" line="0" column="0" />
@@ -140,13 +134,6 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repair_cassandra/es_to_cassandra_r3asset.py" timestamp="1542475393089">
-        <mark key="'" line="95" column="2" />
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="98" column="22" />
-        <mark key="." line="98" column="22" />
-        <mark key="^" line="98" column="30" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" timestamp="1542456788778">
         <mark key="'" line="12" column="17" />
       </file>
@@ -164,13 +151,6 @@
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="5" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/repair_cassandra/inserts/create_tables.cql" timestamp="1542620231488">
-        <mark key="'" line="1432" column="13" />
-        <mark key="[" line="1280" column="21" />
-        <mark key="]" line="1280" column="22" />
-        <mark key="^" line="56" column="22" />
-        <mark key="." line="1280" column="22" />
       </file>
       <file name="$USER_HOME$/dev/terraform_kubernetes/dcos-kubernetes-quickstart/.deploy/variables.tf" timestamp="1542124990812">
         <mark key="[" line="2" column="13" />
@@ -199,13 +179,7 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" timestamp="1542541812081">
-        <mark key="'" line="370" column="10" />
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="19" column="24" />
-        <mark key="^" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-      </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/defaultimpl/CassandraOperations.java" timestamp="1542791506227" />
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1542715378627">
         <mark key="'" line="42" column="29" />
       </file>
@@ -215,6 +189,7 @@
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/cli/Backuper.java" timestamp="1542791331637" />
       <file name="$USER_HOME$/Projects/orbital-organization/README.md" timestamp="1542019366648">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="1" column="19" />
@@ -226,6 +201,7 @@
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/config/IConfiguration.java" timestamp="1542791267056" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1542729028409">
         <mark key="'" line="568" column="4" />
       </file>
@@ -241,20 +217,6 @@
       <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/controller/OrganizationController.java" timestamp="1542721999074">
         <mark key="'" line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/filter/JwtAuthenticationFilter.java" timestamp="1542620605082">
-        <mark key="'" line="18" column="22" />
-        <mark key="[" line="38" column="52" />
-        <mark key="]" line="38" column="50" />
-        <mark key="^" line="38" column="50" />
-        <mark key="." line="38" column="50" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-common/pom.xml" timestamp="1542638202280">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="53" column="47" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-qs-501/Makefile" timestamp="1541771942375">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="24" />
@@ -267,6 +229,7 @@
         <mark key="^" line="65" column="67" />
         <mark key="." line="69" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/cli/Application.java" timestamp="1542791316192" />
       <file name="/Dummy.txt" timestamp="1542638930084">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -297,16 +260,10 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-common/Jenkinsfile.groovy" timestamp="1542637970142">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="29" column="56" />
-        <mark key="]" line="30" column="8" />
-        <mark key="." line="30" column="8" />
-        <mark key="^" line="30" column="8" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/app/config/security/WebSecurityConfig.java" timestamp="1542620562116">
         <mark key="'" line="56" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/config/PriamConfiguration.java" timestamp="1542791275121" />
       <file name="$USER_HOME$/Projects/orbital-gateway/Jenkinsfile.groovy" timestamp="1542637833100">
         <mark key="[" line="23" column="55" />
         <mark key="]" line="23" column="55" />
