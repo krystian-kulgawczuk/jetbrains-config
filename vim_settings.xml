@@ -133,10 +133,11 @@
         <mark key="." line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/utils/CassandraMonitor.java" timestamp="1542796831876" />
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/roles/cassandra_backup/files/make_snaphsot.sh" timestamp="1542880833871">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/roles/cassandra_backup/files/make_snaphsot.sh" timestamp="1542895884915">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/.m2/settings.xml" timestamp="1542362979646">
         <mark key="[" line="25" column="56" />
@@ -189,11 +190,6 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/deploy/marathon.json" timestamp="1542728171918">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/repair_cassandra/inserts/inserts.cql" timestamp="1542796353418" />
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/config/IConfiguration.java" timestamp="1542793875632" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" timestamp="1542796539488">
@@ -219,8 +215,8 @@
         <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/init_node.yml" timestamp="1542878472480" />
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/roles/cassandra_backup/tasks/main.yml" timestamp="1542880741848">
-        <mark key="[" line="0" column="3" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/roles/cassandra_backup/tasks/main.yml" timestamp="1542895853900">
+        <mark key="[" line="2" column="49" />
         <mark key="]" line="6" column="1" />
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
@@ -307,11 +303,6 @@
         <mark key="]" line="12" column="39" />
         <mark key="^" line="11" column="26" />
         <mark key="." line="12" column="39" />
-      </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/newrelic.yml" timestamp="1542727643536">
-        <mark key="[" line="288" column="12" />
-        <mark key="]" line="288" column="12" />
-        <mark key="." line="288" column="12" />
       </file>
     </filemarks>
     <jumps>
