@@ -16,9 +16,6 @@
         <mark key="." line="13" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/backup/AbstractBackup.java" timestamp="1542789957057" />
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/Dockerfile" timestamp="1542726391382">
-        <mark key="[" line="2" column="47" />
-      </file>
       <file name="$USER_HOME$/dev/repair_cassandra/create_schema_insert_data.sh" timestamp="1542542232187">
         <mark key="[" line="6" column="31" />
         <mark key="]" line="6" column="43" />
@@ -30,9 +27,6 @@
         <mark key="]" line="32" column="7" />
         <mark key="." line="32" column="7" />
         <mark key="^" line="32" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-gateway/pom.xml" timestamp="1542638112176">
-        <mark key="[" line="188" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/backup/SnapshotBackup.java" timestamp="1542796220714" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/Makefile" timestamp="1542725596747">
@@ -170,6 +164,7 @@
         <mark key="." line="28" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/cli/Backuper.java" timestamp="1542791331637" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1542873951952" />
       <file name="$USER_HOME$/Projects/orbital-organization/README.md" timestamp="1542019366648">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="1" column="19" />
@@ -198,6 +193,9 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/roles/cassandra_backup/tasks/main.yml" timestamp="1542874526204">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-organization/pom.xml" timestamp="1542029181040">
         <mark key="[" line="69" column="61" />
         <mark key="]" line="69" column="61" />
@@ -216,9 +214,6 @@
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
         <mark key="^" line="24" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/deploy/values/us-dev.env" timestamp="1542725740512">
-        <mark key="[" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/deploy/marathon-template.json" timestamp="1542726835093">
         <mark key="[" line="13" column="28" />
@@ -239,9 +234,6 @@
         <mark key="^" line="103" column="24" />
         <mark key="." line="103" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-common/Makefile" timestamp="1542638534481">
-        <mark key="[" line="0" column="36" />
-      </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/cassandra.yaml" timestamp="1542618469811">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="8" column="42" />
@@ -259,6 +251,12 @@
         <mark key="]" line="0" column="7478" />
         <mark key="^" line="0" column="7478" />
         <mark key="." line="0" column="7478" />
+      </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/cassandra_backup/hosts" timestamp="1542874119492">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repair_cassandra/inserts/to_insert.cql" timestamp="1542541259293">
         <mark key="[" line="0" column="4" />
@@ -382,7 +380,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2FwdHVyZSAnL2Nzdl9iYWNrdXAvdXNlcnNfYnlfb3JnYW5pemF0aW9uLmNzdic7Cg==</text>
+        <text encoding="base64">c2xhdmVzLXB1YmxpYwo=</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -394,31 +392,31 @@
         <text>users_by_organization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2FwdHVyZSAnL2Nzdl9iYWNrdXAvdXNlcnNfYnlfb3JnYW5pemF0aW9uLmNzdic7Cg==</text>
+        <text encoding="base64">c2xhdmVzLXB1YmxpYwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FwdHVyZSAnL2Nzdl9iYWNrdXAvdXNlcl9rZXlzLmNzdic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2FwdHVyZSAnL2Nzdl9iYWNrdXAvdXNlcl9pbnZpdGF0aW9uX2J5X2NvZGUuY3N2JzsK</text>
+        <text encoding="base64">MTAuNC4wLjQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2FwdHVyZSAnL2Nzdl9iYWNrdXAvdXNlci5jc3YnOwo=</text>
+        <text encoding="base64">W3NsYXZlcy1wdWJsaWNdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2FwdHVyZSAnL2Nzdl9iYWNrdXAvdGhyb3VnaHB1dF9jaGFydC5jc3YnOwo=</text>
+        <text encoding="base64">MTAuMi4wLjYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2FwdHVyZSAnL2Nzdl9iYWNrdXAvc3VwcG9ydF9jYXBhYmxlX3VzZXIuY3N2JzsK</text>
+        <text encoding="base64">MTAuMi4wLjUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2FwdHVyZSAnL2Nzdl9iYWNrdXAvc3RvcmFnZV9zYXZpbmdzX2NoYXJ0LmNzdic7Cg==</text>
+        <text encoding="base64">MTAuMi4wLjQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FwdHVyZSAnL2Nzdl9iYWNrdXAvc2NoZW1hX3ZlcnNpb24uY3N2JzsK</text>
+        <text encoding="base64">MTAuMS4wLjYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2FwdHVyZSAnL2Nzdl9iYWNrdXAvcmVnaXN0ZXJlZF9hc3NldC5jc3YnOwo=</text>
+        <text encoding="base64">MTAuMS4wLjUK</text>
       </register>
       <register name=":" type="4">
         <text>%s/copy .* '/capture '/</text>
