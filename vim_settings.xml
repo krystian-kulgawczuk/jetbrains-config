@@ -242,6 +242,12 @@
         <mark key="." line="69" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/cli/Application.java" timestamp="1542791316192" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/make_cassandra_backup.sh" timestamp="1542963476764">
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="54" />
+        <mark key="." line="26" column="54" />
+        <mark key="^" line="26" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-organization/.gitignore" timestamp="1542022600433">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -427,11 +433,11 @@
       <jump line="81" column="0" filename="$USER_HOME$/dev/repair_cassandra/inserts/copy_to.cql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MTAuMy4wLjYK</text>
+      <register name="&quot;" type="4">
+        <text>/path/to/directory-or-file</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>/path/to/directory-or-file</text>
       </register>
       <register name="/" type="4">
         <text>copy .* '</text>
@@ -440,16 +446,16 @@
         <text>users_by_organization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MTAuMy4wLjYK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">MTAuMy4wLjYK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cm0gJHt0ZW1wX2Rpcn0vJHtzbmFwc2hvdF9maWxlfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">MTAuMy4wLjQK</text>
+        <text encoding="base64">IyBjbGVhbnVwCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -458,13 +464,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gZGVidWc6IG1zZz0ie3sgc25hcHNob3RfY21kLnN0ZG91dCB9fSIK</text>
+        <text encoding="base64">ZmkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGF6IHN0b3JhZ2UgYmxvYiB1cGxvYWQgLWYgJHt0ZW1wX2Rpcn0vJHtzbmFwc2hvdF9maWxlfSAtYyBjYXNzYW5kcmEtYmFja3VwIC1uIHNuYXBzaG90X25hbWVzLnR4dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlcjogX2NtZAo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJHtTTkFQU0hPVF9OQU1FfSA+ICR7dGVtcF9kaXJ9LyR7c25hcHNob3RfZmlsZX0K</text>
       </register>
       <register name=":" type="4">
         <text>8,15d</text>
