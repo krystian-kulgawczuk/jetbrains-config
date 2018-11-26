@@ -60,11 +60,11 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/deploy/marathon-template.json" timestamp="1542989163213">
-        <mark key="[" line="59" column="22" />
-        <mark key="]" line="59" column="22" />
-        <mark key="." line="59" column="22" />
-        <mark key="^" line="1" column="30" />
+      <file name="$USER_HOME$/Projects/orbital-organization/deploy/marathon-template.json" timestamp="1543229884870">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V12_OrganizationInvitation.java" timestamp="1541726350542">
         <mark key="[" line="9" column="36" />
@@ -111,11 +111,23 @@
         <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-organization/Dockerfile" timestamp="1542989167527" />
+      <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/controller/OrganizationProxyController.java" timestamp="1543230895827">
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Makefile" timestamp="1541769732499">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/controller/OrganizationController.java" timestamp="1543229423129">
+        <mark key="[" line="16" column="52" />
+        <mark key="]" line="16" column="51" />
+        <mark key="^" line="16" column="51" />
+        <mark key="." line="16" column="51" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-qs-501/Makefile" timestamp="1541771942375">
         <mark key="[" line="4" column="21" />
@@ -137,25 +149,17 @@
         <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/cli/Application.java" timestamp="1542791316192" />
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/make_cassandra_backup.sh" timestamp="1543159565802">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="43" column="4" />
-        <mark key="]" line="43" column="3" />
-        <mark key="." line="43" column="3" />
-        <mark key="^" line="43" column="3" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/make_cassandra_backup.sh" timestamp="1543228629059">
+        <mark key="[" line="68" column="28" />
+        <mark key="]" line="66" column="24" />
+        <mark key="." line="66" column="24" />
+        <mark key="^" line="66" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-organization/.gitignore" timestamp="1542022600433">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="59" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-common/Jenkinsfile.groovy" timestamp="1542978495468">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="29" column="56" />
-        <mark key="]" line="30" column="8" />
-        <mark key="." line="30" column="8" />
-        <mark key="^" line="30" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-gateway/maven-settings.xml" timestamp="1542891161628">
         <mark key="[" line="28" column="12" />
@@ -232,8 +236,8 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/.gitignore" timestamp="1543159358615">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/.gitignore" timestamp="1543228403993">
+        <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="13" />
@@ -250,6 +254,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-organization/src/main/java/com/quest/orbital/organization/controller/OrganizationController.java" timestamp="1543230028165" />
       <file name="$USER_HOME$/.m2/settings.xml" timestamp="1542362979646">
         <mark key="[" line="25" column="56" />
         <mark key="]" line="25" column="56" />
@@ -305,26 +310,15 @@
       </file>
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/cli/Backuper.java" timestamp="1542791331637" />
       <file name="$USER_HOME$/dev/repair_cassandra/inserts/inserts.cql" timestamp="1542796353418" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/README.md" timestamp="1543228565721" />
       <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1542978508133">
         <mark key="[" line="6" column="17" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="8" />
-        <mark key="^" line="13" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/config/IConfiguration.java" timestamp="1542793875632" />
-      <file name="$USER_HOME$/Projects/orbital-common/pom.xml" timestamp="1542889365263">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="51" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="27" />
-        <mark key="^" line="26" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1542981249117">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1543226047803" />
       <file name="$USER_HOME$/Projects/orbital-common/maven-settings.xml" timestamp="1542979666785">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="11" />
@@ -469,10 +463,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9ja2VyIGV4ZWMgLWl0IGF6dXJlX2NsaSBiYXNoIC1jICdzb3VyY2Ugc3RvcmFnZS5lbnYnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>storage_key_name</text>
@@ -481,31 +475,31 @@
         <text>users_by_organization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9ja2VyIGV4ZWMgLWl0IGF6dXJlX2NsaSBiYXNoIC1jICdzb3VyY2Ugc3RvcmFnZS5lbnYnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YW5zaWJsZV9iYWNrdXBfaW52ZW50b3J5PSR7YW5zaWJsZV9kaXJ9L2ludmVudG9yaWVzLyR7aW52ZW50b3J5X25hbWV9L2hvc3RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm0gLWRyICR7YmFja3VwX3RlbXBfZGlyfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Kiovc3RvcmFnZS5lbnYK</text>
+        <text encoding="base64">cm0gJHtiYWNrdXBfdGVtcF9kaXJ9LnRhci5nego=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9ja2VyIHJtIGF6dXJlX2NsaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS4vc2NyaXB0c19jb21tb24vZGVwbG95X21hcmF0aG9uLnB5IC4vZGVwbG95L21hcmF0aG9uLmpzb24K</text>
+        <text encoding="base64">IyBjbGVhbnVwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVwbG95Ogo=</text>
+        <text encoding="base64">c3RvcmFnZV9rZXlfbmFtZT0kMTsgc2hpZnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c291cmNlICRIT01FLyR7c3RvcmFnZV9rZXlfbmFtZX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vZGVwbG95IC4vc2NyaXB0c19jb21tb24vZ2VuZXJhdGVfdGVtcGxhdGUuc2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>8,15d</text>
