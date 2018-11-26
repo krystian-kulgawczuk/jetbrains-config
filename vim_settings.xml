@@ -29,10 +29,12 @@
         <mark key="." line="32" column="7" />
         <mark key="^" line="32" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" timestamp="1543233347030">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="29" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" timestamp="1543241314310">
+        <mark key="'" line="28" column="15" />
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="10" />
+        <mark key="^" line="28" column="10" />
+        <mark key="." line="28" column="10" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V11_AddNameFieldToInvitation.java" timestamp="1541724542627">
         <mark key="[" line="24" column="97" />
@@ -116,11 +118,6 @@
         <mark key="]" line="1" column="19" />
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/deploy/marathon.json" timestamp="1542728171918">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-organization/Dockerfile" timestamp="1542989167527" />
       <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/controller/OrganizationProxyController.java" timestamp="1543230895827">
@@ -211,26 +208,22 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Jenkinsfile.groovy" timestamp="1543234894303">
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Jenkinsfile.groovy" timestamp="1543241992158">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="31" column="56" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="33" column="12" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/Dockerfile" timestamp="1542726391382">
         <mark key="[" line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/cassandra_backup.yml" timestamp="1542900914768">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/backup/SnapshotBackup.java" timestamp="1542796220714" />
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Makefile" timestamp="1543235819106">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="13" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Makefile" timestamp="1543241277102">
+        <mark key="[" line="13" column="90" />
+        <mark key="]" line="13" column="90" />
+        <mark key="." line="13" column="90" />
+        <mark key="^" line="13" column="92" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/Makefile" timestamp="1542725596747">
         <mark key="[" line="3" column="11" />
@@ -338,7 +331,7 @@
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/cli/Backuper.java" timestamp="1542791331637" />
       <file name="$USER_HOME$/dev/repair_cassandra/inserts/inserts.cql" timestamp="1542796353418" />
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/README.md" timestamp="1543228565721" />
-      <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1542978508133">
+      <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1543242019844">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
@@ -353,7 +346,8 @@
         <mark key="^" line="26" column="27" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1543226047803" />
-      <file name="/Dummy.txt" timestamp="1542981249117">
+      <file name="/Dummy.txt" timestamp="1543242023383">
+        <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -393,16 +387,8 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/newrelic.yml" timestamp="1542727643536">
-        <mark key="[" line="288" column="12" />
-        <mark key="]" line="288" column="12" />
-        <mark key="." line="288" column="12" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="276" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="294" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="319" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="345" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="364" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
@@ -500,55 +486,58 @@
       <jump line="18" column="0" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/Jenkinsfile.groovy" />
       <jump line="186" column="32" filename="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/us-dev/config/nginx.conf" />
       <jump line="237" column="0" filename="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/us-dev/config/nginx.conf" />
+      <jump line="5" column="12" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" />
+      <jump line="27" column="19" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" />
+      <jump line="28" column="15" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>profile</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>profile</text>
       </register>
       <register name="/" type="4">
-        <text>keep</text>
+        <text>shift</text>
       </register>
       <register name="0" type="4">
         <text>users_by_organization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHNvdXJjZSAke2Fuc2libGVfYmFja3VwX2ludmVudG9yeX0vc3RvcmFnZS5lbnYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICdkb2NrZXIgbG9naW4gZ3ZjdXNwcm9kLmF6dXJlY3IuaW8gLXUgJFVTRVJOQU1FIC1wICRQQVNTV09SRCcK</text>
+        <text encoding="base64">JHthbnNpYmxlX2JhY2t1cF9pbnZlbnRvcnl9L3N0b3JhZ2UtJHtwcm9maWxlfS5lbnYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWVWYXJpYWJsZTogJ1VTRVJOQU1FJywgcGFzc3dvcmRWYXJpYWJsZTogJ1BBU1NXT1JEJ11dKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtbJGNsYXNzICAgICAgICAgIDogJ1VzZXJuYW1lUGFzc3dvcmRNdWx0aUJpbmRpbmcnLCBjcmVkZW50aWFsc0lkOiAnZG9ja2VyLWxvZ2luJywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZG9ja2VyIGNvbnRhaW5lciBybSBhenVyZV9jbGkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZG9ja2VyIGV4ZWMgLWl0IGF6dXJlX2NsaSBiYXNoIC1jICdzb3VyY2Ugc3RvcmFnZS5lbnYnCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICdkb2NrZXIgbG9naW4gZ3ZjdXNwcm9kLmF6dXJlY3IuaW8gLXUgJFVTRVJOQU1FIC1wICRQQVNTV09SRCcK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWVWYXJpYWJsZTogJ1VTRVJOQU1FJywgcGFzc3dvcmRWYXJpYWJsZTogJ1BBU1NXT1JEJ11dKSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtbJGNsYXNzICAgICAgICAgIDogJ1VzZXJuYW1lUGFzc3dvcmRNdWx0aUJpbmRpbmcnLCBjcmVkZW50aWFsc0lkOiAnZG9ja2VyLWxvZ2luJywK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cm0gLWRyICR7YmFja3VwX3RlbXBfZGlyfQo=</text>
+        <text encoding="base64">ZG9ja2VyIGNvbnRhaW5lciBybSBhenVyZV9jbGkK</text>
       </register>
       <register name=":" type="4">
         <text>8,15d</text>
       </register>
     </registers>
     <search>
-      <last-search>keep</last-search>
+      <last-search>shift</last-search>
       <last-offset />
-      <last-pattern>keep</last-pattern>
+      <last-pattern>shift</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -582,6 +571,7 @@
         <entry>copy .* '</entry>
         <entry>storage_key_name</entry>
         <entry>keep</entry>
+        <entry>shift</entry>
       </history-search>
       <history-cmd>
         <entry>61,63d</entry>
