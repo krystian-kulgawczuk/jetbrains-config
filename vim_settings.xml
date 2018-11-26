@@ -29,12 +29,12 @@
         <mark key="." line="32" column="7" />
         <mark key="^" line="32" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" timestamp="1543241314310">
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" timestamp="1543248973269">
         <mark key="'" line="28" column="15" />
-        <mark key="[" line="28" column="10" />
-        <mark key="]" line="28" column="10" />
-        <mark key="^" line="28" column="10" />
-        <mark key="." line="28" column="10" />
+        <mark key="[" line="59" column="45" />
+        <mark key="]" line="59" column="44" />
+        <mark key="^" line="59" column="44" />
+        <mark key="." line="59" column="44" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V11_AddNameFieldToInvitation.java" timestamp="1541724542627">
         <mark key="[" line="24" column="97" />
@@ -226,7 +226,7 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/backup/SnapshotBackup.java" timestamp="1542796220714" />
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Makefile" timestamp="1543241277102">
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Makefile" timestamp="1543248483605">
         <mark key="[" line="13" column="90" />
         <mark key="]" line="13" column="90" />
         <mark key="." line="13" column="90" />
@@ -502,11 +502,11 @@
       <jump line="28" column="15" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTMwMDo5MzAwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>profile</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>shift</text>
