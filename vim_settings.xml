@@ -73,7 +73,8 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/deploy/marathon-template.json" timestamp="1543229884870">
+      <file name="$USER_HOME$/Projects/orbital-organization/deploy/marathon-template.json" timestamp="1543311271784">
+        <mark key="'" line="32" column="13" />
         <mark key="[" line="1" column="31" />
         <mark key="]" line="1" column="31" />
         <mark key="." line="1" column="31" />
@@ -286,7 +287,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/src/main/java/com/quest/orbital/organization/controller/OrganizationController.java" timestamp="1543230028165" />
+      <file name="$USER_HOME$/Projects/orbital-organization/src/main/java/com/quest/orbital/organization/controller/OrganizationController.java" timestamp="1543311175088" />
       <file name="$USER_HOME$/.m2/settings.xml" timestamp="1542362979646">
         <mark key="[" line="25" column="56" />
         <mark key="]" line="25" column="56" />
@@ -355,7 +356,7 @@
         <mark key="^" line="26" column="27" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1543226047803" />
-      <file name="/Dummy.txt" timestamp="1543249788938">
+      <file name="/Dummy.txt" timestamp="1543311252802">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -400,8 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="345" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="364" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="392" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="412" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
@@ -500,6 +499,8 @@
       <jump line="5" column="12" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" />
       <jump line="27" column="19" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" />
       <jump line="28" column="15" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" />
+      <jump line="46" column="16" filename="$USER_HOME$/Projects/orbital-organization/deploy/marathon-template.json" />
+      <jump line="32" column="13" filename="$USER_HOME$/Projects/orbital-organization/deploy/marathon-template.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -509,7 +510,7 @@
         <text>dev</text>
       </register>
       <register name="/" type="4">
-        <text>shift</text>
+        <text>vip</text>
       </register>
       <register name="0" type="4">
         <text>users_by_organization</text>
@@ -546,9 +547,9 @@
       </register>
     </registers>
     <search>
-      <last-search>shift</last-search>
+      <last-search>vip</last-search>
       <last-offset />
-      <last-pattern>shift</last-pattern>
+      <last-pattern>vip</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -583,6 +584,7 @@
         <entry>storage_key_name</entry>
         <entry>keep</entry>
         <entry>shift</entry>
+        <entry>vip</entry>
       </history-search>
       <history-cmd>
         <entry>61,63d</entry>
