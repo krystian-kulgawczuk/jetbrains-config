@@ -521,7 +521,7 @@
         <text>ix docker path outside of build context</text>
       </register>
       <register name="/" type="4">
-        <text>instances</text>
+        <text>service</text>
       </register>
       <register name="0" type="4">
         <text>users_by_organization</text>
@@ -558,9 +558,9 @@
       </register>
     </registers>
     <search>
-      <last-search>instances</last-search>
+      <last-search>service</last-search>
       <last-offset />
-      <last-pattern>instances</last-pattern>
+      <last-pattern>service</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -598,6 +598,7 @@
         <entry>vip</entry>
         <entry>yml</entry>
         <entry>instances</entry>
+        <entry>service</entry>
       </history-search>
       <history-cmd>
         <entry>61,63d</entry>
