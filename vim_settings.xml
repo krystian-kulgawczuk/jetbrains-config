@@ -3,11 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/backup/AbstractBackup.java" timestamp="1542789957057" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/Dockerfile" timestamp="1543318221482">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/roles/disks/tasks/main.yml" timestamp="1542896487104" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-cassandra-stats/deploy/values/us-dev.env" timestamp="1543315575844">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="3" column="23" />
@@ -46,6 +48,7 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/Jenkinsfile.groovy" timestamp="1543234784920" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/deploy/values/us-dev.env" timestamp="1543313990093">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="23" />
@@ -56,11 +59,15 @@
         <mark key="]" line="8" column="31" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/build.sh" timestamp="1542981106139" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1543391833026" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/deploy/marathon.json" timestamp="1543325433612">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-organization/Dockerfile" timestamp="1542989167527" />
+      <file name="$USER_HOME$/Projects/orbital-ui-api/Jenkinsfile.groovy" timestamp="1543234734040" />
       <file name="$USER_HOME$/Projects/orbital-gateway/maven-settings.xml" timestamp="1542891161628">
         <mark key="[" line="28" column="12" />
         <mark key="]" line="26" column="22" />
@@ -99,6 +106,7 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/backup/SnapshotBackup.java" timestamp="1542796220714" />
       <file name="$USER_HOME$/dev/repair_cassandra/inserts/copy_to.cql" timestamp="1542803946043">
         <mark key="[" line="80" column="48" />
         <mark key="]" line="79" column="0" />
@@ -111,6 +119,7 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="62" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-prod/gvc-us-prod" timestamp="1542902086772" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-charts/build.sh" timestamp="1543318131498">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="31" />
@@ -168,16 +177,21 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/defaultimpl/CassandraOperations.java" timestamp="1542791506227" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-backup-cassandra/Dockerfile" timestamp="1543318195137">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/cli/Backuper.java" timestamp="1542791331637" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/README.md" timestamp="1543228565721" />
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/config/IConfiguration.java" timestamp="1542793875632" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-charts/deploy/marathon-template.json" timestamp="1543322182033">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1543226047803" />
       <file name="/Dummy.txt" timestamp="1543390992864">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
@@ -190,11 +204,13 @@
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/config/PriamConfiguration.java" timestamp="1542798857998" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-manage-button/Dockerfile" timestamp="1543318183219">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/deploy/values/us-prod.env" timestamp="1543314093149" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-auditlog/deploy/marathon-template.json" timestamp="1543322154323">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
@@ -221,11 +237,14 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/utils/CassandraMonitor.java" timestamp="1542796831876" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/init_node.yml" timestamp="1542878472480" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-auditlog/build.sh" timestamp="1543318073756">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="31" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/cli/Application.java" timestamp="1542791316192" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-charts/Dockerfile" timestamp="1543318215658">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -311,6 +330,7 @@
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/repair_cassandra/inserts/inserts.cql" timestamp="1542796353418" />
       <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1543242019844">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="13" column="8" />
