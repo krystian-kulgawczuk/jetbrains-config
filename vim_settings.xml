@@ -139,6 +139,7 @@
       <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/service/AbstractApiProxyServiceImpl.java" timestamp="1543400811601">
         <mark key="'" line="30" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-organization/src/main/resources/db/schema.cql" timestamp="1543404865429" />
       <file name="$USER_HOME$/dev/repair_cassandra/inserts/copy_to.cql" timestamp="1542803946043">
         <mark key="[" line="80" column="48" />
         <mark key="]" line="79" column="0" />
@@ -207,6 +208,9 @@
         <mark key="^" line="38" column="41" />
         <mark key="." line="38" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/ansible/inventories/gvc-us-dev/gvc-us-dev.properties" timestamp="1543158892896">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-cassandra-analytics/Dockerfile" timestamp="1543318199745">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -238,7 +242,7 @@
         <mark key="." line="12" column="16" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1543226047803" />
-      <file name="/Dummy.txt" timestamp="1543390992864">
+      <file name="/Dummy.txt" timestamp="1543404755724">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -257,6 +261,12 @@
         <mark key="." line="3" column="4" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/deploy/values/us-prod.env" timestamp="1543314093149" />
+      <file name="/fragment.java" timestamp="1543404730036">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-manage-button/deploy/values/us-dev.env" timestamp="1543314409007">
+        <mark key="[" line="2" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-auditlog/deploy/marathon-template.json" timestamp="1543322154323">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
@@ -290,6 +300,9 @@
         <mark key="]" line="296" column="30" />
         <mark key="." line="296" column="30" />
         <mark key="^" line="296" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-mail-service/deploy/values/us-dev.env" timestamp="1543315942836">
+        <mark key="[" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/controller/OrganizationProxyController.java" timestamp="1543400652574">
         <mark key="'" line="41" column="93" />
@@ -554,7 +567,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>mime</text>
+        <text>favi</text>
       </register>
       <register name="0" type="4">
         <text>users_by_organization</text>
@@ -591,9 +604,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mime</last-search>
+      <last-search>favi</last-search>
       <last-offset />
-      <last-pattern>mime</last-pattern>
+      <last-pattern>favi</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -633,6 +646,7 @@
         <entry>instances</entry>
         <entry>service</entry>
         <entry>mime</entry>
+        <entry>favi</entry>
       </history-search>
       <history-cmd>
         <entry>61,63d</entry>
