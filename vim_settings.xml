@@ -102,8 +102,8 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/handler/RestTemplateResponseErrorHandler.java" timestamp="1543413710975">
-        <mark key="'" line="45" column="0" />
+      <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/handler/RestTemplateResponseErrorHandler.java" timestamp="1543414872816">
+        <mark key="'" line="25" column="83" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="23" />
@@ -125,6 +125,9 @@
         <mark key="]" line="4" column="40" />
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="62" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE.jar!/org/springframework/http/HttpStatus.class" timestamp="1543414284220">
+        <mark key="'" line="168" column="15" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-prod/gvc-us-prod" timestamp="1542902086772" />
       <file name="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/pom.xml" timestamp="1542028731220">
@@ -158,10 +161,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/src/main/java/com/quest/orbital/organization/controller/OrganizationController.java" timestamp="1543412004976">
-        <mark key="[" line="41" column="35" />
-        <mark key="]" line="41" column="41" />
-        <mark key="." line="41" column="41" />
+      <file name="$USER_HOME$/Projects/orbital-organization/src/main/java/com/quest/orbital/organization/controller/OrganizationController.java" timestamp="1543414426126">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="57" />
+        <mark key="." line="34" column="0" />
         <mark key="^" line="41" column="41" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1542456995964">
@@ -245,8 +248,12 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-mail-service/deploy/values/us-dev.env" timestamp="1543315942836">
         <mark key="[" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/controller/OrganizationProxyController.java" timestamp="1543412224091">
+      <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/controller/OrganizationProxyController.java" timestamp="1543414786911">
         <mark key="'" line="41" column="97" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="36" column="53" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/init_node.yml" timestamp="1542878472480" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-auditlog/build.sh" timestamp="1543318073756">
@@ -285,7 +292,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/handler/RestResponseExceptionHandler.java" timestamp="1543412980387" />
+      <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/handler/RestResponseExceptionHandler.java" timestamp="1543414856850" />
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Makefile" timestamp="1543390980339">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="24" />
@@ -379,8 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="936" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="955" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="977" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1000" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1022" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
@@ -479,13 +484,15 @@
       <jump line="18" column="22" filename="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/handler/RestTemplateResponseErrorHandler.java" />
       <jump line="22" column="29" filename="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/handler/RestTemplateResponseErrorHandler.java" />
       <jump line="45" column="0" filename="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/handler/RestTemplateResponseErrorHandler.java" />
+      <jump line="25" column="83" filename="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/handler/RestTemplateResponseErrorHandler.java" />
+      <jump line="168" column="15" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE.jar!/org/springframework/http/HttpStatus.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwUmVzcG9uc2UuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGVzdDsK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>organizationDto</text>
       </register>
       <register name="/" type="4">
         <text>favi</text>
@@ -494,31 +501,31 @@
         <text>users_by_organization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwUmVzcG9uc2UuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGVzdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwUmVzcG9uc2UuZ2V0Qgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkub2soKS5ib2R5KG9yZ2FuaXphdGlvbkR0byk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIm9yYml0YWwtb3JnYW5pemF0aW9uIiwK</text>
+        <text encoding="base64">ICAgICAgICBodHRwUmVzcG9uc2UuZ2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBodHRwUmVzcG9uc2UuZ2V0Qgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlZJUF8wIjogIm9yYml0YWwtb3JnYW5pemF0aW9uOjgwODAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIm9yYml0YWwtb3JnYW5pemF0aW9uIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICJsYWJlbHMiOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlZJUF8wIjogIm9yYml0YWwtb3JnYW5pemF0aW9uOjgwODAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3h5X2J1ZmZlcmluZyBvZmY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJsYWJlbHMiOiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3h5X3JlcXVlc3RfYnVmZmVyaW5nIG9mZjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>8,15d</text>
