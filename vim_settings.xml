@@ -240,10 +240,10 @@
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1542715378627">
         <mark key="'" line="42" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1543575862582">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="11" column="13" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1543579755208">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
         <mark key="^" line="1" column="57" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/deploy/values/us-prod.env" timestamp="1543316139597">
@@ -744,6 +744,13 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1543578790347">
+        <mark key="'" line="140" column="16" />
+        <mark key="[" line="176" column="10" />
+        <mark key="]" line="176" column="11" />
+        <mark key="^" line="177" column="65" />
+        <mark key="." line="176" column="11" />
+      </file>
       <file name="/Dummy.txt" timestamp="1543483119159">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
@@ -829,12 +836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1000" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="1022" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="1048" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="1069" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="1089" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="1160" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1184" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1186" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1205" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
@@ -929,55 +930,61 @@
       <jump line="25" column="83" filename="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/handler/RestTemplateResponseErrorHandler.java" />
       <jump line="168" column="15" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE.jar!/org/springframework/http/HttpStatus.class" />
       <jump line="15" column="35" filename="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/config/nginx.conf" />
+      <jump line="140" column="22" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
+      <jump line="141" column="70" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
+      <jump line="1" column="50" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
+      <jump line="8" column="44" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
+      <jump line="119" column="14" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
+      <jump line="120" column="16" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>azuredev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>azuredev</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>10\.0</text>
+        <text>disk</text>
       </register>
       <register name="0" type="4">
         <text>users_by_organization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTAuMC4wLjEwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTAuMy4wLjYK</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY1ZjNmLWRiLWFnZW50LTEud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTAuMy4wLjUK</text>
+        <text encoding="base64">c2xhdmVzLXB1YmxpYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTAuMy4wLjQK</text>
+        <text encoding="base64">MTAuNC4wLjQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTAuMi4wLjYK</text>
+        <text encoding="base64">W3NsYXZlcy1wdWJsaWNdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MTAuMi4wLjUK</text>
+        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTAuMi4wLjQK</text>
+        <text encoding="base64">MTAuMC4wLjEwMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MTAuMS4wLjYK</text>
+        <text encoding="base64">MTAuMy4wLjYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>10\.0</last-search>
+      <last-search>disk</last-search>
       <last-offset />
-      <last-pattern>10\.0</last-pattern>
+      <last-pattern>disk</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -1005,6 +1012,7 @@
         <entry>mime</entry>
         <entry>favi</entry>
         <entry>10\.0</entry>
+        <entry>disk</entry>
       </history-search>
       <history-cmd>
         <entry>%s/cassandra/es/g</entry>
