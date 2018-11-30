@@ -73,12 +73,6 @@
         <mark key="^" line="30" column="42" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/us-dev/config/nginx.conf" timestamp="1543493405210">
-        <mark key="'" line="271" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-mail-service/build.sh" timestamp="1543318157902">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="31" />
@@ -146,7 +140,7 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/deploy/marathon-template.json" timestamp="1543491260886">
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/deploy/marathon-template.json" timestamp="1543588266844">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="11" />
@@ -227,11 +221,12 @@
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1542715378627">
         <mark key="'" line="42" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1543585560783">
-        <mark key="[" line="1" column="63" />
-        <mark key="]" line="1" column="63" />
-        <mark key="." line="1" column="63" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1543587280735">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="25" column="12" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/deploy/values/us-prod.env" timestamp="1543316139597">
         <mark key="[" line="3" column="12" />
@@ -325,6 +320,7 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" timestamp="1542457048691">
         <mark key="'" line="27" column="67" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/newrelic.yml" timestamp="1543588262209" />
       <file name="$USER_HOME$/Projects/orbital-gateway/maven-settings.xml" timestamp="1542891161628">
         <mark key="[" line="28" column="12" />
         <mark key="]" line="26" column="22" />
@@ -423,7 +419,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Makefile" timestamp="1543390980339">
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Makefile" timestamp="1543587831673">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
@@ -556,6 +552,7 @@
         <mark key="^" line="177" column="73" />
         <mark key="." line="176" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/orbital-us-dev/orbital-us-dev" timestamp="1543587173141" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" timestamp="1542456788778">
         <mark key="'" line="12" column="17" />
       </file>
@@ -647,6 +644,7 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1543587819356" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-manage-button/deploy/values/us-prod.env" timestamp="1543316196654">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="12" />
@@ -799,8 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1205" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="1225" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1245" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1247" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1266" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
@@ -899,6 +895,8 @@
       <jump line="120" column="16" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
       <jump line="184" column="10" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
       <jump line="320" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
+      <jump line="27" column="12" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -914,31 +912,31 @@
         <text>users_by_organization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY1ZjNmLWRiLWFnZW50LTMud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY1ZjNmLWRiLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY1ZjNmLWRiLWFnZW50LTEud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmOTk2OC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY1ZjNmLWRiLWFnZW50LTEud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
+        <text encoding="base64">TWFzdGVyIFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2xhdmVzLXB1YmxpYwo=</text>
+        <text encoding="base64">UHJpdmF0ZSBEQiBBZ2VudCBQdWJsaWMgSVBzID0gWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTAuNC4wLjQK</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W3NsYXZlcy1wdWJsaWNdCg==</text>
+        <text encoding="base64">UHJpdmF0ZSBFbGFzdGljIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
