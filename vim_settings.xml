@@ -645,10 +645,10 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1543591490368">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1543592249320">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="46" />
+        <mark key="." line="6" column="46" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-manage-button/deploy/values/us-prod.env" timestamp="1543316196654">
         <mark key="[" line="3" column="12" />
@@ -745,6 +745,7 @@
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/Dockerfile" timestamp="1543592928432" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/app/config/security/WebSecurityConfig.java" timestamp="1542620562116">
         <mark key="'" line="56" column="63" />
       </file>
@@ -905,10 +906,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>disk</text>
@@ -917,31 +918,31 @@
         <text>users_by_organization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cl0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAibW9kZSI6ICJSVyIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICAgICAiY29udGFpbmVyUGF0aCI6ICJlc2RhdGFkaXIiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmOTk2OC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TWFzdGVyIFB1YmxpYyBJUHMgPSBbCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">UHJpdmF0ZSBEQiBBZ2VudCBQdWJsaWMgSVBzID0gWwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">XQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">XQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmOTk2OC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">UHJpdmF0ZSBFbGFzdGljIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
+        <text encoding="base64">TWFzdGVyIFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
