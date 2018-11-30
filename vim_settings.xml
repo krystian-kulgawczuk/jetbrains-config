@@ -644,7 +644,11 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1543587819356" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1543588986185">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-manage-button/deploy/values/us-prod.env" timestamp="1543316196654">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="12" />
@@ -900,10 +904,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>disk</text>
