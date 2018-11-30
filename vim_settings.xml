@@ -392,6 +392,11 @@
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V1_AddEmailFieldToOrganization.java" timestamp="1543415504440" />
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/README.md" timestamp="1543228565721" />
       <file name="$USER_HOME$/Projects/Priam/priam/src/main/java/com/netflix/priam/config/IConfiguration.java" timestamp="1542793875632" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1543566937017">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1542631833590">
         <mark key="'" line="149" column="37" />
       </file>
@@ -625,6 +630,12 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
         <mark key="^" line="30" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1543566690364">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="412" />
+        <mark key="." line="2" column="412" />
+        <mark key="^" line="2" column="412" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/cassandra.yaml" timestamp="1542618469811">
         <mark key="[" line="9" column="15" />
@@ -942,11 +953,11 @@
       <jump line="15" column="35" filename="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/config/nginx.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXVybCA9IHNzaDovL2dpdEBnaXQubGFicy5xdWVzdC5jb20vZHBkci9zY3JpcHRzX2NvbW1vbi5naXQK</text>
+      <register name="&quot;" type="4">
+        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDL4Hm4UcazEIhiWMJGWAj6mJErpeBizWbf6md7XIyK9NgqHd1dl9bZQUz4JoXAGj42uI3xvRgNOrWTZDwyv1/K7VB/1mwAtU6xNoEzT4S5ujhpvlx5tYDGAnDPWehAQSvXmRQFh3OYYBDs8VxvnsJL6W+hpjj1OZyNFTyb+wopJ82nvdHKsXvlY+QA3A70cbopB6osXEst3RtCuQ9Ca/IHNEDkxk1bsJF47H6F6D52kUoUSrzR5gspshfRp0cwkKcsT/ox8A+v7BZ6DNhkoWre1cah70JjdM+pLqvEjIx4XLNbHQx7NLQICxUcz6RfbPAZXFUNzH13R91VJcF3K2sx devops@acaisoft.com</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDL4Hm4UcazEIhiWMJGWAj6mJErpeBizWbf6md7XIyK9NgqHd1dl9bZQUz4JoXAGj42uI3xvRgNOrWTZDwyv1/K7VB/1mwAtU6xNoEzT4S5ujhpvlx5tYDGAnDPWehAQSvXmRQFh3OYYBDs8VxvnsJL6W+hpjj1OZyNFTyb+wopJ82nvdHKsXvlY+QA3A70cbopB6osXEst3RtCuQ9Ca/IHNEDkxk1bsJF47H6F6D52kUoUSrzR5gspshfRp0cwkKcsT/ox8A+v7BZ6DNhkoWre1cah70JjdM+pLqvEjIx4XLNbHQx7NLQICxUcz6RfbPAZXFUNzH13R91VJcF3K2sx devops@acaisoft.com</text>
       </register>
       <register name="/" type="4">
         <text>10\.0</text>
