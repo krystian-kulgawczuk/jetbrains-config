@@ -744,12 +744,12 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1543578790347">
-        <mark key="'" line="140" column="16" />
-        <mark key="[" line="176" column="10" />
-        <mark key="]" line="176" column="11" />
-        <mark key="^" line="177" column="65" />
-        <mark key="." line="176" column="11" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1543581739111">
+        <mark key="'" line="330" column="0" />
+        <mark key="[" line="33" column="79" />
+        <mark key="]" line="33" column="80" />
+        <mark key="^" line="31" column="54" />
+        <mark key="." line="33" column="80" />
       </file>
       <file name="/Dummy.txt" timestamp="1543483119159">
         <mark key="a" line="0" column="0" />
@@ -836,8 +836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1184" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="1186" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1205" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1225" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1245" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
@@ -936,6 +934,8 @@
       <jump line="8" column="44" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
       <jump line="119" column="14" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
       <jump line="120" column="16" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
+      <jump line="184" column="10" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
+      <jump line="320" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
