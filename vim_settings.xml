@@ -221,7 +221,7 @@
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1542715378627">
         <mark key="'" line="42" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1543587280735">
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1543597153044">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="17" column="63" />
         <mark key="]" line="17" column="63" />
@@ -610,7 +610,12 @@
         <mark key="]" line="6" column="31" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1543591431506" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1543596886119">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-prod/gvc-us-prod" timestamp="1541699133073">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="8" />
@@ -645,10 +650,11 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1543592249320">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="46" />
-        <mark key="." line="6" column="46" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1543596513125">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-manage-button/deploy/values/us-prod.env" timestamp="1543316196654">
         <mark key="[" line="3" column="12" />
@@ -905,11 +911,11 @@
       <jump line="30" column="0" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3VkbyBta2RpciAtcCAvbW50L21lc29zL3NhbmRib3gvZXNkYXRhZGlyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>disk</text>
@@ -918,31 +924,31 @@
         <text>users_by_organization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cl0sCg==</text>
+        <text encoding="base64">c3VkbyBta2RpciAtcCAvbW50L21lc29zL3NhbmRib3gvZXNkYXRhZGlyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAibW9kZSI6ICJSVyIsCg==</text>
+        <text encoding="base64">ICB9Cl0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiY29udGFpbmVyUGF0aCI6ICJlc2RhdGFkaXIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAibW9kZSI6ICJSVyIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiY29udGFpbmVyUGF0aCI6ICJlc2RhdGFkaXIiLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmOTk2OC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TWFzdGVyIFB1YmxpYyBJUHMgPSBbCg==</text>
+        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmOTk2OC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
