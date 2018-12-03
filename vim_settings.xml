@@ -317,7 +317,7 @@
         <mark key="^" line="31" column="54" />
         <mark key="." line="33" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543871106217">
+      <file name="/Dummy.txt" timestamp="1543873894314">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -410,11 +410,11 @@
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-removal/deploy/marathon.json" timestamp="1543867711604">
         <mark key="[" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543870500036">
-        <mark key="[" line="48" column="95" />
-        <mark key="]" line="28" column="11" />
-        <mark key="." line="28" column="11" />
-        <mark key="^" line="28" column="11" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543873819979">
+        <mark key="[" line="60" column="16" />
+        <mark key="]" line="60" column="16" />
+        <mark key="." line="60" column="16" />
+        <mark key="^" line="56" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-organization/build.sh" timestamp="1542020117071">
         <mark key="[" line="10" column="31" />
@@ -458,12 +458,12 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543870444275">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543873777327">
         <mark key="'" line="28" column="17" />
         <mark key="[" line="66" column="16" />
-        <mark key="]" line="66" column="19" />
-        <mark key="^" line="66" column="19" />
-        <mark key="." line="66" column="19" />
+        <mark key="]" line="66" column="16" />
+        <mark key="^" line="62" column="19" />
+        <mark key="." line="66" column="16" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-cassandra-removal/deploy/values/us-prod.env" timestamp="1543315449948">
         <mark key="[" line="3" column="12" />
@@ -489,9 +489,12 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" timestamp="1543870472343">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" timestamp="1543873800890">
         <mark key="'" line="34" column="100" />
-        <mark key="^" line="62" column="24" />
+        <mark key="[" line="71" column="16" />
+        <mark key="]" line="71" column="16" />
+        <mark key="^" line="67" column="19" />
+        <mark key="." line="71" column="16" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/deploy/marathon.json" timestamp="1543863738994">
         <mark key="[" line="5" column="16" />
@@ -807,10 +810,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eyJhbGciOiJIUzI1NiIsImtpZCI6InNlY3JldCIsInR5cCI6IkpXVCJ9.eyJhdWQiOiIzeUY1VE9TemRsSTQ1UTF4c3B4emVvR0JlOWZOeG05bSIsImVtYWlsIjoia3J5c3RpYW4ua3VsZ2F3Y3p1a0BhY2Fpc29mdC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZXhwIjoxNTQ0MDE5MTIwLCJpYXQiOjE1NDM1ODcxMjAsImlzcyI6Imh0dHBzOi8vZGNvcy5hdXRoMC5jb20vIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMDM1NTYxMzk1NDkzNTc1NzYzNjkiLCJ1aWQiOiJrcnlzdGlhbi5rdWxnYXdjenVrQGFjYWlzb2Z0LmNvbSJ9.SzZCxquGkVkeJXR4sSgqAb4tEzzbI55SVw0jXK7rcmk</text>
+        <text>new cluster properties</text>
       </register>
       <register name="-" type="4">
-        <text>eyJhbGciOiJIUzI1NiIsImtpZCI6InNlY3JldCIsInR5cCI6IkpXVCJ9.eyJhdWQiOiIzeUY1VE9TemRsSTQ1UTF4c3B4emVvR0JlOWZOeG05bSIsImVtYWlsIjoia3J5c3RpYW4ua3VsZ2F3Y3p1a0BhY2Fpc29mdC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZXhwIjoxNTQ0MDE5MTIwLCJpYXQiOjE1NDM1ODcxMjAsImlzcyI6Imh0dHBzOi8vZGNvcy5hdXRoMC5jb20vIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMDM1NTYxMzk1NDkzNTc1NzYzNjkiLCJ1aWQiOiJrcnlzdGlhbi5rdWxnYXdjenVrQGFjYWlzb2Z0LmNvbSJ9.SzZCxquGkVkeJXR4sSgqAb4tEzzbI55SVw0jXK7rcmk</text>
+        <text>new cluster properties</text>
       </register>
       <register name="/" type="4">
         <text>customer_manage</text>
