@@ -9,12 +9,14 @@
         <mark key="." line="3" column="4" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" timestamp="1543585257609" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/schema/charts.json" timestamp="1543826008983" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-cassandra-stats/deploy/values/us-dev.env" timestamp="1543315575844">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="3" column="23" />
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/schema/stats.json" timestamp="1543826343088" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V11_AddNameFieldToInvitation.java" timestamp="1541724542627">
         <mark key="[" line="24" column="97" />
         <mark key="]" line="24" column="97" />
@@ -111,6 +113,7 @@
         <mark key="]" line="8" column="31" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/schema/org_metadata.json" timestamp="1543826049021" />
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V12_AddManageButtonColumnToR3Asset.java" timestamp="1543822781522">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="16" />
@@ -305,11 +308,11 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V18_AddEmailFieldToOrganization.java" timestamp="1543823375126">
-        <mark key="[" line="28" column="62" />
-        <mark key="]" line="11" column="13" />
-        <mark key="^" line="11" column="13" />
-        <mark key="." line="11" column="13" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V18_AddEmailFieldToOrganization.java" timestamp="1543826390442">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="39" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/deploy/marathon.json" timestamp="1541779724413">
         <mark key="[" line="1" column="16" />
@@ -367,6 +370,12 @@
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V21_EmptyMigrationSyncDevProd.java" timestamp="1543826489052">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="56" />
+        <mark key="^" line="13" column="56" />
+        <mark key="." line="13" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-charts/deploy/marathon-template.json" timestamp="1543322182033">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
@@ -377,13 +386,6 @@
         <mark key="]" line="3" column="12" />
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="12" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1543823158180">
-        <mark key="a" line="0" column="0" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/deploy/marathon-template.json" timestamp="1543322146799">
         <mark key="[" line="14" column="15" />
@@ -487,11 +489,11 @@
         <mark key="^" line="54" column="86" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V19_AddEmailFieldToAsset.java" timestamp="1543823451923">
-        <mark key="[" line="28" column="61" />
-        <mark key="]" line="28" column="61" />
-        <mark key="." line="28" column="61" />
-        <mark key="^" line="11" column="13" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V19_AddEmailFieldToAsset.java" timestamp="1543826383841">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="9" column="39" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-charts/deploy/values/us-prod.env" timestamp="1543315589481">
         <mark key="[" line="3" column="12" />
@@ -580,6 +582,7 @@
         <mark key="." line="2" column="2" />
         <mark key="^" line="2" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/schema/organization.json" timestamp="1543826053532" />
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/cassandra.yaml" timestamp="1542618469811">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="8" column="42" />
@@ -592,10 +595,10 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V20_AddOrganizationEmailBySubdomainMaterializedView.java" timestamp="1543823505826">
-        <mark key="[" line="32" column="61" />
-        <mark key="]" line="32" column="62" />
-        <mark key="." line="32" column="62" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V20_AddOrganizationEmailBySubdomainMaterializedView.java" timestamp="1543826377564">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
         <mark key="^" line="32" column="62" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-manage-button/deploy/marathon-template.json" timestamp="1543322142154">
@@ -666,11 +669,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1543823529569">
-        <mark key="[" line="33" column="55" />
-        <mark key="]" line="33" column="54" />
-        <mark key="^" line="33" column="54" />
-        <mark key="." line="33" column="54" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1543826570970">
+        <mark key="[" line="34" column="82" />
+        <mark key="]" line="35" column="59" />
+        <mark key="^" line="35" column="59" />
+        <mark key="." line="35" column="59" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1542017559373">
         <mark key="[" line="160" column="0" />
@@ -906,10 +909,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>disk</text>
