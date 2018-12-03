@@ -339,7 +339,7 @@
         <mark key="^" line="31" column="54" />
         <mark key="." line="33" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543850702836">
+      <file name="/Dummy.txt" timestamp="1543851766633">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -511,12 +511,12 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" timestamp="1543850204415">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" timestamp="1543851760183">
         <mark key="'" line="34" column="100" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="11" />
-        <mark key="." line="41" column="42" />
-        <mark key="^" line="33" column="11" />
+        <mark key="[" line="66" column="17" />
+        <mark key="]" line="66" column="17" />
+        <mark key="." line="66" column="17" />
+        <mark key="^" line="70" column="24" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/roles/cassandra_backup/tasks/main.yml" timestamp="1542899965017">
         <mark key="[" line="7" column="0" />
@@ -844,47 +844,47 @@
       <jump line="39" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/impl/KfImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cEhlYWRlcnMgaGVhZGVycyA9IG5ldyBIdHRwSGVhZGVycygpOwogICAgICAgICAgICBoZWFkZXJzLnNldCgiQXV0aG9yaXphdGlvbiIsICJ0b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0ltdHBaQ0k2SW5ObFkzSmxkQ0lzSW5SNWNDSTZJa3BYVkNKOS5leUpoZFdRaU9pSXplVVkxVkU5VGVtUnNTVFExVVRGNGMzQjRlbVZ2UjBKbE9XWk9lRzA1YlNJc0ltVnRZV2xzSWpvaWEzSjVjM1JwWVc0dWEzVnNaMkYzWTNwMWEwQmhZMkZwYzI5bWRDNWpiMjBpTENKbGJXRnBiRjkyWlhKcFptbGxaQ0k2ZEhKMVpTd2laWGh3SWpveE5UUTBNREU1TVRJd0xDSnBZWFFpT2pFMU5ETTFPRGN4TWpBc0ltbHpjeUk2SW1oMGRIQnpPaTh2WkdOdmN5NWhkWFJvTUM1amIyMHZJaXdpYzNWaUlqb2laMjl2WjJ4bExXOWhkWFJvTW53eE1ETTFOVFl4TXprMU5Ea3pOVGMxTnpZek5qa2lMQ0oxYVdRaU9pSnJjbmx6ZEdsaGJpNXJkV3huWVhkamVuVnJRR0ZqWVdsemIyWjBMbU52YlNKOS5TelpDeHF1R2tWa2VKWFI0c1NncUFiNHRFenpiSTU1U1Z3MGpYSzdyY21rIik7CiAgICAgICAgICAgIEh0dHBFbnRpdHk8U3RyaW5nPiBodHRwRW50aXR5ID0gbmV3IEh0dHBFbnRpdHk8U3RyaW5nPigicGFyYW1ldGVycyIsIGhlYWRlcnMpOwogICAgICAgICAgICBSZXNwb25zZUVudGl0eTxDb25uZWN0aW9uUmVzcG9uc2U+IHJlc3BvbnNlRW50aXR5ID0gY29ubmVjdGlvblRlbXBsYXRlLmV4Y2hhbmdlKCJodHRwOi8vbWFzdGVyLm1lc29zL3NlcnZpY2UvIitjbHVzdGVyTmFtZSsiL3YxL2VuZHBvaW50cy9icm9rZXIiLCBIdHRwTWV0aG9kLkdFVCwgaHR0cEVudGl0eSwgQ29ubmVjdGlvblJlc3BvbnNlLmNsYXNzKTsKICAgICAgICAgICAgQ29ubmVjdGlvblJlc3BvbnNlIGNvbm5lY3Rpb25SZXNwb25zZSA9IHJlc3BvbnNlRW50aXR5LmdldEJvZHkoKTsKCiAgICAgICAgICAgIC8vQ29ubmVjdGlvblJlc3BvbnNlICBjb25uZWN0aW9uUmVzcG9uc2UgPSBjb25uZWN0aW9uVGVtcGxhdGUuZ2V0Rm9yT2JqZWN0KCJodHRwOi8vbWFzdGVyLm1lc29zL3NlcnZpY2UvIitjbHVzdGVyTmFtZSsiL3YxL2VuZHBvaW50cy9icm9rZXIiLCBDb25uZWN0aW9uUmVzcG9uc2UuY2xhc3MpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>9.0.4.7</text>
       </register>
       <register name="-" type="4">
-        <text>TaskResponse</text>
+        <text>9.0.4.7</text>
       </register>
       <register name="/" type="4">
         <text>branch_name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cEhlYWRlcnMgaGVhZGVycyA9IG5ldyBIdHRwSGVhZGVycygpOwogICAgICAgICAgICBoZWFkZXJzLnNldCgiQXV0aG9yaXphdGlvbiIsICJ0b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0ltdHBaQ0k2SW5ObFkzSmxkQ0lzSW5SNWNDSTZJa3BYVkNKOS5leUpoZFdRaU9pSXplVVkxVkU5VGVtUnNTVFExVVRGNGMzQjRlbVZ2UjBKbE9XWk9lRzA1YlNJc0ltVnRZV2xzSWpvaWEzSjVjM1JwWVc0dWEzVnNaMkYzWTNwMWEwQmhZMkZwYzI5bWRDNWpiMjBpTENKbGJXRnBiRjkyWlhKcFptbGxaQ0k2ZEhKMVpTd2laWGh3SWpveE5UUTBNREU1TVRJd0xDSnBZWFFpT2pFMU5ETTFPRGN4TWpBc0ltbHpjeUk2SW1oMGRIQnpPaTh2WkdOdmN5NWhkWFJvTUM1amIyMHZJaXdpYzNWaUlqb2laMjl2WjJ4bExXOWhkWFJvTW53eE1ETTFOVFl4TXprMU5Ea3pOVGMxTnpZek5qa2lMQ0oxYVdRaU9pSnJjbmx6ZEdsaGJpNXJkV3huWVhkamVuVnJRR0ZqWVdsemIyWjBMbU52YlNKOS5TelpDeHF1R2tWa2VKWFI0c1NncUFiNHRFenpiSTU1U1Z3MGpYSzdyY21rIik7CiAgICAgICAgICAgIEh0dHBFbnRpdHk8U3RyaW5nPiBodHRwRW50aXR5ID0gbmV3IEh0dHBFbnRpdHk8U3RyaW5nPigicGFyYW1ldGVycyIsIGhlYWRlcnMpOwogICAgICAgICAgICBSZXNwb25zZUVudGl0eTxDb25uZWN0aW9uUmVzcG9uc2U+IHJlc3BvbnNlRW50aXR5ID0gY29ubmVjdGlvblRlbXBsYXRlLmV4Y2hhbmdlKCJodHRwOi8vbWFzdGVyLm1lc29zL3NlcnZpY2UvIitjbHVzdGVyTmFtZSsiL3YxL2VuZHBvaW50cy9icm9rZXIiLCBIdHRwTWV0aG9kLkdFVCwgaHR0cEVudGl0eSwgQ29ubmVjdGlvblJlc3BvbnNlLmNsYXNzKTsKICAgICAgICAgICAgQ29ubmVjdGlvblJlc3BvbnNlIGNvbm5lY3Rpb25SZXNwb25zZSA9IHJlc3BvbnNlRW50aXR5LmdldEJvZHkoKTsKCiAgICAgICAgICAgIC8vQ29ubmVjdGlvblJlc3BvbnNlICBjb25uZWN0aW9uUmVzcG9uc2UgPSBjb25uZWN0aW9uVGVtcGxhdGUuZ2V0Rm9yT2JqZWN0KCJodHRwOi8vbWFzdGVyLm1lc29zL3NlcnZpY2UvIitjbHVzdGVyTmFtZSsiL3YxL2VuZHBvaW50cy9icm9rZXIiLCBDb25uZWN0aW9uUmVzcG9uc2UuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5ldFNvY2tldEFkZHJlc3MgaW5ldFNvY2tldEFkZHJlc3MgPSBuZXcgSW5ldFNvY2tldEFkZHJlc3MoCiAgICAgICAgICAgICAgICAiOS4wLjQuNyIsCiAgICAgICAgICAgICAgICAxMDI2CiAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRyZXNzZXNbMF0gPSBuZXcgSW5ldFNvY2tldFRyYW5zcG9ydEFkZHJlc3MoaW5ldFNvY2tldEFkZHJlc3MpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5ldFNvY2tldEFkZHJlc3NbMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpLnRvQXJyYXkobmV3IEluZXRTb2NrZXRUcmFuc3BvcnRBZGRyZXNzWzBdKTsK</text>
+        <text encoding="base64">bm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5ldFNvY2tldEFkZHJlc3NbMF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nW10gdmFsdWVzID0gdGFzay5nZXRUcmFuc3BvcnRfYWRkcmVzcygpLnNwbGl0KCI6IiwgMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpLnRvQXJyYXkobmV3IEluZXRTb2NrZXRUcmFuc3BvcnRBZGRyZXNzWzBdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKHRhc2sgLT4gewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFycmF5cy5zdHJlYW0ocmVzcG9uc2VzKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBhZGRyZXNzOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nW10gdmFsdWVzID0gdGFzay5nZXRUcmFuc3BvcnRfYWRkcmVzcygpLnNwbGl0KCI6IiwgMik7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKHRhc2sgLT4gewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFycmF5cy5zdHJlYW0ocmVzcG9uc2VzKQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>78,84y</text>
+        <text>62,65y</text>
       </register>
     </registers>
     <search>
@@ -944,6 +944,7 @@
         <entry>w</entry>
         <entry>54,58y</entry>
         <entry>78,84y</entry>
+        <entry>62,65y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
