@@ -339,7 +339,7 @@
         <mark key="^" line="31" column="54" />
         <mark key="." line="33" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543858419143">
+      <file name="/Dummy.txt" timestamp="1543859594226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -435,7 +435,7 @@
         <mark key="^" line="85" column="31" />
         <mark key="." line="85" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543858360345">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543859588168">
         <mark key="[" line="48" column="95" />
         <mark key="]" line="28" column="11" />
         <mark key="." line="28" column="11" />
@@ -486,12 +486,12 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543858320459">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543859575246">
         <mark key="'" line="28" column="17" />
-        <mark key="[" line="55" column="95" />
-        <mark key="]" line="55" column="94" />
-        <mark key="^" line="55" column="94" />
-        <mark key="." line="55" column="94" />
+        <mark key="[" line="65" column="23" />
+        <mark key="]" line="65" column="23" />
+        <mark key="^" line="65" column="23" />
+        <mark key="." line="65" column="23" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-cassandra-removal/deploy/values/us-prod.env" timestamp="1543315449948">
         <mark key="[" line="3" column="12" />
@@ -517,12 +517,9 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" timestamp="1543858298345">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" timestamp="1543859580095">
         <mark key="'" line="34" column="100" />
-        <mark key="[" line="66" column="17" />
-        <mark key="]" line="66" column="17" />
-        <mark key="." line="66" column="17" />
-        <mark key="^" line="70" column="24" />
+        <mark key="^" line="62" column="24" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/roles/cassandra_backup/tasks/main.yml" timestamp="1542899965017">
         <mark key="[" line="7" column="0" />
@@ -854,10 +851,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>hardcode sockets</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>hardcode sockets</text>
       </register>
       <register name="/" type="4">
         <text>customer_manage</text>
