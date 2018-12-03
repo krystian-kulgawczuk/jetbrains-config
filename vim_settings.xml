@@ -88,12 +88,8 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1543597153044">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="17" column="63" />
-        <mark key="]" line="17" column="63" />
-        <mark key="." line="17" column="63" />
-        <mark key="^" line="25" column="12" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1543870078018">
+        <mark key="'" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/metadata/fields/OrganizationColumns.java" timestamp="1543830623210">
         <mark key="[" line="11" column="4" />
@@ -399,6 +395,9 @@
         <mark key="^" line="85" column="31" />
         <mark key="." line="85" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-removal/deploy/marathon.json" timestamp="1543867711604">
+        <mark key="[" line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543859588168">
         <mark key="[" line="48" column="95" />
         <mark key="]" line="28" column="11" />
@@ -626,9 +625,6 @@
         <mark key="." line="2" column="412" />
         <mark key="^" line="2" column="412" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Makefile" timestamp="1543862720167">
-        <mark key="'" line="39" column="13" />
-      </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1543771993175">
         <mark key="[" line="9" column="33" />
         <mark key="]" line="9" column="33" />
@@ -793,11 +789,11 @@
       <jump line="39" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY3ZmU1LXB1YmxpYy1hZ2VudC0xLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20K</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>customer_manage</text>
@@ -806,31 +802,31 @@
         <text encoding="base64">ICAgICAgICAgICAgSW5ldFNvY2tldEFkZHJlc3MgaW5ldFNvY2tldEFkZHJlc3MgPSBuZXcgSW5ldFNvY2tldEFkZHJlc3MoCiAgICAgICAgICAgICAgICAiOS4wLjQuNyIsCiAgICAgICAgICAgICAgICAxMDI2CiAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5lbGFzdGljc2VhcmNoLnVzZS5tYXJhdGhvbj1mYWxzZQo=</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY3ZmU1LXB1YmxpYy1hZ2VudC0xLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5lbGFzdGljc2VhcmNoLnVzZS5tYXJhdGhvbj1mYWxzZQo=</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY5OTY4LXB1YmxpYy1hZ2VudC0xLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5lbGFzdGljc2VhcmNoLnVzZS5tYXJhdGhvbj1mYWxzZQo=</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY5OTY4LXB1YmxpYy1hZ2VudC0xLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5lbGFzdGljc2VhcmNoLnVzZS5tYXJhdGhvbj1mYWxzZQo=</text>
+        <text encoding="base64">UHJpdmF0ZSBHZW5lcmFsIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRyZXNzZXNbMF0gPSBuZXcgSW5ldFNvY2tldFRyYW5zcG9ydEFkZHJlc3MoaW5ldFNvY2tldEFkZHJlc3MpOwo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkCg==</text>
+        <text encoding="base64">UHJpdmF0ZSBHYXRld2F5IEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm4K</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5ldFNvY2tldEFkZHJlc3NbMF07Cg==</text>
+        <text encoding="base64">UHJpdmF0ZSBFbGFzdGljIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpLnRvQXJyYXkobmV3IEluZXRTb2NrZXRUcmFuc3BvcnRBZGRyZXNzWzBdKTsK</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name=":" type="4">
         <text>62,65y</text>
