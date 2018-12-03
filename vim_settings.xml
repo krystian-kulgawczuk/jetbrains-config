@@ -20,6 +20,13 @@
         <mark key="^" line="24" column="51" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/schema/org_metadata.json" timestamp="1543826049021" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1543597153044">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="25" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/metadata/fields/OrganizationColumns.java" timestamp="1543830623210">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="4" />
@@ -40,6 +47,7 @@
         <mark key="." line="46" column="16" />
         <mark key="^" line="46" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V6_MigrateUserRolesToJunctionTable.java" timestamp="1543839501347" />
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V11_AddSentAlertTable.java" timestamp="1543822757181">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="16" />
@@ -87,8 +95,17 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543837529307">
+      <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1543581739111">
+        <mark key="'" line="330" column="0" />
+        <mark key="[" line="33" column="79" />
+        <mark key="]" line="33" column="80" />
+        <mark key="^" line="31" column="54" />
+        <mark key="." line="33" column="80" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1543840823844">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-gateway/Jenkinsfile.groovy" timestamp="1543836810921">
         <mark key="'" line="35" column="8" />
@@ -101,17 +118,25 @@
         <mark key="^" line="22" column="51" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V15_AddSentAlertTable.java" timestamp="1543823174881" />
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/support/DcosCassandraCluster.java" timestamp="1543836658945">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/support/DcosCassandraCluster.java" timestamp="1543840001839">
         <mark key="[" line="48" column="27" />
         <mark key="]" line="48" column="27" />
         <mark key="^" line="44" column="77" />
         <mark key="." line="48" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1543837788191">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1543839769239">
+        <mark key="'" line="30" column="24" />
         <mark key="[" line="6" column="43" />
         <mark key="]" line="6" column="46" />
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-contact-kafka/src/main/java/portal/ack/kafka/impl/KfImpl.java" timestamp="1543840705095">
+        <mark key="'" line="44" column="64" />
+        <mark key="[" line="85" column="31" />
+        <mark key="]" line="85" column="31" />
+        <mark key="^" line="85" column="31" />
+        <mark key="." line="85" column="31" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/resources/application-us-dev.properties" timestamp="1543830157439">
         <mark key="[" line="25" column="44" />
@@ -125,6 +150,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543840787885">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" timestamp="1543840806114" />
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1543837736509">
         <mark key="[" line="53" column="9" />
         <mark key="]" line="54" column="8" />
@@ -180,8 +211,6 @@
       <file name="$USER_HOME$/dev/terraform_dcos/.terraform/modules/e4a6a8cc6da9929478cb30e9d495f169/open/dcos-versions/1.11.0-rc4/dcos-bootstrap/templates/upgrade/run.sh" timestamp="1543835328266" />
     </filemarks>
     <jumps>
-      <jump line="1322" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
-      <jump line="1344" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1366" column="13" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1387" column="25" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
       <jump line="1389" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/creteNewCassandra.cql" />
@@ -280,13 +309,15 @@
       <jump line="35" column="8" filename="$USER_HOME$/Projects/orbital-gateway/Jenkinsfile.groovy" />
       <jump line="29" column="65" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/support/DcosCassandraCluster.java" />
       <jump line="35" column="47" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/support/DcosCassandraCluster.java" />
+      <jump line="30" column="24" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="41" column="64" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-contact-kafka/src/main/java/portal/ack/kafka/impl/KfImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>added migrations</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>added migrations</text>
       </register>
       <register name="/" type="4">
         <text>branch_name</text>
@@ -295,31 +326,31 @@
         <text>users_by_organization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybCwgSHR0cE1ldGhvZC5HRVQsIGVudGl0eSwgQ29ubmVjdGlvblJlc3BvbnNlLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2VFbnRpdHk8VGFza1Jlc3BvbnNlW10+IHJlc3BvbnNlRW50aXR5ID0gdGFza1RlbXBsYXRlLmdldEZvckVudGl0eSh0YXNrVXJsLCBUYXNrUmVzcG9uc2VbXS5jbGFzcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2VFbnRpdHk8Q29ubmVjdGlvblJlc3BvbnNlPiByZXNwb25zZSA9IGNvbm5lY3Rpb25UZW1wbGF0ZS5leGNoYW5nZSgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzdFRlbXBsYXRlIHRhc2tUZWRkbXBsYXRlID0gbmV3IFJlc3RUZW1wbGF0ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cEVudGl0eSBlbnRpdHkgPSBuZXcgSHR0cEVudGl0eShoZWFkZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybCwgSHR0cE1ldGhvZC5HRVQsIGVudGl0eSwgQ29ubmVjdGlvblJlc3BvbnNlLmNsYXNzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVycy5zZXQoSHR0cEhlYWRlcnMuQVVUSE9SSVpBVElPTiwgInRva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW10cFpDSTZJbk5sWTNKbGRDSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhkV1FpT2lJemVVWTFWRTlUZW1Sc1NUUTFVVEY0YzNCNGVtVnZSMEpsT1daT2VHMDViU0lzSW1WdFlXbHNJam9pYTNKNWMzUnBZVzR1YTNWc1oyRjNZM3AxYTBCaFkyRnBjMjltZEM1amIyMGlMQ0psYldGcGJGOTJaWEpwWm1sbFpDSTZkSEoxWlN3aVpYaHdJam94TlRRME1ERTVNVEl3TENKcFlYUWlPakUxTkRNMU9EY3hNakFzSW1semN5STZJbWgwZEhCek9pOHZaR052Y3k1aGRYUm9NQzVqYjIwdklpd2ljM1ZpSWpvaVoyOXZaMnhsTFc5aGRYUm9Nbnd4TURNMU5UWXhNemsxTkRrek5UYzFOell6TmpraUxDSjFhV1FpT2lKcmNubHpkR2xoYmk1cmRXeG5ZWGRqZW5WclFHRmpZV2x6YjJaMExtTnZiU0o5LlN6WkN4cXVHa1ZrZUpYUjRzU2dxQWI0dEV6emJJNTVTVncwalhLN3JjbWsiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2VFbnRpdHk8Q29ubmVjdGlvblJlc3BvbnNlPiByZXNwb25zZSA9IGNvbm5lY3Rpb25UZW1wbGF0ZS5leGNoYW5nZSgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cEhlYWRlcnMgaGVhZGVycyA9IG5ldyBIdHRwSGVhZGVycygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cEVudGl0eSBlbnRpdHkgPSBuZXcgSHR0cEVudGl0eShoZWFkZXJzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVycy5zZXQoIkF1dGhvcml6YXRpb24iLCAidG9rZW49IiArIHRva2VuKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaGVhZGVycy5zZXQoSHR0cEhlYWRlcnMuQVVUSE9SSVpBVElPTiwgInRva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW10cFpDSTZJbk5sWTNKbGRDSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhkV1FpT2lJemVVWTFWRTlUZW1Sc1NUUTFVVEY0YzNCNGVtVnZSMEpsT1daT2VHMDViU0lzSW1WdFlXbHNJam9pYTNKNWMzUnBZVzR1YTNWc1oyRjNZM3AxYTBCaFkyRnBjMjltZEM1amIyMGlMQ0psYldGcGJGOTJaWEpwWm1sbFpDSTZkSEoxWlN3aVpYaHdJam94TlRRME1ERTVNVEl3TENKcFlYUWlPakUxTkRNMU9EY3hNakFzSW1semN5STZJbWgwZEhCek9pOHZaR052Y3k1aGRYUm9NQzVqYjIwdklpd2ljM1ZpSWpvaVoyOXZaMnhsTFc5aGRYUm9Nbnd4TURNMU5UWXhNemsxTkRrek5UYzFOell6TmpraUxDSjFhV1FpT2lKcmNubHpkR2xoYmk1cmRXeG5ZWGRqZW5WclFHRmpZV2x6YjJaMExtTnZiU0o5LlN6WkN4cXVHa1ZrZUpYUjRzU2dxQWI0dEV6emJJNTVTVncwalhLN3JjbWsiKTsK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cEhlYWRlcnMgaGVhZGVycyA9IG5ldyBIdHRwSGVhZGVycygpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVycy5zZXQoIkF1dGhvcml6YXRpb24iLCAidG9rZW49IiArIHRva2VuKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvblRlbXBsYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVycy5zZXQoSHR0cEhlYWRlcnMuQVVUSE9SSVpBVElPTiwgInRva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW10cFpDSTZJbk5sWTNKbGRDSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmhkV1FpT2lJemVVWTFWRTlUZW1Sc1NUUTFVVEY0YzNCNGVtVnZSMEpsT1daT2VHMDViU0lzSW1WdFlXbHNJam9pYTNKNWMzUnBZVzR1YTNWc1oyRjNZM3AxYTBCaFkyRnBjMjltZEM1amIyMGlMQ0psYldGcGJGOTJaWEpwWm1sbFpDSTZkSEoxWlN3aVpYaHdJam94TlRRME1ERTVNVEl3TENKcFlYUWlPakUxTkRNMU9EY3hNakFzSW1semN5STZJbWgwZEhCek9pOHZaR052Y3k1aGRYUm9NQzVqYjIwdklpd2ljM1ZpSWpvaVoyOXZaMnhsTFc5aGRYUm9Nbnd4TURNMU5UWXhNemsxTkRrek5UYzFOell6TmpraUxDSjFhV1FpT2lKcmNubHpkR2xoYmk1cmRXeG5ZWGRqZW5WclFHRmpZV2x6YjJaMExtTnZiU0o5LlN6WkN4cXVHa1ZrZUpYUjRzU2dxQWI0dEV6emJJNTVTVncwalhLN3JjbWsiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
