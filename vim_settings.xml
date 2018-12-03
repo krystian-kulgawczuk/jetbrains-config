@@ -80,7 +80,11 @@
         <mark key="^" line="24" column="51" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/schema/org_metadata.json" timestamp="1543826049021" />
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/metadata/fields/OrganizationColumns.java" timestamp="1543830479015" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/metadata/fields/OrganizationColumns.java" timestamp="1543830623210">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/deploy/values/us-prod.env" timestamp="1543314349646">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="21" />
@@ -507,11 +511,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1543826570970">
-        <mark key="[" line="34" column="82" />
-        <mark key="]" line="35" column="59" />
-        <mark key="^" line="35" column="59" />
-        <mark key="." line="35" column="59" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1543831403518">
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="57" />
+        <mark key="." line="37" column="57" />
+        <mark key="^" line="37" column="57" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1542017559373">
         <mark key="[" line="160" column="0" />
@@ -692,10 +696,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>disk</text>
@@ -704,31 +708,31 @@
         <text>users_by_organization</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cG9ydGFsLmFuYWx5dGljcy5lbGFzdGljc2VhcmNoLnVzZS5tYXJhdGhvbj1mYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLmFkZChuZXcgVjE5X0FkZEVtYWlsRmllbGRUb0Fzc2V0KCkpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cG9ydGFsLmFuYWx5dGljcy5lbGFzdGljc2VhcmNoLnVzZS5tYXJhdGhvbj1mYWxzZQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">VjEwX1JlbW92ZVVzZXJBc3NpZ25lZE9yZ2FuaXphdGlvbnNDb2x1bW5zKCkpOwoKICAgIH0KCiAgICBTZXQ8TWlncmF0aW9uPiBnZXRNaWdyYXRpb25zKCkgewogICAgICAgIHZhbGlkYXRlVmVyc2lvbnMoKTsKICAgICAgICBtaWdyYXRpb25zLnNvcnQoQ29tcGFyYXRvci5jb21wYXJpbmdJbnQoTWlncmF0aW9uOjpnZXRWZXJzaW9uKSk7CiAgICAgICAgcmV0dXJuIG5ldyBMaW5rZWRIYXNoU2V0PD4obWlncmF0aW9ucyk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3VkbyBta2RpciAtcCAvbW50L21lc29zL3NhbmRib3gvZXNkYXRhZGlyCg==</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLmFkZChuZXcgVjEwX1JlbW92ZVVzZXJBc3NpZ25lZE9yZ2FuaXphdGlvbnNDb2x1bW5zKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cl0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAibW9kZSI6ICJSVyIsCg==</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLmFkZChuZXcgVjEwX1JlbW92ZVVzZXJBc3NpZ25lZE9yZ2FuaXphdGlvbnNDb2x1bW5zKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiY29udGFpbmVyUGF0aCI6ICJlc2RhdGFkaXIiLAo=</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLmFkZChuZXcgVjEzX0FkZFZlcnNpb25Db2x1bW5Ub1IzQXNzZXQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLmFkZChuZXcgVjEyX0FkZE1hbmFnZUJ1dHRvbkNvbHVtblRvUjNBc3NldCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLmFkZChuZXcgVjExX0FkZFNlbnRBbGVydFRhYmxlKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLmFkZChuZXcgVjNfQWRkT3JnYW5pemF0aW9uRW1haWxCeVN1YmRvbWFpbk1hdGVyaWFsaXplZFZpZXcoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
