@@ -511,7 +511,7 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" timestamp="1543851760183">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" timestamp="1543852735715">
         <mark key="'" line="34" column="100" />
         <mark key="[" line="66" column="17" />
         <mark key="]" line="66" column="17" />
@@ -678,6 +678,9 @@
         <mark key="." line="2" column="412" />
         <mark key="^" line="2" column="412" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Makefile" timestamp="1543854921926">
+        <mark key="'" line="39" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1543771993175">
         <mark key="[" line="9" column="33" />
         <mark key="]" line="9" column="33" />
@@ -742,7 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="4580" filename="$USER_HOME$/dev/repair_cassandra/inserts/inserts.cql" />
       <jump line="539" column="4" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="86" column="2" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="84" column="8" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
@@ -842,6 +844,7 @@
       <jump line="83" column="30" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/impl/KfImpl.java" />
       <jump line="40" column="114" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/impl/KfImpl.java" />
       <jump line="39" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/impl/KfImpl.java" />
+      <jump line="39" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -851,7 +854,7 @@
         <text>9.0.4.7</text>
       </register>
       <register name="/" type="4">
-        <text>branch_name</text>
+        <text>customer_manage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSW5ldFNvY2tldEFkZHJlc3MgaW5ldFNvY2tldEFkZHJlc3MgPSBuZXcgSW5ldFNvY2tldEFkZHJlc3MoCiAgICAgICAgICAgICAgICAiOS4wLjQuNyIsCiAgICAgICAgICAgICAgICAxMDI2CiAgICAgICAgICAgICk7Cg==</text>
@@ -888,9 +891,9 @@
       </register>
     </registers>
     <search>
-      <last-search>branch_name</last-search>
+      <last-search>customer_manage</last-search>
       <last-offset />
-      <last-pattern>branch_name</last-pattern>
+      <last-pattern>customer_manage</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -920,6 +923,7 @@
         <entry>10\.0</entry>
         <entry>disk</entry>
         <entry>branch_name</entry>
+        <entry>customer_manage</entry>
       </history-search>
       <history-cmd>
         <entry>%s/cassandra/es/g</entry>
