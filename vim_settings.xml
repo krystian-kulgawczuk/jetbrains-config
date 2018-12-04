@@ -229,7 +229,7 @@
       <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/service/OrganizationApiProxyServiceImpl.java" timestamp="1543412351331">
         <mark key="'" line="21" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" timestamp="1543909044080">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" timestamp="1543921041987">
         <mark key="'" line="74" column="26" />
         <mark key="[" line="66" column="20" />
         <mark key="]" line="27" column="60" />
@@ -567,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="37" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" />
       <jump line="42" column="29" filename="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
       <jump line="23" column="31" filename="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/controller/OrganizationController.java" />
       <jump line="493" column="40" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
@@ -655,6 +654,10 @@
       <jump line="40" column="114" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/impl/KfImpl.java" />
       <jump line="39" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/impl/KfImpl.java" />
       <jump line="39" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Makefile" />
+      <jump line="22" column="38" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/pom.xml" />
+      <jump line="18" column="25" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" />
+      <jump line="44" column="37" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/ElasticConfig.java" />
+      <jump line="26" column="7" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
       <jump line="27" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
       <jump line="28" column="19" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
       <jump line="30" column="19" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
@@ -664,9 +667,6 @@
       <jump line="66" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
       <jump line="70" column="26" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
       <jump line="74" column="26" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
-      <jump line="22" column="38" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/pom.xml" />
-      <jump line="18" column="25" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" />
-      <jump line="44" column="37" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/ElasticConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -676,7 +676,7 @@
         <text>change es cluster discovery</text>
       </register>
       <register name="/" type="4">
-        <text>elasticsearch.version</text>
+        <text>curl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSW5ldFNvY2tldEFkZHJlc3MgaW5ldFNvY2tldEFkZHJlc3MgPSBuZXcgSW5ldFNvY2tldEFkZHJlc3MoCiAgICAgICAgICAgICAgICAiOS4wLjQuNyIsCiAgICAgICAgICAgICAgICAxMDI2CiAgICAgICAgICAgICk7Cg==</text>
@@ -713,9 +713,9 @@
       </register>
     </registers>
     <search>
-      <last-search>elasticsearch.version</last-search>
+      <last-search>curl</last-search>
       <last-offset />
-      <last-pattern>elasticsearch.version</last-pattern>
+      <last-pattern>curl</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -746,9 +746,9 @@
         <entry>disk</entry>
         <entry>branch_name</entry>
         <entry>customer_manage</entry>
-        <entry>curl</entry>
         <entry>10000</entry>
         <entry>elasticsearch.version</entry>
+        <entry>curl</entry>
       </history-search>
       <history-cmd>
         <entry>%s/cassandra/es/g</entry>
