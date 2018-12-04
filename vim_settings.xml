@@ -218,6 +218,9 @@
         <mark key="^" line="39" column="26" />
         <mark key="." line="39" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" timestamp="1543928331767">
+        <mark key="'" line="117" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-removal/deploy/values/us-prod.env" timestamp="1543315756892">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="12" />
@@ -494,12 +497,6 @@
         <mark key="]" line="3" column="4" />
         <mark key="^" line="4" column="28" />
         <mark key="." line="3" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543912830827">
-        <mark key="'" line="28" column="17" />
-        <mark key="[" line="57" column="16" />
-        <mark key="]" line="57" column="16" />
-        <mark key="." line="57" column="16" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-cassandra-removal/deploy/values/us-prod.env" timestamp="1543315449948">
         <mark key="[" line="3" column="12" />
@@ -778,7 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="29" filename="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
       <jump line="23" column="31" filename="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/controller/OrganizationController.java" />
       <jump line="493" column="40" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="144" column="2" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
@@ -878,6 +874,7 @@
       <jump line="66" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
       <jump line="70" column="26" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
       <jump line="74" column="26" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
+      <jump line="117" column="40" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
