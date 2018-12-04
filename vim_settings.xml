@@ -45,6 +45,7 @@
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1543909523795" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V13_R3Asset_Migration.java" timestamp="1541726662954">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="24" />
@@ -409,6 +410,13 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" timestamp="1543909044080">
+        <mark key="'" line="74" column="26" />
+        <mark key="[" line="66" column="20" />
+        <mark key="]" line="27" column="60" />
+        <mark key="." line="27" column="60" />
+        <mark key="^" line="27" column="60" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1543865946498">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="35" />
@@ -564,9 +572,6 @@
         <mark key="^" line="85" column="31" />
         <mark key="." line="78" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-removal/deploy/marathon.json" timestamp="1543867711604">
-        <mark key="[" line="5" column="15" />
-      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543873819979">
         <mark key="[" line="60" column="16" />
         <mark key="]" line="60" column="16" />
@@ -653,7 +658,7 @@
         <mark key="^" line="67" column="19" />
         <mark key="." line="71" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/deploy/marathon.json" timestamp="1543863738994">
+      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/deploy/marathon.json" timestamp="1543909962164">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
@@ -964,15 +969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="539" column="4" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="86" column="2" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="84" column="8" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
-      <jump line="0" column="16" filename="$USER_HOME$/dev/repair_cassandra/inserts/create_tables.cql" />
-      <jump line="1432" column="13" filename="$USER_HOME$/dev/repair_cassandra/inserts/create_tables.cql" />
-      <jump line="0" column="0" filename="/Dummy.txt" />
-      <jump line="38" column="28" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/filter/JwtAuthenticationFilter.java" />
-      <jump line="30" column="32" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/filter/JwtAuthenticationFilter.java" />
-      <jump line="18" column="22" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/filter/JwtAuthenticationFilter.java" />
       <jump line="56" column="63" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/app/config/security/WebSecurityConfig.java" />
       <jump line="73" column="24" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/impl/JwtImpl.java" />
       <jump line="144" column="37" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" />
@@ -1064,16 +1060,25 @@
       <jump line="40" column="114" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/impl/KfImpl.java" />
       <jump line="39" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/impl/KfImpl.java" />
       <jump line="39" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Makefile" />
+      <jump line="27" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
+      <jump line="28" column="19" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
+      <jump line="30" column="19" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
+      <jump line="41" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
+      <jump line="42" column="19" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
+      <jump line="44" column="19" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
+      <jump line="66" column="13" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
+      <jump line="70" column="26" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
+      <jump line="74" column="26" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/scripts/deploy_chronos.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QlVJTERfQUxMX0lNQUdFU19ERVBTICs9IG1vZHVsZV9kaWFnbm9zdGljc191cGxvYWRfbW9uaXRvcl9idWlsZAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>new cluster properties</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>customer_manage</text>
+        <text>10000</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSW5ldFNvY2tldEFkZHJlc3MgaW5ldFNvY2tldEFkZHJlc3MgPSBuZXcgSW5ldFNvY2tldEFkZHJlc3MoCiAgICAgICAgICAgICAgICAiOS4wLjQuNyIsCiAgICAgICAgICAgICAgICAxMDI2CiAgICAgICAgICAgICk7Cg==</text>
@@ -1110,9 +1115,9 @@
       </register>
     </registers>
     <search>
-      <last-search>customer_manage</last-search>
+      <last-search>10000</last-search>
       <last-offset />
-      <last-pattern>customer_manage</last-pattern>
+      <last-pattern>10000</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -1143,6 +1148,8 @@
         <entry>disk</entry>
         <entry>branch_name</entry>
         <entry>customer_manage</entry>
+        <entry>curl</entry>
+        <entry>10000</entry>
       </history-search>
       <history-cmd>
         <entry>%s/cassandra/es/g</entry>
