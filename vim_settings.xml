@@ -569,6 +569,7 @@
         <mark key="." line="32" column="7" />
         <mark key="^" line="32" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/bootstrap-schema.py" timestamp="1544004131873" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-cassandra-stats/build.sh" timestamp="1543318118988">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="31" />
@@ -891,10 +892,10 @@
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Stats.java" timestamp="1543994588350">
         <mark key="'" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/docker-compose.yaml" timestamp="1543243046488">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/docker-compose.yaml" timestamp="1544003802286">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/deploy/values/us-dev.env" timestamp="1543314107112">
         <mark key="[" line="3" column="12" />
@@ -1161,8 +1162,8 @@
       <jump line="88" column="46" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KfMessageStats.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>prod</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSAiOTA0Mjo5MDQyIgo=</text>
       </register>
       <register name="-" type="4">
         <text>prod</text>
@@ -1174,31 +1175,31 @@
         <text>module_kafka_backup_cassandra_build</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5zY2hlbWEuY2Fzc2FuZHJhLk1pZ3JhdGlvbnNTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgLSAiOTA0Mjo5MDQyIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLmFkZCgpCg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5zY2hlbWEuY29uZmlnLmNhc3NhbmRyYS5taWdyYXRpb25zLio7Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogY2Fzc2FuZHJhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QlVJTERfQUxMX0VTX0RFUFMgKz0gCg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QlVJTERfQUxMX0VTX0RFUFMgKz0gYnVpbGRfYWxsCg==</text>
+        <text encoding="base64">ICBjYXNzYW5kcmE6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QlVJTERfQUxMX0VTX0RFUFMgKz0gYnVpbGRfYWxsCg==</text>
+        <text encoding="base64">ICAgICAgLSAiMjE4MToyMTgxIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QlVJTERfQUxMX0VTX0RFUFMgKz0gYnVpbGRfYWxsCg==</text>
+        <text encoding="base64">ICAgICAgLSAiOTA5Mjo5MDkyIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QlVJTERfQUxMX0VTX0RFUFMgKz0gYnVpbGRfYWxsCg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QlVJTERfQUxMX0VTX0RFUFMgKz0gYnVpbGRfYWxsCg==</text>
+        <text encoding="base64">ICAgICAgQURWRVJUSVNFRF9MSVNURU5FUlM6IFBMQUlOVEVYVDovL2xvY2FsaG9zdDo5MDkyCg==</text>
       </register>
       <register name=":" type="4">
         <text>62,65y</text>
