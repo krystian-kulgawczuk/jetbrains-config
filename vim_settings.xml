@@ -101,6 +101,10 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/discover-hosts.py" timestamp="1544105047521">
+        <mark key="'" line="37" column="24" />
+        <mark key="[" line="41" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-removal/deploy/values/us-dev.env" timestamp="1543315833139">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="3" column="23" />
@@ -406,7 +410,7 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1543920154071">
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1544105329413">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -984,7 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="568" column="4" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="118" column="11" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-subdomain/src/main/database/createCassandra.cql" />
       <jump line="2" column="28" filename="$USER_HOME$/dev/repair_cassandra/inserts/copy_to.cql" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/repair_cassandra/inserts/copy_to.cql" />
@@ -1084,6 +1087,7 @@
       <jump line="7" column="16" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Version.java" />
       <jump line="7" column="16" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Stats.java" />
       <jump line="88" column="46" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KfMessageStats.java" />
+      <jump line="37" column="24" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/marathon/elasticsearch/discover-hosts.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
