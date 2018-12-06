@@ -270,6 +270,11 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="62" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-prod/gvc-us-prod" timestamp="1544081977151">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/pom.xml" timestamp="1542028731220">
         <mark key="'" line="175" column="0" />
       </file>
@@ -1101,11 +1106,11 @@
       <jump line="88" column="46" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KfMessageStats.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>16</text>
       </register>
       <register name="/" type="4">
         <text>curl</text>
@@ -1114,31 +1119,31 @@
         <text>module_kafka_backup_cassandra_build</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIlNjaGVtYSBNaWdyYXRpb24gdGhhdCBzeW5jZXMgZGV2IHdpdGggcHJvZHVjdGlvbiI7Cg==</text>
+        <text encoding="base64">MTAuMC4wLjIwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLmFkZChuZXcgVjIyX0VtcHR5U2NoZW1hTWlncmF0aW9uU3luY0RldlByb2QoKSk7Cg==</text>
+        <text encoding="base64">MTAuMC4wLjE2Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTA0Mjo5MDQyIgo=</text>
+        <text encoding="base64">MTAuMy4wLjYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">MTAuMy4wLjUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogY2Fzc2FuZHJhCg==</text>
+        <text encoding="base64">MTAuMy4wLjQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+        <text encoding="base64">MTAuMi4wLjYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYXNzYW5kcmE6Cg==</text>
+        <text encoding="base64">MTAuMi4wLjUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAiMjE4MToyMTgxIgo=</text>
+        <text encoding="base64">MTAuMi4wLjQK</text>
       </register>
       <register name=":" type="4">
         <text>62,65y</text>
