@@ -262,8 +262,11 @@
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" timestamp="1544513821974">
         <mark key="'" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1543870078018">
-        <mark key="'" line="37" column="0" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1544524942923">
+        <mark key="'" line="1" column="15" />
+        <mark key="[" line="1" column="58" />
+        <mark key="]" line="1" column="58" />
+        <mark key="." line="1" column="58" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/metadata/fields/OrganizationColumns.java" timestamp="1543830623210">
         <mark key="[" line="11" column="4" />
@@ -832,7 +835,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="17" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" />
       <jump line="50" column="39" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/ElasticConfig.java" />
       <jump line="49" column="39" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" />
       <jump line="53" column="46" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" />
@@ -932,16 +934,17 @@
       <jump line="13" column="120" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="504" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
+      <jump line="1" column="15" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVgZqlADf03Rql+zi65I/cyCL4oc/gpNLKJ20Cw/LU/aah7+8oF/sEcgRl8kDkTdKVNr9wxS/2RE4hS2wWqHgk34RJsUIo4mwV+SoUXUWl7NJpRjITic0i2+psL1L4d0OFyPmPTcHppY6fHNK5gTmYqEYTNNLvw4dQzJhd4V0RoHGMDziHc97R40H/fJFX9qUqhRaCvUqMV7ZL0u7zolsaeVMyM4GwmDiP84Edgszi90SJbjgHriHi67y3BBHsk6eX9PGuS7tRC3kQcCIK06A6VxVWnnTINmHGKbyr4Xc47sBravGLUGPFixeuHTNp7Qqdt1qJFO+KO3mAQrD/9CMT devops@acaisoft.com</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVgZqlADf03Rql+zi65I/cyCL4oc/gpNLKJ20Cw/LU/aah7+8oF/sEcgRl8kDkTdKVNr9wxS/2RE4hS2wWqHgk34RJsUIo4mwV+SoUXUWl7NJpRjITic0i2+psL1L4d0OFyPmPTcHppY6fHNK5gTmYqEYTNNLvw4dQzJhd4V0RoHGMDziHc97R40H/fJFX9qUqhRaCvUqMV7ZL0u7zolsaeVMyM4GwmDiP84Edgszi90SJbjgHriHi67y3BBHsk6eX9PGuS7tRC3kQcCIK06A6VxVWnnTINmHGKbyr4Xc47sBravGLUGPFixeuHTNp7Qqdt1qJFO+KO3mAQrD/9CMT devops@acaisoft.com</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>dcos_oauth</text>
+        <text encoding="base64">XDx0ZjVmMjlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>module_kafka_backup_cassandra_build</text>
@@ -950,40 +953,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gImZhbHNlIgo=</text>
+        <text encoding="base64">c2xhdmVzLXB1YmxpYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyaWFibGUgImRjb3Nfb2F1dGhfZW5hYmxlZCIgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">UHJpdmF0ZSBHZW5lcmFsIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTMwMDo5MzAwIgo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTIwMDo5MjAwIgo=</text>
+        <text encoding="base64">UHJpdmF0ZSBHYXRld2F5IEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name=":" type="4">
         <text>19,23d</text>
       </register>
     </registers>
     <search>
-      <last-search>dcos_oauth</last-search>
+      <last-search encoding="base64">XDx0ZjVmMjlcPg==</last-search>
       <last-offset />
-      <last-pattern>dcos_oauth</last-pattern>
+      <last-pattern encoding="base64">XDx0ZjVmMjlcPg==</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1013,6 +1016,7 @@
         <entry>organization</entry>
         <entry>String</entry>
         <entry>dcos_oauth</entry>
+        <entry encoding="base64">XDx0ZjVmMjlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>132,135y</entry>
