@@ -324,11 +324,11 @@
         <mark key="^" line="16" column="51" />
         <mark key="." line="16" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/build.sh" timestamp="1544535895997">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="3" column="45" />
-        <mark key="^" line="3" column="45" />
-        <mark key="." line="3" column="45" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/build.sh" timestamp="1544538337410">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-auditlog/src/main/resources/application-us-prod.properties" timestamp="1544171813663">
         <mark key="[" line="19" column="49" />
@@ -621,8 +621,8 @@
         <mark key="^" line="158" column="2" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Dockerfile" timestamp="1544535909859">
-        <mark key="[" line="8" column="38" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Dockerfile" timestamp="1544538202920">
+        <mark key="[" line="8" column="48" />
         <mark key="]" line="8" column="48" />
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
@@ -958,11 +958,11 @@
       <jump line="7" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/web/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>prod</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZW52aXJvbm1lbnQ9ImhhYmFiYWJhIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
@@ -971,31 +971,31 @@
         <text>module_kafka_backup_cassandra_build</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QlVJTEQK</text>
+        <text encoding="base64">ZW52aXJvbm1lbnQ9ImhhYmFiYWJhIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICItamF2YWFnZW50Om5ld3JlbGljLmphciIsCg==</text>
+        <text encoding="base64">QlVJTEQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICItRG5ld3JlbGljLmVudmlyb25tZW50PXByb2R1Y3Rpb24iLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICItamF2YWFnZW50Om5ld3JlbGljLmphciIsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICItRG5ld3JlbGljLmVudmlyb25tZW50PXByb2R1Y3Rpb24iLAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICItamF2YWFnZW50Om5ld3JlbGljLmphciIsCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICItRG5ld3JlbGljLmVudmlyb25tZW50PXByb2R1Y3Rpb24iLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2xhdmVzLXB1YmxpYwo=</text>
+        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
       </register>
       <register name=":" type="4">
         <text>19,23d</text>
