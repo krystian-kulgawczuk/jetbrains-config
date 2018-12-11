@@ -400,11 +400,12 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1543571432870">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="2" />
-        <mark key="." line="2" column="2" />
-        <mark key="^" line="2" column="2" />
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1544520048811">
+        <mark key="'" line="504" column="0" />
+        <mark key="[" line="167" column="12" />
+        <mark key="]" line="237" column="12" />
+        <mark key="." line="237" column="12" />
+        <mark key="^" line="237" column="12" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1542269071829">
         <mark key="[" line="35" column="25" />
@@ -600,8 +601,8 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1543583452645">
-        <mark key="[" line="176" column="22" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1544518745670">
+        <mark key="[" line="155" column="0" />
         <mark key="]" line="176" column="23" />
         <mark key="^" line="177" column="73" />
         <mark key="." line="176" column="23" />
@@ -804,6 +805,7 @@
         <mark key="." line="17" column="55" />
         <mark key="^" line="17" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/.terraform/modules/e4a6a8cc6da9929478cb30e9d495f169/open/dcos-versions/1.11.0-rc4/dcos-bootstrap/templates/upgrade/run.sh" timestamp="1544518703848" />
       <file name="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/maven-settings.xml" timestamp="1542025382714">
         <mark key="[" line="25" column="55" />
         <mark key="]" line="25" column="61" />
@@ -830,12 +832,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="24" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
-      <jump line="41" column="64" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-contact-kafka/src/main/java/portal/ack/kafka/impl/KfImpl.java" />
-      <jump line="22" column="27" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" />
-      <jump line="23" column="23" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" />
-      <jump line="52" column="39" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" />
-      <jump line="88" column="34" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" />
       <jump line="28" column="17" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" />
       <jump line="50" column="39" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/ElasticConfig.java" />
       <jump line="49" column="39" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/config/ElasticSearchConfig.java" />
@@ -930,16 +926,22 @@
       <jump line="20" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
       <jump line="21" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
       <jump line="23" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
+      <jump line="12" column="30" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
+      <jump line="171" column="12" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
+      <jump line="509" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
+      <jump line="13" column="120" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
+      <jump line="504" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>String</text>
+        <text>dcos_oauth</text>
       </register>
       <register name="0" type="4">
         <text>module_kafka_backup_cassandra_build</text>
@@ -948,37 +950,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTMwMDo5MzAwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTIwMDo5MjAwIgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gImZhbHNlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogZXMK</text>
+        <text encoding="base64">dmFyaWFibGUgImRjb3Nfb2F1dGhfZW5hYmxlZCIgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbGFzdGljc2VhcmNoOgo=</text>
+        <text encoding="base64">ICAgICAgLSAiOTMwMDo5MzAwIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAiMjE4MToyMTgxIgo=</text>
+        <text encoding="base64">ICAgICAgLSAiOTIwMDo5MjAwIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTA5Mjo5MDkyIgo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name=":" type="4">
         <text>19,23d</text>
       </register>
     </registers>
     <search>
-      <last-search>String</last-search>
+      <last-search>dcos_oauth</last-search>
       <last-offset />
-      <last-pattern>String</last-pattern>
+      <last-pattern>dcos_oauth</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -1010,6 +1012,7 @@
         <entry>generateMana</entry>
         <entry>organization</entry>
         <entry>String</entry>
+        <entry>dcos_oauth</entry>
       </history-search>
       <history-cmd>
         <entry>132,135y</entry>
