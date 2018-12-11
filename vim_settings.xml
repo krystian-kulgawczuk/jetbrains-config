@@ -162,6 +162,9 @@
         <mark key="^" line="54" column="86" />
         <mark key="." line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/R3Impl.java" timestamp="1544513766252">
+        <mark key="'" line="94" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1543415535138">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="61" />
@@ -255,6 +258,9 @@
         <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" timestamp="1544513821974">
+        <mark key="'" line="23" column="12" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1543870078018">
         <mark key="'" line="37" column="0" />
@@ -554,7 +560,7 @@
         <mark key="^" line="39" column="26" />
         <mark key="." line="39" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/error/CpException.java" timestamp="1544450152402" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/error/CpException.java" timestamp="1544513277213" />
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/.gitignore" timestamp="1543235788448">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="1" />
@@ -584,6 +590,9 @@
         <mark key="]" line="53" column="63" />
         <mark key="." line="53" column="63" />
         <mark key="^" line="53" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" timestamp="1544513394888">
+        <mark key="'" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-removal/deploy/values/us-prod.env" timestamp="1543315756892">
         <mark key="[" line="3" column="12" />
@@ -821,17 +830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="44" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
-      <jump line="119" column="14" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
-      <jump line="120" column="16" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
-      <jump line="184" column="10" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
-      <jump line="320" column="0" filename="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" />
-      <jump line="27" column="12" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
-      <jump line="24" column="39" filename="$USER_HOME$/Projects/orbital-gateway/Jenkinsfile.groovy" />
-      <jump line="35" column="8" filename="$USER_HOME$/Projects/orbital-gateway/Jenkinsfile.groovy" />
-      <jump line="29" column="65" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/support/DcosCassandraCluster.java" />
-      <jump line="35" column="47" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/support/DcosCassandraCluster.java" />
       <jump line="30" column="24" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
       <jump line="41" column="64" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-contact-kafka/src/main/java/portal/ack/kafka/impl/KfImpl.java" />
       <jump line="22" column="27" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-common/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" />
@@ -921,6 +919,17 @@
       <jump line="1499" column="0" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="1503" column="25" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="1504" column="25" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
+      <jump line="94" column="32" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/R3Impl.java" />
+      <jump line="32" column="17" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
+      <jump line="28" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
+      <jump line="29" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
+      <jump line="17" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
+      <jump line="18" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
+      <jump line="19" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
+      <jump line="20" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
+      <jump line="21" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
+      <jump line="23" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -930,7 +939,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>schema_ver</text>
+        <text>String</text>
       </register>
       <register name="0" type="4">
         <text>module_kafka_backup_cassandra_build</text>
@@ -967,9 +976,9 @@
       </register>
     </registers>
     <search>
-      <last-search>schema_ver</last-search>
+      <last-search>String</last-search>
       <last-offset />
-      <last-pattern>schema_ver</last-pattern>
+      <last-pattern>String</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -998,6 +1007,9 @@
         <entry>agent-regular</entry>
         <entry>kafka</entry>
         <entry>schema_ver</entry>
+        <entry>generateMana</entry>
+        <entry>organization</entry>
+        <entry>String</entry>
       </history-search>
       <history-cmd>
         <entry>132,135y</entry>
