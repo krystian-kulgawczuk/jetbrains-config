@@ -604,7 +604,7 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1544527944993">
+      <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1544529552387">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
         <mark key="^" line="155" column="0" />
@@ -720,6 +720,12 @@
         <mark key="^" line="177" column="73" />
         <mark key="." line="177" column="73" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/deploy/marathon.json" timestamp="1544529673796">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-charts-cassandra-restore-data/src/main/java/portal/kcs/model/impl/kafka/KfImpl.java" timestamp="1543870880460">
         <mark key="[" line="75" column="48" />
         <mark key="]" line="75" column="48" />
@@ -763,6 +769,7 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1544530365336" />
       <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1543581739111">
         <mark key="'" line="330" column="0" />
         <mark key="[" line="33" column="79" />
@@ -956,25 +963,25 @@
         <text encoding="base64">ICAgICItRG5ld3JlbGljLmVudmlyb25tZW50PXByb2R1Y3Rpb24iLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICItamF2YWFnZW50Om5ld3JlbGljLmphciIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
+        <text encoding="base64">ICAgICItRG5ld3JlbGljLmVudmlyb25tZW50PXByb2R1Y3Rpb24iLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2xhdmVzLXB1YmxpYwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">UHJpdmF0ZSBHZW5lcmFsIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
+        <text encoding="base64">c2xhdmVzLXB1YmxpYwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>19,23d</text>
