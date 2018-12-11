@@ -400,12 +400,12 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1544520048811">
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1544520992138">
         <mark key="'" line="504" column="0" />
-        <mark key="[" line="167" column="12" />
-        <mark key="]" line="237" column="12" />
-        <mark key="." line="237" column="12" />
-        <mark key="^" line="237" column="12" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="412" />
+        <mark key="." line="2" column="412" />
+        <mark key="^" line="2" column="412" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1542269071829">
         <mark key="[" line="35" column="25" />
@@ -934,11 +934,11 @@
       <jump line="504" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVgZqlADf03Rql+zi65I/cyCL4oc/gpNLKJ20Cw/LU/aah7+8oF/sEcgRl8kDkTdKVNr9wxS/2RE4hS2wWqHgk34RJsUIo4mwV+SoUXUWl7NJpRjITic0i2+psL1L4d0OFyPmPTcHppY6fHNK5gTmYqEYTNNLvw4dQzJhd4V0RoHGMDziHc97R40H/fJFX9qUqhRaCvUqMV7ZL0u7zolsaeVMyM4GwmDiP84Edgszi90SJbjgHriHi67y3BBHsk6eX9PGuS7tRC3kQcCIK06A6VxVWnnTINmHGKbyr4Xc47sBravGLUGPFixeuHTNp7Qqdt1qJFO+KO3mAQrD/9CMT devops@acaisoft.com</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVgZqlADf03Rql+zi65I/cyCL4oc/gpNLKJ20Cw/LU/aah7+8oF/sEcgRl8kDkTdKVNr9wxS/2RE4hS2wWqHgk34RJsUIo4mwV+SoUXUWl7NJpRjITic0i2+psL1L4d0OFyPmPTcHppY6fHNK5gTmYqEYTNNLvw4dQzJhd4V0RoHGMDziHc97R40H/fJFX9qUqhRaCvUqMV7ZL0u7zolsaeVMyM4GwmDiP84Edgszi90SJbjgHriHi67y3BBHsk6eX9PGuS7tRC3kQcCIK06A6VxVWnnTINmHGKbyr4Xc47sBravGLUGPFixeuHTNp7Qqdt1qJFO+KO3mAQrD/9CMT devops@acaisoft.com</text>
       </register>
       <register name="/" type="4">
         <text>dcos_oauth</text>
