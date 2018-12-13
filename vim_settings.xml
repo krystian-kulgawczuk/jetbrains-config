@@ -337,11 +337,11 @@
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1544530365336" />
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/backup-org-data/Dockerfile" timestamp="1544608941385" />
-      <file name="/Dummy.txt" timestamp="1544617031918">
+      <file name="/Dummy.txt" timestamp="1544688151407">
         <mark key="'" line="0" column="35" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/dev/tmp/orbital-lib-connector-cassandra/pom.xml" timestamp="1544182167030">
         <mark key="[" line="29" column="61" />
@@ -417,6 +417,9 @@
         <mark key="]" line="7" column="28" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-charts/src/main/java/portal/kcch/model/dto/RegisteredAssetDto.java" timestamp="1544687495970">
+        <mark key="[" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/dev/projects-meta/backup-org-data/Jenkinsfile.groovy" timestamp="1544613636594">
         <mark key="'" line="24" column="25" />
@@ -561,12 +564,15 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="59" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1544618668268">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1544688087429">
         <mark key="'" line="46" column="22" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="53" column="11" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="78" column="57" />
+        <mark key="^" line="78" column="56" />
+        <mark key="." line="78" column="57" />
+      </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/kafka/producer/SentAlertDto.java" timestamp="1544687491056">
+        <mark key="[" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/resources/application-us-dev.properties" timestamp="1543862192492">
         <mark key="[" line="30" column="0" />
@@ -646,6 +652,9 @@
         <mark key="]" line="28" column="37" />
         <mark key="." line="28" column="37" />
         <mark key="^" line="28" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-auditlog/src/main/java/portal/auditlog/config/GsonConfiguration.java" timestamp="1544687499556">
+        <mark key="[" line="26" column="5" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/deploy/values/us-dev.env" timestamp="1543314107112">
         <mark key="[" line="3" column="12" />
@@ -835,11 +844,11 @@
       <jump line="0" column="35" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>orbital</text>
@@ -848,31 +857,31 @@
         <text encoding="base64">QE5vbkNQUwpkZWYgaXRlcmF0ZUNvbGxlY3Rpb24oY29sbGVjdGlvbikgewogICAgZGVmIGl0ZXJhdG9yID0gY29sbGVjdGlvbi5pdGVyYXRvcigpCiAgICBmb3IgKGl0ZXJhdG9yOyBpdGVyYXRvci5oYXNOZXh0KCk7KSB7CiAgICAgICAgZWNobyAiJHtpdGVyYXRvci5uZXh0KCl9IgogICAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8amF2YS52ZXJzaW9uPjEuODwvamF2YS52ZXJzaW9uPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8bG9tYm9rLnZlcnNpb24+MS4xNi42PC9sb21ib2sudmVyc2lvbj4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3VhdmEudmVyc2lvbj4xOC4wPC9ndWF2YS52ZXJzaW9uPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bWFpbi52ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC9tYWluLnZlcnNpb24+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGFkZERlcGxveVN1ZmZpeChjb2xsZWN0aW9uKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QE5vbkNQUwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFNldDxTdHJpbmc+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CTwvcGFyZW50Pgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8dmVyc2lvbj4wLjAuMS1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>40,46y</text>
