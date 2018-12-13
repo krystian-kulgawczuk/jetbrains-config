@@ -57,7 +57,7 @@
         <mark key="." line="33" column="80" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/backup-org-data/Dockerfile" timestamp="1544608941385" />
-      <file name="/Dummy.txt" timestamp="1544696459384">
+      <file name="/Dummy.txt" timestamp="1544697672438">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
@@ -82,8 +82,10 @@
         <mark key="^" line="29" column="18" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-analytics/Dockerfile" timestamp="1544609006290" />
-      <file name="$USER_HOME$/Projects/jenkins-pipeline-library/vars/copyJarsParallel.groovy" timestamp="1544694635854">
-        <mark key="'" line="20" column="20" />
+      <file name="$USER_HOME$/Projects/jenkins-pipeline-library/vars/copyJarsParallel.groovy" timestamp="1544697547531">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="86" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/Dockerfile" timestamp="1544608971046" />
       <file name="$USER_HOME$/Projects/jenkins-pipeline-library/vars/dockerBTPParallel.groovy" timestamp="1544618257889" />
@@ -95,12 +97,12 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/jenkins-pipeline-library/vars/buildUIParallel.groovy" timestamp="1544689665874" />
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1544696388760">
-        <mark key="'" line="124" column="25" />
-        <mark key="[" line="58" column="38" />
-        <mark key="]" line="58" column="36" />
-        <mark key="^" line="58" column="36" />
-        <mark key="." line="58" column="36" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1544697615932">
+        <mark key="'" line="83" column="8" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="31" />
+        <mark key="^" line="61" column="23" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/kafka/producer/SentAlertDto.java" timestamp="1544687491056">
         <mark key="[" line="9" column="27" />
@@ -117,9 +119,6 @@
         <mark key="[" line="26" column="5" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/main.tf" timestamp="1544689713292" />
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/web/package.json" timestamp="1544534807783">
-        <mark key="'" line="7" column="9" />
-      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-manage/Dockerfile" timestamp="1544608922023" />
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/kafka/producer/MailKafkaMessageSender.java" timestamp="1544616906935">
         <mark key="[" line="115" column="42" />
@@ -140,7 +139,6 @@
       <file name="$USER_HOME$/dev/terraform_dcos/.terraform/modules/e4a6a8cc6da9929478cb30e9d495f169/open/dcos-versions/1.11.0-rc4/dcos-bootstrap/templates/upgrade/run.sh" timestamp="1544518703848" />
     </filemarks>
     <jumps>
-      <jump line="32" column="26" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" />
       <jump line="19" column="23" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-contact-kafka/src/main/java/portal/ack/kafka/impl/KfRecordImpl.java" />
       <jump line="26" column="23" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-contact-kafka/src/main/java/portal/ack/kafka/impl/KfRecordImpl.java" />
       <jump line="28" column="31" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-regular/src/test/java/portal/agent/regular/StandardizedR3StatsImplTest.java" />
@@ -206,7 +204,6 @@
       <jump line="57" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="83" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="7" column="27" filename="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" />
       <jump line="30" column="7" filename="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" />
       <jump line="27" column="1" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
@@ -240,13 +237,15 @@
       <jump line="111" column="30" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="113" column="69" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="124" column="25" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
+      <jump line="69" column="27" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
+      <jump line="83" column="8" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBwYXJhbGxlbE5vZGVzID0gWzpdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text>\$</text>
@@ -255,31 +254,31 @@
         <text encoding="base64">ICAgICAgICBjaGFuZ2VkTW9kdWxlcyA9IGdldENoYW5nZXNSb290RGlyZWN0b3JpZXMoKQogICAgICAgIHVuZGVyc2NvcmVkQ2hhbmdlZE1vZHVsZXMgPSByZXBsYWNlSHlwaGVuVG9VbmRlcnNjb3JlKGNoYW5nZWRNb2R1bGVzKQogICAgICAgIGJ1aWxkTW9kdWxlcyA9IGFkZFByZWZpeFN1ZmZpeCh1bmRlcnNjb3JlZENoYW5nZWRNb2R1bGVzLCAibW9kdWxlXyIsICJfYnVpbGQiKQogICAgICAgIGRlcGxveU1vZHVsZXMgPSBhZGRQcmVmaXhTdWZmaXgodW5kZXJzY29yZWRDaGFuZ2VkTW9kdWxlcywgIm1vZHVsZV8iLCAiX2RlcGxveSIpCiAgICAgICAgU3RyaW5nIHZlcnNpb24gPSAke2Vudi5WRVJTSU9OfQogICAgICAgIHNoICJWRVJTSU9OPSR7ZW52LlZFUlNJT059IG1ha2UgbW9kdWxlXyR7ZW52LlRBUkdFVF9NT0RVTEV9X2J1aWxkIgogICAgICAgIHBhcmFsbGVsQ29udmVyZ2UoYnVpbGRNb2R1bGVzLCAiYnVpbGQiLCB2ZXJzaW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChicmFuY2hfbmFtZSA9PSAiZGV2Iikgewo=</text>
+        <text encoding="base64">ICAgIGRlZiBwYXJhbGxlbE5vZGVzID0gWzpdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJyYW5jaF9uYW1lID0gIiR7ZW52LkJSQU5DSF9OQU1FfSIucmVwbGFjZSgnLycsICctJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYWxsZWxOb2Rlcy5hZGQodGhpcy5idWlsZENsb3N1cmUoY29tbWFuZCwgImRlcGxveSIsIHZlcnNpb24pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlIG1vZHVsZV8ke2Vudi5UQVJHRVRfTU9EVUxFfV9idWlsZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYWxsZWxOb2Rlc1sibWFrZS0ke2NvbW1hbmR9Il0gPSB0aGlzLmJ1aWxkQ2xvc3VyZShjb21tYW5kLCAiYnVpbGQiLCB2ZXJzaW9uKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlIG1vZHVsZV8ke2Vudi5UQVJHRVRfTU9EVUxFfV9idWlsZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYWxsZWxOb2Rlcy5hZGQodGhpcy5idWlsZENsb3N1cmUoY29tbWFuZCwgImJ1aWxkIiwgdmVyc2lvbikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaCAibWFrZSBtb2R1bGVfJHtlbnYuVEFSR0VUX01PRFVMRX1fZGVwbG95Igo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbGxlbE5vZGVzWyJjcC0ke21vZHVsZS5tb2R1bGVTdHJ1Y3R1cmUubmFtZX0iXSA9IHRoaXMuYnVpbGRDbG9zdXJlKG1vZHVsZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZWxzZSByb290UHJvamVjdERpcmVjdG9yeVNldC5hZGQoIi4iKQo=</text>
+        <text encoding="base64">ICAgIFNldDxDbG9zdXJlPiBwYXJhbGxlbE5vZGVzID0gW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZWNobyAiJHtmaWxlLmVkaXRUeXBlLm5hbWV9ICR7ZmlsZS5wYXRofSIK</text>
+        <text encoding="base64">ICAgIGlmIChicmFuY2hfbmFtZSA9PSAiZGV2Iikgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkNoYW5nZXMgaW4gbW9kdWxlczoiCiAgICBpdGVyYXRlQ29sbGVjdGlvbihyb290UHJvamVjdERpcmVjdG9yeVNldCkK</text>
+        <text encoding="base64">ICAgIGJyYW5jaF9uYW1lID0gIiR7ZW52LkJSQU5DSF9OQU1FfSIucmVwbGFjZSgnLycsICctJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuZ2VkTW9kdWxlcyA9IGdldENoYW5nZXNSb290RGlyZWN0b3JpZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlIG1vZHVsZV8ke2Vudi5UQVJHRVRfTU9EVUxFfV9idWlsZCIK</text>
       </register>
       <register name=":" type="4">
         <text>23,24d</text>
