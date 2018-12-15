@@ -49,11 +49,6 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" timestamp="1544703009145">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="45" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1543415535138">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="61" />
@@ -195,6 +190,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/deploy/marathon.json" timestamp="1544527928282">
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="44" column="21" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-portal-agent/internal/portal/router.go" timestamp="1543493754166">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="37" />
@@ -262,6 +263,12 @@
         <mark key="]" line="3" column="12" />
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1544529552387">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="^" line="155" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Dockerfile" timestamp="1544538202920">
         <mark key="[" line="8" column="48" />
@@ -535,6 +542,12 @@
         <mark key="^" line="54" column="86" />
         <mark key="." line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/playground/notes.md" timestamp="1544885096475">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/jenkins-pipeline-library/vars/copyJarsParallel.groovy" timestamp="1544700349184">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="86" />
@@ -602,6 +615,12 @@
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/build.sh" timestamp="1544538337410">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-auditlog/src/main/resources/application-us-prod.properties" timestamp="1544171813663">
         <mark key="[" line="19" column="49" />
@@ -838,6 +857,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="13" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" timestamp="1544690127278">
+        <mark key="[" line="176" column="22" />
+        <mark key="]" line="176" column="23" />
+        <mark key="^" line="177" column="73" />
+        <mark key="." line="176" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-common/maven-settings.xml" timestamp="1542979666785">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="11" />
@@ -962,10 +987,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>organization</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>organization</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>parallelCon</text>
