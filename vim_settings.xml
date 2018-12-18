@@ -357,6 +357,12 @@
         <mark key="]" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" timestamp="1545133806135">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="54" />
+        <mark key="^" line="9" column="54" />
+        <mark key="." line="9" column="54" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/customer-manage-button/deploy/values/us-prod.env" timestamp="1543316196654">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="12" />
@@ -397,12 +403,7 @@
         <mark key="." line="33" column="80" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/backup-org-data/Dockerfile" timestamp="1544608941385" />
-      <file name="/Dummy.txt" timestamp="1545133153346">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-        <mark key="o" line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1545133883907" />
       <file name="$USER_HOME$/dev/tmp/orbital-lib-connector-cassandra/pom.xml" timestamp="1544182167030">
         <mark key="[" line="29" column="61" />
         <mark key="]" line="29" column="61" />
@@ -1076,10 +1077,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lel use call method</text>
+        <text>//example: http://localhost:8000/marathon/v2</text>
       </register>
       <register name="-" type="4">
-        <text>lel use call method</text>
+        <text>//example: http://localhost:8000/marathon/v2</text>
       </register>
       <register name="/" type="4">
         <text>jacoco</text>
@@ -1088,31 +1089,31 @@
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbGxlbE1vZHVsZXMucGFyYWxsZWxDb252ZXJnZShidWlsZE1vZHVsZXMsICJidWlsZCIsIHZlcnNpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
+        <text encoding="base64">cGFja2FnZWRkIHBvcnRhbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghIG1hcmF0aG9uVXJsKSBlcnJvcigiTm8gbWFyYXRob24gVVJMIikK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbGxlbE1vZHVsZXMucGFyYWxsZWxDb252ZXJnZShidWlsZE1vZHVsZXMsICJidWlsZCIsIHZlcnNpb24pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdHJ1Y3R1cmVzID0gY29uZmlnLm1hcmF0aG9uU3RydWN0dXJlc0FyZyBhcyBMaXN0PE1hcmF0aG9uU3RydWN0dXJlPgo=</text>
+        <text encoding="base64">aW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVxdWlyZXMgU29uYXJRdWJlIFNjYW5uZXIgZm9yIE1hdmVuIDMuMisK</text>
+        <text encoding="base64">ICAgIGlmICghIG1hcmF0aG9uVXJsKSBlcnJvcigiTm8gbWFyYXRob24gVVJMIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNoICJlbnYiCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzdHJ1Y3R1cmVzID0gY29uZmlnLm1hcmF0aG9uU3RydWN0dXJlc0FyZyBhcyBMaXN0PE1hcmF0aG9uU3RydWN0dXJlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVudi5WRVJTSU9OID0gIiR7QlVJTERfTlVNQkVSfS0ke3Nob3J0Q29tbWl0U2hhfSIucmVwbGFjZSgnXycsICctJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVxdWlyZXMgU29uYXJRdWJlIFNjYW5uZXIgZm9yIE1hdmVuIDMuMisK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNob3J0Q29tbWl0U2hhID0gY29tbWl0U2hhLnRha2UoMTApCg==</text>
+        <text encoding="base64">ICAgIHNoICJlbnYiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbW1pdFNoYSA9IHNoKHJldHVyblN0ZG91dDogdHJ1ZSwgc2NyaXB0OiAnZ2l0IHJldi1wYXJzZSBIRUFEJykudHJpbSgpCg==</text>
+        <text encoding="base64">ICAgIGVudi5WRVJTSU9OID0gIiR7QlVJTERfTlVNQkVSfS0ke3Nob3J0Q29tbWl0U2hhfSIucmVwbGFjZSgnXycsICctJykK</text>
       </register>
       <register name=":" type="4">
         <text>2,3y</text>
