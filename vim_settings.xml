@@ -201,6 +201,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/deploy/marathon.json" timestamp="1544527928282">
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="44" column="21" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-portal-agent/internal/portal/router.go" timestamp="1543493754166">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="37" />
@@ -279,6 +285,12 @@
         <mark key="." line="3" column="12" />
       </file>
       <file name="/TestCassandraConfig.groovy" timestamp="1545043043694" />
+      <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1544529552387">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="^" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Dockerfile" timestamp="1544538202920">
         <mark key="[" line="8" column="48" />
         <mark key="]" line="8" column="48" />
@@ -385,7 +397,7 @@
         <mark key="." line="33" column="80" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/backup-org-data/Dockerfile" timestamp="1544608941385" />
-      <file name="/Dummy.txt" timestamp="1545046706924">
+      <file name="/Dummy.txt" timestamp="1545121046728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/orbital-lib-connector-cassandra/pom.xml" timestamp="1544182167030">
@@ -577,6 +589,12 @@
         <mark key="." line="3" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/jenkins-pipeline-library/vars/dockerBTPParallel.groovy" timestamp="1544618257889" />
+      <file name="$USER_HOME$/Projects/orbital-organization/Sonarqube.groovy" timestamp="1545121021841">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+        <mark key="." line="9" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/Dockerfile" timestamp="1542985838937">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="2" column="12" />
@@ -624,6 +642,12 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/build.sh" timestamp="1544538337410">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-auditlog/src/main/resources/application-us-prod.properties" timestamp="1544171813663">
         <mark key="[" line="19" column="49" />
         <mark key="]" line="19" column="49" />
@@ -647,6 +671,11 @@
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-organization/pom.xml" timestamp="1545120426327">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-cassandra-analytics/deploy/values/us-prod.env" timestamp="1543315227419">
         <mark key="[" line="3" column="12" />
@@ -712,6 +741,12 @@
         <mark key="]" line="9" column="39" />
         <mark key="." line="9" column="39" />
         <mark key="^" line="32" column="62" />
+      </file>
+      <file name="$USER_HOME$/dev/playground/gitops-helm/releases/dev/podinfo.yaml" timestamp="1544960725541">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+        <mark key="^" line="12" column="48" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-slack/src/main/java/portal/ks/kafka/consumer/impl/KfConsImpl.java" timestamp="1543870858141">
         <mark key="[" line="85" column="48" />
@@ -863,12 +898,24 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/Jenkinsfile.groovy" timestamp="1545047964863">
+      <file name="$USER_HOME$/Projects/orbital-organization/Jenkinsfile.groovy" timestamp="1545120497296">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+        <mark key="^" line="21" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" timestamp="1544690127278">
+        <mark key="[" line="176" column="22" />
+        <mark key="]" line="176" column="23" />
+        <mark key="^" line="177" column="73" />
+        <mark key="." line="176" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/orbital-organization/sonar-project.properties" timestamp="1545120809631">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-common/maven-settings.xml" timestamp="1542979666785">
         <mark key="[" line="6" column="11" />
@@ -1003,53 +1050,53 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/orbital-organization/Jenkinsfile.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>My SonarQube Server</text>
       </register>
       <register name="-" type="4">
-        <text>Mock</text>
+        <text>My SonarQube Server</text>
       </register>
       <register name="/" type="4">
-        <text>parallelCon</text>
+        <text>jacoco</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVxdWlyZXMgU29uYXJRdWJlIFNjYW5uZXIgZm9yIE1hdmVuIDMuMisK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW50ZWdyYXRpb25fY29udGV4dF9kb3duOgo=</text>
+        <text encoding="base64">ICAgIHNoICJlbnYiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudi5WRVJTSU9OID0gIiR7QlVJTERfTlVNQkVSfS0ke3Nob3J0Q29tbWl0U2hhfSIucmVwbGFjZSgnXycsICctJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW50ZWdyYXRpb25fY29udGV4dF91cDoK</text>
+        <text encoding="base64">ICAgIHNob3J0Q29tbWl0U2hhID0gY29tbWl0U2hhLnRha2UoMTApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS4vaW50ZWdyYXRpb24tdGVzdC9jb250ZXh0X3VwLnNoCg==</text>
+        <text encoding="base64">ICAgIGNvbW1pdFNoYSA9IHNoKHJldHVyblN0ZG91dDogdHJ1ZSwgc2NyaXB0OiAnZ2l0IHJldi1wYXJzZSBIRUFEJykudHJpbSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS4vaW50ZWdyYXRpb24tdGVzdC9jb250ZXh0X2Rvd24uc2gK</text>
+        <text encoding="base64">ICAgIGJyYW5jaF9uYW1lID0gIiR7ZW52LkJSQU5DSF9OQU1FfSIucmVwbGFjZSgnLycsICctJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS4vaW50ZWdyYXRpb24tdGVzdC9jb250ZXh0X2Rvd24uc2gK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW12biBjbGVhbiB2ZXJpZnkK</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjcmVkZW50aWFsc0lkOiAnZ2l0bGFiLWplbmtpbnMtYWdlbnQtZGV2Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>2,3y</text>
       </register>
     </registers>
     <search>
-      <last-search>parallelCon</last-search>
+      <last-search>jacoco</last-search>
       <last-offset />
-      <last-pattern>parallelCon</last-pattern>
+      <last-pattern>jacoco</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -1091,6 +1138,7 @@
         <entry>\$</entry>
         <entry>isLastBui</entry>
         <entry>parallelCon</entry>
+        <entry>jacoco</entry>
       </history-search>
       <history-cmd>
         <entry>132,135y</entry>
