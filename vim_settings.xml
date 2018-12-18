@@ -437,6 +437,11 @@
       <file name="/fragment.java" timestamp="1544711298198">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-gateway/sonar-project.properties" timestamp="1545122285269">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/build.sh" timestamp="1544604271563" />
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/bootstrap_node.yml" timestamp="1541693582434">
         <mark key="[" line="4" column="8" />
@@ -1051,10 +1056,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>My SonarQube Server</text>
+        <text>organization</text>
       </register>
       <register name="-" type="4">
-        <text>My SonarQube Server</text>
+        <text>organization</text>
       </register>
       <register name="/" type="4">
         <text>jacoco</text>
