@@ -15,8 +15,8 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/CustomerManageButton.java" timestamp="1545207041624">
-        <mark key="[" line="34" column="35" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/CustomerManageButton.java" timestamp="1545217046535">
+        <mark key="[" line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-organization/integration-test/context_down.sh" timestamp="1545048019369">
         <mark key="[" line="0" column="0" />
@@ -327,10 +327,10 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/Globals.groovy" timestamp="1545211472640">
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="19" />
-        <mark key="." line="21" column="19" />
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/Globals.groovy" timestamp="1545217346536">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-prod/gvc-us-prod" timestamp="1541699133073">
         <mark key="[" line="1" column="7" />
@@ -405,7 +405,7 @@
         <mark key="^" line="31" column="54" />
         <mark key="." line="33" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545215347064">
+      <file name="/Dummy.txt" timestamp="1545217945499">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -597,8 +597,8 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1545212201806">
-        <mark key="[" line="59" column="63" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1545217021592">
+        <mark key="[" line="232" column="5" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V12_OrganizationInvitation.java" timestamp="1541726350542">
         <mark key="[" line="9" column="36" />
@@ -742,6 +742,13 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="59" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1545216972827">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="119" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/jenkins-pipeline-library/vars/buildUIParallel.groovy" timestamp="1544703178699">
         <mark key="'" line="1" column="52" />
@@ -1016,9 +1023,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="16" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/pom.xml" />
-      <jump line="51" column="16" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/pom.xml" />
-      <jump line="52" column="16" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/pom.xml" />
       <jump line="18" column="50" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-charts/pom.xml" />
       <jump line="20" column="41" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-charts/pom.xml" />
       <jump line="27" column="36" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-charts/pom.xml" />
@@ -1116,55 +1120,58 @@
       <jump line="133" column="8" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="12" column="28" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" />
+      <jump line="119" column="69" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="64" column="28" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="63" column="8" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+      <register name="&quot;" type="4">
+        <text>remove target module</text>
       </register>
       <register name="-" type="4">
-        <text>splti</text>
+        <text>remove target module</text>
       </register>
       <register name="/" type="4">
-        <text>-2</text>
+        <text>TARGET_MODULE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIGVudi5UQVJHRVRfTU9EVUxFID0gZW52LlRBUkdFVF9NT0RVTEUucmVwbGFjZSgnLycsICctJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGVudi5UQVJHRVRfTU9EVUxFID0gIiR7VEFSR0VUX01PRFVMRX0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChtb2R1bGVzV2l0aEJ1aWxkU3VmZml4KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">XSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihtb2R1bGUgaW4gR2xvYmFscy5NSUNST1NFUlZJQ0VTKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmluZyhuYW1lOiAnVEFSR0VUX01PRFVMRScsIGRlZmF1bHRWYWx1ZTogbnVsbCwgZGVzY3JpcHRpb246ICdUaGUgdGFyZ2V0IG1vZHVsZSB0byBidWlsZCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb290UHJvamVjdERpcmVjdG9yeVNldC5hZGQocGF0aC5zcGxpdCgiLyIpLmZpcnN0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzKFsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cHJvcGVydGllcyhbCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vZHVsZXNXaXRoQnVpbGRTdWZmaXggPSBtb2R1bGVzV2l0aEJ1aWxkU3VmZml4WzAuLi0yXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
         <text>2,3y</text>
       </register>
     </registers>
     <search>
-      <last-search>-2</last-search>
+      <last-search>TARGET_MODULE</last-search>
       <last-offset />
-      <last-pattern>-2</last-pattern>
+      <last-pattern>TARGET_MODULE</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -1208,6 +1215,7 @@
         <entry>parallelCon</entry>
         <entry>jacoco</entry>
         <entry>-2</entry>
+        <entry>TARGET_MODULE</entry>
       </history-search>
       <history-cmd>
         <entry>132,135y</entry>
