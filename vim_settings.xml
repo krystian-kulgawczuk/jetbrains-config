@@ -3,15 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/terraform_dcos/bootstrap.tf" timestamp="1544690307396" />
       <file name="$USER_HOME$/Projects/orbital-portal-agent/configs/config-us-dev.properties.encrypted" timestamp="1544437488130">
         <mark key="[" line="0" column="64" />
         <mark key="]" line="0" column="63" />
         <mark key="^" line="0" column="63" />
         <mark key="." line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/Dockerfile" timestamp="1544608869331" />
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-backup-cassandra/Dockerfile" timestamp="1544608990771" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-cassandra-stats/deploy/values/us-dev.env" timestamp="1543315575844">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="3" column="23" />
@@ -48,7 +45,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-manage-button/Dockerfile" timestamp="1544608963444" />
       <file name="$USER_HOME$/Projects/orbital-protection/src/main/resources/application.properties" timestamp="1544711443204">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
@@ -169,7 +165,6 @@
         <mark key="." line="98" column="65" />
         <mark key="^" line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/bootstrap-schema.py" timestamp="1544450259547" />
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/make_cassandra_backup.sh" timestamp="1543228629059">
         <mark key="[" line="68" column="28" />
         <mark key="]" line="66" column="24" />
@@ -197,7 +192,6 @@
         <mark key="^" line="103" column="24" />
         <mark key="." line="103" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/jenkins-pipeline-library/vars/buildJars.groovy" timestamp="1544708688474" />
       <file name="$USER_HOME$/dev/terraform_dcos/public-agent.tf" timestamp="1543584824549">
         <mark key="[" line="332" column="71" />
         <mark key="]" line="332" column="72" />
@@ -222,7 +216,6 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/Dockerfile" timestamp="1545039086601" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-backup-cassandra/deploy/marathon-template.json" timestamp="1543322159805">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
@@ -241,17 +234,12 @@
         <mark key="^" line="28" column="13" />
         <mark key="." line="28" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/module/ScalaMarathonModule.groovy" timestamp="1544708226621" />
-      <file name="$USER_HOME$/Projects/orbital-organization/src/main/java/com/quest/orbital/organization/controller/OrganizationHealthCheckController.java" timestamp="1544711361084" />
-      <file name="$USER_HOME$/Projects/orbital-organization/src/main/resources/db/schema.cql" timestamp="1545043516976" />
       <file name="$USER_HOME$/dev/repair_cassandra/inserts/copy_to.cql" timestamp="1542803946043">
         <mark key="[" line="80" column="48" />
         <mark key="]" line="79" column="0" />
         <mark key="^" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/playground/gitops-helm/hack/Dockerfile.ci" timestamp="1544895204187" />
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-charts/Dockerfile" timestamp="1544609269240" />
       <file name="$USER_HOME$/Projects/orbital-gateway/build.sh" timestamp="1542985793149">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="40" />
@@ -267,7 +255,6 @@
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-auditlog/src/main/java/portal/auditlog/config/AzureStorageConfig.java" timestamp="1544616925323">
         <mark key="[" line="35" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cassandra-migrator/Dockerfile" timestamp="1544608950703" />
       <file name="$USER_HOME$/Projects/orbital-organization/integration-test/cassandra/Dockerfile" timestamp="1545039100772">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -279,8 +266,6 @@
         <mark key="^" line="39" column="26" />
         <mark key="." line="39" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/error/CpException.java" timestamp="1544513277213" />
-      <file name="/podinfo.yaml" timestamp="1544964804772" />
       <file name="$USER_HOME$/dev/tmp/orbital-lib-connector-cassandra/maven-settings.xml" timestamp="1544182071357">
         <mark key="[" line="25" column="55" />
         <mark key="]" line="25" column="55" />
@@ -293,7 +278,6 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="/TestCassandraConfig.groovy" timestamp="1545043043694" />
       <file name="$USER_HOME$/dev/terraform_dcos/private-elastic-agent.tf" timestamp="1544529552387">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
@@ -336,8 +320,11 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-regular/Dockerfile" timestamp="1544608930186" />
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/Globals.groovy" timestamp="1545209949117" />
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/Globals.groovy" timestamp="1545211472640">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="19" />
+        <mark key="." line="21" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-prod/gvc-us-prod" timestamp="1541699133073">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="8" />
@@ -367,8 +354,8 @@
         <mark key="]" line="6" column="46" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" timestamp="1545142953501">
-        <mark key="'" line="10" column="10" />
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" timestamp="1545211402783">
+        <mark key="'" line="58" column="0" />
         <mark key="[" line="20" column="26" />
         <mark key="]" line="20" column="35" />
         <mark key="^" line="20" column="35" />
@@ -404,8 +391,6 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1544530365336" />
-      <file name="$USER_HOME$/Projects/orbital-organization/src/main/resources/application.properties" timestamp="1545038508857" />
       <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1544689771973">
         <mark key="'" line="330" column="0" />
         <mark key="[" line="33" column="79" />
@@ -413,9 +398,8 @@
         <mark key="^" line="31" column="54" />
         <mark key="." line="33" column="80" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/backup-org-data/Dockerfile" timestamp="1544608941385" />
-      <file name="/Dummy.txt" timestamp="1545210728507">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1545212208668">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -425,7 +409,6 @@
         <mark key="." line="29" column="61" />
         <mark key="^" line="29" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-auditlog/Dockerfile" timestamp="1544608984054" />
       <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/parallelModules.groovy" timestamp="1545129520065">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="9" />
@@ -435,14 +418,12 @@
       <file name="$USER_HOME$/Projects/jenkins-pipeline-library/vars/deployMarathonParallel.groovy" timestamp="1545140768510">
         <mark key="'" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-removal/Dockerfile" timestamp="1544699743615" />
       <file name="$USER_HOME$/Projects/orbital-portal-agent/.gitignore" timestamp="1544437504753">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="18" column="15" />
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/src/test/groovy/com/quest/orbital/organization/config/TestCassandraConfig.groovy" timestamp="1545039759044" />
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile-build-all.groovy" timestamp="1544085269054">
         <mark key="[" line="17" column="55" />
         <mark key="]" line="17" column="55" />
@@ -469,7 +450,6 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/build.sh" timestamp="1544604271563" />
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/bootstrap_node.yml" timestamp="1541693582434">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="16" />
@@ -557,7 +537,6 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-analytics/Dockerfile" timestamp="1544609006290" />
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/support/DcosCassandraCluster.java" timestamp="1543916166925">
         <mark key="[" line="50" column="58" />
         <mark key="]" line="50" column="58" />
@@ -590,13 +569,15 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/CustomerApp.java" timestamp="1545212201806">
+        <mark key="[" line="59" column="63" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V12_OrganizationInvitation.java" timestamp="1541726350542">
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="37" />
         <mark key="^" line="54" column="86" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/playground/gitops-helm/releases/adm/sealed-secrets.yaml" timestamp="1544964770993" />
       <file name="$USER_HOME$/dev/playground/notes.md" timestamp="1544960163475">
         <mark key="'" line="6" column="15" />
         <mark key="[" line="6" column="29" />
@@ -622,14 +603,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/Dockerfile" timestamp="1544608971046" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-charts/deploy/values/us-prod.env" timestamp="1543315589481">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="12" />
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/jenkins-pipeline-library/vars/dockerBTPParallel.groovy" timestamp="1544618257889" />
       <file name="$USER_HOME$/Projects/orbital-organization/Sonarqube.groovy" timestamp="1545121021841">
         <mark key="[" line="9" column="47" />
         <mark key="]" line="9" column="46" />
@@ -654,7 +633,6 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/diagnostics-upload-monitor/Dockerfile" timestamp="1544608978025" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-auditlog/deploy/values/us-prod.env" timestamp="1543314534384">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="22" />
@@ -733,12 +711,12 @@
       <file name="$USER_HOME$/Projects/jenkins-pipeline-library/vars/buildUIParallel.groovy" timestamp="1544703178699">
         <mark key="'" line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1545210720787">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1545212129447">
         <mark key="'" line="133" column="8" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="57" column="7" />
+        <mark key="[" line="84" column="50" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="13" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/kafka/producer/SentAlertDto.java" timestamp="1544687491056">
         <mark key="[" line="9" column="27" />
@@ -831,8 +809,6 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-organization/src/test/groovy/com/quest/orbital/organization/controller/InternalSiteControllerITSpec.groovy" timestamp="1545046585361" />
-      <file name="$USER_HOME$/Projects/orbital-organization/src/test/groovy/com/quest/orbital/organization/controller/HealthCheckControllerITSpec.groovy" timestamp="1545046756221" />
       <file name="$USER_HOME$/Projects/orbital-protection/deploy/marathon-template.json" timestamp="1544711030722">
         <mark key="[" line="25" column="44" />
         <mark key="]" line="25" column="44" />
@@ -850,7 +826,6 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/chart-aggregator/Dockerfile" timestamp="1544608957396" />
       <file name="$USER_HOME$/Projects/orbital-organization/integration-test/context_up.sh" timestamp="1545048005689">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -871,8 +846,6 @@
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-auditlog/src/main/java/portal/auditlog/config/GsonConfiguration.java" timestamp="1544687499556">
         <mark key="[" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/docker-compose.yaml" timestamp="1545041947866" />
-      <file name="$USER_HOME$/dev/terraform_dcos/main.tf" timestamp="1544689713292" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/deploy/values/us-dev.env" timestamp="1543314107112">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="22" />
@@ -900,7 +873,6 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-manage/Dockerfile" timestamp="1544608922023" />
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/kafka/producer/MailKafkaMessageSender.java" timestamp="1545132362270">
         <mark key="[" line="28" column="24" />
       </file>
@@ -910,8 +882,6 @@
         <mark key="." line="2" column="412" />
         <mark key="^" line="2" column="412" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Makefile" timestamp="1544617155378" />
-      <file name="$USER_HOME$/dev/playground/gitops-helm/releases/prod/podinfo.yaml" timestamp="1544899929482" />
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/scripts_common/encrypt.py" timestamp="1543235847223">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="17" />
@@ -978,7 +948,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/.terraform/modules/e4a6a8cc6da9929478cb30e9d495f169/open/dcos-versions/1.11.0-rc4/dcos-bootstrap/templates/upgrade/run.sh" timestamp="1544518703848" />
       <file name="$USER_HOME$/dev/legacy/projects/orbital-lib-connector-azure-blob/maven-settings.xml" timestamp="1542025382714">
         <mark key="[" line="25" column="55" />
         <mark key="]" line="25" column="61" />
@@ -998,8 +967,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="16" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/pom.xml" />
-      <jump line="49" column="30" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/pom.xml" />
       <jump line="50" column="16" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/pom.xml" />
       <jump line="51" column="16" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/pom.xml" />
       <jump line="52" column="16" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/pom.xml" />
@@ -1098,13 +1065,15 @@
       <jump line="95" column="33" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="10" column="10" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" />
       <jump line="133" column="8" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
+      <jump line="12" column="28" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" />
+      <jump line="58" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>uncomment all dependencies build</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>uncomment all dependencies build</text>
+        <text>splti</text>
       </register>
       <register name="/" type="4">
         <text>-2</text>
@@ -1113,31 +1082,31 @@
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vZHVsZXNXaXRoQnVpbGRTdWZmaXggPSBtb2R1bGVzV2l0aEJ1aWxkU3VmZml4WzAuLi0yXQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChtb2R1bGVzV2l0aEJ1aWxkU3VmZml4KSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSovCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihtb2R1bGUgaW4gR2xvYmFscy5NSUNST1NFUlZJQ0VTKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiY2Fzc2FuZHJhX21pZ3JhdG9yIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb290UHJvamVjdERpcmVjdG9yeVNldC5hZGQocGF0aC5zcGxpdCgiLyIpLmZpcnN0KCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAia2Fma2FfYmFja3VwX2Nhc3NhbmRyYSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAia2Fma2FfYXVkaXRsb2ciLAo=</text>
+        <text encoding="base64">ICAgIG1vZHVsZXNXaXRoQnVpbGRTdWZmaXggPSBtb2R1bGVzV2l0aEJ1aWxkU3VmZml4WzAuLi0yXQo=</text>
       </register>
       <register name=":" type="4">
         <text>2,3y</text>
