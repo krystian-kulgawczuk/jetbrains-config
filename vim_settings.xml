@@ -284,11 +284,11 @@
         <mark key="^" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Dockerfile" timestamp="1545319023455">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Dockerfile" timestamp="1545319259221">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-removal/src/main/resources/application-us-dev.properties" timestamp="1543916661887">
         <mark key="[" line="30" column="0" />
@@ -1087,11 +1087,11 @@
       <jump line="63" column="8" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIGNkIC4uCkNPUFkgLiAuCg==</text>
+      <register name="&quot;" type="4">
+        <text>web</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>web</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxucG1cPg==</text>
