@@ -89,13 +89,6 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/impl/KfImpl.java" timestamp="1543870807764">
-        <mark key="'" line="39" column="13" />
-        <mark key="[" line="91" column="48" />
-        <mark key="]" line="91" column="48" />
-        <mark key="^" line="98" column="63" />
-        <mark key="." line="91" column="48" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-removal/deploy/values/us-dev.env" timestamp="1543315833139">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="3" column="23" />
@@ -556,27 +549,6 @@
         <mark key="^" line="60" column="77" />
         <mark key="." line="50" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" timestamp="1543921901654">
-        <mark key="'" line="34" column="24" />
-        <mark key="[" line="20" column="51" />
-        <mark key="]" line="20" column="51" />
-        <mark key="." line="20" column="51" />
-        <mark key="^" line="20" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-contact-kafka/src/main/java/portal/ack/kafka/impl/KfImpl.java" timestamp="1544441013491">
-        <mark key="'" line="44" column="64" />
-        <mark key="[" line="78" column="48" />
-        <mark key="]" line="78" column="48" />
-        <mark key="^" line="85" column="31" />
-        <mark key="." line="78" column="48" />
-      </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/pom.xml" timestamp="1543915834062">
-        <mark key="'" line="22" column="38" />
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="33" />
-      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/support/DcosElasticSearchCluster.java" timestamp="1543912858248">
         <mark key="[" line="60" column="16" />
         <mark key="]" line="60" column="16" />
@@ -690,13 +662,6 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/elastic/DcosElasticSearchCluster.java" timestamp="1543915799697">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="71" column="16" />
-        <mark key="]" line="71" column="16" />
-        <mark key="^" line="67" column="19" />
-        <mark key="." line="71" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/deploy/marathon.json" timestamp="1543909962164">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="16" />
@@ -764,7 +729,7 @@
       <file name="$USER_HOME$/Projects/jenkins-pipeline-library/vars/buildUIParallel.groovy" timestamp="1544703178699">
         <mark key="'" line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1545212129447">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1545316674982">
         <mark key="'" line="221" column="8" />
         <mark key="[" line="172" column="50" />
         <mark key="]" line="173" column="0" />
@@ -879,13 +844,6 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-slack/src/main/java/portal/ks/kafka/producer/impl/KfProdImpl.java" timestamp="1543870844861">
-        <mark key="'" line="43" column="119" />
-        <mark key="[" line="78" column="48" />
-        <mark key="]" line="78" column="48" />
-        <mark key="^" line="81" column="48" />
-        <mark key="." line="78" column="48" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-organization/integration-test/context_up.sh" timestamp="1545048005689">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -984,13 +942,6 @@
         <mark key="]" line="21" column="2" />
         <mark key="." line="21" column="2" />
         <mark key="^" line="21" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-common/pom.xml" timestamp="1544440509240">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="51" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="27" />
-        <mark key="^" line="26" column="27" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" timestamp="1544690127278">
         <mark key="[" line="176" column="22" />
