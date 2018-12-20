@@ -284,11 +284,11 @@
         <mark key="^" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Dockerfile" timestamp="1544538202920">
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="8" column="48" />
-        <mark key="^" line="8" column="48" />
-        <mark key="." line="8" column="48" />
+      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Dockerfile" timestamp="1545319023455">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-removal/src/main/resources/application-us-dev.properties" timestamp="1543916661887">
         <mark key="[" line="30" column="0" />
@@ -1088,55 +1088,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gY3JlZGVudGlhbHMK</text>
+        <text encoding="base64">UlVOIGNkIC4uCkNPUFkgLiAuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>test change</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>TARGET_MODULE</text>
+        <text encoding="base64">XDxucG1cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gY3JlZGVudGlhbHMK</text>
+        <text encoding="base64">UlVOIGNkIC4uCkNPUFkgLiAuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gZGlza3MK</text>
+        <text encoding="base64">Q09QWSAuIC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3VkbyBpb3RvcCAtYW9QCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gY3JlZGVudGlhbHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNoICJlY2hvIGVuZGluZyBmdW5jdGlvbiIK</text>
+        <text encoding="base64">ICAgIC0gZGlza3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2ggImVjaG8gYWRkZWQgJHttb2R1bGV9Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaCAiZWNobyBtb2R1bGUgbmFtZSAtICR7bW9kdWxlfSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaCAiZWNobyBNSUNST1NFUlZJQ0VTOiAke0dsb2JhbHMuTUlDUk9TRVJWSUNFU30iCg==</text>
+        <text encoding="base64">ICAgIHNoICJlY2hvIGVuZGluZyBmdW5jdGlvbiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNoICJlY2hvIE1DIEhFUkU6ICR7R2xvYmFscy5NSUNST1NFUlZJQ0VTfSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2ggImVjaG8gYWRkZWQgJHttb2R1bGV9Igo=</text>
       </register>
       <register name=":" type="4">
         <text>2,3y</text>
       </register>
     </registers>
     <search>
-      <last-search>TARGET_MODULE</last-search>
+      <last-search encoding="base64">XDxucG1cPg==</last-search>
       <last-offset />
-      <last-pattern>TARGET_MODULE</last-pattern>
+      <last-pattern encoding="base64">XDxucG1cPg==</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1178,6 +1178,7 @@
         <entry>jacoco</entry>
         <entry>-2</entry>
         <entry>TARGET_MODULE</entry>
+        <entry encoding="base64">XDxucG1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>132,135y</entry>
