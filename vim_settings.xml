@@ -429,12 +429,12 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="59" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1545390527997">
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1545391694931">
         <mark key="'" line="65" column="8" />
-        <mark key="[" line="66" column="20" />
-        <mark key="]" line="72" column="4" />
-        <mark key="." line="72" column="4" />
-        <mark key="^" line="72" column="4" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="98" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-organization/maven-settings.xml" timestamp="1544190415769">
         <mark key="[" line="30" column="0" />
@@ -1056,10 +1056,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -1068,31 +1068,31 @@
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVyYXRlQ29sbGVjdGlvbihjaGFuZ2VkTW9kdWxlcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2kK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZXNfbWFkZSA9IGdldF9jaGFuZ2VzKCkK</text>
+        <text encoding="base64">Y2kK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlCg==</text>
+        <text encoding="base64">ICAgIGNoYW5nZXNfbWFkZSA9IGdldF9jaGFuZ2VzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbigpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHIyID0gcnVuKHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlCg==</text>
       </register>
       <register name=":" type="4">
         <text>2,3y</text>
