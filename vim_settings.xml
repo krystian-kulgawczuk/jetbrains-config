@@ -354,6 +354,11 @@
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/error/ParametersException.java" timestamp="1545637755728">
         <mark key="[" line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/Globals.groovy" timestamp="1545389657829">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-prod/gvc-us-prod" timestamp="1541699133073">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="8" />
@@ -424,8 +429,10 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545640936197">
+      <file name="/Dummy.txt" timestamp="1545642922000">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/dev/tmp/orbital-lib-connector-cassandra/pom.xml" timestamp="1544182167030">
         <mark key="[" line="29" column="61" />
@@ -744,12 +751,12 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="59" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1545640806329">
-        <mark key="'" line="125" column="62" />
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="125" column="62" />
-        <mark key="." line="125" column="62" />
-        <mark key="^" line="125" column="62" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1545642877589">
+        <mark key="'" line="92" column="35" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="16" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-removal/build.sh" timestamp="1545638485478">
         <mark key="[" line="12" column="14" />
@@ -1015,7 +1022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="102" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/action/impl/AssetUnregisterAction.java" />
       <jump line="1499" column="0" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="1503" column="25" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="1504" column="25" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/schema.cql" />
@@ -1115,13 +1121,14 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="86" column="19" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="123" column="62" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="92" column="35" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>test change</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>test change</text>
       </register>
       <register name="/" type="4">
         <text>removeAll</text>
@@ -1130,7 +1137,7 @@
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbGxlY3Rpb24ucmVtb3ZlQWxsKCIiIGFzIENvbGxlY3Rpb248Pz4pCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1151,10 +1158,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0IC1leAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0IC1leAo=</text>
       </register>
       <register name=":" type="4">
         <text>2,3y</text>
