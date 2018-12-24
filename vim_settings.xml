@@ -741,11 +741,12 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="59" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1545638600165">
-        <mark key="'" line="86" column="19" />
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1545639972307">
+        <mark key="'" line="123" column="62" />
         <mark key="[" line="103" column="28" />
-        <mark key="]" line="103" column="28" />
-        <mark key="." line="103" column="28" />
+        <mark key="]" line="123" column="62" />
+        <mark key="." line="123" column="62" />
+        <mark key="^" line="123" column="62" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-removal/build.sh" timestamp="1545638485478">
         <mark key="[" line="12" column="14" />
@@ -1011,7 +1012,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="36" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-charts/pom.xml" />
       <jump line="31" column="102" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/action/impl/AssetUnregisterAction.java" />
       <jump line="1499" column="0" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="1503" column="25" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/schema.cql" />
@@ -1111,6 +1111,7 @@
       <jump line="121" column="52" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="86" column="19" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="123" column="62" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
