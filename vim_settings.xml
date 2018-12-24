@@ -530,6 +530,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/bootstrap-schema.py" timestamp="1545659741394">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-auditlog/deploy/values/us-dev.env" timestamp="1543315042939">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="3" column="23" />
@@ -870,6 +875,11 @@
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-auditlog/src/main/java/portal/auditlog/config/GsonConfiguration.java" timestamp="1544687499556">
         <mark key="[" line="26" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/docker-compose.yaml" timestamp="1545659708996">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/deploy/values/us-dev.env" timestamp="1543314107112">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="22" />
@@ -1099,8 +1109,8 @@
       <jump line="92" column="35" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -1112,31 +1122,31 @@
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiTWFwcGluZyBhbHJlYWR5IGV4aXN0cyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aWYgKG9zLnBhdGguZXhpc3RzKG9zLmVudmlyb25bIkJPT1RTVFJBUFBFRF9TQ0hFTUFfRklMRV9NQVJLRVIiXSkpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRyaXZlcjogbG9jYWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBjYXNzYW5kcmFfZGF0YToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFyYWxsZWxNb2R1bGVzIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZHVsZXMgPSBkZXBsb3lNb2R1bGVzUHJlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlID0gImRlcGxveSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnNpb24gPSBkZXBsb3lWZXJzaW9uCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">dm9sdW1lczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbGxlY3Rpb24ucmVtb3ZlQWxsKCIiIGFzIENvbGxlY3Rpb248Pz4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAiOTA0Mjo5MDQyIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name=":" type="4">
         <text>121,125d</text>
