@@ -418,7 +418,7 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545647297717">
+      <file name="/Dummy.txt" timestamp="1545899582203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/orbital-lib-connector-cassandra/pom.xml" timestamp="1544182167030">
@@ -471,11 +471,6 @@
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/build.sh" timestamp="1545638403593">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/bootstrap_node.yml" timestamp="1541693582434">
         <mark key="[" line="4" column="8" />
@@ -742,6 +737,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="59" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1545899576160">
+        <mark key="[" line="107" column="28" />
+        <mark key="]" line="107" column="28" />
+        <mark key="." line="107" column="28" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/kafka/producer/SentAlertDto.java" timestamp="1544687491056">
         <mark key="[" line="9" column="27" />
@@ -1112,11 +1112,11 @@
       <jump line="92" column="35" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
+      <register name="&quot;" type="4">
+        <text>QGVC-128</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>QGVC-128</text>
       </register>
       <register name="/" type="4">
         <text>removeAll</text>
