@@ -1002,12 +1002,12 @@
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/backup-org-data/src/main/java/portal/aggregator/charts/dto/CapacityChartDto.java" timestamp="1545378960185">
         <mark key="[" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/schema/assets.json" timestamp="1545989230823">
-        <mark key="'" line="7" column="14" />
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/schema/assets.json" timestamp="1545992002314">
+        <mark key="'" line="44" column="9" />
         <mark key="[" line="45" column="19" />
-        <mark key="]" line="45" column="22" />
-        <mark key="." line="45" column="22" />
-        <mark key="^" line="45" column="22" />
+        <mark key="]" line="45" column="24" />
+        <mark key="." line="45" column="24" />
+        <mark key="^" line="45" column="24" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-metadata-organizations/deploy/values/us-prod.env" timestamp="1543315669071">
         <mark key="[" line="3" column="12" />
@@ -1017,7 +1017,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1503" column="25" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="1504" column="25" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
       <jump line="94" column="32" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/R3Impl.java" />
@@ -1117,6 +1116,7 @@
       <jump line="123" column="62" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="92" column="35" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="7" column="14" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/schema/assets.json" />
+      <jump line="44" column="9" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/schema/assets.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
