@@ -533,7 +533,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/bootstrap-schema.py" timestamp="1545659741394">
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/bootstrap-schema.py" timestamp="1545993831049">
+        <mark key="'" line="67" column="10" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -1017,7 +1018,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1504" column="25" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
       <jump line="94" column="32" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/R3Impl.java" />
       <jump line="32" column="17" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
@@ -1117,6 +1117,7 @@
       <jump line="92" column="35" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="7" column="14" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/schema/assets.json" />
       <jump line="44" column="9" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/schema/assets.json" />
+      <jump line="67" column="10" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/bootstrap-schema.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1126,7 +1127,7 @@
         <text>double</text>
       </register>
       <register name="/" type="4">
-        <text>loads</text>
+        <text>curl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
@@ -1163,9 +1164,9 @@
       </register>
     </registers>
     <search>
-      <last-search>loads</last-search>
+      <last-search>curl</last-search>
       <last-offset />
-      <last-pattern>loads</last-pattern>
+      <last-pattern>curl</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -1198,6 +1199,7 @@
         <entry>Organization</entry>
         <entry>removeAll</entry>
         <entry>loads</entry>
+        <entry>curl</entry>
       </history-search>
       <history-cmd>
         <entry>%/copy.*'/capture '/</entry>
