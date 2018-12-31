@@ -222,6 +222,12 @@
         <mark key="^" line="44" column="15" />
         <mark key="." line="44" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Jenkinsfile.groovy" timestamp="1546237511908">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="23" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-portal-agent/internal/portal/router.go" timestamp="1543493754166">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="37" />
@@ -423,7 +429,7 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545899582203">
+      <file name="/Dummy.txt" timestamp="1546237545124">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/orbital-lib-connector-cassandra/pom.xml" timestamp="1544182167030">
@@ -1120,8 +1126,8 @@
       <jump line="67" column="10" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/bootstrap-schema.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>double</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>double</text>
@@ -1133,31 +1139,31 @@
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTA0Mjo5MDQyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlICR7Sk9CX05BTUV9Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogY2Fzc2FuZHJhCg==</text>
+        <text encoding="base64">ICAgICAgLSAiOTA0Mjo5MDQyIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjYXNzYW5kcmE6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAiMjE4MToyMTgxIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTA5Mjo5MDkyIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29udGV4dDogY2Fzc2FuZHJhCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjYXNzYW5kcmE6Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLSAiMjE4MToyMTgxIgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQURWRVJUSVNFRF9MSVNURU5FUlM6IFBMQUlOVEVYVDovL2xvY2FsaG9zdDo5MDkyCg==</text>
+        <text encoding="base64">ICAgICAgLSAiOTA5Mjo5MDkyIgo=</text>
       </register>
       <register name=":" type="4">
         <text>121,125d</text>
