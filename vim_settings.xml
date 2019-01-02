@@ -87,7 +87,7 @@
         <mark key="^" line="30" column="42" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/us-dev/config/nginx.conf" timestamp="1545141207069">
+      <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/us-dev/config/nginx.conf" timestamp="1546436906766">
         <mark key="[" line="238" column="51" />
         <mark key="]" line="238" column="51" />
         <mark key="^" line="226" column="23" />
@@ -104,6 +104,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1546437340592">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="^" line="151" column="37" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/support/DcosCassandraCluster.java" timestamp="1543916166925">
         <mark key="[" line="50" column="58" />
@@ -792,7 +798,7 @@
         <mark key="^" line="177" column="73" />
         <mark key="." line="176" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546428269683">
+      <file name="/Dummy.txt" timestamp="1546437366284">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/orbital-lib-connector-cassandra/pom.xml" timestamp="1544182167030">
@@ -965,10 +971,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+Y2RwLmN1c3RvbWVyLk9yYml0YWxDdXN0b21lcjwvc3RhcnQtY2xhc3M+Cg==</text>
+        <text encoding="base64">ICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0ICAgICAgIDEyMDsK</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cdp</text>
@@ -977,34 +983,34 @@
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+Y2RwLmN1c3RvbWVyLk9yYml0YWxDdXN0b21lcjwvc3RhcnQtY2xhc3M+Cg==</text>
+        <text encoding="base64">ICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0ICAgICAgIDEyMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0ICAgICAgIDEyMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3AgLi4vbmV3cmVsaWMuamFyIG5ld3JlbGljLmphcgo=</text>
+        <text encoding="base64">ICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0ICAgICAgIDEyMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0IDEwMDgwczsKICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0ICAgICAgIDEyMDsKICAgICAgcHJveHlfc2VuZF90aW1lb3V0ICAgICAgICAgIDEyMDsKICAgICAgcHJveHlfcmVhZF90aW1lb3V0ICAgICAgICAgIDEyMDsKICAgICAgc2VuZF90aW1lb3V0ICAgICAgICAgICAgICAgIDEyMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+Y2RwLmN1c3RvbWVyLk9yYml0YWxDdXN0b21lcjwvc3RhcnQtY2xhc3M+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3AgLi4vbmV3cmVsaWMuamFyIG5ld3JlbGljLmphcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0IC14ZQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>121,125d</text>
+        <text>80,84d</text>
       </register>
     </registers>
     <search>
@@ -1061,6 +1067,7 @@
         <entry>23,24d</entry>
         <entry>2,3y</entry>
         <entry>121,125d</entry>
+        <entry>80,84d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
