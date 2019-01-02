@@ -274,6 +274,7 @@
         <mark key="^" line="98" column="4" />
         <mark key="." line="98" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/CdpAgent.java" timestamp="1546434207439" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/deploy/values/us-prod.env" timestamp="1543314349646">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="21" />
@@ -576,6 +577,11 @@
         <mark key="." line="25" column="55" />
         <mark key="^" line="25" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/docker-compose.yaml" timestamp="1545984596608">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/deploy/values/us-dev.env" timestamp="1543314107112">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="22" />
@@ -731,6 +737,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/deploy/marathon.json" timestamp="1546433926290" />
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-charts-cassandra-restore-data/src/main/java/portal/kcs/model/impl/kafka/KfImpl.java" timestamp="1543870880460">
         <mark key="[" line="75" column="48" />
         <mark key="]" line="75" column="48" />
@@ -812,6 +819,11 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="24" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" timestamp="1546434211362">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-portal-agent/.gitignore" timestamp="1544437504753">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="18" column="15" />
@@ -850,9 +862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
-      <jump line="17" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
-      <jump line="18" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
       <jump line="19" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
       <jump line="20" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
       <jump line="21" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
@@ -950,28 +959,31 @@
       <jump line="23" column="17" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/actor-system/app/controllers/CountingService.scala" />
       <jump line="22" column="20" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/actor-system/app/controllers/ProxyService.scala" />
       <jump line="21" column="17" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/actor-system/app/controllers/ProxyService.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" />
+      <jump line="11" column="16" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" />
+      <jump line="15" column="42" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+Y2RwLmN1c3RvbWVyLk9yYml0YWxDdXN0b21lcjwvc3RhcnQtY2xhc3M+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>gateway</text>
+        <text>cdp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+Y2RwLmN1c3RvbWVyLk9yYml0YWxDdXN0b21lcjwvc3RhcnQtY2xhc3M+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3AgLi4vbmV3cmVsaWMuamFyIG5ld3JlbGljLmphcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3AgLi4vbmV3cmVsaWMuamFyIG5ld3JlbGljLmphcgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -983,10 +995,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2V0IC14ZQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0IC14ZQoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -996,9 +1008,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gateway</last-search>
+      <last-search>cdp</last-search>
       <last-offset />
-      <last-pattern>gateway</last-pattern>
+      <last-pattern>cdp</last-pattern>
       <last-replace>capture '</last-replace>
       <last-substitute>copy .* '</last-substitute>
       <last-dir>1</last-dir>
@@ -1026,6 +1038,7 @@
         <entry>loads</entry>
         <entry>curl</entry>
         <entry>gateway</entry>
+        <entry>cdp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/copy .* '/kopy/</entry>
