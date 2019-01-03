@@ -774,10 +774,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1546518259566">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1546519631378">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
         <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V21_EmptyMigrationSyncDevProd.java" timestamp="1543837840914">
@@ -977,10 +977,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>master</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>cdp</text>
