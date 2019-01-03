@@ -365,10 +365,11 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1546523292950">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="53" />
-        <mark key="." line="21" column="53" />
+      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1546525092239">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-gateway/maven-settings.xml" timestamp="1544190375469">
         <mark key="[" line="30" column="0" />
@@ -665,10 +666,11 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1546523304182">
+      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1546525458730">
         <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="26" />
+        <mark key="^" line="40" column="26" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/deploy/marathon.json" timestamp="1541779724413">
         <mark key="[" line="1" column="16" />
@@ -993,10 +995,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>elasticsearch</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>elasticsearch</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>,$</text>
