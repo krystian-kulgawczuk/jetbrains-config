@@ -365,11 +365,10 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1546525092239">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-        <mark key="^" line="21" column="15" />
+      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1546527587581">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-gateway/maven-settings.xml" timestamp="1544190375469">
         <mark key="[" line="30" column="0" />
@@ -666,12 +665,12 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1546526692415">
-        <mark key="'" line="8" column="6" />
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="40" column="26" />
-        <mark key="^" line="40" column="26" />
+      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1546527256339">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="37" column="26" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-svc-gateway/deploy/marathon.json" timestamp="1541779724413">
         <mark key="[" line="1" column="16" />
@@ -995,8 +994,8 @@
       <jump line="8" column="6" filename="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="-" type="4">
         <text>v</text>
@@ -1008,31 +1007,31 @@
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm0gLi9ndmMtbWFpbC1zZXJ2aWNlLTEuMC1TTkFQU0hPVC5qYXIK</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0ICAgICAgIDEyMDsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0ICAgICAgIDEyMDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0ICAgICAgIDEyMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICJzaXplIjogNDA5NjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0IDEwMDgwczsKICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0ICAgICAgIDEyMDsKICAgICAgcHJveHlfc2VuZF90aW1lb3V0ICAgICAgICAgIDEyMDsKICAgICAgcHJveHlfcmVhZF90aW1lb3V0ICAgICAgICAgIDEyMDsKICAgICAgc2VuZF90aW1lb3V0ICAgICAgICAgICAgICAgIDEyMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJvb3QiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c3RhcnQtY2xhc3M+Y2RwLmN1c3RvbWVyLk9yYml0YWxDdXN0b21lcjwvc3RhcnQtY2xhc3M+Cg==</text>
+        <text encoding="base64">ICAgICAgICAicGVyc2lzdGVudCI6IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAibW9kZSI6ICJSVyIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3AgLi4vbmV3cmVsaWMuamFyIG5ld3JlbGljLmphcgo=</text>
+        <text encoding="base64">ICAgICAgICAiY29udGFpbmVyUGF0aCI6ICJlc2RhdGFkaXIiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
