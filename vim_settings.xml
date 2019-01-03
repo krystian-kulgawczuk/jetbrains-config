@@ -666,7 +666,8 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1546525458730">
+      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1546526692415">
+        <mark key="'" line="8" column="6" />
         <mark key="[" line="9" column="19" />
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
@@ -892,7 +893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="30" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="171" column="12" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="509" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="13" column="120" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
@@ -992,6 +992,7 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="25" column="67" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="32" column="57" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
+      <jump line="8" column="6" filename="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1001,7 +1002,7 @@
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>,$</text>
+        <text>discover-hosts</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
@@ -1038,9 +1039,9 @@
       </register>
     </registers>
     <search>
-      <last-search>,$</last-search>
+      <last-search>discover-hosts</last-search>
       <last-offset />
-      <last-pattern>,$</last-pattern>
+      <last-pattern>discover-hosts</last-pattern>
       <last-replace />
       <last-substitute>,$</last-substitute>
       <last-dir>1</last-dir>
@@ -1070,6 +1071,7 @@
         <entry>cdp</entry>
         <entry encoding="base64">XiAgICA=</entry>
         <entry>,$</entry>
+        <entry>discover-hosts</entry>
       </history-search>
       <history-cmd>
         <entry>%s/copy .* '/capture '/</entry>
