@@ -273,6 +273,9 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-mail-service/.gitignore" timestamp="1546512777986">
+        <mark key="[" line="99" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/deploy/values/us-prod.env" timestamp="1543314349646">
         <mark key="[" line="3" column="22" />
         <mark key="]" line="3" column="21" />
@@ -488,6 +491,11 @@
         <mark key="]" line="27" column="47" />
         <mark key="." line="27" column="47" />
         <mark key="^" line="27" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-mail-service/Jenkinsfile.groovy" timestamp="1546512878002">
+        <mark key="[" line="35" column="28" />
+        <mark key="]" line="35" column="28" />
+        <mark key="." line="35" column="28" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Makefile" timestamp="1543587831673">
         <mark key="[" line="4" column="21" />
@@ -766,11 +774,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1546415122448">
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1546512389023">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
-        <mark key="^" line="2" column="34" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V21_EmptyMigrationSyncDevProd.java" timestamp="1543837840914">
         <mark key="[" line="13" column="15" />
@@ -796,7 +804,7 @@
         <mark key="^" line="177" column="73" />
         <mark key="." line="176" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546512061681">
+      <file name="/Dummy.txt" timestamp="1546512881833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/orbital-lib-connector-cassandra/pom.xml" timestamp="1544182167030">
@@ -968,11 +976,11 @@
       <jump line="15" column="42" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cm0gLi9ndmMtbWFpbC1zZXJ2aWNlLTEuMC1TTkFQU0hPVC5qYXIK</text>
+      <register name="&quot;" type="4">
+        <text>master</text>
       </register>
       <register name="-" type="4">
-        <text>agent-manage</text>
+        <text>master</text>
       </register>
       <register name="/" type="4">
         <text>cdp</text>
