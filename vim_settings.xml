@@ -372,6 +372,12 @@
         <mark key="^" line="26" column="22" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1546506617912">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="412" />
+        <mark key="." line="2" column="412" />
+        <mark key="^" line="2" column="412" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/deploy/marathon-template.json" timestamp="1546419947888">
         <mark key="[" line="21" column="36" />
         <mark key="]" line="21" column="47" />
@@ -491,9 +497,6 @@
         <mark key="]" line="27" column="47" />
         <mark key="." line="27" column="47" />
         <mark key="^" line="27" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-mail-service/Jenkinsfile.groovy" timestamp="1546419843707">
-        <mark key="n" line="40" column="48" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Makefile" timestamp="1543587831673">
         <mark key="[" line="4" column="21" />
@@ -970,11 +973,11 @@
       <jump line="15" column="42" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0ICAgICAgIDEyMDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGRldm9wc0BhY2Fpc29mdC5jb20=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGRldm9wc0BhY2Fpc29mdC5jb20=</text>
       </register>
       <register name="/" type="4">
         <text>cdp</text>
