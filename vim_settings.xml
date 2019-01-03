@@ -255,7 +255,7 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1546520602145">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1546521475396">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
@@ -767,11 +767,12 @@
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1546250354687">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="18" />
-        <mark key="." line="19" column="18" />
-        <mark key="^" line="19" column="18" />
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1546521667518">
+        <mark key="'" line="32" column="57" />
+        <mark key="[" line="21" column="64" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/Orbital/orbital-svc-gateway/Jenkinsfile.groovy" timestamp="1543500003729">
         <mark key="[" line="9" column="0" />
@@ -879,10 +880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
-      <jump line="20" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
-      <jump line="21" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
-      <jump line="23" column="12" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/dto/AssetDetailsDto.java" />
       <jump line="12" column="30" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="171" column="12" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
       <jump line="509" column="0" filename="$USER_HOME$/dev/terraform_dcos/variables.tf" />
@@ -979,16 +976,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" />
       <jump line="11" column="16" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" />
       <jump line="15" column="42" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" />
+      <jump line="2" column="3" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
+      <jump line="25" column="67" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
+      <jump line="32" column="57" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>cdp</text>
+        <text>,$</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
@@ -1021,15 +1022,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>80,84d</text>
+        <text>%s/,$//</text>
       </register>
     </registers>
     <search>
-      <last-search>cdp</last-search>
+      <last-search>,$</last-search>
       <last-offset />
-      <last-pattern>cdp</last-pattern>
-      <last-replace>capture '</last-replace>
-      <last-substitute>copy .* '</last-substitute>
+      <last-pattern>,$</last-pattern>
+      <last-replace />
+      <last-substitute>,$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1055,6 +1056,8 @@
         <entry>curl</entry>
         <entry>gateway</entry>
         <entry>cdp</entry>
+        <entry encoding="base64">XiAgICA=</entry>
+        <entry>,$</entry>
       </history-search>
       <history-cmd>
         <entry>%s/copy .* '/capture '/</entry>
@@ -1077,6 +1080,8 @@
         <entry>2,3y</entry>
         <entry>121,125d</entry>
         <entry>80,84d</entry>
+        <entry>%s/^    //</entry>
+        <entry>%s/,$//</entry>
       </history-cmd>
       <history-expr />
       <history-input />
