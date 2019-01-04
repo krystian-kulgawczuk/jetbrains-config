@@ -346,7 +346,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1546596972456" />
+      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1546600482104">
+        <mark key="[" line="195" column="16" />
+        <mark key="]" line="195" column="16" />
+        <mark key="." line="195" column="16" />
+        <mark key="^" line="195" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/make_cassandra_backup.sh" timestamp="1543228629059">
         <mark key="[" line="68" column="28" />
         <mark key="]" line="66" column="24" />
@@ -1002,10 +1007,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>prod</text>
+        <text>gvcdev-mgragent.acaisoft.io</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>gvcdev-mgragent.acaisoft.io</text>
       </register>
       <register name="/" type="4">
         <text>backup</text>
