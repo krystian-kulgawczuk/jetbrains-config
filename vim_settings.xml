@@ -159,6 +159,12 @@
         <mark key="^" line="54" column="86" />
         <mark key="." line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1546589565173">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1543415535138">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="61" />
@@ -994,11 +1000,11 @@
       <jump line="8" column="6" filename="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>prod</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>discover-hosts</text>
@@ -1007,34 +1013,34 @@
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">U3RyaW5nIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">U3RyaW5nIHByZUNoYW5nZWRNb2R1bGVzClN0cmluZyBub3JtYWxDaGFuZ2VkTW9kdWxlcwpTdHJpbmcgcG9zdENoYW5nZWRNb2R1bGVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICJzaXplIjogNDA5NjAK</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJvb3QiLAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAicGVyc2lzdGVudCI6IHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAibW9kZSI6ICJSVyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJzaXplIjogNDA5NjAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiY29udGFpbmVyUGF0aCI6ICJlc2RhdGFkaXIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJvb3QiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAicGVyc2lzdGVudCI6IHsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/,$//</text>
+        <text>31,33d</text>
       </register>
     </registers>
     <search>
@@ -1095,6 +1101,7 @@
         <entry>80,84d</entry>
         <entry>%s/^    //</entry>
         <entry>%s/,$//</entry>
+        <entry>31,33d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
