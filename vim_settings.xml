@@ -123,6 +123,7 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/scripts_common/ci/resources/normal_deploy.txt" timestamp="1546618325312" />
       <file name="$USER_HOME$/dev/projects-meta/backup-org-data/Makefile" timestamp="1544613727838">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="18" />
@@ -165,7 +166,7 @@
         <mark key="^" line="20" column="61" />
         <mark key="." line="20" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/scripts_common/ci/git_changes.py" timestamp="1546593781989">
+      <file name="$USER_HOME$/dev/scripts_common/ci/git_changes.py" timestamp="1546618294114">
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="7" />
         <mark key="." line="37" column="7" />
@@ -258,13 +259,16 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1546617906121">
+        <mark key="'" line="105" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-auditlog/deploy/values/us-prod.env" timestamp="1543314534384">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546615993138">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546618017767">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
@@ -297,6 +301,7 @@
         <mark key="." line="2" column="65" />
         <mark key="^" line="2" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/module/ChronosDockerModule.groovy" timestamp="1546617922199" />
       <file name="$USER_HOME$/Projects/orbital-ui-api/src/main/java/com/quest/orbital/uiapi/controller/OrganizationController.java" timestamp="1543229423129">
         <mark key="[" line="16" column="52" />
         <mark key="]" line="16" column="51" />
@@ -513,11 +518,6 @@
         <mark key="." line="27" column="47" />
         <mark key="^" line="27" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-mail-service/Jenkinsfile.groovy" timestamp="1546512878002">
-        <mark key="[" line="35" column="28" />
-        <mark key="]" line="35" column="28" />
-        <mark key="." line="35" column="28" />
-      </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/Makefile" timestamp="1543587831673">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="24" />
@@ -606,11 +606,6 @@
         <mark key="." line="25" column="55" />
         <mark key="^" line="25" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/docker-compose.yaml" timestamp="1545984596608">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-regular/deploy/values/us-dev.env" timestamp="1543314107112">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="22" />
@@ -623,6 +618,7 @@
         <mark key="." line="53" column="63" />
         <mark key="^" line="53" column="63" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1546618184708" />
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/kafka-elasticsearch-removal/deploy/values/us-prod.env" timestamp="1543315756892">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="12" />
@@ -707,11 +703,6 @@
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/Globals.groovy" timestamp="1546426628595">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/dev/scripts_common/ci/resources/pre_deploy.txt" timestamp="1545389774471">
         <mark key="[" line="0" column="0" />
@@ -866,11 +857,6 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="24" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" timestamp="1546434211362">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-portal-agent/.gitignore" timestamp="1544437504753">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="18" column="15" />
@@ -912,17 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="8" filename="$USER_HOME$/dev/projects-meta/backup-org-data/pom.xml" />
-      <jump line="144" column="0" filename="$USER_HOME$/dev/projects-meta/backup-org-data/pom.xml" />
-      <jump line="74" column="8" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/pom.xml" />
-      <jump line="24" column="25" filename="$USER_HOME$/dev/projects-meta/backup-org-data/Jenkinsfile.groovy" />
-      <jump line="57" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="58" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="7" column="27" filename="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" />
-      <jump line="30" column="7" filename="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" />
-      <jump line="27" column="1" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="56" column="21" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="10" column="17" filename="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" />
       <jump line="48" column="31" filename="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" />
       <jump line="46" column="22" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
@@ -1012,6 +987,17 @@
       <jump line="264" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
       <jump line="265" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
       <jump line="1506" column="150" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="113" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="106" column="55" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="66" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="67" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="68" column="49" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="70" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="71" column="51" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="101" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="102" column="48" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="103" column="53" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="105" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1021,7 +1007,7 @@
         <text>gvcdev-mgragent.acaisoft.io</text>
       </register>
       <register name="/" type="4">
-        <text>maciej@test.com</text>
+        <text>charts</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
@@ -1058,9 +1044,9 @@
       </register>
     </registers>
     <search>
-      <last-search>maciej@test.com</last-search>
+      <last-search>charts</last-search>
       <last-offset />
-      <last-pattern>maciej@test.com</last-pattern>
+      <last-pattern>charts</last-pattern>
       <last-replace>jedrzej.sawicki@acaisoft.com</last-replace>
       <last-substitute>maciej@test.com</last-substitute>
       <last-dir>1</last-dir>
@@ -1095,6 +1081,7 @@
         <entry>storage</entry>
         <entry>support</entry>
         <entry>maciej@test.com</entry>
+        <entry>charts</entry>
       </history-search>
       <history-cmd>
         <entry>%s/copy .* '/capture '/</entry>
