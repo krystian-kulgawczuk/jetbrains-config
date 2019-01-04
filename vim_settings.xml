@@ -63,11 +63,17 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/actor-system/app/controllers/ProxyService.scala" timestamp="1546422737624">
+        <mark key="'" line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-backup-cassandra/src/main/resources/application-us-dev.properties" timestamp="1543856300047">
         <mark key="[" line="21" column="7" />
         <mark key="]" line="21" column="7" />
         <mark key="." line="21" column="7" />
         <mark key="^" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/actor-system/app/controllers/CountingService.scala" timestamp="1546422698998">
+        <mark key="'" line="23" column="17" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/migrations/V11_AddNameFieldToInvitation.java" timestamp="1541724542627">
         <mark key="[" line="24" column="97" />
@@ -591,6 +597,9 @@
         <mark key="." line="28" column="37" />
         <mark key="^" line="28" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" timestamp="1546418798036">
+        <mark key="'" line="24" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/Dockerfile" timestamp="1546419770498">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="10" />
@@ -837,6 +846,9 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1546602400434">
+        <mark key="'" line="265" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/tmp/orbital-lib-connector-cassandra/pom.xml" timestamp="1544182167030">
         <mark key="[" line="29" column="61" />
         <mark key="]" line="29" column="61" />
@@ -872,6 +884,9 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1546602633705">
+        <mark key="'" line="1506" column="150" />
+      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile-build-all.groovy" timestamp="1544085269054">
         <mark key="[" line="17" column="55" />
         <mark key="]" line="17" column="55" />
@@ -904,15 +919,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="28" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/web/package.json" />
-      <jump line="12" column="8" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/web/package.json" />
-      <jump line="13" column="115" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/web/package.json" />
-      <jump line="54" column="3" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/web/package.json" />
-      <jump line="55" column="14" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/web/package.json" />
-      <jump line="7" column="9" filename="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/web/package.json" />
-      <jump line="21" column="25" filename="$USER_HOME$/dev/projects-meta/backup-org-data/pom.xml" />
-      <jump line="141" column="0" filename="$USER_HOME$/dev/projects-meta/backup-org-data/pom.xml" />
-      <jump line="63" column="8" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/pom.xml" />
       <jump line="137" column="8" filename="$USER_HOME$/dev/projects-meta/backup-org-data/pom.xml" />
       <jump line="144" column="0" filename="$USER_HOME$/dev/projects-meta/backup-org-data/pom.xml" />
       <jump line="74" column="8" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/pom.xml" />
@@ -1004,6 +1010,15 @@
       <jump line="170" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="172" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="173" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="12" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
+      <jump line="80" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
+      <jump line="97" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
+      <jump line="116" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
+      <jump line="535" column="1" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
+      <jump line="531" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
+      <jump line="264" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
+      <jump line="265" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
+      <jump line="1506" column="150" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1013,7 +1028,7 @@
         <text>gvcdev-mgragent.acaisoft.io</text>
       </register>
       <register name="/" type="4">
-        <text>backup</text>
+        <text>maciej@test.com</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
@@ -1046,15 +1061,15 @@
         <text encoding="base64">ICAgICAgICAicGVyc2lzdGVudCI6IHsK</text>
       </register>
       <register name=":" type="4">
-        <text>31,33d</text>
+        <text>%s/maciej@test.com/jedrzej.sawicki@acaisoft.com/g</text>
       </register>
     </registers>
     <search>
-      <last-search>backup</last-search>
+      <last-search>maciej@test.com</last-search>
       <last-offset />
-      <last-pattern>backup</last-pattern>
-      <last-replace />
-      <last-substitute>,$</last-substitute>
+      <last-pattern>maciej@test.com</last-pattern>
+      <last-replace>jedrzej.sawicki@acaisoft.com</last-replace>
+      <last-substitute>maciej@test.com</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1084,6 +1099,9 @@
         <entry>,$</entry>
         <entry>discover-hosts</entry>
         <entry>backup</entry>
+        <entry>storage</entry>
+        <entry>support</entry>
+        <entry>maciej@test.com</entry>
       </history-search>
       <history-cmd>
         <entry>%s/copy .* '/capture '/</entry>
@@ -1109,6 +1127,7 @@
         <entry>%s/^    //</entry>
         <entry>%s/,$//</entry>
         <entry>31,33d</entry>
+        <entry>%s/maciej@test.com/jedrzej.sawicki@acaisoft.com/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
