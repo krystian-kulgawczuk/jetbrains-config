@@ -264,11 +264,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546610263535">
-        <mark key="[" line="60" column="73" />
-        <mark key="]" line="52" column="74" />
-        <mark key="^" line="52" column="74" />
-        <mark key="." line="52" column="74" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546615993138">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/deploy/values/us-prod.env" timestamp="1543316139597">
         <mark key="[" line="3" column="12" />
@@ -1014,8 +1014,8 @@
       <jump line="1506" column="150" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gvcdev-mgragent.acaisoft.io</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="-" type="4">
         <text>gvcdev-mgragent.acaisoft.io</text>
@@ -1027,31 +1027,31 @@
         <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U3RyaW5nIAo=</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U3RyaW5nIHByZUNoYW5nZWRNb2R1bGVzClN0cmluZyBub3JtYWxDaGFuZ2VkTW9kdWxlcwpTdHJpbmcgcG9zdENoYW5nZWRNb2R1bGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">U3RyaW5nIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">U3RyaW5nIHByZUNoYW5nZWRNb2R1bGVzClN0cmluZyBub3JtYWxDaGFuZ2VkTW9kdWxlcwpTdHJpbmcgcG9zdENoYW5nZWRNb2R1bGVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICJzaXplIjogNDA5NjAK</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJvb3QiLAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAicGVyc2lzdGVudCI6IHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/maciej@test.com/jedrzej.sawicki@acaisoft.com/g</text>
