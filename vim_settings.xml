@@ -268,11 +268,12 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546618017767">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546934687588">
+        <mark key="'" line="111" column="8" />
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="12" column="66" />
+        <mark key="." line="12" column="66" />
+        <mark key="^" line="12" column="66" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/deploy/values/us-prod.env" timestamp="1543316139597">
         <mark key="[" line="3" column="12" />
@@ -898,12 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="17" filename="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" />
-      <jump line="48" column="31" filename="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" />
-      <jump line="46" column="22" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="20" column="20" filename="$USER_HOME$/Projects/jenkins-pipeline-library/vars/copyJarsParallel.groovy" />
-      <jump line="31" column="18" filename="$USER_HOME$/Projects/orbital-organization/Jenkinsfile.groovy" />
-      <jump line="150" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="14" column="4" filename="$USER_HOME$/Projects/orbital-organization/Jenkinsfile.groovy" />
       <jump line="98" column="8" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="35" column="39" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
@@ -998,55 +993,61 @@
       <jump line="102" column="48" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="103" column="53" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="105" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
+      <jump line="21" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
+      <jump line="54" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
+      <jump line="115" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
+      <jump line="86" column="77" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
+      <jump line="97" column="11" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
+      <jump line="105" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>gvcdev-mgragent.acaisoft.io</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>charts</text>
+        <text>branch_name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QExpYnJhcnkoJ2d2Yy1qZW5raW5zLXBpcGVsaW5lLWxpYnJhcnlAbWFzdGVyJykKaW1wb3J0IHBhcmFsbGVsTW9kdWxlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtmaWxlKGNyZWRlbnRpYWxzSWQ6ICdjaXBoZXIta2V5JywgdmFyaWFibGU6ICdDSVBIRVJfS0VZJyldKSB7CiAgICAgICAgICAgICAgICBzaCAibG4gLXMgJHtDSVBIRVJfS0VZfSAuZ3ZjLWVuY3J5cHRpb24tdXMtZGV2LnNlY3JldCIKICAgICAgICAgICAgICAgIHNoICJtYWtlIGRlY3J5cHQiCiAgICAgICAgICAgICAgICB3aXRoQ3JlZGVudGlhbHMoW1skY2xhc3MgICAgICAgICAgOiAnVXNlcm5hbWVQYXNzd29yZE11bHRpQmluZGluZycsIGNyZWRlbnRpYWxzSWQ6ICdkb2NrZXItbG9naW4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWVWYXJpYWJsZTogJ1VTRVJOQU1FJywgcGFzc3dvcmRWYXJpYWJsZTogJ1BBU1NXT1JEJ11dKSB7CiAgICAgICAgICAgICAgICAgICAgc2ggJ2RvY2tlciBsb2dpbiBndmN1c2Rldi5henVyZWNyLmlvIC11ICRVU0VSTkFNRSAtcCAkUEFTU1dPUkQnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBzaCAibWFrZSBidWlsZF9hbGwiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICJtYWtlIGJ1aWxkX2FsbCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICJtYWtlIGJ1aWxkX2FsbCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIFNUQUdJTkdfRE9DS0VSX1JFR0lTVFJZID0gImd2Y3VzZGV2LmF6dXJlY3IuaW8iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U3RyaW5nIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U3RyaW5nIHByZUNoYW5nZWRNb2R1bGVzClN0cmluZyBub3JtYWxDaGFuZ2VkTW9kdWxlcwpTdHJpbmcgcG9zdENoYW5nZWRNb2R1bGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoQ3JlZGVudGlhbHMoW2ZpbGUoY3JlZGVudGlhbHNJZDogJ2NpcGhlci1rZXknLCB2YXJpYWJsZTogJ0NJUEhFUl9LRVknKV0pIHsKICAgICAgICAgICAgc2ggImxuIC1zICR7Q0lQSEVSX0tFWX0gLmd2Yy1lbmNyeXB0aW9uLXVzLWRldi5zZWNyZXQiCiAgICAgICAgICAgIHNoICJtYWtlIGRlY3J5cHQiCiAgICAgICAgICAgIHdpdGhDcmVkZW50aWFscyhbWyRjbGFzcyAgICAgICAgICA6ICdVc2VybmFtZVBhc3N3b3JkTXVsdGlCaW5kaW5nJywgY3JlZGVudGlhbHNJZDogJ2RvY2tlci1sb2dpbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJuYW1lVmFyaWFibGU6ICdVU0VSTkFNRScsIHBhc3N3b3JkVmFyaWFibGU6ICdQQVNTV09SRCddXSkgewogICAgICAgICAgICAgICAgc2ggJ2RvY2tlciBsb2dpbiBndmN1c2Rldi5henVyZWNyLmlvIC11ICRVU0VSTkFNRSAtcCAkUEFTU1dPUkQnCiAgICAgICAgICAgIH0KICAgICAgICAgICAgc2ggIm1ha2UgYnVpbGRfYWxsIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ZGVmIFNUQUdJTkdfUFJPRklMRSA9ICJ1cy1zdGFnaW5nIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/maciej@test.com/jedrzej.sawicki@acaisoft.com/g</text>
+        <text>84,91y</text>
       </register>
     </registers>
     <search>
-      <last-search>charts</last-search>
+      <last-search>branch_name</last-search>
       <last-offset />
-      <last-pattern>charts</last-pattern>
+      <last-pattern>branch_name</last-pattern>
       <last-replace>jedrzej.sawicki@acaisoft.com</last-replace>
       <last-substitute>maciej@test.com</last-substitute>
       <last-dir>1</last-dir>
@@ -1057,7 +1058,6 @@
         <entry>guava</entry>
         <entry>lombok</entry>
         <entry>orbital</entry>
-        <entry>branch_name</entry>
         <entry>$</entry>
         <entry>\$</entry>
         <entry>isLastBui</entry>
@@ -1082,6 +1082,7 @@
         <entry>support</entry>
         <entry>maciej@test.com</entry>
         <entry>charts</entry>
+        <entry>branch_name</entry>
       </history-search>
       <history-cmd>
         <entry>%s/copy .* '/capture '/</entry>
@@ -1108,6 +1109,8 @@
         <entry>%s/,$//</entry>
         <entry>31,33d</entry>
         <entry>%s/maciej@test.com/jedrzej.sawicki@acaisoft.com/g</entry>
+        <entry>89,96d</entry>
+        <entry>84,91y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
