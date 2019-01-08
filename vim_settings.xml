@@ -124,6 +124,7 @@
         <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/dev/scripts_common/ci/resources/normal_deploy.txt" timestamp="1546618325312" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-analytics/deploy/marathon-template.json" timestamp="1546939032550" />
       <file name="$USER_HOME$/dev/projects-meta/backup-org-data/Makefile" timestamp="1544613727838">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="18" />
@@ -268,12 +269,12 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546934687588">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546938747700">
         <mark key="'" line="111" column="8" />
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="12" column="66" />
-        <mark key="." line="12" column="66" />
-        <mark key="^" line="12" column="66" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="137" column="7" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/deploy/values/us-prod.env" timestamp="1543316139597">
         <mark key="[" line="3" column="12" />
@@ -308,12 +309,6 @@
         <mark key="]" line="16" column="51" />
         <mark key="^" line="16" column="51" />
         <mark key="." line="16" column="51" />
-      </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/build.sh" timestamp="1544538337410">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-auditlog/src/main/resources/application-us-prod.properties" timestamp="1544171813663">
         <mark key="[" line="19" column="49" />
@@ -637,12 +632,6 @@
         <mark key="]" line="160" column="0" />
         <mark key="^" line="158" column="2" />
         <mark key="." line="160" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/gvc-ui-customer-subdomain/Dockerfile" timestamp="1545319259221">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="7" column="27" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/kafka-elasticsearch-removal/src/main/resources/application-us-dev.properties" timestamp="1543916661887">
         <mark key="[" line="30" column="0" />
@@ -1001,8 +990,8 @@
       <jump line="105" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJkZXYiKSB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -1011,37 +1000,37 @@
         <text>branch_name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtmaWxlKGNyZWRlbnRpYWxzSWQ6ICdjaXBoZXIta2V5JywgdmFyaWFibGU6ICdDSVBIRVJfS0VZJyldKSB7CiAgICAgICAgICAgICAgICBzaCAibG4gLXMgJHtDSVBIRVJfS0VZfSAuZ3ZjLWVuY3J5cHRpb24tdXMtZGV2LnNlY3JldCIKICAgICAgICAgICAgICAgIHNoICJtYWtlIGRlY3J5cHQiCiAgICAgICAgICAgICAgICB3aXRoQ3JlZGVudGlhbHMoW1skY2xhc3MgICAgICAgICAgOiAnVXNlcm5hbWVQYXNzd29yZE11bHRpQmluZGluZycsIGNyZWRlbnRpYWxzSWQ6ICdkb2NrZXItbG9naW4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWVWYXJpYWJsZTogJ1VTRVJOQU1FJywgcGFzc3dvcmRWYXJpYWJsZTogJ1BBU1NXT1JEJ11dKSB7CiAgICAgICAgICAgICAgICAgICAgc2ggJ2RvY2tlciBsb2dpbiBndmN1c2Rldi5henVyZWNyLmlvIC11ICRVU0VSTkFNRSAtcCAkUEFTU1dPUkQnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBzaCAibWFrZSBidWlsZF9hbGwiCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYnJhbmNoX25hbWUgPT0gImRldiIpIHsKICAgICAgICAgICAgbG9jayhyZXNvdXJjZTogJ2Rjb3NDb25uZWN0aW9uJykgewogICAgICAgICAgICAgICAgc3NoYWdlbnQoWydkY29zJ10pIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBzaCAnc3NoIC1NIC1TIC90bXAvbWFyYXRob24tc29ja2V0IC12dnYgLW8gU3RyaWN0SG9zdEtleUNoZWNraW5nPW5vIC1vIEV4aXRPbkZvcndhcmRGYWlsdXJlPXllcyAtTiAtZiAtcCAyMjAwICcgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJy1MIDgwMDA6bG9jYWxob3N0OjgwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20nCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkZXBsb3lNb2R1bGVzUHJlICE9ICIiICkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyYWxsZWxNb2R1bGVzIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2R1bGVzID0gZGVwbG95TW9kdWxlc1ByZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGUgPSAiZGVwbG95IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnNpb24gPSBkZXBsb3lWZXJzaW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRlcGxveU1vZHVsZXNOb3JtYWwgIT0gIiIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhcmFsbGVsTW9kdWxlcyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9kdWxlcyA9IGRlcGxveU1vZHVsZXNOb3JtYWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlID0gImRlcGxveSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJzaW9uID0gZGVwbG95VmVyc2lvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkZXBsb3lNb2R1bGVzUG9zdCAhPSAiIikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyYWxsZWxNb2R1bGVzIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2R1bGVzID0gZGVwbG95TW9kdWxlc1Bvc3QKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlID0gImRlcGxveSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJzaW9uID0gZGVwbG95VmVyc2lvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGV4KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IGV4CiAgICAgICAgICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgc2ggJ3NzaCAtUyAvdG1wL21hcmF0aG9uLXNvY2tldCAtTyBleGl0IGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20nCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICJtYWtlIGJ1aWxkX2FsbCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJkZXYiKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICJtYWtlIGJ1aWxkX2FsbCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIFNUQUdJTkdfRE9DS0VSX1JFR0lTVFJZID0gImd2Y3VzZGV2LmF6dXJlY3IuaW8iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJkZXYiKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJkZXYiKSB7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoQ3JlZGVudGlhbHMoW2ZpbGUoY3JlZGVudGlhbHNJZDogJ2NpcGhlci1rZXknLCB2YXJpYWJsZTogJ0NJUEhFUl9LRVknKV0pIHsKICAgICAgICAgICAgc2ggImxuIC1zICR7Q0lQSEVSX0tFWX0gLmd2Yy1lbmNyeXB0aW9uLXVzLWRldi5zZWNyZXQiCiAgICAgICAgICAgIHNoICJtYWtlIGRlY3J5cHQiCiAgICAgICAgICAgIHdpdGhDcmVkZW50aWFscyhbWyRjbGFzcyAgICAgICAgICA6ICdVc2VybmFtZVBhc3N3b3JkTXVsdGlCaW5kaW5nJywgY3JlZGVudGlhbHNJZDogJ2RvY2tlci1sb2dpbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJuYW1lVmFyaWFibGU6ICdVU0VSTkFNRScsIHBhc3N3b3JkVmFyaWFibGU6ICdQQVNTV09SRCddXSkgewogICAgICAgICAgICAgICAgc2ggJ2RvY2tlciBsb2dpbiBndmN1c2Rldi5henVyZWNyLmlvIC11ICRVU0VSTkFNRSAtcCAkUEFTU1dPUkQnCiAgICAgICAgICAgIH0KICAgICAgICAgICAgc2ggIm1ha2UgYnVpbGRfYWxsIgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIFNUQUdJTkdfUFJPRklMRSA9ICJ1cy1zdGFnaW5nIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>84,91y</text>
+        <text>156,190y</text>
       </register>
     </registers>
     <search>
@@ -1111,6 +1100,11 @@
         <entry>%s/maciej@test.com/jedrzej.sawicki@acaisoft.com/g</entry>
         <entry>89,96d</entry>
         <entry>84,91y</entry>
+        <entry>150,154d</entry>
+        <entry>164,166d</entry>
+        <entry>177,179</entry>
+        <entry>177,179d</entry>
+        <entry>156,190y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
