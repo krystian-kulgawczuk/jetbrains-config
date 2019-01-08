@@ -269,12 +269,12 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546938747700">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546941789781">
         <mark key="'" line="111" column="8" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="^" line="137" column="7" />
-        <mark key="." line="147" column="0" />
+        <mark key="[" line="246" column="84" />
+        <mark key="]" line="246" column="102" />
+        <mark key="^" line="246" column="102" />
+        <mark key="." line="246" column="102" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/deploy/values/us-prod.env" timestamp="1543316139597">
         <mark key="[" line="3" column="12" />
@@ -990,11 +990,11 @@
       <jump line="105" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJkZXYiKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gvc-us-dev-master.westus.cloudapp.azure.com</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>gvc-us-dev-master.westus.cloudapp.azure.com</text>
       </register>
       <register name="/" type="4">
         <text>branch_name</text>
