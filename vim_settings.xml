@@ -269,12 +269,12 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546947427116">
-        <mark key="'" line="103" column="66" />
-        <mark key="[" line="105" column="123" />
-        <mark key="]" line="105" column="123" />
-        <mark key="^" line="4" column="10" />
-        <mark key="." line="105" column="123" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546950009079">
+        <mark key="'" line="102" column="66" />
+        <mark key="[" line="57" column="56" />
+        <mark key="]" line="57" column="56" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="57" column="56" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/deploy/values/us-prod.env" timestamp="1543316139597">
         <mark key="[" line="3" column="12" />
@@ -991,10 +991,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>N</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>PRODUCTION_PROFILE</text>
@@ -1006,31 +1006,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZSgiQ2xlYW4iKSB7CiAgICAgICAgICAgIGNsZWFuV3MoKQogICAgICAgIH0K</text>
+        <text encoding="base64">U3RyaW5nIHByZUNoYW5nZWRNb2R1bGVzClN0cmluZyBub3JtYWxDaGFuZ2VkTW9kdWxlcwpTdHJpbmcgcG9zdENoYW5nZWRNb2R1bGVzCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZSgiQ2xlYW4iKSB7CiAgICAgICAgICAgIGNsZWFuV3MoKQogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNsYWNrTWFpbE1hcFsibHVrYXN6LnNrd2FyYUBhY2Fpc29mdC5jb20iXSA9ICJsdWthc3ouc2t3YXJhIgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJkZXYiKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHNsYWNrTWFpbE1hcFsibHVrYXN6LnNrd2FyYUBhY2Fpc29mdC5jb20iXSA9ICJsdWthc3ouc2t3YXJhIgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJkZXYiKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>260,262d</text>
+        <text>17,20d</text>
       </register>
     </registers>
     <search>
@@ -1109,6 +1109,7 @@
         <entry>177,179d</entry>
         <entry>156,190y</entry>
         <entry>260,262d</entry>
+        <entry>17,20d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
