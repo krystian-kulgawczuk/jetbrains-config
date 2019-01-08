@@ -269,12 +269,11 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546943756055">
-        <mark key="'" line="111" column="8" />
-        <mark key="[" line="146" column="35" />
-        <mark key="]" line="249" column="102" />
-        <mark key="^" line="249" column="102" />
-        <mark key="." line="249" column="102" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" timestamp="1546945338905">
+        <mark key="'" line="306" column="31" />
+        <mark key="[" line="259" column="20" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="256" column="0" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/deploy/values/us-prod.env" timestamp="1543316139597">
         <mark key="[" line="3" column="12" />
@@ -888,9 +887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="$USER_HOME$/Projects/orbital-organization/Jenkinsfile.groovy" />
-      <jump line="98" column="8" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="35" column="39" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="36" column="40" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="37" column="71" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="38" column="48" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
@@ -988,25 +984,28 @@
       <jump line="86" column="77" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
       <jump line="97" column="11" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
       <jump line="105" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
+      <jump line="262" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
+      <jump line="263" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
+      <jump line="304" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gvc-us-dev-master.westus.cloudapp.azure.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>gvc-us-dev-master.westus.cloudapp.azure.com</text>
       </register>
       <register name="/" type="4">
-        <text>branch_name</text>
+        <text>slackMailMap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoYnJhbmNoX25hbWUgPT0gImRldiIpIHsKICAgICAgICAgICAgbG9jayhyZXNvdXJjZTogJ2Rjb3NDb25uZWN0aW9uJykgewogICAgICAgICAgICAgICAgc3NoYWdlbnQoWydkY29zJ10pIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBzaCAnc3NoIC1NIC1TIC90bXAvbWFyYXRob24tc29ja2V0IC12dnYgLW8gU3RyaWN0SG9zdEtleUNoZWNraW5nPW5vIC1vIEV4aXRPbkZvcndhcmRGYWlsdXJlPXllcyAtTiAtZiAtcCAyMjAwICcgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJy1MIDgwMDA6bG9jYWxob3N0OjgwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20nCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkZXBsb3lNb2R1bGVzUHJlICE9ICIiICkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyYWxsZWxNb2R1bGVzIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2R1bGVzID0gZGVwbG95TW9kdWxlc1ByZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGUgPSAiZGVwbG95IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZlcnNpb24gPSBkZXBsb3lWZXJzaW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRlcGxveU1vZHVsZXNOb3JtYWwgIT0gIiIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhcmFsbGVsTW9kdWxlcyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9kdWxlcyA9IGRlcGxveU1vZHVsZXNOb3JtYWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlID0gImRlcGxveSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJzaW9uID0gZGVwbG95VmVyc2lvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkZXBsb3lNb2R1bGVzUG9zdCAhPSAiIikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyYWxsZWxNb2R1bGVzIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2R1bGVzID0gZGVwbG95TW9kdWxlc1Bvc3QKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlID0gImRlcGxveSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJzaW9uID0gZGVwbG95VmVyc2lvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGV4KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IGV4CiAgICAgICAgICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgc2ggJ3NzaCAtUyAvdG1wL21hcmF0aG9uLXNvY2tldCAtTyBleGl0IGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20nCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJkZXYiKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHNsYWNrTWFpbE1hcFsibHVrYXN6LnNrd2FyYUBhY2Fpc29mdC5jb20iXSA9ICJsdWthc3ouc2t3YXJhIgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJkZXYiKSB7Cg==</text>
@@ -1015,28 +1014,28 @@
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJkZXYiKSB7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICJkZXYiKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>156,190y</text>
       </register>
     </registers>
     <search>
-      <last-search>branch_name</last-search>
+      <last-search>slackMailMap</last-search>
       <last-offset />
-      <last-pattern>branch_name</last-pattern>
+      <last-pattern>slackMailMap</last-pattern>
       <last-replace>jedrzej.sawicki@acaisoft.com</last-replace>
       <last-substitute>maciej@test.com</last-substitute>
       <last-dir>1</last-dir>
@@ -1072,6 +1071,7 @@
         <entry>maciej@test.com</entry>
         <entry>charts</entry>
         <entry>branch_name</entry>
+        <entry>slackMailMap</entry>
       </history-search>
       <history-cmd>
         <entry>%s/copy .* '/capture '/</entry>
