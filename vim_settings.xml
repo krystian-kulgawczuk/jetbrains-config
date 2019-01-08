@@ -35,12 +35,12 @@
         <mark key="[" line="99" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/module/ChronosDockerModule.groovy" timestamp="1546617922199" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" timestamp="1546952944332">
-        <mark key="'" line="94" column="48" />
-        <mark key="[" line="59" column="56" />
-        <mark key="]" line="59" column="56" />
-        <mark key="^" line="59" column="56" />
-        <mark key="." line="59" column="56" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" timestamp="1546955548507">
+        <mark key="'" line="100" column="34" />
+        <mark key="[" line="149" column="32" />
+        <mark key="]" line="149" column="34" />
+        <mark key="^" line="149" column="34" />
+        <mark key="." line="149" column="34" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1546600482104">
         <mark key="[" line="195" column="16" />
@@ -85,7 +85,7 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546953010867">
+      <file name="/Dummy.txt" timestamp="1546956226993">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -98,9 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="22" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="111" column="30" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="113" column="69" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="124" column="25" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="69" column="27" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="83" column="8" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
@@ -198,55 +195,58 @@
       <jump line="227" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
       <jump line="62" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
       <jump line="94" column="48" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
+      <jump line="51" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
+      <jump line="100" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>QGVC-devops</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>QGVC-devops</text>
       </register>
       <register name="/" type="4">
-        <text>BRANCH_NAME</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="4">
         <text>y</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlICs9IHBlcnNvbmFsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIGNoYW5nZSB0ZXN0aW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcGVyc29uYWwgPSAiQCR7Y29tbWl0dGVyU2xhY2tJZH0gWW91IHByb2JhYmx5IGJyb2tlIHRoZSBidWlsZDogIiArIHN1YmplY3QgKyAiXG4iICsgZXJyb3JNZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIGNoYW5nZSB0ZXN0aW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgY29tbWl0dGVyU2xhY2tJZCA9IHNsYWNrTWFpbE1hcFtHSVRfQ09NTUlUX0VNQUlMXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9ybWFsQ2hhbmdlZE1vZHVsZXMgPSAia2Fma2EtbWFpbC1zZXJ2aWNlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlICs9IHBlcnNvbmFsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiByZW1vdmUgdGhpcyBkZWJ1Z2dpbmcgbGluZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcGVyc29uYWwgPSAiQCR7Y29tbWl0dGVyU2xhY2tJZH0gWW91IHByb2JhYmx5IGJyb2tlIHRoZSBidWlsZDogIiArIHN1YmplY3QgKyAiXG4iICsgZXJyb3JNZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlICs9IHBlcnNvbmFsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcGVyc29uYWwgPSAiQCR7Y29tbWl0dGVyU2xhY2tJZH0gWW91IHByb2JhYmx5IGJyb2tlIHRoZSBidWlsZDogIiArIHN1YmplY3QgKyAiXG4iICsgZXJyb3JNZXNzYWdlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U3RyaW5nIHByZUNoYW5nZWRNb2R1bGVzClN0cmluZyBub3JtYWxDaGFuZ2VkTW9kdWxlcwpTdHJpbmcgcG9zdENoYW5nZWRNb2R1bGVzCgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgY29tbWl0dGVyU2xhY2tJZCA9IHNsYWNrTWFpbE1hcFtHSVRfQ09NTUlUX0VNQUlMXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlICs9IHBlcnNvbmFsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZSgiQ2xlYW4iKSB7CiAgICAgICAgICAgIGNsZWFuV3MoKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcGVyc29uYWwgPSAiQCR7Y29tbWl0dGVyU2xhY2tJZH0gWW91IHByb2JhYmx5IGJyb2tlIHRoZSBidWlsZDogIiArIHN1YmplY3QgKyAiXG4iICsgZXJyb3JNZXNzYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>17,20d</text>
       </register>
     </registers>
     <search>
-      <last-search>BRANCH_NAME</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>BRANCH_NAME</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace>jedrzej.sawicki@acaisoft.com</last-replace>
       <last-substitute>maciej@test.com</last-substitute>
       <last-dir>1</last-dir>
@@ -287,6 +287,7 @@
         <entry>PRODUCTION_PROFILE</entry>
         <entry>BRAnCH_NAME</entry>
         <entry>BRANCH_NAME</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>%s/copy .* '/capture '/</entry>
