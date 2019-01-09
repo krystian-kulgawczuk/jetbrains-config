@@ -886,7 +886,9 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1547040426992" />
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1547041914345">
+        <mark key="'" line="114" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" timestamp="1547019380029" />
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile-build-all.groovy" timestamp="1544085269054">
         <mark key="[" line="17" column="55" />
@@ -920,12 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="25" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="69" column="27" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="83" column="8" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/parallelModules.groovy" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/parallelModules.groovy" />
-      <jump line="17" column="15" filename="$USER_HOME$/Projects/jenkins-pipeline-library/vars/buildUIParallel.groovy" />
       <jump line="3" column="7" filename="$USER_HOME$/Projects/jenkins-pipeline-library/vars/buildUIParallel.groovy" />
       <jump line="50" column="0" filename="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" />
       <jump line="35" column="4" filename="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" />
@@ -1020,6 +1016,12 @@
       <jump line="51" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
       <jump line="100" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
+      <jump line="257" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="140" column="21" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="545" column="19" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="610" column="27" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="42" column="18" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="114" column="12" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1029,7 +1031,7 @@
         <text>Ready to proceed?</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>charts</text>
       </register>
       <register name="0" type="4">
         <text>y</text>
@@ -1066,9 +1068,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>charts</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>charts</last-pattern>
       <last-replace>jedrzej.sawicki@acaisoft.com</last-replace>
       <last-substitute>maciej@test.com</last-substitute>
       <last-dir>1</last-dir>
@@ -1102,7 +1104,6 @@
         <entry>storage</entry>
         <entry>support</entry>
         <entry>maciej@test.com</entry>
-        <entry>charts</entry>
         <entry>branch_name</entry>
         <entry>slackMailMap</entry>
         <entry>PROD_PROFILE</entry>
@@ -1110,6 +1111,8 @@
         <entry>BRAnCH_NAME</entry>
         <entry>BRANCH_NAME</entry>
         <entry>TODO</entry>
+        <entry>stats</entry>
+        <entry>charts</entry>
       </history-search>
       <history-cmd>
         <entry>%s/copy .* '/capture '/</entry>
