@@ -173,11 +173,11 @@
         <mark key="^" line="54" column="86" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1547032047371">
-        <mark key="[" line="101" column="67" />
-        <mark key="]" line="101" column="78" />
-        <mark key="." line="101" column="78" />
-        <mark key="^" line="101" column="78" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1547035504998">
+        <mark key="[" line="248" column="35" />
+        <mark key="]" line="248" column="35" />
+        <mark key="." line="248" column="35" />
+        <mark key="^" line="248" column="50" />
       </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1543415535138">
         <mark key="[" line="20" column="27" />
@@ -1023,10 +1023,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DEV_STAGING_PROFILE</text>
+        <text>Ready to proceed?</text>
       </register>
       <register name="-" type="4">
-        <text>DEV_STAGING_PROFILE</text>
+        <text>Ready to proceed?</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
