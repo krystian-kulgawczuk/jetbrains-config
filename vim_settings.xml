@@ -43,10 +43,10 @@
         <mark key="[" line="99" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/module/ChronosDockerModule.groovy" timestamp="1546617922199" />
-      <file name="$USER_HOME$/Projects/gvc-ui-qs-510/Jenkinsfile.groovy" timestamp="1547115353081">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Projects/gvc-ui-qs-510/Jenkinsfile.groovy" timestamp="1547117297419">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1546601489024" />
       <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1546527587581">
@@ -91,7 +91,7 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547115241554">
+      <file name="/Dummy.txt" timestamp="1547117302923">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/build.sh" timestamp="1547106638116">
@@ -210,11 +210,11 @@
       <jump line="163" column="43" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vcHJvZAo=</text>
+      <register name="&quot;" type="4">
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>gvcusdev.azurecr.io</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>dpsizingtoo</text>
