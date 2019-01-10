@@ -290,6 +290,9 @@
         <mark key="^" line="228" column="49" />
         <mark key="." line="228" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1547110314525">
+        <mark key="[" line="77" column="57" />
+      </file>
       <file name="$USER_HOME$/dev/production_migration_gvc_10_18/projects/global-cloud-view-portal/agent-manage/deploy/values/us-prod.env" timestamp="1543316139597">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="21" />
@@ -366,12 +369,6 @@
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1546600482104">
-        <mark key="[" line="195" column="16" />
-        <mark key="]" line="195" column="16" />
-        <mark key="." line="195" column="16" />
-        <mark key="^" line="195" column="16" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/make_cassandra_backup.sh" timestamp="1543228629059">
         <mark key="[" line="68" column="28" />
@@ -844,7 +841,7 @@
         <mark key="^" line="177" column="73" />
         <mark key="." line="176" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547109117537">
+      <file name="/Dummy.txt" timestamp="1547110341903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/orbital-lib-connector-cassandra/pom.xml" timestamp="1544182167030">
@@ -1030,7 +1027,7 @@
         <text>gvcusdev.azurecr.io</text>
       </register>
       <register name="/" type="4">
-        <text>charts</text>
+        <text>static</text>
       </register>
       <register name="0" type="4">
         <text>y</text>
@@ -1067,9 +1064,9 @@
       </register>
     </registers>
     <search>
-      <last-search>charts</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern>charts</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-replace>jedrzej.sawicki@acaisoft.com</last-replace>
       <last-substitute>maciej@test.com</last-substitute>
       <last-dir>1</last-dir>
@@ -1112,6 +1109,8 @@
         <entry>TODO</entry>
         <entry>stats</entry>
         <entry>charts</entry>
+        <entry>dpsizing</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry>%s/copy .* '/capture '/</entry>
