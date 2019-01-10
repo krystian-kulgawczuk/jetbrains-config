@@ -111,12 +111,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1546440033645">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="151" column="37" />
-        <mark key="." line="146" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/support/DcosCassandraCluster.java" timestamp="1543916166925">
         <mark key="[" line="50" column="58" />
         <mark key="]" line="50" column="58" />
@@ -811,6 +805,10 @@
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1547105939855">
         <mark key="[" line="47" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1547110631172">
+        <mark key="'" line="167" column="43" />
+        <mark key="[" line="77" column="57" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1546519631378">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="33" />
@@ -841,7 +839,7 @@
         <mark key="^" line="177" column="73" />
         <mark key="." line="176" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547110341903">
+      <file name="/Dummy.txt" timestamp="1547110681585">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tmp/orbital-lib-connector-cassandra/pom.xml" timestamp="1544182167030">
@@ -918,9 +916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="7" filename="$USER_HOME$/Projects/jenkins-pipeline-library/vars/buildUIParallel.groovy" />
-      <jump line="50" column="0" filename="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" />
-      <jump line="35" column="4" filename="$USER_HOME$/Projects/jenkins-pipeline-library/src/acaisoft/jenkins/lib/Utilities.groovy" />
       <jump line="1" column="52" filename="$USER_HOME$/Projects/jenkins-pipeline-library/vars/buildUIParallel.groovy" />
       <jump line="20" column="15" filename="$USER_HOME$/Projects/jenkins-pipeline-library/vars/deployMarathonParallel.groovy" />
       <jump line="3" column="6" filename="$USER_HOME$/Projects/jenkins-pipeline-library/vars/deployMarathonParallel.groovy" />
@@ -1018,6 +1013,9 @@
       <jump line="610" column="27" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="42" column="18" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="114" column="12" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="46" column="0" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
+      <jump line="157" column="14" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
+      <jump line="163" column="43" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1027,7 +1025,7 @@
         <text>gvcusdev.azurecr.io</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>dpsizingtoo</text>
       </register>
       <register name="0" type="4">
         <text>y</text>
@@ -1064,9 +1062,9 @@
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>dpsizingtoo</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>dpsizingtoo</last-pattern>
       <last-replace>jedrzej.sawicki@acaisoft.com</last-replace>
       <last-substitute>maciej@test.com</last-substitute>
       <last-dir>1</last-dir>
@@ -1111,6 +1109,7 @@
         <entry>charts</entry>
         <entry>dpsizing</entry>
         <entry>static</entry>
+        <entry>dpsizingtoo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/copy .* '/capture '/</entry>
