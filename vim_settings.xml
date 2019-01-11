@@ -65,11 +65,10 @@
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/playground/count_asset_per_organization.py" timestamp="1547131207537">
+      <file name="$USER_HOME$/Projects/playground/count_asset_per_organization.py" timestamp="1547192707009">
         <mark key="[" line="11" column="0" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-        <mark key="^" line="2" column="14" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/Jenkinsfile.groovy" timestamp="1546512878002">
         <mark key="[" line="35" column="28" />
@@ -81,6 +80,9 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/main.tf" timestamp="1547193082869">
+        <mark key="'" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/Globals.groovy" timestamp="1546426628595">
         <mark key="[" line="6" column="24" />
@@ -119,9 +121,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" timestamp="1547019380029" />
     </filemarks>
     <jumps>
-      <jump line="3" column="6" filename="$USER_HOME$/Projects/jenkins-pipeline-library/vars/deployMarathonParallel.groovy" />
-      <jump line="2" column="21" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
-      <jump line="66" column="39" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="128" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/Jenkinsfile.groovy" />
       <jump line="6" column="15" filename="$USER_HOME$/dev/playground/notes.md" />
       <jump line="26" column="6" filename="$USER_HOME$/Projects/orbital-organization/Jenkinsfile.groovy" />
@@ -219,55 +218,58 @@
       <jump line="163" column="43" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
       <jump line="194" column="24" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="168" column="13" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="20" column="40" filename="$USER_HOME$/dev/terraform_dcos/main.tf" />
+      <jump line="26" column="4" filename="$USER_HOME$/dev/terraform_dcos/main.tf" />
+      <jump line="22" column="16" filename="$USER_HOME$/dev/terraform_dcos/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJvdy5zdWJkb21haW4sIHJvdy5hc3NldF9pZCkK</text>
+        <text encoding="base64">YXNzZXRfY291bnQgPSBzb3J0ZWQoYXNzZXRfY291bnQuaXRlbXMoKSwgKQo=</text>
       </register>
       <register name="-" type="4">
         <text>{}</text>
       </register>
       <register name="/" type="4">
-        <text>r3_asset</text>
+        <text>username</text>
       </register>
       <register name="0" type="4">
         <text>y</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJvdy5zdWJkb21haW4sIHJvdy5hc3NldF9pZCkK</text>
+        <text encoding="base64">YXNzZXRfY291bnQgPSBzb3J0ZWQoYXNzZXRfY291bnQuaXRlbXMoKSwgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoc2Vzc2lvbikK</text>
+        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2Vzc2lvbmN1c3Rlci5jb29uZWN0KCkK</text>
+        <text encoding="base64">ICAgIHByaW50KHJvdy5zdWJkb21haW4sIHJvdy5hc3NldF9pZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjYXNzYW5kcmEuY3FsZW5naW5lLmNvbm5lY3Rpb24gaW1wb3J0IHNlc3Npb24K</text>
+        <text encoding="base64">cHJpbnQoc2Vzc2lvbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2Vzc2lvbgo=</text>
+        <text encoding="base64">c2Vzc2lvbmN1c3Rlci5jb29uZWN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vcHJvZAo=</text>
+        <text encoding="base64">ZnJvbSBjYXNzYW5kcmEuY3FsZW5naW5lLmNvbm5lY3Rpb24gaW1wb3J0IHNlc3Npb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBdKQo=</text>
+        <text encoding="base64">c2Vzc2lvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vcHJvZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICBdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>17,20d</text>
       </register>
     </registers>
     <search>
-      <last-search>r3_asset</last-search>
+      <last-search>username</last-search>
       <last-offset />
-      <last-pattern>r3_asset</last-pattern>
+      <last-pattern>username</last-pattern>
       <last-replace>jedrzej.sawicki@acaisoft.com</last-replace>
       <last-substitute>maciej@test.com</last-substitute>
       <last-dir>1</last-dir>
@@ -314,6 +316,7 @@
         <entry>static</entry>
         <entry>dpsizingtoo</entry>
         <entry>r3_asset</entry>
+        <entry>username</entry>
       </history-search>
       <history-cmd>
         <entry>%s/copy .* '/capture '/</entry>
