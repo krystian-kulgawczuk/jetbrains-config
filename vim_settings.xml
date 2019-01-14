@@ -30,11 +30,12 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/cassandra_stress.md" timestamp="1547477720912">
+      <file name="$USER_HOME$/Documents/cassandra_stress.md" timestamp="1547480538883">
         <mark key="'" line="163" column="18" />
-        <mark key="[" line="222" column="41" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+        <mark key="[" line="238" column="3" />
+        <mark key="]" line="235" column="57" />
+        <mark key="." line="235" column="57" />
+        <mark key="^" line="235" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/Jenkinsfile.groovy" timestamp="1546512878002">
         <mark key="[" line="35" column="28" />
@@ -223,7 +224,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IC0gaGFyZCBsaW1pdCA/ZGQK</text>
+        <text encoding="base64">NkZpRjVZSUlvV1BYOWlpbGpzK3I2YlJsZy9lcjNYM3ZQenpBZGJ6U09QeUlTK0J6SU5ybXdzNmJMeWhjYmRNTzB0aTFZNzBrcGRmUHdCaTY2WGNXQ3c9PQo=</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -235,9 +236,12 @@
         <text>y</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">NkZpRjVZSUlvV1BYOWlpbGpzK3I2YlJsZy9lcjNYM3ZQenpBZGJ6U09QeUlTK0J6SU5ybXdzNmJMeWhjYmRNTzB0aTFZNzBrcGRmUHdCaTY2WGNXQ3c9PQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">IC0gaGFyZCBsaW1pdCA/ZGQK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>CREATE TABLE throughput_chart (
     asset_id text,
     interval text,
@@ -247,7 +251,7 @@
   	PRIMARY KEY ((asset_id, interval), timestamp)
 ) WITH CLUSTERING ORDER BY (timestamp DESC);</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>CREATE TABLE storage_savings_chart (
     asset_id text,
     subdomain text,
@@ -257,23 +261,20 @@
 	PRIMARY KEY ((asset_id, interval), timestamp)
 ) WITH CLUSTERING ORDER BY (timestamp DESC);</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">IC0gdmFsdWVzIHN0b3JlZCA9IHggKiAyOAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IC0gdmFsdWVzIHN0b3JlZCA9IDAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">LSBvcmRlciBvZiBtYWduaXR1ZGUgdG8gdGVzdCA/Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LSBwcm8K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBwcm9kdWN0aW9uIG9yZGVyIG9mIG1hZ25pdHVkZSA/Cg==</text>
+        <text encoding="base64">LSBwcm8K</text>
       </register>
       <register name=":" type="4">
         <text>17,20d</text>
