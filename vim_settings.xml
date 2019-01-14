@@ -30,11 +30,11 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/cassandra_stress.md" timestamp="1547475584599">
-        <mark key="'" line="164" column="18" />
-        <mark key="[" line="144" column="2" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Documents/cassandra_stress.md" timestamp="1547477720912">
+        <mark key="'" line="163" column="18" />
+        <mark key="[" line="222" column="41" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/Jenkinsfile.groovy" timestamp="1546512878002">
         <mark key="[" line="35" column="28" />
@@ -89,12 +89,12 @@
         <mark key="]" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1547473508936">
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1547477711830">
         <mark key="'" line="36" column="23" />
-        <mark key="[" line="181" column="19" />
-        <mark key="]" line="174" column="11" />
-        <mark key="^" line="174" column="11" />
-        <mark key="." line="174" column="11" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="238" column="0" />
+        <mark key="^" line="238" column="0" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1547109094952">
         <mark key="[" line="90" column="37" />
@@ -223,7 +223,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IC0gdmFsdWVzIHN0b3JlZCA9IHggKiAyOAo=</text>
+        <text encoding="base64">IC0gaGFyZCBsaW1pdCA/ZGQK</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -235,31 +235,45 @@
         <text>y</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IC0gdmFsdWVzIHN0b3JlZCA9IHggKiAyOAo=</text>
+        <text encoding="base64">IC0gaGFyZCBsaW1pdCA/ZGQK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IC0gdmFsdWVzIHN0b3JlZCA9IDAK</text>
+      <register name="2" type="4">
+        <text>CREATE TABLE throughput_chart (
+    asset_id text,
+    interval text,
+    timestamp timestamp,
+  	read_count decimal,
+  	write_count decimal,
+  	PRIMARY KEY ((asset_id, interval), timestamp)
+) WITH CLUSTERING ORDER BY (timestamp DESC);</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>CREATE TABLE storage_savings_chart (
+    asset_id text,
+    subdomain text,
+    interval text,
+    timestamp timestamp,
+	total_savings_max decimal,
+	PRIMARY KEY ((asset_id, interval), timestamp)
+) WITH CLUSTERING ORDER BY (timestamp DESC);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBvcmRlciBvZiBtYWduaXR1ZGUgdG8gdGVzdCA/Cg==</text>
+        <text encoding="base64">IC0gdmFsdWVzIHN0b3JlZCA9IHggKiAyOAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBwcm8K</text>
+        <text encoding="base64">IC0gdmFsdWVzIHN0b3JlZCA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBwcm9kdWN0aW9uIG9yZGVyIG9mIG1hZ25pdHVkZSA/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QXJlIHdlIHJlYWRpbmcgb25seSBvbmUgcGFydGl0aW9uPyBOTyEgVGhlIHRhYmxlIGlzIG5vdCBkZXNpZ25lZCB0byByZWFkIG9ubHkgb25lIHBhcnRpdGlvbiwgdW5sZXNzIHdlIHdhbnQgdG8gcmV0cmlldmUgYWxsIGFzc2V0cy4K</text>
+        <text encoding="base64">LSBvcmRlciBvZiBtYWduaXR1ZGUgdG8gdGVzdCA/Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXNzZXRfY291bnQgPSBzb3J0ZWQoYXNzZXRfY291bnQuaXRlbXMoKSwgKQo=</text>
+        <text encoding="base64">LSBwcm8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
+        <text encoding="base64">LSBwcm9kdWN0aW9uIG9yZGVyIG9mIG1hZ25pdHVkZSA/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>17,20d</text>
