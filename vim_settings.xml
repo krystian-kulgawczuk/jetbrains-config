@@ -30,12 +30,11 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/cassandra_stress.md" timestamp="1547467019321">
-        <mark key="'" line="130" column="24" />
-        <mark key="[" line="128" column="1" />
-        <mark key="]" line="128" column="11" />
-        <mark key="." line="128" column="11" />
-        <mark key="^" line="128" column="11" />
+      <file name="$USER_HOME$/Documents/cassandra_stress.md" timestamp="1547472883426">
+        <mark key="'" line="128" column="24" />
+        <mark key="[" line="144" column="2" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/Jenkinsfile.groovy" timestamp="1546512878002">
         <mark key="[" line="35" column="28" />
@@ -223,8 +222,8 @@
       <jump line="130" column="24" filename="$USER_HOME$/Documents/cassandra_stress.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IC0gdmFsdWVzIHN0b3JlZCA9IHggKiAyOAo=</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -236,31 +235,31 @@
         <text>y</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IC0gdmFsdWVzIHN0b3JlZCA9IHggKiAyOAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBvcmRlciBvZiBtYWduaXR1ZGUgdG8gdGVzdCA/Cg==</text>
+        <text encoding="base64">IC0gdmFsdWVzIHN0b3JlZCA9IDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBwcm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBwcm9kdWN0aW9uIG9yZGVyIG9mIG1hZ25pdHVkZSA/Cg==</text>
+        <text encoding="base64">LSBvcmRlciBvZiBtYWduaXR1ZGUgdG8gdGVzdCA/Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QXJlIHdlIHJlYWRpbmcgb25seSBvbmUgcGFydGl0aW9uPyBOTyEgVGhlIHRhYmxlIGlzIG5vdCBkZXNpZ25lZCB0byByZWFkIG9ubHkgb25lIHBhcnRpdGlvbiwgdW5sZXNzIHdlIHdhbnQgdG8gcmV0cmlldmUgYWxsIGFzc2V0cy4K</text>
+        <text encoding="base64">LSBwcm8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXNzZXRfY291bnQgPSBzb3J0ZWQoYXNzZXRfY291bnQuaXRlbXMoKSwgKQo=</text>
+        <text encoding="base64">LSBwcm9kdWN0aW9uIG9yZGVyIG9mIG1hZ25pdHVkZSA/Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
+        <text encoding="base64">QXJlIHdlIHJlYWRpbmcgb25seSBvbmUgcGFydGl0aW9uPyBOTyEgVGhlIHRhYmxlIGlzIG5vdCBkZXNpZ25lZCB0byByZWFkIG9ubHkgb25lIHBhcnRpdGlvbiwgdW5sZXNzIHdlIHdhbnQgdG8gcmV0cmlldmUgYWxsIGFzc2V0cy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJvdy5zdWJkb21haW4sIHJvdy5hc3NldF9pZCkK</text>
+        <text encoding="base64">YXNzZXRfY291bnQgPSBzb3J0ZWQoYXNzZXRfY291bnQuaXRlbXMoKSwgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoc2Vzc2lvbikK</text>
+        <text encoding="base64">aW1wb3J0IG9wZXJhdG9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>17,20d</text>
