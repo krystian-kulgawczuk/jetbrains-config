@@ -45,6 +45,12 @@
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1547110314525">
         <mark key="[" line="77" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1547545224352">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="58" />
+        <mark key="." line="3" column="58" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/.gitignore" timestamp="1546512777986">
         <mark key="[" line="99" column="13" />
       </file>
@@ -55,10 +61,10 @@
         <mark key="'" line="167" column="43" />
         <mark key="[" line="77" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1547542463905">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1547544664186">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
         <mark key="^" line="2" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1547117302923">
@@ -224,10 +230,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>21</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>21</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>r3_asset</text>
@@ -236,31 +242,31 @@
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IC0gbm90IHVzZWQvZGVsZXRlcyBpdHNlbGYK</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWdlbmVyYWwtYWdlbnQtMy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IC0gbm90IHVzZWQvZGVsZXRlcyBpdHNlbGYK</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWdlbmVyYWwtYWdlbnQtMi53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWVsYXN0aWMtYWdlbnQtMy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IC0gYmFkIG1vZGVsIGxpdHRsZSBkYXRhCg==</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWVsYXN0aWMtYWdlbnQtMi53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IC0gYmFkIGRhdGEgbW9kZWwK</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWVsYXN0aWMtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWRiLWFnZW50LTMud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWRiLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmBgYAo=</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWRiLWFnZW50LTEud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
       </register>
       <register name=":" type="4">
         <text>482,483y</text>
