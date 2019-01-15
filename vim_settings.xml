@@ -55,11 +55,11 @@
         <mark key="'" line="167" column="43" />
         <mark key="[" line="77" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1546519631378">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="33" />
-        <mark key="." line="2" column="33" />
-        <mark key="^" line="1" column="17" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1547542463905">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="2" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1547117302923">
         <mark key="[" line="0" column="0" />
@@ -82,7 +82,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/main.tf" timestamp="1547452546262">
+      <file name="$USER_HOME$/dev/terraform_dcos/main.tf" timestamp="1547542432286">
         <mark key="'" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1546527587581">
@@ -90,7 +90,7 @@
         <mark key="]" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1547538754949">
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1547542411407">
         <mark key="'" line="36" column="23" />
         <mark key="[" line="238" column="0" />
         <mark key="]" line="238" column="0" />
@@ -223,11 +223,11 @@
       <jump line="163" column="18" filename="$USER_HOME$/Documents/cassandra_stress.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
+      <register name="&quot;" type="4">
+        <text>21</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>21</text>
       </register>
       <register name="/" type="4">
         <text>r3_asset</text>
