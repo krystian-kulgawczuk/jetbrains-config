@@ -30,12 +30,12 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/cassandra_stress.md" timestamp="1547480538883">
+      <file name="$USER_HOME$/Documents/cassandra_stress.md" timestamp="1547536687136">
         <mark key="'" line="163" column="18" />
-        <mark key="[" line="238" column="3" />
-        <mark key="]" line="235" column="57" />
-        <mark key="." line="235" column="57" />
-        <mark key="^" line="235" column="57" />
+        <mark key="[" line="258" column="25" />
+        <mark key="]" line="737" column="0" />
+        <mark key="." line="737" column="0" />
+        <mark key="^" line="737" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/Jenkinsfile.groovy" timestamp="1546512878002">
         <mark key="[" line="35" column="28" />
@@ -90,7 +90,7 @@
         <mark key="]" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1547477711830">
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1547536672081">
         <mark key="'" line="36" column="23" />
         <mark key="[" line="238" column="0" />
         <mark key="]" line="238" column="0" />
@@ -121,8 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="10" filename="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/es/bootstrap-schema.py" />
-      <jump line="24" column="47" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/customer-manage-button/src/main/java/portal/portal/poc/model/impl/RpcCommandImpl.java" />
       <jump line="23" column="17" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/actor-system/app/controllers/CountingService.scala" />
       <jump line="22" column="20" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/actor-system/app/controllers/ProxyService.scala" />
       <jump line="21" column="17" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/actor-system/app/controllers/ProxyService.scala" />
@@ -221,63 +219,51 @@
       <jump line="36" column="23" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="130" column="24" filename="$USER_HOME$/Documents/cassandra_stress.md" />
       <jump line="164" column="18" filename="$USER_HOME$/Documents/cassandra_stress.md" />
+      <jump line="593" column="0" filename="$USER_HOME$/Documents/cassandra_stress.md" />
+      <jump line="163" column="18" filename="$USER_HOME$/Documents/cassandra_stress.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">NkZpRjVZSUlvV1BYOWlpbGpzK3I2YlJsZy9lcjNYM3ZQenpBZGJ6U09QeUlTK0J6SU5ybXdzNmJMeWhjYmRNTzB0aTFZNzBrcGRmUHdCaTY2WGNXQ3c9PQo=</text>
+        <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>r3_asset</text>
       </register>
-      <register name="0" type="4">
-        <text>y</text>
+      <register name="0" type="2">
+        <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NkZpRjVZSUlvV1BYOWlpbGpzK3I2YlJsZy9lcjNYM3ZQenpBZGJ6U09QeUlTK0J6SU5ybXdzNmJMeWhjYmRNTzB0aTFZNzBrcGRmUHdCaTY2WGNXQ3c9PQo=</text>
+        <text encoding="base64">IC0gbm90IHVzZWQvZGVsZXRlcyBpdHNlbGYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IC0gaGFyZCBsaW1pdCA/ZGQK</text>
+        <text encoding="base64">IC0gbm90IHVzZWQvZGVsZXRlcyBpdHNlbGYK</text>
       </register>
-      <register name="3" type="4">
-        <text>CREATE TABLE throughput_chart (
-    asset_id text,
-    interval text,
-    timestamp timestamp,
-  	read_count decimal,
-  	write_count decimal,
-  	PRIMARY KEY ((asset_id, interval), timestamp)
-) WITH CLUSTERING ORDER BY (timestamp DESC);</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>CREATE TABLE storage_savings_chart (
-    asset_id text,
-    subdomain text,
-    interval text,
-    timestamp timestamp,
-	total_savings_max decimal,
-	PRIMARY KEY ((asset_id, interval), timestamp)
-) WITH CLUSTERING ORDER BY (timestamp DESC);</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IC0gdmFsdWVzIHN0b3JlZCA9IHggKiAyOAo=</text>
+        <text encoding="base64">IC0gYmFkIG1vZGVsIGxpdHRsZSBkYXRhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IC0gdmFsdWVzIHN0b3JlZCA9IDAK</text>
+        <text encoding="base64">IC0gYmFkIGRhdGEgbW9kZWwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBvcmRlciBvZiBtYWduaXR1ZGUgdG8gdGVzdCA/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBwcm8K</text>
+        <text encoding="base64">CmBgYAo=</text>
       </register>
       <register name=":" type="4">
-        <text>17,20d</text>
+        <text>482,483y</text>
       </register>
     </registers>
     <search>
@@ -339,6 +325,7 @@
         <entry>156,190y</entry>
         <entry>260,262d</entry>
         <entry>17,20d</entry>
+        <entry>482,483y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
