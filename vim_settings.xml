@@ -46,12 +46,12 @@
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1547110314525">
         <mark key="[" line="77" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/stress_tests/r3_asset.yml" timestamp="1547624957882">
-        <mark key="[" line="51" column="33" />
+      <file name="$USER_HOME$/Documents/stress_tests/r3_asset.yml" timestamp="1547644610753">
+        <mark key="[" line="59" column="21" />
         <mark key="k" line="18" column="24" />
-        <mark key="]" line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="19" />
+        <mark key="]" line="58" column="18" />
+        <mark key="^" line="58" column="21" />
+        <mark key="." line="58" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1547545224352">
         <mark key="[" line="3" column="58" />
@@ -64,10 +64,6 @@
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1547105939855">
         <mark key="[" line="47" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1547114034784">
-        <mark key="'" line="167" column="43" />
-        <mark key="[" line="77" column="57" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1547544664186">
         <mark key="[" line="4" column="33" />
@@ -94,7 +90,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KfMessageRemoval.java" timestamp="1547628270298">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KfMessageRemoval.java" timestamp="1547644495955">
         <mark key="'" line="173" column="34" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/docker-compose.yaml" timestamp="1545984596608">
@@ -139,9 +135,16 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" timestamp="1547644543634">
+        <mark key="'" line="59" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/R3Impl.java" timestamp="1547644585700">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="17" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/actor-system/app/controllers/ProxyService.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" />
       <jump line="11" column="16" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" />
       <jump line="15" column="42" filename="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" />
@@ -241,13 +244,14 @@
       <jump line="163" column="18" filename="$USER_HOME$/Documents/cassandra_stress.md" />
       <jump line="231" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KfMessageRemoval.java" />
       <jump line="173" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KfMessageRemoval.java" />
+      <jump line="59" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGJGYWN0b3J5LmRiKCkuZGJSM0Fzc2V0KCkuc2VsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>classpath</text>
@@ -256,31 +260,31 @@
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWdlbmVyYWwtYWdlbnQtMy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJGYWN0b3J5LmRiKCkuZGJSM0Fzc2V0KCkuc2VsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWdlbmVyYWwtYWdlbnQtMi53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWdlbmVyYWwtYWdlbnQtMy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWdlbmVyYWwtYWdlbnQtMi53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWVsYXN0aWMtYWdlbnQtMy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWVsYXN0aWMtYWdlbnQtMi53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWVsYXN0aWMtYWdlbnQtMy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWVsYXN0aWMtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWVsYXN0aWMtYWdlbnQtMi53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWRiLWFnZW50LTMud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWVsYXN0aWMtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWRiLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWRiLWFnZW50LTMud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWRiLWFnZW50LTEud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGYyNWVlLWRiLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
       </register>
       <register name=":" type="4">
         <text>482,483y</text>
