@@ -46,11 +46,12 @@
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1547110314525">
         <mark key="[" line="77" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/stress_tests/r3_asset.yml" timestamp="1547623450492">
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="36" column="22" />
-        <mark key="^" line="36" column="22" />
-        <mark key="." line="36" column="22" />
+      <file name="$USER_HOME$/Documents/stress_tests/r3_asset.yml" timestamp="1547624957882">
+        <mark key="[" line="49" column="33" />
+        <mark key="k" line="18" column="24" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1547545224352">
         <mark key="[" line="3" column="58" />
@@ -240,10 +241,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>classpath</text>
