@@ -102,6 +102,12 @@
       <file name="/Dummy.txt" timestamp="1547117302923">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/orientdb/src/main/java/OrientApplication.java" timestamp="1547813196604">
+        <mark key="[" line="26" column="85" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-ui-qs-510/Jenkinsfile.groovy" timestamp="1547117297419">
         <mark key="[" line="11" column="56" />
         <mark key="]" line="11" column="56" />
@@ -164,6 +170,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/stat/SavingsDto.java" timestamp="1547725953599">
         <mark key="'" line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/orientdb/pom.xml" timestamp="1547811823951">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/scripts_common/ci/git_changes.py" timestamp="1547029425715">
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="7" />
@@ -187,9 +198,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1547813076787">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="169" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="170" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="172" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
@@ -289,13 +302,14 @@
       <jump line="128" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="124" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="127" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="26" column="27" filename="$USER_HOME$/Projects/orientdb/src/main/java/OrientApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJGYWlsZWQgdG8gY3JlYXRlIGRhdGFiYXNlOiAiICsgZGJOYW1lICsgIjsgIiArIGUuZ2V0TWVzc2FnZSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>PASSWORD</text>
       </register>
       <register name="-" type="4">
-        <text>Database</text>
+        <text>PASSWORD</text>
       </register>
       <register name="/" type="4">
         <text>log4j</text>
@@ -304,31 +318,31 @@
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJGYWlsZWQgdG8gY3JlYXRlIGRhdGFiYXNlOiAiICsgZGJOYW1lICsgIjsgIiArIGUuZ2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgT3JpZW50R3JhcGhOb1R4KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIgY3JlYXRlZDogIiArIGRiTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4yLjMxPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIEFyYW5nb0RCIGFyYW5nb0RCID0gbmV3IEFyYW5nb0RCLkJ1aWxkZXIoKS5idWlsZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4yLjMxPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4wLjEzPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oQXJhbmdvQXBwLmNsYXNzLCBhcmdzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4ya2tra2trLjMxPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5jcmVhdGVWZXJ0ZXgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4xLjIuUkVMRUFTRTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Qcm9wZXJ0aWVzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci13ZWI8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>482,483y</text>
