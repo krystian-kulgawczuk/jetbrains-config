@@ -31,6 +31,12 @@
         <mark key="]" line="35" column="28" />
         <mark key="." line="35" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/arango/pom.xml" timestamp="1547808035279">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/stress_tests/r3_asset.yml" timestamp="1547797575926">
         <mark key="[" line="19" column="35" />
         <mark key="k" line="18" column="24" />
@@ -50,6 +56,12 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" timestamp="1547725912033">
         <mark key="'" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/arango/src/main/java/org/arango/ArangoApp.java" timestamp="1547808261364">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/docker-compose.yaml" timestamp="1545984596608">
         <mark key="[" line="9" column="0" />
@@ -84,6 +96,7 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-removal/src/main/java/portal/ker/KafkaElasticsearchRemovalApp.java" timestamp="1547808250731" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/build.sbt" timestamp="1547121322742">
         <mark key="[" line="8" column="73" />
       </file>
@@ -276,10 +289,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>storage_savings_chart</text>
+        <text>KafkaElasticsearchRemovalApp</text>
       </register>
       <register name="-" type="4">
-        <text>storage_savings_chart</text>
+        <text>KafkaElasticsearchRemovalApp</text>
       </register>
       <register name="/" type="4">
         <text>classpath</text>
@@ -288,31 +301,31 @@
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MTAuMC4wLjIwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTAuMy4wLjYK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTAuMy4wLjUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTAuMy4wLjQK</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW11hcmdzKXsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTAuMi4wLjYK</text>
+        <text encoding="base64">MTAuMC4wLjIwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTAuMi4wLjUK</text>
+        <text encoding="base64">MTAuMy4wLjYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MTAuMi4wLjQK</text>
+        <text encoding="base64">MTAuMy4wLjUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTAuMS4wLjYK</text>
+        <text encoding="base64">MTAuMy4wLjQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MTAuMS4wLjUK</text>
+        <text encoding="base64">MTAuMi4wLjYK</text>
       </register>
       <register name=":" type="4">
         <text>482,483y</text>
