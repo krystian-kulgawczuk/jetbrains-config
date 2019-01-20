@@ -42,9 +42,14 @@
         <mark key="." line="5" column="35" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/cassandra_stress.md" timestamp="1547730100235">
+      <file name="$USER_HOME$/Documents/stress_tests/test.yml" timestamp="1547999463776">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/cassandra_stress.md" timestamp="1547999794792">
         <mark key="'" line="163" column="18" />
-        <mark key="[" line="239" column="40" />
+        <mark key="[" line="753" column="76" />
         <mark key="]" line="239" column="40" />
         <mark key="." line="239" column="40" />
         <mark key="^" line="239" column="40" />
@@ -60,12 +65,12 @@
         <mark key="." line="30" column="12" />
         <mark key="^" line="30" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/stress_tests/r3_asset.yml" timestamp="1547797575926">
-        <mark key="[" line="19" column="35" />
+      <file name="$USER_HOME$/Documents/stress_tests/r3_asset.yml" timestamp="1548000057080">
         <mark key="k" line="18" column="24" />
-        <mark key="]" line="19" column="35" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="19" column="35" />
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="14" />
+        <mark key="^" line="56" column="14" />
+        <mark key="." line="56" column="14" />
       </file>
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1547110314525">
         <mark key="[" line="77" column="57" />
@@ -145,13 +150,6 @@
         <mark key="[" line="11" column="52" />
         <mark key="]" line="11" column="53" />
         <mark key="." line="11" column="53" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1547542411407">
-        <mark key="'" line="36" column="23" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="^" line="238" column="0" />
-        <mark key="." line="238" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1547109094952">
         <mark key="[" line="90" column="37" />
@@ -305,8 +303,8 @@
       <jump line="26" column="27" filename="$USER_HOME$/Projects/orientdb/src/main/java/OrientApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PASSWORD</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBvcHVsYXRpb246IHVuaWZvcm0oMS4uMTAwMDAwMDAwMDApCg==</text>
       </register>
       <register name="-" type="4">
         <text>PASSWORD</text>
@@ -318,31 +316,31 @@
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgT3JpZW50R3JhcGhOb1R4KCkK</text>
+        <text encoding="base64">ICAgIHBvcHVsYXRpb246IHVuaWZvcm0oMS4uMTAwMDAwMDAwMDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4yLjMxPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIHBvcHVsYXRpb246IHVuaWZvcm0oMS4uMTAwMDAwMDAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4yLjMxPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIHBvcHVsYXRpb246IHVuaWZvcm0oMS4uMTAwMDAwMDAwMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4wLjEzPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIHBvcHVsYXRpb246IHVuaWZvcm0oMS4uOCwgNCwgMC4xKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4ya2tra2trLjMxPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIHBvcHVsYXRpb246IGZpeGVkKDEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYgo=</text>
+        <text encoding="base64">ICAgIHBvcHVsYXRpb246IHVuaWZvcm0oMS4uMjAwMDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5jcmVhdGVWZXJ0ZXgK</text>
+        <text encoding="base64">ICAgIHBvcHVsYXRpb246IHVuaWZvcm0oMS4uMjAwMDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Qcm9wZXJ0aWVzOwo=</text>
+        <text encoding="base64">ICAgIHBvcHVsYXRpb246IHVuaWZvcm0oMS4uMjAwMDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name=":" type="4">
         <text>482,483y</text>
