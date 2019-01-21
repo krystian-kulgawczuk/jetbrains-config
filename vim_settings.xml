@@ -170,6 +170,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/build.sh" timestamp="1547106638116">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/es/bootstrap-schema.py" timestamp="1548055622322">
+        <mark key="'" line="18" column="45" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" timestamp="1546434211362">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -217,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="170" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="172" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="173" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
@@ -317,55 +322,56 @@
       <jump line="124" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="127" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="26" column="27" filename="$USER_HOME$/Projects/orientdb/src/main/java/OrientApplication.java" />
+      <jump line="18" column="45" filename="$USER_HOME$/Projects/docker-devtools/docker/es/bootstrap-schema.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTA0Mjo5MDQyIgo=</text>
+        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
       </register>
       <register name="-" type="4">
         <text>asset_id</text>
       </register>
       <register name="/" type="4">
-        <text>log4j</text>
+        <text>mapping</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTA0Mjo5MDQyIgo=</text>
+        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiTWFwcGluZyBhbHJlYWR5IGV4aXN0cyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogY2Fzc2FuZHJhCg==</text>
+        <text encoding="base64">aWYgKG9zLnBhdGguZXhpc3RzKG9zLmVudmlyb25bIkJPT1RTVFJBUFBFRF9TQ0hFTUFfRklMRV9NQVJLRVIiXSkpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYXNzYW5kcmE6Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygiTWFwcGluZyBhbHJlYWR5IGV4aXN0cyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAiMjE4MToyMTgxIgo=</text>
+        <text encoding="base64">aWYgKG9zLnBhdGguZXhpc3RzKG9zLmVudmlyb25bIkJPT1RTVFJBUFBFRF9TQ0hFTUFfRklMRV9NQVJLRVIiXSkpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTA5Mjo5MDkyIgo=</text>
+        <text encoding="base64">ICAgICAgLSAiOTA0Mjo5MDQyIgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQURWRVJUSVNFRF9MSVNURU5FUlM6IFBMQUlOVEVYVDovL2xvY2FsaG9zdDo5MDkyCg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogY2Fzc2FuZHJhCg==</text>
       </register>
       <register name=":" type="4">
         <text>482,483y</text>
       </register>
     </registers>
     <search>
-      <last-search>log4j</last-search>
+      <last-search>mapping</last-search>
       <last-offset />
-      <last-pattern>log4j</last-pattern>
+      <last-pattern>mapping</last-pattern>
       <last-replace>jedrzej.sawicki@acaisoft.com</last-replace>
       <last-substitute>maciej@test.com</last-substitute>
       <last-dir>1</last-dir>
@@ -396,6 +402,7 @@
         <entry>slf4</entry>
         <entry>slf4j</entry>
         <entry>log4j</entry>
+        <entry>mapping</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
