@@ -136,10 +136,12 @@
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1547110314525">
         <mark key="[" line="77" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1547737681312">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="7" />
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1548079128910">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="13" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="18" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/orientdbdemo/src/main/java/com/acaisoft/orientdbdemo/demo/config/SchemaCreator.java" timestamp="1548070376414">
         <mark key="[" line="12" column="44" />
@@ -220,8 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="172" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="173" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="12" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
       <jump line="80" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
@@ -320,57 +320,59 @@
       <jump line="127" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="26" column="27" filename="$USER_HOME$/Projects/orientdb/src/main/java/OrientApplication.java" />
       <jump line="18" column="45" filename="$USER_HOME$/Projects/docker-devtools/docker/es/bootstrap-schema.py" />
+      <jump line="2" column="16" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Standard_D2s_v3</text>
+        <text>azuredev</text>
       </register>
       <register name="-" type="4">
-        <text>Standard_D2s_v3</text>
+        <text>azuredev</text>
       </register>
       <register name="/" type="4">
-        <text>mapping</text>
+        <text>,$</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAiMjE4MToyMTgxIgo=</text>
+        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTA5Mjo5MDkyIgo=</text>
+        <text encoding="base64">UHJpdmF0ZSBHZW5lcmFsIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">UHJpdmF0ZSBHYXRld2F5IEFnZW50IFB1YmxpYyBJUHMgPSBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQURWRVJUSVNFRF9MSVNURU5FUlM6IFBMQUlOVEVYVDovL2xvY2FsaG9zdDo5MDkyCg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+        <text encoding="base64">UHJpdmF0ZSBFbGFzdGljIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhvc3RuYW1lOiBrYWZrYQo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBtaWNoYWVsZHFpbi9rYWZrYQo=</text>
+        <text encoding="base64">MTAuMy4wLjYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBrYWZrYToK</text>
+        <text encoding="base64">MTAuMy4wLjUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTA0Mjo5MDQyIgo=</text>
+        <text encoding="base64">MTAuMy4wLjQK</text>
       </register>
       <register name=":" type="4">
-        <text>482,483y</text>
+        <text>%s/,$//</text>
       </register>
     </registers>
     <search>
-      <last-search>mapping</last-search>
+      <last-search>,$</last-search>
       <last-offset />
-      <last-pattern>mapping</last-pattern>
-      <last-replace>jedrzej.sawicki@acaisoft.com</last-replace>
-      <last-substitute>maciej@test.com</last-substitute>
+      <last-pattern>,$</last-pattern>
+      <last-replace />
+      <last-substitute>,$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -396,6 +398,8 @@
         <entry>slf4j</entry>
         <entry>log4j</entry>
         <entry>mapping</entry>
+        <entry encoding="base64">XiAgICA=</entry>
+        <entry>,$</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
@@ -404,8 +408,6 @@
         <entry>2,3y</entry>
         <entry>121,125d</entry>
         <entry>80,84d</entry>
-        <entry>%s/^    //</entry>
-        <entry>%s/,$//</entry>
         <entry>31,33d</entry>
         <entry>%s/maciej@test.com/jedrzej.sawicki@acaisoft.com/g</entry>
         <entry>89,96d</entry>
@@ -418,6 +420,8 @@
         <entry>260,262d</entry>
         <entry>17,20d</entry>
         <entry>482,483y</entry>
+        <entry>%s/^    //</entry>
+        <entry>%s/,$//</entry>
       </history-cmd>
       <history-expr />
       <history-input />
