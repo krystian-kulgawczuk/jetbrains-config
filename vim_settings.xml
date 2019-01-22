@@ -39,11 +39,11 @@
         <mark key="^" line="30" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/app/controllers/ProxyService.scala" timestamp="1548143572717" />
-      <file name="$USER_HOME$/Projects/akkaloadportal/pom.xml" timestamp="1548144939553">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/akkaloadportal/pom.xml" timestamp="1548157784903">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="46" column="12" />
+        <mark key="^" line="46" column="12" />
+        <mark key="." line="46" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/gvc_devops_commands.md" timestamp="1547552875764">
         <mark key="[" line="0" column="0" />
@@ -72,6 +72,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/Greeter.java" timestamp="1548156736698">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/stress_tests/asset_cpu.yml" timestamp="1548052777310">
         <mark key="[" line="29" column="45" />
@@ -156,11 +162,11 @@
         <mark key="." line="45" column="18" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1548140487349">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1548157968880">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orientdbdemo/src/main/java/com/acaisoft/orientdbdemo/demo/config/SchemaCreator.java" timestamp="1548070376414">
         <mark key="[" line="12" column="44" />
@@ -168,17 +174,17 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/app/model/ExpiringQueue.scala" timestamp="1548139667281" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/app/model/ExpiringQueue.scala" timestamp="1548158096432" />
       <file name="$USER_HOME$/Projects/gvc-mail-service/.gitignore" timestamp="1546512777986">
         <mark key="[" line="99" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/backup_restore/scripts/make_elastic_backup.sh" timestamp="1547105939855">
         <mark key="[" line="47" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1548077262813">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1548156105782">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
         <mark key="^" line="2" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1547117302923">
@@ -192,12 +198,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/build.sh" timestamp="1547106638116">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/es/bootstrap-schema.py" timestamp="1548055622322">
-        <mark key="'" line="18" column="45" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" timestamp="1546434211362">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -208,11 +208,11 @@
         <mark key="]" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1548138804984">
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1548155646924">
         <mark key="[" line="34" column="13" />
-        <mark key="]" line="34" column="13" />
-        <mark key="." line="34" column="13" />
-        <mark key="^" line="39" column="26" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+        <mark key="^" line="32" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttPServerMinimalExampleTest.java" timestamp="1548144874987">
         <mark key="[" line="12" column="0" />
@@ -247,8 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
-      <jump line="535" column="1" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
       <jump line="531" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
       <jump line="264" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
       <jump line="265" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
@@ -347,55 +345,57 @@
       <jump line="1" column="16" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="40" column="26" filename="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hello</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UHJpdmF0ZSBFbGFzdGljIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name="-" type="4">
-        <text>hello</text>
+        <text>UntypedActor</text>
       </register>
       <register name="/" type="4">
-        <text>createRoute</text>
+        <text>,$</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBsZXRlKCI8aDE+U2F5IGJ5ZSB0byBha2thLWh0dHA8L2gxPiIpKSkKICAgICk7Cg==</text>
+        <text encoding="base64">UHJpdmF0ZSBFbGFzdGljIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aCgiYmV5IikK</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi41LjE5PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9uUmVjZWl2ZShPYmplY3QgbWVzc2FnZSkgdGhyb3dzIFRocm93YWJsZSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+YWtrYS1zbGY0al8yLjEyPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnR5cGVzYWZlLmFra2E8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuYWN0b3IuVW50eXBlZEFjdG9yOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdldFNlbmRlcigpLnRlbGwoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLnR5cGVzYWZlLmFra2EvYWtrYS1zbGY0aiAtLT4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHVuaGFuZGxlZChtZXNzYWdlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
       </register>
     </registers>
     <search>
-      <last-search>createRoute</last-search>
+      <last-search>,$</last-search>
       <last-offset />
-      <last-pattern>createRoute</last-pattern>
+      <last-pattern>,$</last-pattern>
       <last-replace />
       <last-substitute>,$</last-substitute>
       <last-dir>1</last-dir>
@@ -423,9 +423,9 @@
         <entry>slf4j</entry>
         <entry>log4j</entry>
         <entry>mapping</entry>
+        <entry>createRoute</entry>
         <entry encoding="base64">XiAgICA=</entry>
         <entry>,$</entry>
-        <entry>createRoute</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
