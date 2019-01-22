@@ -203,10 +203,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1546527587581">
-        <mark key="[" line="11" column="52" />
-        <mark key="]" line="11" column="53" />
-        <mark key="." line="11" column="53" />
+      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1548161178270">
+        <mark key="[" line="21" column="49" />
+        <mark key="]" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="21" column="47" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1548155646924">
         <mark key="[" line="34" column="13" />
@@ -349,11 +350,11 @@
       <jump line="41" column="11" filename="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLnR5cGVzYWZlLmFra2EvYWtrYS1zdHJlYW0gLS0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>concat</text>
