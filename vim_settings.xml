@@ -166,8 +166,7 @@
         <mark key="." line="43" column="61" />
         <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1548157968880">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1548254492147">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -258,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1506" column="150" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="113" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="106" column="55" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="66" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
@@ -353,60 +351,61 @@
       <jump line="1" column="16" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="40" column="26" filename="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="10" column="33" filename="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" />
       <jump line="41" column="11" filename="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" />
       <jump line="61" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
+      <jump line="8" column="16" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>register</text>
+        <text>,$</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLnR5cGVzYWZlLmFra2EvYWtrYS1zdHJlYW0gLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi41LjE5PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">UHJpdmF0ZSBHZW5lcmFsIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+YWtrYS1zdHJlYW1fMi4xMjwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">UHJpdmF0ZSBHYXRld2F5IEFnZW50IFB1YmxpYyBJUHMgPSBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnR5cGVzYWZlLmFra2E8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuaHR0cC5pbXBsLnV0aWwuSmF2YU1hcHBpbmc7Cg==</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGZkMmM4LWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UHJpdmF0ZSBFbGFzdGljIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">UHJpdmF0ZSBFbGFzdGljIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
       </register>
     </registers>
     <search>
-      <last-search>register</last-search>
+      <last-search>,$</last-search>
       <last-offset />
-      <last-pattern>register</last-pattern>
+      <last-pattern>,$</last-pattern>
       <last-replace />
       <last-substitute>,$</last-substitute>
       <last-dir>1</last-dir>
@@ -435,10 +434,10 @@
         <entry>log4j</entry>
         <entry>mapping</entry>
         <entry>createRoute</entry>
-        <entry encoding="base64">XiAgICA=</entry>
-        <entry>,$</entry>
         <entry>concat</entry>
         <entry>register</entry>
+        <entry encoding="base64">XiAgICA=</entry>
+        <entry>,$</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
