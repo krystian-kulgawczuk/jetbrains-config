@@ -232,6 +232,9 @@
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1548229155816">
+        <mark key="'" line="61" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/playground/count_asset_per_organization.py" timestamp="1547735266658">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="8" />
@@ -254,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
       <jump line="1506" column="150" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="113" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="106" column="55" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
@@ -354,6 +356,7 @@
       <jump line="10" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="10" column="33" filename="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" />
       <jump line="41" column="11" filename="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" />
+      <jump line="61" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -363,7 +366,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>concat</text>
+        <text>register</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
@@ -400,9 +403,9 @@
       </register>
     </registers>
     <search>
-      <last-search>concat</last-search>
+      <last-search>register</last-search>
       <last-offset />
-      <last-pattern>concat</last-pattern>
+      <last-pattern>register</last-pattern>
       <last-replace />
       <last-substitute>,$</last-substitute>
       <last-dir>1</last-dir>
@@ -434,6 +437,7 @@
         <entry encoding="base64">XiAgICA=</entry>
         <entry>,$</entry>
         <entry>concat</entry>
+        <entry>register</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
