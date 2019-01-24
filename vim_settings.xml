@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/JwtUser.java" timestamp="1548330322181">
+        <mark key="'" line="15" column="21" />
+      </file>
       <file name="$USER_HOME$/Downloads/cassandra-cassandra-3.0.16/tools/bin/tests/r3_asset.yml" timestamp="1548007066508">
         <mark key="[" line="27" column="24" />
         <mark key="]" line="27" column="24" />
@@ -54,6 +57,9 @@
         <mark key="^" line="41" column="22" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" timestamp="1547725912033">
+        <mark key="'" line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1548328133073" />
       <file name="$USER_HOME$/Documents/cassandra_stress.html" timestamp="1548167203766">
         <mark key="[" line="0" column="0" />
@@ -83,11 +89,17 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/main.tf" timestamp="1547542432286">
+        <mark key="'" line="22" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/stress_tests/asset_cpu.yml" timestamp="1548052777310">
         <mark key="[" line="29" column="45" />
         <mark key="]" line="29" column="45" />
         <mark key="^" line="29" column="45" />
         <mark key="." line="29" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/StorageSavingsChartDto.java" timestamp="1547725942384">
+        <mark key="'" line="11" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1547109094952">
         <mark key="[" line="90" column="37" />
@@ -96,6 +108,9 @@
       </file>
       <file name="$USER_HOME$/Projects/arango/src/main/resources/arangodb.properties" timestamp="1547809147043">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/stat/SavingsDto.java" timestamp="1547725953599">
+        <mark key="'" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/orientdb/pom.xml" timestamp="1548069846515">
         <mark key="[" line="27" column="0" />
@@ -150,6 +165,9 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.0.3.RELEASE/spring-security-core-4.0.3.RELEASE.jar!/org/springframework/security/core/annotation/AuthenticationPrincipal.class" timestamp="1548330450469">
+        <mark key="'" line="17" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/cassandra_stress.md" timestamp="1548166974044">
         <mark key="'" line="163" column="18" />
@@ -209,6 +227,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KfMessageRemoval.java" timestamp="1547644495955">
+        <mark key="'" line="173" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1548161178270">
         <mark key="[" line="21" column="49" />
         <mark key="]" line="21" column="49" />
@@ -232,8 +253,11 @@
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1548328711366">
-        <mark key="'" line="58" column="66" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" timestamp="1548330512058">
+        <mark key="'" line="59" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1548330454597">
+        <mark key="'" line="58" column="51" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -243,6 +267,12 @@
         <mark key="]" line="9" column="8" />
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" timestamp="1547644543634">
+        <mark key="'" line="59" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1547809325117">
+        <mark key="'" line="127" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/stress_tests/throughput.yml" timestamp="1548009181413">
         <mark key="[" line="31" column="23" />
@@ -263,9 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="53" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="105" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
-      <jump line="21" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
       <jump line="54" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
       <jump line="115" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
       <jump line="86" column="77" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
@@ -362,7 +389,10 @@
       <jump line="60" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
       <jump line="85" column="69" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
       <jump line="43" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
-      <jump line="58" column="66" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
+      <jump line="15" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/JwtUser.java" />
+      <jump line="17" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.0.3.RELEASE/spring-security-core-4.0.3.RELEASE.jar!/org/springframework/security/core/annotation/AuthenticationPrincipal.class" />
+      <jump line="58" column="51" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
+      <jump line="59" column="62" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
