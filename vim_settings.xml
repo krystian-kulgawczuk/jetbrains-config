@@ -117,9 +117,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/app/actors/CountingWorker.scala" timestamp="1548139540352">
-        <mark key="'" line="13" column="20" />
-      </file>
       <file name="/Python Console" timestamp="1546593735226">
         <mark key="[" line="0" column="0" />
       </file>
@@ -159,12 +156,11 @@
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1547110314525">
         <mark key="[" line="77" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" timestamp="1548159142375">
-        <mark key="'" line="41" column="11" />
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="43" column="61" />
-        <mark key="." line="43" column="61" />
-        <mark key="^" line="41" column="17" />
+      <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" timestamp="1548322726037">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1548254492147">
         <mark key="[" line="6" column="0" />
@@ -232,8 +228,8 @@
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1548317922281">
-        <mark key="'" line="43" column="17" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1548323176062">
+        <mark key="'" line="70" column="27" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -258,9 +254,9 @@
       <file name="/fragment.java" timestamp="1547813076787">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" timestamp="1548323290113" />
     </filemarks>
     <jumps>
-      <jump line="66" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="67" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="68" column="49" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
       <jump line="70" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" />
@@ -359,11 +355,12 @@
       <jump line="8" column="16" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="41" column="49" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
-      <jump line="43" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
+      <jump line="43" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
+      <jump line="70" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RyYXRpb25SZXF1ZXN0RHRvLgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -375,31 +372,31 @@
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RyYXRpb25SZXF1ZXN0RHRvLgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBsZXRlKCI8aDE+U2F5IGhlbGxvIHRvIGFra2EtaHR0cDwvaDE+IikpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0KCgpIC0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UHJpdmF0ZSBHZW5lcmFsIEFnZW50IFB1YmxpYyBJUHMgPSBbCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwYXRoKCJoZWxsbyIsICgpIC0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UHJpdmF0ZSBHYXRld2F5IEFnZW50IFB1YmxpYyBJUHMgPSBbXQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFJvdXRlIGNyZWF0ZVJvdXRlKCkgewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGZkMmM4LWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbkFjY2VwdCh1bmJvdW5kIC0+IHN5c3RlbS50ZXJtaW5hdGUoKSk7IC8vIGFuZCBzaHV0ZG93biB3aGVuIGRvbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlbkNvbXBvc2UoU2VydmVyQmluZGluZzo6dW5iaW5kKSAvLyB0cmlnZ2VyIHVuYmluZGluZyBmcm9tIHRoZSBwb3J0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
