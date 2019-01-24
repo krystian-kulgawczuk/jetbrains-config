@@ -57,6 +57,9 @@
         <mark key="^" line="41" column="22" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" timestamp="1548332042044">
+        <mark key="'" line="88" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" timestamp="1547725912033">
         <mark key="'" line="7" column="17" />
       </file>
@@ -78,16 +81,13 @@
         <mark key="." line="19" column="42" />
         <mark key="^" line="19" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" timestamp="1548331674333">
+        <mark key="'" line="55" column="55" />
+      </file>
       <file name="$USER_HOME$/dev/legacy/projects/docker-devtools/docker/docker-compose.yaml" timestamp="1545984596608">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/Greeter.java" timestamp="1548156736698">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="6" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/main.tf" timestamp="1547542432286">
         <mark key="'" line="22" column="16" />
@@ -111,11 +111,6 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/stat/SavingsDto.java" timestamp="1547725953599">
         <mark key="'" line="14" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/orientdb/pom.xml" timestamp="1548069846515">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scripts_common/ci/git_changes.py" timestamp="1547029425715">
         <mark key="[" line="37" column="4" />
@@ -208,6 +203,9 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/authentication/token/JwtAuthenticationToken.java" timestamp="1548331700532">
+        <mark key="'" line="10" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/elasticsearch_throughput.txt" timestamp="1548227817295">
         <mark key="[" line="0" column="0" />
       </file>
@@ -221,6 +219,12 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/build.sh" timestamp="1547106638116">
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1548331983670">
+        <mark key="'" line="22" column="65" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" timestamp="1548332114682">
+        <mark key="'" line="23" column="57" />
       </file>
       <file name="$USER_HOME$/dev/gvc_release_2/global-cloud-view-portal/cdp-agent/pom.xml" timestamp="1546434211362">
         <mark key="[" line="15" column="0" />
@@ -241,11 +245,6 @@
         <mark key="]" line="32" column="23" />
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttPServerMinimalExampleTest.java" timestamp="1548144874987">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/deploy/marathon-template.json" timestamp="1546515630221">
         <mark key="[" line="21" column="36" />
@@ -293,16 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
-      <jump line="115" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
-      <jump line="86" column="77" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
-      <jump line="97" column="11" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
-      <jump line="105" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
-      <jump line="262" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
-      <jump line="263" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
-      <jump line="304" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
-      <jump line="256" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
-      <jump line="251" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
       <jump line="317" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
       <jump line="321" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_staging.groovy" />
@@ -393,6 +382,16 @@
       <jump line="17" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.0.3.RELEASE/spring-security-core-4.0.3.RELEASE.jar!/org/springframework/security/core/annotation/AuthenticationPrincipal.class" />
       <jump line="58" column="51" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
       <jump line="59" column="62" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
+      <jump line="33" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
+      <jump line="53" column="76" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
+      <jump line="55" column="55" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
+      <jump line="10" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/authentication/token/JwtAuthenticationToken.java" />
+      <jump line="89" column="40" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" />
+      <jump line="48" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
+      <jump line="51" column="53" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
+      <jump line="22" column="65" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
+      <jump line="88" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" />
+      <jump line="23" column="57" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
