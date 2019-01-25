@@ -125,9 +125,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/app/actors/CountingWorker.scala" timestamp="1548139540352">
         <mark key="'" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" timestamp="1548414273927">
-        <mark key="'" line="90" column="23" />
+      <file name="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" timestamp="1548415287527">
+        <mark key="'" line="115" column="24" />
         <mark key="[" line="164" column="5" />
+        <mark key="]" line="116" column="23" />
+        <mark key="^" line="116" column="23" />
+        <mark key="." line="116" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/Globals.groovy" timestamp="1546426628595">
         <mark key="[" line="6" column="24" />
@@ -273,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
       <jump line="62" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
       <jump line="94" column="48" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
       <jump line="51" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
@@ -373,6 +375,7 @@
       <jump line="117" column="20" filename="$USER_HOME$/Downloads/r3-ui/pkg/core_services/urls/urls.go" />
       <jump line="59" column="9" filename="$USER_HOME$/Downloads/r3-ui/pkg/agents/agent_registration/agent_registration.go" />
       <jump line="90" column="23" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
+      <jump line="115" column="24" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
