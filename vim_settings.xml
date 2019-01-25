@@ -16,6 +16,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/load_test_asset/notes.py" timestamp="1548418065529">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-ui-qs-500/Jenkinsfile.groovy" timestamp="1547115025787">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -125,8 +131,8 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/app/actors/CountingWorker.scala" timestamp="1548139540352">
         <mark key="'" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" timestamp="1548415287527">
-        <mark key="'" line="115" column="24" />
+      <file name="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" timestamp="1548417860552">
+        <mark key="'" line="164" column="18" />
         <mark key="[" line="164" column="5" />
         <mark key="]" line="116" column="23" />
         <mark key="^" line="116" column="23" />
@@ -276,8 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
-      <jump line="94" column="48" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
       <jump line="51" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
       <jump line="100" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_all_environ.groovy" />
@@ -374,15 +378,17 @@
       <jump line="35" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" />
       <jump line="117" column="20" filename="$USER_HOME$/Downloads/r3-ui/pkg/core_services/urls/urls.go" />
       <jump line="59" column="9" filename="$USER_HOME$/Downloads/r3-ui/pkg/agents/agent_registration/agent_registration.go" />
-      <jump line="90" column="23" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
       <jump line="115" column="24" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
+      <jump line="90" column="20" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
+      <jump line="131" column="25" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
+      <jump line="164" column="18" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>'POST',</text>
       </register>
       <register name="/" type="4">
         <text>register</text>
@@ -391,31 +397,31 @@
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBsZXRlKCI8aDE+U2F5IGhlbGxvIHRvIGFra2EtaHR0cDwvaDE+IikpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0KCgpIC0+Cg==</text>
+        <text encoding="base64">bWQ1Y29udGVudCA9IGJhc2U2NC5iNjRlbmNvZGUobWQ1c3VtKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXRoKCJoZWxsbyIsICgpIC0+Cg==</text>
+        <text encoding="base64">cHJpbnQobWQ1Y29udGVudCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFJvdXRlIGNyZWF0ZVJvdXRlKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">cmVxX21ldGhvZCA9ICdQT1NUJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbkFjY2VwdCh1bmJvdW5kIC0+IHN5c3RlbS50ZXJtaW5hdGUoKSk7IC8vIGFuZCBzaHV0ZG93biB3aGVuIGRvbmUK</text>
+        <text encoding="base64">YWNfdmVyc2lvbiA9ICcyMDE2LTA3LTI5Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbkNvbXBvc2UoU2VydmVyQmluZGluZzo6dW5iaW5kKSAvLyB0cmlnZ2VyIHVuYmluZGluZyBmcm9tIHRoZSBwb3J0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
