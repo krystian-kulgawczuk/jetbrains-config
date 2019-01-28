@@ -9,11 +9,11 @@
       <file name="/a.dummy" timestamp="1548144879862">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/load_test_asset/notes.py" timestamp="1548663736170">
-        <mark key="[" line="32" column="14" />
-        <mark key="]" line="32" column="57" />
-        <mark key="." line="32" column="57" />
-        <mark key="^" line="32" column="57" />
+      <file name="$USER_HOME$/Projects/load_test_asset/notes.py" timestamp="1548677798475">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/stress_tests/storage_savings_chart.yml" timestamp="1548009466813">
         <mark key="[" line="3" column="7" />
@@ -205,7 +205,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/build.sh" timestamp="1547106638116">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1548661480282">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1548676617653">
         <mark key="'" line="46" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" timestamp="1548332114682">
@@ -274,7 +274,7 @@
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1548670376485">
+      <file name="/fragment.java" timestamp="1548676866178">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" timestamp="1548334654770">
@@ -385,10 +385,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">bWQ1Y29udGVudCA9ICcxQjJNMlk4QXNnVHBnQW1ZN1BoQ2ZnPT0nCg==</text>
       </register>
       <register name="-" type="4">
-        <text>undertow</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>tomcat</text>
@@ -397,31 +397,31 @@
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">bWQ1Y29udGVudCA9ICcxQjJNMlk4QXNnVHBnQW1ZN1BoQ2ZnPT0nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10b21jYXQ8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgo=</text>
+        <text encoding="base64">cG9ydGFsX2pvaW5lZCA9ICcnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10b21jYXQ8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQobWFjLmhleGRpZ2VzdCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoJ01hYzogJyArIG1hYy5oZXhkaWdlc3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQobWFjLmhleGRpZ2VzdCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
