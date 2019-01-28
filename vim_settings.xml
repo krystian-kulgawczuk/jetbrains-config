@@ -208,12 +208,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1548661480282">
         <mark key="'" line="46" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/es/bootstrap-schema.py" timestamp="1548055622322">
-        <mark key="'" line="18" column="45" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" timestamp="1548332114682">
         <mark key="'" line="23" column="57" />
       </file>
@@ -229,13 +223,7 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1548335101181">
-        <mark key="'" line="403" column="13" />
-        <mark key="[" line="409" column="14" />
-        <mark key="]" line="409" column="13" />
-        <mark key="^" line="409" column="13" />
-        <mark key="." line="409" column="13" />
-      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1548672060512" />
       <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1548155646924">
         <mark key="[" line="34" column="13" />
         <mark key="]" line="32" column="23" />
@@ -294,7 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="13" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="20" column="40" filename="$USER_HOME$/dev/terraform_dcos/main.tf" />
       <jump line="26" column="4" filename="$USER_HOME$/dev/terraform_dcos/main.tf" />
       <jump line="22" column="16" filename="$USER_HOME$/dev/terraform_dcos/main.tf" />
@@ -394,6 +381,7 @@
       <jump line="101" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="201" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="186" column="52" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
+      <jump line="372" column="4" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
