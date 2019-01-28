@@ -122,13 +122,18 @@
         <mark key="^" line="116" column="23" />
         <mark key="." line="116" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1548670344460">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="/Python Console" timestamp="1546593735226">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/resources/application-us-dev.properties" timestamp="1548662099701">
-        <mark key="[" line="12" column="56" />
-        <mark key="]" line="12" column="56" />
-        <mark key="." line="12" column="56" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/resources/application-us-dev.properties" timestamp="1548670301469">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
         <mark key="^" line="9" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1548246412041" />
@@ -192,7 +197,7 @@
       <file name="$USER_HOME$/Documents/elasticsearch_throughput.txt" timestamp="1548227817295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548666974166">
+      <file name="/Dummy.txt" timestamp="1548670376493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -202,6 +207,12 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1548661480282">
         <mark key="'" line="46" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/es/bootstrap-schema.py" timestamp="1548055622322">
+        <mark key="'" line="18" column="45" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" timestamp="1548332114682">
         <mark key="'" line="23" column="57" />
@@ -269,7 +280,13 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1548666974158">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" timestamp="1548670543241">
+        <mark key="'" line="186" column="52" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1548670376485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" timestamp="1548334654770">
@@ -277,12 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="18" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="114" column="12" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="46" column="0" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="157" column="14" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="163" column="43" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" />
-      <jump line="194" column="24" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="168" column="13" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="20" column="40" filename="$USER_HOME$/dev/terraform_dcos/main.tf" />
       <jump line="26" column="4" filename="$USER_HOME$/dev/terraform_dcos/main.tf" />
@@ -377,43 +388,49 @@
       <jump line="58" column="49" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
       <jump line="46" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
       <jump line="7" column="47" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-us-dev.properties" />
+      <jump line="13" column="38" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
+      <jump line="71" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
+      <jump line="318" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
+      <jump line="101" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
+      <jump line="201" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
+      <jump line="186" column="52" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s-dev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s-dev</text>
+        <text>undertow</text>
       </register>
       <register name="/" type="4">
-        <text>register</text>
+        <text>tomcat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQobWFjLmhleGRpZ2VzdCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10b21jYXQ8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoJ01hYzogJyArIG1hYy5oZXhkaWdlc3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQobWFjLmhleGRpZ2VzdCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWQ1Y29udGVudCA9IGJhc2U2NC5iNjRlbmNvZGUobWQ1c3VtKQo=</text>
+        <text encoding="base64">cHJpbnQoJ01hYzogJyArIG1hYy5oZXhkaWdlc3QoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQobWQ1Y29udGVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -423,9 +440,9 @@
       </register>
     </registers>
     <search>
-      <last-search>register</last-search>
+      <last-search>tomcat</last-search>
       <last-offset />
-      <last-pattern>register</last-pattern>
+      <last-pattern>tomcat</last-pattern>
       <last-replace />
       <last-substitute>,$</last-substitute>
       <last-dir>1</last-dir>
@@ -459,6 +476,8 @@
         <entry>,$</entry>
         <entry>access</entry>
         <entry>register</entry>
+        <entry>undertow</entry>
+        <entry>tomcat</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
