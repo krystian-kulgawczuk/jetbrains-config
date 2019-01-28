@@ -9,10 +9,11 @@
       <file name="/a.dummy" timestamp="1548144879862">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/load_test_asset/notes.py" timestamp="1548660968955">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/load_test_asset/notes.py" timestamp="1548663736170">
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="32" column="57" />
+        <mark key="." line="32" column="57" />
+        <mark key="^" line="32" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/stress_tests/storage_savings_chart.yml" timestamp="1548009466813">
         <mark key="[" line="3" column="7" />
@@ -30,6 +31,12 @@
         <mark key="^" line="30" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/app/controllers/ProxyService.scala" timestamp="1548143572717" />
+      <file name="$USER_HOME$/Projects/akkaloadportal/pom.xml" timestamp="1548159242190">
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/gvc_devops_commands.md" timestamp="1547552875764">
         <mark key="[" line="0" column="0" />
       </file>
@@ -48,6 +55,12 @@
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1548328133073" />
       <file name="$USER_HOME$/Documents/cassandra_stress.html" timestamp="1548167203766">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/orientdb/src/main/java/OrientApplication.java" timestamp="1548070468471">
+        <mark key="[" line="26" column="74" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/orientechnologies/orientdb-core/2.2.31/orientdb-core-2.2.31.jar!/com/orientechnologies/orient/core/db/document/ODatabaseDocumentTx.class" timestamp="1548070653429" />
       <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/ActorHierarchyExperiments.java" timestamp="1548144343642" />
@@ -80,11 +93,6 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/stat/SavingsDto.java" timestamp="1547725953599">
         <mark key="'" line="14" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/orientdb/pom.xml" timestamp="1548069846515">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scripts_common/ci/git_changes.py" timestamp="1547029425715">
         <mark key="[" line="37" column="4" />
@@ -147,6 +155,12 @@
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1547110314525">
         <mark key="[" line="77" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" timestamp="1548322726037">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/orientdbdemo/src/main/java/com/acaisoft/orientdbdemo/demo/config/SchemaCreator.java" timestamp="1548070376414">
         <mark key="[" line="12" column="44" />
         <mark key="]" line="12" column="50" />
@@ -191,6 +205,12 @@
       <file name="$USER_HOME$/Downloads/r3-ui/pkg/core_services/urls/urls.go" timestamp="1548401710941">
         <mark key="'" line="117" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/deploy/deploy.json" timestamp="1548161178270">
+        <mark key="[" line="6" column="49" />
+        <mark key="]" line="6" column="49" />
+        <mark key="." line="6" column="49" />
+        <mark key="^" line="6" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1548335101181">
         <mark key="'" line="403" column="13" />
         <mark key="[" line="409" column="14" />
@@ -198,10 +218,11 @@
         <mark key="^" line="409" column="13" />
         <mark key="." line="409" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttPServerMinimalExampleTest.java" timestamp="1548144874987">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1548155646924">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+        <mark key="^" line="32" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/deploy/marathon-template.json" timestamp="1546515630221">
         <mark key="[" line="21" column="36" />
@@ -347,10 +368,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>CtgD2EByqLhSEX3gzVtdLft2rSrHJ3aev96ZiXoR5ec=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>CtgD2EByqLhSEX3gzVtdLft2rSrHJ3aev96ZiXoR5ec=</text>
       </register>
       <register name="/" type="4">
         <text>register</text>
