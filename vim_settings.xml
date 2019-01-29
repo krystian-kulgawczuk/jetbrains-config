@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/JwtUser.java" timestamp="1548330322181">
-        <mark key="'" line="15" column="21" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/JwtUser.java" timestamp="1548767773519">
+        <mark key="'" line="5" column="18" />
       </file>
       <file name="/a.dummy" timestamp="1548144879862">
         <mark key="[" line="0" column="0" />
@@ -48,11 +48,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" timestamp="1548339008620">
         <mark key="'" line="35" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/load_test_asset/locustfile.py" timestamp="1548759756909">
-        <mark key="[" line="8" column="54" />
-        <mark key="]" line="8" column="43" />
-        <mark key="^" line="8" column="52" />
-        <mark key="." line="8" column="43" />
+      <file name="$USER_HOME$/Projects/load_test_asset/locustfile.py" timestamp="1548767928259">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" timestamp="1547725912033">
         <mark key="'" line="7" column="17" />
@@ -138,6 +138,9 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="9" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1548767772345">
+        <mark key="'" line="142" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/orientdbdemo/src/test/java/com/acaisoft/orientdbdemo/demo/OrientDbTest.java" timestamp="1548070421734">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="11" column="50" />
@@ -215,6 +218,9 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KfMessageRemoval.java" timestamp="1547644495955">
         <mark key="'" line="173" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1548767677225">
+        <mark key="'" line="54" column="21" />
+      </file>
       <file name="$USER_HOME$/Downloads/r3-ui/pkg/core_services/urls/urls.go" timestamp="1548401710941">
         <mark key="'" line="117" column="20" />
       </file>
@@ -282,11 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="40" filename="$USER_HOME$/dev/terraform_dcos/main.tf" />
-      <jump line="26" column="4" filename="$USER_HOME$/dev/terraform_dcos/main.tf" />
-      <jump line="22" column="16" filename="$USER_HOME$/dev/terraform_dcos/main.tf" />
-      <jump line="144" column="2" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="146" column="2" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="179" column="29" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="568" column="4" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="80" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
@@ -382,46 +383,51 @@
       <jump line="201" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="186" column="52" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="372" column="4" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="75" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="54" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
+      <jump line="144" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="142" column="38" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="5" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/JwtUser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>how_many</text>
       </register>
       <register name="/" type="4">
         <text>tomcat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
+      <register name="0" type="4">
+        <text>random.randint(10000000, 20000000)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgU3RhdHMoZGljdCk6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWQ1Y29udGVudCA9ICcxQjJNMlk4QXNnVHBnQW1ZN1BoQ2ZnPT0nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInRpbWVzdGFtcCI6IGRhdGV0aW1lKDIwMTgsIHJhbmRvbSwgMjUsIHR6aW5mbz10aW1lem9uZS51dGMpLmlzb2Zvcm1hdCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">Y2xhc3MgU3RhdHMoZGljdCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cG9ydGFsX2pvaW5lZCA9ICcnCg==</text>
+        <text encoding="base64">bWQ1Y29udGVudCA9ICcxQjJNMlk4QXNnVHBnQW1ZN1BoQ2ZnPT0nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10b21jYXQ8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">cG9ydGFsX2pvaW5lZCA9ICcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10b21jYXQ8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
