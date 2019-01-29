@@ -48,6 +48,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" timestamp="1548339008620">
         <mark key="'" line="35" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/load_test_asset/locustfile.py" timestamp="1548759756909">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="52" />
+        <mark key="." line="8" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" timestamp="1547725912033">
         <mark key="'" line="7" column="17" />
       </file>
@@ -379,10 +385,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>iy5KhSUe4jqymV0x2RdBvBUbpEO5JYuCLDyNPX7/kmU=&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>iy5KhSUe4jqymV0x2RdBvBUbpEO5JYuCLDyNPX7/kmU=&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tomcat</text>
@@ -391,31 +397,31 @@
         <text encoding="base64">IC0gbm8gZGF0YS9kYXRhIGdldHMgcmVtb3ZlZAogLSBnb29kIHBhcnRpdGlvbiBrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWQ1Y29udGVudCA9ICcxQjJNMlk4QXNnVHBnQW1ZN1BoQ2ZnPT0nCg==</text>
+        <text encoding="base64">Y2xhc3MgU3RhdHMoZGljdCk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">bWQ1Y29udGVudCA9ICcxQjJNMlk4QXNnVHBnQW1ZN1BoQ2ZnPT0nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cG9ydGFsX2pvaW5lZCA9ICcnCg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">cG9ydGFsX2pvaW5lZCA9ICcnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10b21jYXQ8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10b21jYXQ8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQobWFjLmhleGRpZ2VzdCgpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
