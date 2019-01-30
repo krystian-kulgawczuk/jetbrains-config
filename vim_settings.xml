@@ -48,12 +48,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" timestamp="1548339008620">
         <mark key="'" line="35" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/load_test_asset/locustfile.py" timestamp="1548836323027">
+      <file name="$USER_HOME$/Projects/load_test_asset/locustfile.py" timestamp="1548837205863">
         <mark key="'" line="142" column="0" />
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="43" column="7" />
-        <mark key="^" line="43" column="7" />
-        <mark key="." line="43" column="7" />
+        <mark key="[" line="144" column="6" />
+        <mark key="]" line="144" column="6" />
+        <mark key="^" line="144" column="6" />
+        <mark key="." line="144" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" timestamp="1547725912033">
         <mark key="'" line="7" column="17" />
@@ -391,8 +391,8 @@
       <jump line="130" column="0" filename="$USER_HOME$/Projects/load_test_asset/locustfile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -407,28 +407,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoJ0RpYWdub3N0aWNzOicsIGdlbmVyYXRlX2RpYWdub3N0aWNzKCkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGhvd19tYW55ID0gcmFuZG9tLnJhbmRpbnQoMSwgMTApCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYW5kX2RheSA9IHJhbmRvbS5yYW5kaW50KDEsIDMxKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYW5kX21vbnRoID0gcmFuZG9tLnJhbmRpbnQoMSwgMTIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHJpbnQoJ0RpYWdub3N0aWNzOicsIGdlbmVyYXRlX2RpYWdub3N0aWNzKCkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGhvd19tYW55ID0gcmFuZG9tLnJhbmRpbnQoMSwgMTApCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByYW5kX2RheSA9IHJhbmRvbS5yYW5kaW50KDEsIDMxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJhbmRfc2lkZHplID0gcmFuZG9tLnJhbmRpbnQoMTAwMDAwMDAsIDIwMDAwMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgICByYW5kX21vbnRoID0gcmFuZG9tLnJhbmRpbnQoMSwgMTIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
