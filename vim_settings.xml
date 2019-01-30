@@ -48,11 +48,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" timestamp="1548339008620">
         <mark key="'" line="35" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/load_test_asset/locustfile.py" timestamp="1548833110294">
-        <mark key="[" line="67" column="19" />
-        <mark key="]" line="34" column="72" />
-        <mark key="." line="34" column="72" />
-        <mark key="^" line="34" column="83" />
+      <file name="$USER_HOME$/Projects/load_test_asset/locustfile.py" timestamp="1548836323027">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="43" column="7" />
+        <mark key="^" line="43" column="7" />
+        <mark key="." line="43" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" timestamp="1547725912033">
         <mark key="'" line="7" column="17" />
@@ -288,10 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="29" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="568" column="4" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="80" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="84" column="8" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="86" column="25" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="539" column="4" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="542" column="27" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
@@ -388,55 +385,59 @@
       <jump line="144" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
       <jump line="142" column="38" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
       <jump line="5" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/JwtUser.java" />
+      <jump line="18" column="8" filename="$USER_HOME$/Projects/load_test_asset/locustfile.py" />
+      <jump line="45" column="24" filename="$USER_HOME$/Projects/load_test_asset/locustfile.py" />
+      <jump line="7" column="29" filename="$USER_HOME$/Projects/load_test_asset/locustfile.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/Projects/load_test_asset/locustfile.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rando</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>rando</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>tomcat</text>
+        <text>choices</text>
       </register>
       <register name="0" type="4">
         <text>random.randint(10000000, 20000000)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInRpbWVzdGFtcCI6IGRhdGV0aW1lKDIwMTgsIHJhbmRvbSwgMjUsIHR6aW5mbz10aW1lem9uZS51dGMpLmlzb2Zvcm1hdCgpCg==</text>
+        <text encoding="base64">cHJpbnQoJ0RpYWdub3N0aWNzOicsIGdlbmVyYXRlX2RpYWdub3N0aWNzKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgU3RhdHMoZGljdCk6Cg==</text>
+        <text encoding="base64">ICAgIGhvd19tYW55ID0gcmFuZG9tLnJhbmRpbnQoMSwgMTApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWQ1Y29udGVudCA9ICcxQjJNMlk4QXNnVHBnQW1ZN1BoQ2ZnPT0nCg==</text>
+        <text encoding="base64">ICAgICAgICByYW5kX2RheSA9IHJhbmRvbS5yYW5kaW50KDEsIDMxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICByYW5kX21vbnRoID0gcmFuZG9tLnJhbmRpbnQoMSwgMTIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cG9ydGFsX2pvaW5lZCA9ICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10b21jYXQ8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgIHJhbmRfc2lkZHplID0gcmFuZG9tLnJhbmRpbnQoMTAwMDAwMDAsIDIwMDAwMDAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
       </register>
     </registers>
     <search>
-      <last-search>tomcat</last-search>
+      <last-search>choices</last-search>
       <last-offset />
-      <last-pattern>tomcat</last-pattern>
+      <last-pattern>choices</last-pattern>
       <last-replace />
       <last-substitute>,$</last-substitute>
       <last-dir>1</last-dir>
@@ -464,6 +465,7 @@
         <entry>register</entry>
         <entry>undertow</entry>
         <entry>tomcat</entry>
+        <entry>choices</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
