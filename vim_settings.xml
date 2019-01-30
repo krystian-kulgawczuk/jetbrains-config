@@ -48,11 +48,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" timestamp="1548339008620">
         <mark key="'" line="35" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/load_test_asset/locustfile.py" timestamp="1548767928259">
-        <mark key="[" line="24" column="45" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="21" />
-        <mark key="^" line="24" column="21" />
+      <file name="$USER_HOME$/Projects/load_test_asset/locustfile.py" timestamp="1548833110294">
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="34" column="72" />
+        <mark key="." line="34" column="72" />
+        <mark key="^" line="34" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" timestamp="1547725912033">
         <mark key="'" line="7" column="17" />
@@ -390,11 +390,11 @@
       <jump line="5" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/JwtUser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>rando</text>
       </register>
       <register name="-" type="4">
-        <text>how_many</text>
+        <text>rando</text>
       </register>
       <register name="/" type="4">
         <text>tomcat</text>
