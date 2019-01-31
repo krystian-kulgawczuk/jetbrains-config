@@ -231,6 +231,9 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1548921585302">
+        <mark key="'" line="1391" column="57" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1548155646924">
         <mark key="[" line="34" column="13" />
         <mark key="]" line="32" column="23" />
@@ -289,9 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="25" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="539" column="4" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="542" column="27" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="72" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="127" column="8" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="145" column="21" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
@@ -389,6 +389,9 @@
       <jump line="45" column="24" filename="$USER_HOME$/Projects/load_test_asset/locustfile.py" />
       <jump line="7" column="29" filename="$USER_HOME$/Projects/load_test_asset/locustfile.py" />
       <jump line="130" column="0" filename="$USER_HOME$/Projects/load_test_asset/locustfile.py" />
+      <jump line="171" column="1" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="707" column="44" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="1391" column="57" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -398,7 +401,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>choices</text>
+        <text>by_sub</text>
       </register>
       <register name="0" type="4">
         <text>random.randint(10000000, 20000000)</text>
@@ -435,9 +438,9 @@
       </register>
     </registers>
     <search>
-      <last-search>choices</last-search>
+      <last-search>by_sub</last-search>
       <last-offset />
-      <last-pattern>choices</last-pattern>
+      <last-pattern>by_sub</last-pattern>
       <last-replace />
       <last-substitute>,$</last-substitute>
       <last-dir>1</last-dir>
@@ -466,6 +469,7 @@
         <entry>undertow</entry>
         <entry>tomcat</entry>
         <entry>choices</entry>
+        <entry>by_sub</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
