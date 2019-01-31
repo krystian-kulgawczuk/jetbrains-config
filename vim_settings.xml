@@ -231,8 +231,11 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1548921585302">
-        <mark key="'" line="1391" column="57" />
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1548928823525">
+        <mark key="'" line="1033" column="32" />
+        <mark key="[" line="1033" column="32" />
+        <mark key="]" line="1033" column="33" />
+        <mark key="." line="1033" column="33" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1548155646924">
         <mark key="[" line="34" column="13" />
@@ -292,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="127" column="8" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="145" column="21" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="159" column="8" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
@@ -392,6 +394,7 @@
       <jump line="171" column="1" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="707" column="44" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="1391" column="57" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="1033" column="32" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -401,7 +404,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>by_sub</text>
+        <text>r3_asset</text>
       </register>
       <register name="0" type="4">
         <text>random.randint(10000000, 20000000)</text>
@@ -438,9 +441,9 @@
       </register>
     </registers>
     <search>
-      <last-search>by_sub</last-search>
+      <last-search>r3_asset</last-search>
       <last-offset />
-      <last-pattern>by_sub</last-pattern>
+      <last-pattern>r3_asset</last-pattern>
       <last-replace />
       <last-substitute>,$</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +455,6 @@
         <entry>container</entry>
         <entry>alert</entry>
         <entry>diagnostic</entry>
-        <entry>r3_asset</entry>
         <entry>find</entry>
         <entry>java</entry>
         <entry>classpath</entry>
@@ -470,6 +472,7 @@
         <entry>tomcat</entry>
         <entry>choices</entry>
         <entry>by_sub</entry>
+        <entry>r3_asset</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
