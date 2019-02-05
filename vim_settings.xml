@@ -62,6 +62,7 @@
         <mark key="^" line="137" column="25" />
         <mark key="." line="137" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/build.sh" timestamp="1549363745134" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" timestamp="1547725912033">
         <mark key="'" line="7" column="17" />
       </file>
@@ -118,16 +119,22 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/stat/SavingsDto.java" timestamp="1547725953599">
         <mark key="'" line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/orientdb/pom.xml" timestamp="1548069846515">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/scripts_common/ci/git_changes.py" timestamp="1547029425715">
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="7" />
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/build.sh" timestamp="1549361828186">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/gvc-group-structure/build.sh" timestamp="1549363756491">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="59" />
+        <mark key="." line="6" column="59" />
+        <mark key="^" line="6" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/app/actors/CountingWorker.scala" timestamp="1548139540352">
         <mark key="'" line="13" column="20" />
@@ -147,6 +154,11 @@
         <mark key="." line="116" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1549264851329" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1548673594853">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/resources/application-us-dev.properties" timestamp="1548674616144">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="18" />
@@ -205,11 +217,11 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/Dockerfile" timestamp="1549361492392">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="22" />
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Dockerfile" timestamp="1549363554506">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" timestamp="1548676617653">
         <mark key="'" line="46" column="32" />
@@ -237,6 +249,22 @@
         <mark key="]" line="32" column="23" />
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/resources/application-us-dev.properties" timestamp="1549363693923">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttPServerMinimalExampleTest.java" timestamp="1548144874987">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Makefile" timestamp="1549363649212">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="26" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/deploy/marathon-template.json" timestamp="1546515630221">
         <mark key="[" line="21" column="36" />
@@ -376,10 +404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2QgJHtQUk9GSUxkZEV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>customer-manage-button</text>
@@ -388,31 +416,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9jayhyZXNvdXJjZTogJ2Rjb3NDb25uZWN0aW9uJykgewogICAgICAgICAgICAgICAgc3NoYWdlbnQoWydkY29zJ10pIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBzaCAnc3NoIC1NIC1TIC90bXAvbWFyYXRob24tc29ja2V0IC12dnYgLW8gU3RyaWN0SG9zdEtleUNoZWNraW5nPW5vIC1vIEV4aXRPbkZvcndhcmRGYWlsdXJlPXllcyAtTiAtZiAtcCAyMjAwICcgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICctTCA4MDAwOmxvY2FsaG9zdDo4MCBhenVyZWRldkBndmMtdXMtZGV2LW1hc3Rlci53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tJwogICAgICAgICAgICAgICAgICAgICAgICBzaCAibWFrZSAtQiBkZXBsb3kiCiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGV4KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IGV4CiAgICAgICAgICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgc2ggJ3NzaCAtUyAvdG1wL21hcmF0aG9uLXNvY2tldCAtTyBleGl0IGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20nCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2QgJHtQUk9GSUxkZEV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y2QgJHtQUk9GSUxkZEV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlIGJ1aWxkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICJWRVJTSU9OPSR7ZW52LlZFUlNJT059IG1ha2UgYnVpbGQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlIGJ1aWxkIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtbJGNsYXNzICAgICAgICAgIDogJ1VzZXJuYW1lUGFzc3dvcmRNdWx0aUJpbmRpbmcnLCBjcmVkZW50aWFsc0lkOiAnZG9ja2VyLWxvZ2luJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWVWYXJpYWJsZTogJ1VTRVJOQU1FJywgcGFzc3dvcmRWYXJpYWJsZTogJ1BBU1NXT1JEJ11dKSB7CiAgICAgICAgICAgICAgICBzaCAnZG9ja2VyIGxvZ2luIGd2Y3VzZGV2LmF6dXJlY3IuaW8gLXUgJFVTRVJOQU1FIC1wICRQQVNTV09SRCcKICAgICAgICAgICAgfQogICAgICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlIGJ1aWxkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICJWRVJTSU9OPSR7ZW52LlZFUlNJT059IG1ha2UgYnVpbGQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpdGhDcmVkZW50aWFscyhbZmlsZShjcmVkZW50aWFsc0lkOiAiY2lwaGVyLWtleS0ke0RFVl9TVEFHSU5HX1BST0ZJTEV9IiwgdmFyaWFibGU6ICdDSVBIRVJfS0VZJyldKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtbJGNsYXNzICAgICAgICAgIDogJ1VzZXJuYW1lUGFzc3dvcmRNdWx0aUJpbmRpbmcnLCBjcmVkZW50aWFsc0lkOiAnZG9ja2VyLWxvZ2luJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWVWYXJpYWJsZTogJ1VTRVJOQU1FJywgcGFzc3dvcmRWYXJpYWJsZTogJ1BBU1NXT1JEJ11dKSB7CiAgICAgICAgICAgICAgICBzaCAnZG9ja2VyIGxvZ2luIGd2Y3VzZGV2LmF6dXJlY3IuaW8gLXUgJFVTRVJOQU1FIC1wICRQQVNTV09SRCcKICAgICAgICAgICAgfQogICAgICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlIGJ1aWxkIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpdGhDcmVkZW50aWFscyhbZmlsZShjcmVkZW50aWFsc0lkOiAiY2lwaGVyLWtleS0ke0RFVl9TVEFHSU5HX1BST0ZJTEV9IiwgdmFyaWFibGU6ICdDSVBIRVJfS0VZJyldKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoQ3JlZGVudGlhbHMoW2ZpbGUoY3JlZGVudGlhbHNJZDogImNpcGhlci1rZXktJHtERVZfU1RBR0lOR19QUk9GSUxFfSIsIHZhcmlhYmxlOiAnQ0lQSEVSX0tFWScpXSkgewo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIFBST0RfUFJPRklMRSA9ICd1cy1wcm9kJwo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoQ3JlZGVudGlhbHMoW2ZpbGUoY3JlZGVudGlhbHNJZDogImNpcGhlci1rZXktJHtERVZfU1RBR0lOR19QUk9GSUxFfSIsIHZhcmlhYmxlOiAnQ0lQSEVSX0tFWScpXSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/customer-manage-button/group-structure</text>
