@@ -18,11 +18,11 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/.gitignore" timestamp="1549361232918">
-        <mark key="[" line="124" column="25" />
-        <mark key="]" line="124" column="23" />
-        <mark key="^" line="124" column="23" />
-        <mark key="." line="124" column="23" />
+      <file name="$USER_HOME$/Projects/gvc-group-structure/.gitignore" timestamp="1549366686788">
+        <mark key="[" line="125" column="13" />
+        <mark key="]" line="226" column="23" />
+        <mark key="^" line="226" column="23" />
+        <mark key="." line="226" column="23" />
       </file>
       <file name="$USER_HOME$/Downloads/r3-ui/pkg/agents/agent_registration/agent_registration.go" timestamp="1548401865375">
         <mark key="'" line="59" column="9" />
@@ -176,12 +176,12 @@
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1549365767195">
-        <mark key="'" line="115" column="57" />
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="16" column="24" />
-        <mark key="^" line="16" column="24" />
-        <mark key="." line="16" column="24" />
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1549367881607">
+        <mark key="'" line="16" column="24" />
+        <mark key="[" line="82" column="35" />
+        <mark key="]" line="82" column="36" />
+        <mark key="^" line="96" column="49" />
+        <mark key="." line="82" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1548666816379">
         <mark key="[" line="14" column="21" />
@@ -191,6 +191,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.0.3.RELEASE/spring-security-core-4.0.3.RELEASE.jar!/org/springframework/security/core/annotation/AuthenticationPrincipal.class" timestamp="1548330450469">
         <mark key="'" line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/load_test_asset/assets.tsv" timestamp="1548756895108">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/logrotate.d/nginx" timestamp="1549352548133" />
       <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" timestamp="1548322726037">
@@ -215,10 +218,8 @@
         <mark key="'" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/deploy/marathon-template.json" timestamp="1549279455845" />
-      <file name="/Dummy.txt" timestamp="1549365768798">
+      <file name="/Dummy.txt" timestamp="1549367890302">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/Dockerfile" timestamp="1549364284425">
         <mark key="[" line="2" column="4" />
@@ -304,7 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KfMessageRemoval.java" />
       <jump line="59" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" />
       <jump line="17" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/stat/SavingsDto.java" />
       <jump line="7" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" />
@@ -404,6 +404,7 @@
       <jump line="275" column="57" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="282" column="81" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="325" column="96" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="16" column="24" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -413,7 +414,7 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>errorMessage</text>
+        <text>NASTER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGJyYW5jaF9uYW1lID09ICdtYXN0ZXInKSB7CiAgICAgICAgICAgIHdpdGhDcmVkZW50aWFscyhbZmlsZShjcmVkZW50aWFsc0lkOiAiY2lwaGVyLWtleS0ke1BST0RfUFJPRklMRX0iLCB2YXJpYWJsZTogJ0NJUEhFUl9LRVknKV0pIHsKICAgICAgICAgICAgICAgIHNoICJsbiAtcyAke0NJUEhFUl9LRVl9IC5ndmMtZW5jcnlwdGlvbi0ke1BST0RfUFJPRklMRX0uc2VjcmV0IgogICAgICAgICAgICAgICAgc2ggIlBST0ZJTEU9JHtQUk9EX1BST0ZJTEV9IG1ha2UgZGVjcnlwdCIK</text>
@@ -450,9 +451,9 @@
       </register>
     </registers>
     <search>
-      <last-search>errorMessage</last-search>
+      <last-search>NASTER</last-search>
       <last-offset />
-      <last-pattern>errorMessage</last-pattern>
+      <last-pattern>NASTER</last-pattern>
       <last-replace>group-structure</last-replace>
       <last-substitute>customer-manage-button</last-substitute>
       <last-dir>1</last-dir>
@@ -485,6 +486,7 @@
         <entry>agent-regular</entry>
         <entry>customer-manage-button</entry>
         <entry>errorMessage</entry>
+        <entry>NASTER</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
