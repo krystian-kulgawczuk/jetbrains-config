@@ -36,7 +36,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/deploy/marathon-template.json" timestamp="1549264343663" />
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/deploy/marathon-template.json" timestamp="1549353326449">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="37" column="19" />
+        <mark key="^" line="37" column="19" />
+        <mark key="." line="37" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/gvc_devops_commands.md" timestamp="1547552875764">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,6 +79,12 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/Dockerfile" timestamp="1549352529840">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="19" column="22" />
+        <mark key="." line="14" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/arango/src/main/java/org/arango/ArangoApp.java" timestamp="1547809650502">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="19" column="42" />
@@ -104,11 +115,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/stat/SavingsDto.java" timestamp="1547725953599">
         <mark key="'" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/orientdb/pom.xml" timestamp="1548069846515">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/scripts_common/ci/git_changes.py" timestamp="1547029425715">
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="7" />
@@ -126,11 +132,6 @@
         <mark key="." line="116" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1549264851329" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1548673594853">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
       <file name="/Python Console" timestamp="1546593735226">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,15 +162,10 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.0.3.RELEASE/spring-security-core-4.0.3.RELEASE.jar!/org/springframework/security/core/annotation/AuthenticationPrincipal.class" timestamp="1548330450469">
         <mark key="'" line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/cassandra_stress.md" timestamp="1548166974044">
-        <mark key="'" line="163" column="18" />
-        <mark key="[" line="655" column="8" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/load_test_asset/assets.tsv" timestamp="1548756895108">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/logrotate.d/nginx" timestamp="1549352548133" />
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1547110314525">
         <mark key="[" line="77" column="57" />
       </file>
@@ -204,7 +200,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/deploy/marathon-template.json" timestamp="1549279455845" />
-      <file name="/Dummy.txt" timestamp="1549274937325">
+      <file name="/Dummy.txt" timestamp="1549353162336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -239,11 +235,6 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttPServerMinimalExampleTest.java" timestamp="1548144874987">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/deploy/marathon-template.json" timestamp="1546515630221">
         <mark key="[" line="21" column="36" />
         <mark key="]" line="21" column="47" />
@@ -252,12 +243,6 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" timestamp="1548330512058">
         <mark key="'" line="59" column="62" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1548675419474">
-        <mark key="'" line="70" column="26" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/playground/count_asset_per_organization.py" timestamp="1547735266658">
         <mark key="[" line="9" column="8" />
@@ -276,12 +261,6 @@
         <mark key="]" line="31" column="38" />
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" timestamp="1548670543241">
-        <mark key="'" line="186" column="52" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1548676866178">
         <mark key="[" line="0" column="0" />
@@ -394,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>main</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>r3_asset</text>
