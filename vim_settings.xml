@@ -59,8 +59,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" timestamp="1547725912033">
         <mark key="'" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1549279099835">
-        <mark key="[" line="16" column="36" />
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1549351006325">
+        <mark key="[" line="265" column="33" />
+        <mark key="]" line="265" column="39" />
+        <mark key="^" line="265" column="39" />
+        <mark key="." line="265" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/cassandra_stress.html" timestamp="1548167203766">
         <mark key="[" line="0" column="0" />
@@ -390,11 +393,11 @@
       <jump line="1033" column="32" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>main</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text>r3_asset</text>
@@ -403,7 +406,7 @@
         <text>random.randint(10000000, 20000000)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -415,19 +418,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoJ0RpYWdub3N0aWNzOicsIGdlbmVyYXRlX2RpYWdub3N0aWNzKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhvd19tYW55ID0gcmFuZG9tLnJhbmRpbnQoMSwgMTApCg==</text>
+        <text encoding="base64">cHJpbnQoJ0RpYWdub3N0aWNzOicsIGdlbmVyYXRlX2RpYWdub3N0aWNzKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByYW5kX2RheSA9IHJhbmRvbS5yYW5kaW50KDEsIDMxKQo=</text>
+        <text encoding="base64">ICAgIGhvd19tYW55ID0gcmFuZG9tLnJhbmRpbnQoMSwgMTApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYW5kX21vbnRoID0gcmFuZG9tLnJhbmRpbnQoMSwgMTIpCg==</text>
+        <text encoding="base64">ICAgICAgICByYW5kX2RheSA9IHJhbmRvbS5yYW5kaW50KDEsIDMxKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYW5kX21vbnRoID0gcmFuZG9tLnJhbmRpbnQoMSwgMTIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
