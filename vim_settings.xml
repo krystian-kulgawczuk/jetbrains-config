@@ -122,11 +122,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/stat/SavingsDto.java" timestamp="1547725953599">
         <mark key="'" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/orientdb/pom.xml" timestamp="1548069846515">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/scripts_common/ci/git_changes.py" timestamp="1547029425715">
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="7" />
@@ -157,11 +152,6 @@
         <mark key="." line="116" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1549264851329" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1548673594853">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/resources/application-us-dev.properties" timestamp="1548674616144">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="18" />
@@ -219,7 +209,7 @@
         <mark key="'" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/deploy/marathon-template.json" timestamp="1549279455845" />
-      <file name="/Dummy.txt" timestamp="1549374648213">
+      <file name="/Dummy.txt" timestamp="1549377077977">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/Dockerfile" timestamp="1549364284425">
@@ -255,21 +245,17 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/resources/application-us-dev.properties" timestamp="1549370482459">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/resources/application-us-dev.properties" timestamp="1549377074453">
+        <mark key="[" line="0" column="52" />
+        <mark key="]" line="0" column="55" />
+        <mark key="." line="0" column="55" />
+        <mark key="^" line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttPServerMinimalExampleTest.java" timestamp="1548144874987">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/Makefile" timestamp="1549374727211">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-        <mark key="^" line="5" column="7" />
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Makefile" timestamp="1549376833311">
+        <mark key="[" line="7" column="80" />
+        <mark key="]" line="7" column="94" />
+        <mark key="." line="7" column="94" />
+        <mark key="^" line="7" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/deploy/marathon-template.json" timestamp="1546515630221">
         <mark key="[" line="21" column="36" />
@@ -409,10 +395,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>no</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>no</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>NASTER</text>
@@ -421,31 +407,31 @@
         <text>$</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWlmIFtbICR7bG9jYWx9ID09ICJ5ZXMiIF1dOyB0aGVuIGxuIC1zICR7c2NyaXB0c19jb21tb259IHNjcmlwdHNfY29tbW9uOyBmaQo=</text>
+        <text encoding="base64">bG9jYWw9eWVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlmIFtbICR7bG9jYWx9ID09ICJ5ZXMiIF1dOyB0aGVuIGxuIC1zICR7c2NyaXB0c19jb21tb259IHNjcmlwdHNfY29tbW9uOyBmaQoJcHl0aG9uMyAtbSBzY3JpcHRzX2NvbW1vbi5kZWNyeXB0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlmIFtbICR7bG9jYWx9ID09ICJ5ZXMiIF1dOyB0aGVuIGNkICR7c2NyaXB0c19jb21tb259Ly4uOyBmaQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWlmIFtbICR7bG9jYWx9ID09ICJ5ZXMiIF1dOyB0aGVuIGNkICR7c2NyaXB0c19jb21tb259Ly4uOyBmaQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWlmIFtbICR7bG9jYWx9ID09ICJ5ZXMiIF1dOyB0aGVuIGNkICR7c2NyaXB0c19jb21tb259Ly4uIGZpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWNkICR7c2NyaXB0c19jb21tb259Ly4uCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ZW5kaWYK</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">CXNjcmlwdHNfY29tbW9uPXNjcmlwdHNfY29tbW9uCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZWxzZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXNjcmlwdHNfY29tbW9uPSR7SE9NRX0vc2NyaXB0c19jb21tb24K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aWZlcSAoJChsb2NhbCkseWVzKQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWlmIFtbICR7bG9jYWx9ID09ICJ5ZXMiIF1dOyB0aGVuIGxuIC1zICR7c2NyaXB0c19jb21tb259IHNjcmlwdHNfY29tbW9uOyBmaQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aWZlcSAoJChsb2NhbCkseWVzKQo=</text>
+        <text encoding="base64">CWlmIFtbICR7bG9jYWx9ID09ICJ5ZXMiIF1dOyB0aGVuIGxuIC1zICR7c2NyaXB0c19jb21tb259IHNjcmlwdHNfY29tbW9uOyBmaQoJcHl0aG9uMyAtbSBzY3JpcHRzX2NvbW1vbi5kZWNyeXB0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>54,57y</text>
