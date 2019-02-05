@@ -62,7 +62,7 @@
         <mark key="^" line="137" column="25" />
         <mark key="." line="137" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/build.sh" timestamp="1549363745134" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/build.sh" timestamp="1549363853253" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" timestamp="1547725912033">
         <mark key="'" line="7" column="17" />
       </file>
@@ -112,7 +112,9 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/StorageSavingsChartDto.java" timestamp="1547725942384">
         <mark key="'" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1549360454388" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1549365759501">
+        <mark key="'" line="325" column="96" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1548334661505">
         <mark key="'" line="148" column="25" />
       </file>
@@ -130,10 +132,10 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/build.sh" timestamp="1549363756491">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="59" />
-        <mark key="." line="6" column="59" />
+      <file name="$USER_HOME$/Projects/gvc-group-structure/build.sh" timestamp="1549363865078">
+        <mark key="[" line="6" column="82" />
+        <mark key="]" line="6" column="82" />
+        <mark key="." line="6" column="82" />
         <mark key="^" line="6" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/app/actors/CountingWorker.scala" timestamp="1548139540352">
@@ -174,11 +176,12 @@
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1549360398038">
-        <mark key="[" line="83" column="84" />
-        <mark key="]" line="83" column="100" />
-        <mark key="^" line="83" column="100" />
-        <mark key="." line="83" column="100" />
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1549365767195">
+        <mark key="'" line="115" column="57" />
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1548666816379">
         <mark key="[" line="14" column="21" />
@@ -212,13 +215,13 @@
         <mark key="'" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/deploy/marathon-template.json" timestamp="1549279455845" />
-      <file name="/Dummy.txt" timestamp="1549361249208">
+      <file name="/Dummy.txt" timestamp="1549365768798">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/Dockerfile" timestamp="1549363554506">
-        <mark key="[" line="1" column="5" />
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Dockerfile" timestamp="1549364284425">
+        <mark key="[" line="2" column="4" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
@@ -301,17 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="8" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="174" column="8" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="180" column="21" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="319" column="13" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="36" column="23" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="130" column="24" filename="$USER_HOME$/Documents/cassandra_stress.md" />
-      <jump line="164" column="18" filename="$USER_HOME$/Documents/cassandra_stress.md" />
-      <jump line="593" column="0" filename="$USER_HOME$/Documents/cassandra_stress.md" />
-      <jump line="163" column="18" filename="$USER_HOME$/Documents/cassandra_stress.md" />
-      <jump line="231" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KfMessageRemoval.java" />
       <jump line="173" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-removal/src/main/java/portal/kcr/model/impl/KfMessageRemoval.java" />
       <jump line="59" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" />
       <jump line="17" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/stat/SavingsDto.java" />
@@ -401,55 +393,66 @@
       <jump line="1033" column="32" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="13" column="4" filename="$USER_HOME$/Projects/gvc-group-structure/deploy/marathon-template.json" />
       <jump line="31" column="15" filename="$USER_HOME$/Projects/gvc-group-structure/newrelic.yml" />
+      <jump line="113" column="5" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
+      <jump line="122" column="81" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
+      <jump line="165" column="96" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
+      <jump line="112" column="8" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
+      <jump line="115" column="57" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
+      <jump line="265" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="271" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="275" column="57" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="282" column="81" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="325" column="96" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggIlZFUlNJT049JHtlbnYuVkVSU0lPTn0gbWFrZSBidWlsZCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>customer-manage-button</text>
+        <text>errorMessage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jayhyZXNvdXJjZTogJ2Rjb3NDb25uZWN0aW9uJykgewogICAgICAgICAgICAgICAgc3NoYWdlbnQoWydkY29zJ10pIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBzaCAnc3NoIC1NIC1TIC90bXAvbWFyYXRob24tc29ja2V0IC12dnYgLW8gU3RyaWN0SG9zdEtleUNoZWNraW5nPW5vIC1vIEV4aXRPbkZvcndhcmRGYWlsdXJlPXllcyAtTiAtZiAtcCAyMjAwICcgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICctTCA4MDAwOmxvY2FsaG9zdDo4MCBhenVyZWRldkBndmMtdXMtZGV2LW1hc3Rlci53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tJwogICAgICAgICAgICAgICAgICAgICAgICBzaCAibWFrZSAtQiBkZXBsb3kiCiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGV4KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IGV4CiAgICAgICAgICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgc2ggJ3NzaCAtUyAvdG1wL21hcmF0aG9uLXNvY2tldCAtTyBleGl0IGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20nCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGJyYW5jaF9uYW1lID09ICdtYXN0ZXInKSB7CiAgICAgICAgICAgIHdpdGhDcmVkZW50aWFscyhbZmlsZShjcmVkZW50aWFsc0lkOiAiY2lwaGVyLWtleS0ke1BST0RfUFJPRklMRX0iLCB2YXJpYWJsZTogJ0NJUEhFUl9LRVknKV0pIHsKICAgICAgICAgICAgICAgIHNoICJsbiAtcyAke0NJUEhFUl9LRVl9IC5ndmMtZW5jcnlwdGlvbi0ke1BST0RfUFJPRklMRX0uc2VjcmV0IgogICAgICAgICAgICAgICAgc2ggIlBST0ZJTEU9JHtQUk9EX1BST0ZJTEV9IG1ha2UgZGVjcnlwdCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggIlZFUlNJT049JHtlbnYuVkVSU0lPTn0gbWFrZSBidWlsZCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2QgJHtQUk9GSUxkZEV9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlIGJ1aWxkIgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICJWRVJTSU9OPSR7ZW52LlZFUlNJT059IG1ha2UgYnVpbGQiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtbJGNsYXNzICAgICAgICAgIDogJ1VzZXJuYW1lUGFzc3dvcmRNdWx0aUJpbmRpbmcnLCBjcmVkZW50aWFsc0lkOiAnZG9ja2VyLWxvZ2luJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlcm5hbWVWYXJpYWJsZTogJ1VTRVJOQU1FJywgcGFzc3dvcmRWYXJpYWJsZTogJ1BBU1NXT1JEJ11dKSB7CiAgICAgICAgICAgICAgICBzaCAnZG9ja2VyIGxvZ2luIGd2Y3VzZGV2LmF6dXJlY3IuaW8gLXUgJFVTRVJOQU1FIC1wICRQQVNTV09SRCcKICAgICAgICAgICAgfQogICAgICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlIGJ1aWxkIgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdpdGhDcmVkZW50aWFscyhbZmlsZShjcmVkZW50aWFsc0lkOiAiY2lwaGVyLWtleS0ke0RFVl9TVEFHSU5HX1BST0ZJTEV9IiwgdmFyaWFibGU6ICdDSVBIRVJfS0VZJyldKSB7Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRCdWlsZC5yZXN1bHQgPSAiRkFJTEVEIgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJyZW50QnVpbGQucmVzdWx0ID0gIkZBSUxFRCIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzaCAiVkVSU0lPTj0ke2Vudi5WRVJTSU9OfSBtYWtlIGJ1aWxkIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICJQUk9GSUxFPSR7UFJPRF9QUk9GSUxFfSBtYWtlIGRlY3J5cHQiCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICJsbiAtcyAke0NJUEhFUl9LRVl9IC5ndmMtZW5jcnlwdGlvbi0ke1BST0RfUFJPRklMRX0uc2VjcmV0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoQ3JlZGVudGlhbHMoW2ZpbGUoY3JlZGVudGlhbHNJZDogImNpcGhlci1rZXktJHtERVZfU1RBR0lOR19QUk9GSUxFfSIsIHZhcmlhYmxlOiAnQ0lQSEVSX0tFWScpXSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtmaWxlKGNyZWRlbnRpYWxzSWQ6ICJjaXBoZXIta2V5LSR7UFJPRF9QUk9GSUxFfSIsIHZhcmlhYmxlOiAnQ0lQSEVSX0tFWScpXSkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/customer-manage-button/group-structure</text>
+        <text>54,57y</text>
       </register>
     </registers>
     <search>
-      <last-search>customer-manage-button</last-search>
+      <last-search>errorMessage</last-search>
       <last-offset />
-      <last-pattern>customer-manage-button</last-pattern>
+      <last-pattern>errorMessage</last-pattern>
       <last-replace>group-structure</last-replace>
       <last-substitute>customer-manage-button</last-substitute>
       <last-dir>1</last-dir>
@@ -481,6 +484,7 @@
         <entry>r3_asset</entry>
         <entry>agent-regular</entry>
         <entry>customer-manage-button</entry>
+        <entry>errorMessage</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
@@ -508,6 +512,8 @@
         <entry>%s/agent-regular/group-structrure/</entry>
         <entry>%</entry>
         <entry>%s/customer-manage-button/group-structure</entry>
+        <entry>39,43y</entry>
+        <entry>54,57y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
