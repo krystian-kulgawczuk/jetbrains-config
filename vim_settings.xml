@@ -239,6 +239,9 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1549437991127">
+        <mark key="'" line="1301" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/variables.tf" timestamp="1548155646924">
         <mark key="[" line="34" column="13" />
         <mark key="]" line="32" column="23" />
@@ -292,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" />
       <jump line="17" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/stat/SavingsDto.java" />
       <jump line="7" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/ChartDto.java" />
       <jump line="11" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/dto/StorageSavingsChartDto.java" />
@@ -392,6 +394,7 @@
       <jump line="282" column="81" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="325" column="96" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="16" column="24" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
+      <jump line="1301" column="20" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -401,7 +404,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>NASTER</text>
+        <text>materialized</text>
       </register>
       <register name="0" type="4">
         <text>$</text>
@@ -438,9 +441,9 @@
       </register>
     </registers>
     <search>
-      <last-search>NASTER</last-search>
+      <last-search>materialized</last-search>
       <last-offset />
-      <last-pattern>NASTER</last-pattern>
+      <last-pattern>materialized</last-pattern>
       <last-replace>group-structure</last-replace>
       <last-substitute>customer-manage-button</last-substitute>
       <last-dir>1</last-dir>
@@ -474,6 +477,7 @@
         <entry>customer-manage-button</entry>
         <entry>errorMessage</entry>
         <entry>NASTER</entry>
+        <entry>materialized</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
