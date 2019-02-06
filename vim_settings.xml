@@ -90,10 +90,10 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-mail-service/Makefile" timestamp="1549445305960">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
+      <file name="$USER_HOME$/Projects/gvc-mail-service/Makefile" timestamp="1549447932421">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="8" />
+        <mark key="." line="7" column="8" />
         <mark key="^" line="9" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/load_test_asset/assets.tsv" timestamp="1548756895108">
@@ -127,10 +127,10 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/Makefile" timestamp="1549445315071">
-        <mark key="[" line="7" column="80" />
-        <mark key="]" line="7" column="94" />
-        <mark key="." line="7" column="94" />
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Makefile" timestamp="1549448146159">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/deploy/marathon-template.json" timestamp="1549444834236">
@@ -279,11 +279,11 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1548250556159">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="34" />
-        <mark key="." line="4" column="34" />
-        <mark key="^" line="2" column="33" />
+      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1549448278837">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-mail-service/build.sh" timestamp="1549445031489">
         <mark key="[" line="4" column="0" />
@@ -291,7 +291,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549445380041">
+      <file name="/Dummy.txt" timestamp="1549448149197">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/ChannelProcessingVerifier.java" timestamp="1548332114682">
@@ -422,11 +422,11 @@
       <jump line="12" column="95" filename="$USER_HOME$/Projects/gvc-mail-service/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>group-structure</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>group-structure</text>
