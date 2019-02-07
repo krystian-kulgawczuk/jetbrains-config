@@ -88,11 +88,11 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/ssh.cfg" timestamp="1549453956401">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/ssh.cfg" timestamp="1549524260132">
+        <mark key="[" line="3" column="84" />
+        <mark key="]" line="3" column="84" />
+        <mark key="^" line="3" column="82" />
+        <mark key="." line="3" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/load_test_asset/assets.tsv" timestamp="1548756895108">
         <mark key="[" line="0" column="0" />
@@ -283,15 +283,17 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/build.sh" timestamp="1547106638116">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549464079011">
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549523840301">
         <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1549453773352">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="18" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1549524227637">
+        <mark key="[" line="30" column="7" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+        <mark key="^" line="30" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/resources/application-us-dev.properties" timestamp="1549377074453">
         <mark key="[" line="0" column="52" />
@@ -407,10 +409,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>deb</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>deb</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>,$</text>
@@ -419,31 +421,31 @@
         <text>$</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiBwcmVzZW50Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UHJveHlDb21tYW5kIHNzaCAtdiAtQSAtcCAyMjAwIGFjYWlzcHVzZXJAc3ByZXNlYXJjaC53ZXN0dXMyLmNsb3VkYXBwLmF6dXJlLmNvbSAtaSB+Ly5zc2gvYXp1cmVfYWNhaXNvZnRfbWVzc29zX3JzYV9pZCBuYyAlaCAyMgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UG9ydCAyMjAwCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTAuMC4wLjQKMTAuMC4wLjQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UG9ydCAyMjAwCg==</text>
+        <text encoding="base64">MTAuMC4wLjIyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VXNlciBhY2Fpc3B1c2VyCg==</text>
+        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmZDQwMC1nZW5lcmFsLWFnZW50LTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q29udHJvbFBlcnNpc3QgOGgK</text>
+        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmZDQwMC1nZW5lcmFsLWFnZW50LTcud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q29udHJvbFBhdGggfi8uc3NoL2Fuc2libGUtJXJAJWg6JXAK</text>
+        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmZDQwMC1nZW5lcmFsLWFnZW50LTYud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q29udHJvbE1hc3RlciBhdXRvCg==</text>
+        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmZDQwMC1nZW5lcmFsLWFnZW50LTUud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbSwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
