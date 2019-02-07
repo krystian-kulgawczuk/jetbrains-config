@@ -88,11 +88,11 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/ssh.cfg" timestamp="1549524260132">
-        <mark key="[" line="3" column="84" />
-        <mark key="]" line="3" column="84" />
-        <mark key="^" line="3" column="82" />
-        <mark key="." line="3" column="84" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/ssh.cfg" timestamp="1549536536595">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/load_test_asset/assets.tsv" timestamp="1548756895108">
         <mark key="[" line="0" column="0" />
@@ -277,11 +277,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/tasks/main.yml" timestamp="1549454176346">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/tasks/main.yml" timestamp="1549536644510">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1549456838173">
         <mark key="[" line="0" column="0" />
@@ -289,17 +289,18 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/build.sh" timestamp="1547106638116">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549523840301">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="13" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549537136470">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="12" />
         <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="13" />
+        <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1549524227637">
-        <mark key="[" line="30" column="7" />
-        <mark key="]" line="30" column="8" />
-        <mark key="." line="30" column="8" />
-        <mark key="^" line="30" column="7" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1549537167016">
+        <mark key="'" line="6" column="63" />
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="20" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/resources/application-us-dev.properties" timestamp="1549377074453">
         <mark key="[" line="0" column="52" />
@@ -312,7 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="123" column="45" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="128" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="124" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
@@ -410,15 +410,16 @@
       <jump line="1301" column="20" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="288" column="16" filename="$USER_HOME$/Projects/gvc-mail-service/newrelic.yml" />
       <jump line="12" column="95" filename="$USER_HOME$/Projects/gvc-mail-service/Makefile" />
-      <jump line="6" column="9" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
+      <jump line="6" column="63" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>540</text>
+        <text>azuredev</text>
       </register>
       <register name="-" type="4">
-        <text>540</text>
+        <text>azuredev</text>
       </register>
       <register name="/" type="4">
         <text>,$</text>
@@ -427,31 +428,31 @@
         <text>$</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIG5hbWU6IC9zcnYvZmlsZWJlYXQtNS40LjEuZGViCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">UHJveHlDb21tYW5kIHNzaCAtdiAtQSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20gbmMgJWggMjIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">UG9ydCAyMjAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTAuMC4wLjQKMTAuMC4wLjQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTAuMC4wLjIyCg==</text>
+        <text encoding="base64">UG9ydCAyMjAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmZDQwMC1nZW5lcmFsLWFnZW50LTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
+        <text encoding="base64">VXNlciBhY2Fpc3B1c2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmZDQwMC1nZW5lcmFsLWFnZW50LTcud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbSwK</text>
+        <text encoding="base64">Q29udHJvbFBlcnNpc3QgOGgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmZDQwMC1nZW5lcmFsLWFnZW50LTYud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbSwK</text>
+        <text encoding="base64">Q29udHJvbFBhdGggfi8uc3NoL2Fuc2libGUtJXJAJWg6JXAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9yYml0YWwtdXMtZGV2LXRmZDQwMC1nZW5lcmFsLWFnZW50LTUud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbSwK</text>
+        <text encoding="base64">Q29udHJvbE1hc3RlciBhdXRvCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
