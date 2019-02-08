@@ -180,7 +180,7 @@
         <mark key="." line="35" column="14" />
         <mark key="^" line="17" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_post/tasks/main.yml" timestamp="1549625394345">
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_post/tasks/main.yml" timestamp="1549629183980">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="12" />
@@ -310,11 +310,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/build.sh" timestamp="1547106638116">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549621312415">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="17" column="2" />
-        <mark key="^" line="14" column="1" />
-        <mark key="." line="17" column="2" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549629937807">
+        <mark key="[" line="3" column="56" />
+        <mark key="]" line="3" column="56" />
+        <mark key="^" line="3" column="60" />
+        <mark key="." line="3" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1549621680785">
         <mark key="[" line="30" column="7" />
@@ -435,11 +435,11 @@
       <jump line="27" column="17" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/playbook.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhZW1vbl9yZWxvYWQ6IHllcwo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>centos</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>centos</text>
