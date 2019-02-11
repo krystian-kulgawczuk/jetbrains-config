@@ -81,11 +81,11 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/ssh.cfg" timestamp="1549621715017">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="5" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="3" column="5" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/ssh.cfg" timestamp="1549895355121">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/load_test_asset/assets.tsv" timestamp="1548756895108">
         <mark key="[" line="0" column="0" />
@@ -93,12 +93,14 @@
       <file name="$USER_HOME$/dev/legacy/projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1547110314525">
         <mark key="[" line="77" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/deploy/marathon-template.json" timestamp="1549895034316" />
       <file name="$USER_HOME$/Projects/gvc-mail-service/.gitignore" timestamp="1546512777986">
         <mark key="[" line="99" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/elasticsearch_throughput.txt" timestamp="1548227817295">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/deploy/marathon-template.json" timestamp="1549279455845" />
       <file name="$USER_HOME$/Projects/gvc-group-structure/Dockerfile" timestamp="1549364284425">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="1" column="12" />
@@ -169,6 +171,8 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/resources/db/schema.cql" timestamp="1549370599694" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/.gitignore" timestamp="1549361161666" />
       <file name="$USER_HOME$/Projects/arango/pom.xml" timestamp="1547809390018">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="30" column="12" />
@@ -184,6 +188,7 @@
         <mark key="^" line="41" column="22" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/build.sh" timestamp="1549363853253" />
       <file name="$USER_HOME$/Documents/cassandra_stress.html" timestamp="1548167203766">
         <mark key="[" line="0" column="0" />
       </file>
@@ -237,11 +242,13 @@
         <mark key="^" line="4" column="59" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1549264851329" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1548673594853">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/logrotate.d/nginx" timestamp="1549352548133" />
       <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" timestamp="1548322726037">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="18" column="3" />
@@ -283,10 +290,17 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/build.sh" timestamp="1547106638116">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549892876599">
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549895197897">
         <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1549895472261">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/resources/application-us-dev.properties" timestamp="1549377074453">
         <mark key="[" line="0" column="52" />
@@ -299,7 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="124" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="127" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="26" column="27" filename="$USER_HOME$/Projects/orientdb/src/main/java/OrientApplication.java" />
@@ -394,54 +407,55 @@
       <jump line="1301" column="20" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="288" column="16" filename="$USER_HOME$/Projects/gvc-mail-service/newrelic.yml" />
       <jump line="12" column="95" filename="$USER_HOME$/Projects/gvc-mail-service/Makefile" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
       <jump line="6" column="63" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
       <jump line="27" column="17" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/playbook.yml" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3200</text>
+        <text>azuredev</text>
       </register>
       <register name="-" type="4">
-        <text>3200</text>
+        <text>azuredev</text>
       </register>
       <register name="/" type="4">
         <text>,$</text>
       </register>
-      <register name="0" type="4">
-        <text>$</text>
+      <register name="0" type="2">
+        <text encoding="base64">W3NsYXZlc10Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC0zLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTUud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC02Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQoKW21hc3RlcnNdCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">RUxLX1BPUlQ9OTIwMAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">RUxLX0hPU1ROQU1FPWVsay1lbGFzaWMubWFyYXRob24ubDRsYi50aGlzZGNvcy5kaXJlY3RvcnkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">MTkyLjE2OC4yNTUuNwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">MTkyLjE2OC4yNTUuNgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTkyLjE2OC4yNTUuNQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MTAuMy4wLjYK</text>
+        <text encoding="base64">W21hc3RlcnNdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTAuMy4wLjUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MTAuMy4wLjQK</text>
+        <text encoding="base64">MTAuNC4wLjYK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/,$//</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -515,6 +529,9 @@
         <entry>%s/centos/azuredev</entry>
         <entry>%s/^    //</entry>
         <entry>%s/,$//</entry>
+        <entry>1,12t</entry>
+        <entry>1,12y</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
