@@ -113,7 +113,6 @@
       <file name="$USER_HOME$/Documents/elasticsearch_throughput.txt" timestamp="1548227817295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/deploy/marathon-template.json" timestamp="1549279455845" />
       <file name="$USER_HOME$/Projects/gvc-group-structure/Dockerfile" timestamp="1549364284425">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="1" column="12" />
@@ -186,8 +185,6 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/resources/db/schema.cql" timestamp="1549370599694" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/.gitignore" timestamp="1549361161666" />
       <file name="$USER_HOME$/Projects/arango/pom.xml" timestamp="1547809390018">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="30" column="12" />
@@ -210,7 +207,6 @@
         <mark key="^" line="137" column="25" />
         <mark key="." line="137" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/build.sh" timestamp="1549363853253" />
       <file name="$USER_HOME$/Documents/cassandra_stress.html" timestamp="1548167203766">
         <mark key="[" line="0" column="0" />
       </file>
@@ -264,20 +260,23 @@
         <mark key="^" line="4" column="59" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/marathon/elasticsearch/custom-bootstrap.sh" timestamp="1549264851329" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1548673594853">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/logrotate.d/nginx" timestamp="1549352548133" />
       <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" timestamp="1548322726037">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="18" column="3" />
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1549450101126" />
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1549884717795">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/orientdbdemo/src/main/java/com/acaisoft/orientdbdemo/demo/config/SchemaCreator.java" timestamp="1548070376414">
         <mark key="[" line="12" column="44" />
         <mark key="]" line="12" column="50" />
@@ -348,7 +347,6 @@
       <jump line="10" column="33" filename="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" />
       <jump line="41" column="11" filename="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" />
       <jump line="61" column="4" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
-      <jump line="8" column="16" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
       <jump line="41" column="49" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
       <jump line="49" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
@@ -433,57 +431,58 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
       <jump line="6" column="63" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
       <jump line="27" column="17" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/playbook.yml" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>azuredev</text>
       </register>
       <register name="/" type="4">
-        <text>centos</text>
+        <text>,$</text>
       </register>
       <register name="0" type="4">
         <text>$</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhZW1vbl9yZWxvYWQ6IHllcwo=</text>
+        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hc2tlZDogbm8K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG5vX2Jsb2NrOiBubwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZWQ6IHllcwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZXM6IC9ldGMvZmlsZWJlYXQvZmlsZWJlYXQueW1sLkJBSwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBhcmdzOgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZXM6IC9ldGMvZmlsZWJlYXQvZmlsZWJlYXQueW1sCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBhcmdzOgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">MTAuMy4wLjYK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">MTAuMy4wLjUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">MTAuMy4wLjQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">MTAuMi4wLjYK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">MTAuMi4wLjUK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">MTAuMi4wLjQK</text>
+      </register>
       <register name=":" type="4">
-        <text>%s/centos/azuredev</text>
+        <text>%s/,$//</text>
       </register>
     </registers>
     <search>
-      <last-search>centos</last-search>
+      <last-search>,$</last-search>
       <last-offset />
-      <last-pattern>centos</last-pattern>
-      <last-replace>azuredev</last-replace>
-      <last-substitute>centos</last-substitute>
+      <last-pattern>,$</last-pattern>
+      <last-replace />
+      <last-substitute>,$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -515,9 +514,9 @@
         <entry>NASTER</entry>
         <entry>materialized</entry>
         <entry>group-structure</entry>
+        <entry>centos</entry>
         <entry encoding="base64">XiAgICA=</entry>
         <entry>,$</entry>
-        <entry>centos</entry>
       </history-search>
       <history-cmd>
         <entry>121,127y</entry>
@@ -546,9 +545,9 @@
         <entry>39,43y</entry>
         <entry>54,57y</entry>
         <entry>%s/group-structure/mail-service/</entry>
+        <entry>%s/centos/azuredev</entry>
         <entry>%s/^    //</entry>
         <entry>%s/,$//</entry>
-        <entry>%s/centos/azuredev</entry>
       </history-cmd>
       <history-expr />
       <history-input />
