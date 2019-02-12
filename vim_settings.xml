@@ -319,6 +319,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/build.sh" timestamp="1547106638116">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/slaves/files/create_service.sh" timestamp="1549975913922">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549972913901">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -443,7 +448,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gL3Zhci9sb2cvbWVzb3MvKi5sb2cK</text>
+        <text encoding="base64">ICAtdSBkY29zLWxvZ3JvdGF0ZS1hZ2VudC5zZXJ2aWNlICAgICAgICAgIFwK</text>
       </register>
       <register name="-" type="4">
         <text>azuredev</text>
@@ -455,31 +460,31 @@
         <text encoding="base64">W3NsYXZlc10Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC0zLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTUud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC02Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQoKW21hc3RlcnNdCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gL3Zhci9sb2cvbWVzb3MvKi5sb2cK</text>
+        <text encoding="base64">ICAtdSBkY29zLWxvZ3JvdGF0ZS1hZ2VudC5zZXJ2aWNlICAgICAgICAgIFwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY5MmVmLW1hc3Rlci0xLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20K</text>
+        <text encoding="base64">ICAtdSBkY29zLXZvbC1kaXNjb3ZlcnktcHJpdi1hZ2VudC5zZXJ2aWNlIFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLW1hc3Rlci0xLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20K</text>
+        <text encoding="base64">ICAtdSBkY29zLWxpbmstZW52LnNlcnZpY2UgICAgICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtOC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4uc2VydmljZSAgICAgICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">ICAtdSBkY29zLWdlbi1yZXNvbHZjb25mLnRpbWVyICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNi53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4td2F0Y2hkb2cudGltZXIgICAgICAgICAgIFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">ICAtdSBkY29zLWdlbi1yZXNvbHZjb25mLnNlcnZpY2UgICAgICAgICAgIFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4td2F0Y2hkb2cuc2VydmljZSAgICAgICAgIFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtMy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
+        <text encoding="base64">ICAtdSBkY29zLWVwbWQuc2VydmljZSAgICAgICAgICAgICAgICAgICAgIFwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
