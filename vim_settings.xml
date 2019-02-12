@@ -51,6 +51,13 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="37" column="7" />
       </file>
+      <file name="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" timestamp="1549286897742">
+        <mark key="'" line="132" column="27" />
+        <mark key="[" line="164" column="5" />
+        <mark key="]" line="116" column="23" />
+        <mark key="^" line="116" column="23" />
+        <mark key="." line="116" column="23" />
+      </file>
       <file name="/Python Console" timestamp="1546593735226">
         <mark key="[" line="0" column="0" />
       </file>
@@ -68,6 +75,13 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/actor-system/build.sbt" timestamp="1547121322742">
         <mark key="[" line="8" column="73" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1549367881607">
+        <mark key="'" line="16" column="24" />
+        <mark key="[" line="82" column="35" />
+        <mark key="]" line="82" column="36" />
+        <mark key="^" line="96" column="49" />
+        <mark key="." line="82" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1548666816379">
         <mark key="[" line="14" column="21" />
@@ -188,6 +202,13 @@
         <mark key="^" line="41" column="22" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/load_test_asset/locustfile.py" timestamp="1548916059420">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="142" column="1" />
+        <mark key="]" line="137" column="25" />
+        <mark key="^" line="137" column="25" />
+        <mark key="." line="137" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/build.sh" timestamp="1549363853253" />
       <file name="$USER_HOME$/Documents/cassandra_stress.html" timestamp="1548167203766">
         <mark key="[" line="0" column="0" />
@@ -260,7 +281,7 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1549968277367">
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1549968891120">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -297,16 +318,15 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/build.sh" timestamp="1547106638116">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549957111977">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549968961362">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1549962737568">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="18" />
-        <mark key="." line="19" column="18" />
-        <mark key="^" line="19" column="18" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1549968905717">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/resources/application-us-dev.properties" timestamp="1549377074453">
         <mark key="[" line="0" column="52" />
@@ -422,7 +442,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
+        <text encoding="base64">ICAgIC0gL3Zhci9sb2cvbWVzb3MvKi5sb2cK</text>
       </register>
       <register name="-" type="4">
         <text>azuredev</text>
@@ -434,31 +454,31 @@
         <text encoding="base64">W3NsYXZlc10Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC0zLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTUud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC02Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQoKW21hc3RlcnNdCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
+        <text encoding="base64">ICAgIC0gL3Zhci9sb2cvbWVzb3MvKi5sb2cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTAuMy4wLjYK</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY5MmVmLW1hc3Rlci0xLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTAuMy4wLjUK</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLW1hc3Rlci0xLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTAuMy4wLjQK</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtOC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTAuMi4wLjYK</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTAuMi4wLjUK</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNi53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MTAuMi4wLjQK</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTAuMS4wLjYK</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MTAuMS4wLjUK</text>
+        <text encoding="base64">b3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtMy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/,$//</text>
