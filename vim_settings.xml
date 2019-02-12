@@ -248,6 +248,11 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/masters/files/create_service.sh" timestamp="1549966490042">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/logrotate.d/nginx" timestamp="1549352548133" />
       <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttpServerMinimalExampleTest.java" timestamp="1548322726037">
         <mark key="[" line="20" column="16" />
@@ -415,7 +420,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
+        <text encoding="base64">ICAtdSBkY29zLWxvZ3JvdGF0ZS1tYXN0ZXIuc2VydmljZSAgXAo=</text>
       </register>
       <register name="-" type="4">
         <text>azuredev</text>
@@ -427,31 +432,31 @@
         <text encoding="base64">W3NsYXZlc10Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC0zLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTUud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC02Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQoKW21hc3RlcnNdCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
+        <text encoding="base64">ICAtdSBkY29zLWxvZ3JvdGF0ZS1tYXN0ZXIuc2VydmljZSAgXAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
+        <text encoding="base64">ICAtdSBkY29zLXZhdWx0LnNlcnZpY2UgICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
+        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4uc2VydmljZSAgICAgICAgICAgIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
+        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4td2F0Y2hkb2cudGltZXIgICAgIFwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4td2F0Y2hkb2cuc2VydmljZSAgIFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTkyLjE2OC4yNTUuNwo=</text>
+        <text encoding="base64">ICAtdSBkY29zLXNpZ25hbC50aW1lciAgICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MTkyLjE2OC4yNTUuNgo=</text>
+        <text encoding="base64">ICAtdSBkY29zLXNpZ25hbC5zZXJ2aWNlICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTkyLjE2OC4yNTUuNQo=</text>
+        <text encoding="base64">ICAtdSBkY29zLXNldHVwLnNlcnZpY2UgICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W21hc3RlcnNdCg==</text>
+        <text encoding="base64">ICAtdSBkY29zLXNlY3JldHMuc2VydmljZSAgICAgICAgICAgIFwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
