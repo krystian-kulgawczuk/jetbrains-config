@@ -107,7 +107,7 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/marathon/marathon_dev.json" timestamp="1549893984406">
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/marathon/marathon_dev.json" timestamp="1549956599433">
         <mark key="[" line="36" column="17" />
         <mark key="]" line="36" column="18" />
         <mark key="." line="36" column="18" />
@@ -290,13 +290,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-manage-button/build.sh" timestamp="1547106638116">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549895197897">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="56" />
-        <mark key="." line="15" column="56" />
-        <mark key="^" line="15" column="56" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1549957111977">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1549895472261">
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1549957132559">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="18" />
         <mark key="." line="19" column="18" />
@@ -415,8 +414,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>azuredev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
         <text>azuredev</text>
@@ -428,31 +427,31 @@
         <text encoding="base64">W3NsYXZlc10Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC0zLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTUud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC02Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQoKW21hc3RlcnNdCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
+        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
+        <text encoding="base64">ICBlbmFibGVkOiB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MTkyLjE2OC4yNTUuNwo=</text>
+        <text encoding="base64">YW5zaWJsZV9zc2hfY29tbW9uX2FyZ3M9Jy1vIFN0cmljdEhvc3RLZXlDaGVja2luZz1ubyAtbyBQcm94eUNvbW1hbmQ9InNzaCAtVyAlaDoyMiAtcSAtcCAyMjAwIGF6dXJlZGV2QGd2Yy11cy1kZXYtbWFzdGVyLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20iJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTkyLjE2OC4yNTUuNgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">MTkyLjE2OC4yNTUuNQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">W21hc3RlcnNdCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">MTkyLjE2OC4yNTUuNwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">MTkyLjE2OC4yNTUuNgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">MTkyLjE2OC4yNTUuNQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">MTAuNC4wLjYK</text>
+        <text encoding="base64">W21hc3RlcnNdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
