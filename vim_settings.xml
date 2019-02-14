@@ -263,10 +263,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1550040005158">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1550153091369">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1550040397062">
         <mark key="[" line="38" column="7" />
@@ -292,11 +293,12 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/playbook.yml" timestamp="1550150410010">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="20" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/playbook.yml" timestamp="1550153052977">
+        <mark key="'" line="19" column="15" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/resources/application-us-dev.properties" timestamp="1549377074453">
         <mark key="[" line="0" column="52" />
@@ -352,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="55" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
       <jump line="10" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/authentication/token/JwtAuthenticationToken.java" />
       <jump line="89" column="40" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" />
       <jump line="22" column="65" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
@@ -452,16 +453,17 @@
       <jump line="148" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
       <jump line="149" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
       <jump line="152" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
+      <jump line="19" column="15" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/playbook.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtdSBkY29zLXZhdWx0LnNlcnZpY2UgICAgICAgICAgICAgIFwK</text>
+      <register name="&quot;" type="4">
+        <text>before</text>
       </register>
       <register name="-" type="4">
-        <text>for all modules</text>
+        <text>before</text>
       </register>
       <register name="/" type="4">
-        <text>activa</text>
+        <text>acaispuser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">W3NsYXZlc10Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC0zLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTUud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC02Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQoKW21hc3RlcnNdCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
@@ -494,15 +496,15 @@
         <text encoding="base64">ICAtdSBkY29zLW5ldHdvcmtpbmdfYXBpLnNlcnZpY2UgICAgIFwK</text>
       </register>
       <register name=":" type="4">
-        <text>12,21d</text>
+        <text>%s/acaispuser/azuredev/</text>
       </register>
     </registers>
     <search>
-      <last-search>activa</last-search>
+      <last-search>acaispuser</last-search>
       <last-offset />
-      <last-pattern>activa</last-pattern>
-      <last-replace />
-      <last-substitute>,$</last-substitute>
+      <last-pattern>acaispuser</last-pattern>
+      <last-replace>azuredev</last-replace>
+      <last-substitute>acaispuser</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -531,6 +533,8 @@
         <entry>access_log</entry>
         <entry>regist</entry>
         <entry>activa</entry>
+        <entry>acaipuser</entry>
+        <entry>acaispuser</entry>
       </history-search>
       <history-cmd>
         <entry>177,179</entry>
@@ -554,6 +558,10 @@
         <entry>%s/^    //</entry>
         <entry>%s/,$//</entry>
         <entry>12,21d</entry>
+        <entry>%s/acaipuser/azuredev</entry>
+        <entry>%s/acaipuser/azuredev/</entry>
+        <entry>%/acaispuser/azuredev/</entry>
+        <entry>%s/acaispuser/azuredev/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
