@@ -72,7 +72,7 @@
         <mark key="^" line="137" column="25" />
         <mark key="." line="137" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1550143234923">
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1550144469019">
         <mark key="'" line="20" column="2" />
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -347,6 +347,7 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="27" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1550144609721" />
       <file name="$USER_HOME$/Projects/playground/count_asset_per_organization.py" timestamp="1547735266658">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="8" />
@@ -360,6 +361,9 @@
         <mark key="." line="296" column="27" />
         <mark key="^" line="296" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" timestamp="1550144564962">
+        <mark key="'" line="152" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/stress_tests/throughput.yml" timestamp="1548009181413">
         <mark key="[" line="31" column="23" />
         <mark key="]" line="31" column="38" />
@@ -371,12 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/JwtUser.java" />
-      <jump line="17" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.0.3.RELEASE/spring-security-core-4.0.3.RELEASE.jar!/org/springframework/security/core/annotation/AuthenticationPrincipal.class" />
-      <jump line="58" column="51" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
-      <jump line="59" column="62" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/app/config/security/keys/filter/SubdomainFilter.java" />
-      <jump line="33" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
-      <jump line="53" column="76" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
       <jump line="55" column="55" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/filter/HmacAccessFilter.java" />
       <jump line="10" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/authentication/token/JwtAuthenticationToken.java" />
       <jump line="89" column="40" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" />
@@ -471,6 +469,12 @@
       <jump line="261" column="0" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" />
       <jump line="271" column="0" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" />
       <jump line="20" column="2" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" />
+      <jump line="144" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
+      <jump line="146" column="54" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
+      <jump line="147" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
+      <jump line="148" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
+      <jump line="149" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
+      <jump line="152" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -480,7 +484,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>access_log</text>
+        <text>activa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">W3NsYXZlc10Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC0zLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTUud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC02Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQoKW21hc3RlcnNdCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
@@ -517,9 +521,9 @@
       </register>
     </registers>
     <search>
-      <last-search>access_log</last-search>
+      <last-search>activa</last-search>
       <last-offset />
-      <last-pattern>access_log</last-pattern>
+      <last-pattern>activa</last-pattern>
       <last-replace />
       <last-substitute>,$</last-substitute>
       <last-dir>1</last-dir>
@@ -548,6 +552,8 @@
         <entry encoding="base64">XiAgICA=</entry>
         <entry>,$</entry>
         <entry>access_log</entry>
+        <entry>regist</entry>
+        <entry>activa</entry>
       </history-search>
       <history-cmd>
         <entry>177,179</entry>
