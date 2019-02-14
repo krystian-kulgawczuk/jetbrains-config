@@ -44,6 +44,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/masters/tasks/main.yml" timestamp="1550150308287">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/deploy/marathon-template.json" timestamp="1550132584331">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -87,6 +92,11 @@
         <mark key="]" line="11" column="39" />
         <mark key="^" line="12" column="22" />
         <mark key="." line="11" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/slaves/tasks/main.yml" timestamp="1550150220333">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/arango/src/main/java/org/arango/ArangoApp.java" timestamp="1547809650502">
         <mark key="[" line="16" column="46" />
@@ -153,7 +163,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="9" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/masters/files/create_service.sh" timestamp="1549981140827">
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/masters/files/create_service.sh" timestamp="1550151224609">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -236,10 +246,11 @@
         <mark key="^" line="27" column="39" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1550055556233" />
-      <file name="/Dummy.txt" timestamp="1550149074683">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="/Dummy.txt" timestamp="1550150708857">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="o" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/Dockerfile" timestamp="1549364284425">
         <mark key="[" line="2" column="4" />
@@ -247,7 +258,7 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/slaves/files/create_service.sh" timestamp="1549975913922">
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/slaves/files/create_service.sh" timestamp="1550150132264">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -281,11 +292,11 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/playbook.yml" timestamp="1550040151577">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="15" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="11" column="15" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/playbook.yml" timestamp="1550150410010">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/resources/application-us-dev.properties" timestamp="1549377074453">
         <mark key="[" line="0" column="52" />
@@ -443,11 +454,11 @@
       <jump line="152" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d multimodule support</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtdSBkY29zLXZhdWx0LnNlcnZpY2UgICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="-" type="4">
-        <text>d multimodule support</text>
+        <text>for all modules</text>
       </register>
       <register name="/" type="4">
         <text>activa</text>
@@ -456,31 +467,31 @@
         <text encoding="base64">W3NsYXZlc10Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC0zLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTUud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC02Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQoKW21hc3RlcnNdCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQUxMX01PRFVMRVMgPQo=</text>
+        <text encoding="base64">ICAtdSBkY29zLXZhdWx0LnNlcnZpY2UgICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4uc2VydmljZSAgICAgICAgICAgIFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4td2F0Y2hkb2cudGltZXIgICAgIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4td2F0Y2hkb2cuc2VydmljZSAgIFwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiY29udGFpbmVyUGF0aCI6ICJubG9ncyIK</text>
+        <text encoding="base64">ICAtdSBkY29zLXNpZ25hbC50aW1lciAgICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAibW9kZSI6ICJSVyIsCg==</text>
+        <text encoding="base64">ICAtdSBkY29zLXNpZ25hbC5zZXJ2aWNlICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAtdSBkY29zLXNldHVwLnNlcnZpY2UgICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICJzaXplIjogNTAwMAo=</text>
+        <text encoding="base64">ICAtdSBkY29zLXNlY3JldHMuc2VydmljZSAgICAgICAgICAgIFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAicGVyc2lzdGVudCI6IHsK</text>
+        <text encoding="base64">ICAtdSBkY29zLW5ldHdvcmtpbmdfYXBpLnNlcnZpY2UgICAgIFwK</text>
       </register>
       <register name=":" type="4">
         <text>12,21d</text>
