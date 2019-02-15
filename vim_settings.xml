@@ -263,11 +263,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1550215785508">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-        <mark key="^" line="9" column="23" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1550216516442">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1550040397062">
         <mark key="[" line="38" column="7" />
@@ -456,8 +456,8 @@
       <jump line="19" column="15" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/playbook.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>before</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmlsZWJlYXQuaW5wdXRzOgo=</text>
       </register>
       <register name="-" type="4">
         <text>before</text>
@@ -469,31 +469,31 @@
         <text encoding="base64">W3NsYXZlc10Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC0zLndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNC53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTUud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpvcmJpdGFsLXVzLWRldi10ZjhjNzAtZ2VuZXJhbC1hZ2VudC02Lndlc3R1cy5jbG91ZGFwcC5henVyZS5jb20Kb3JiaXRhbC11cy1kZXYtdGY4YzcwLWdlbmVyYWwtYWdlbnQtNy53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1nZW5lcmFsLWFnZW50LTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQoKW21hc3RlcnNdCm9yYml0YWwtdXMtZGV2LXRmOGM3MC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtdSBkY29zLXZhdWx0LnNlcnZpY2UgICAgICAgICAgICAgIFwK</text>
+        <text encoding="base64">ZmlsZWJlYXQuaW5wdXRzOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4uc2VydmljZSAgICAgICAgICAgIFwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4td2F0Y2hkb2cudGltZXIgICAgIFwK</text>
+        <text encoding="base64">ICBtdWx0aWxpbmUubWF0Y2g6IGFmdGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4td2F0Y2hkb2cuc2VydmljZSAgIFwK</text>
+        <text encoding="base64">ICBtdWx0aWxpbmUubmVnYXRlOiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtdSBkY29zLXNpZ25hbC50aW1lciAgICAgICAgICAgICAgIFwK</text>
+        <text encoding="base64">ICBtdWx0aWxpbmUucGF0dGVybjogJ15bWzpkaWdpdDpdXXs0fS1bWzpkaWdpdDpdXXsyfS1bWzpkaWdpdDpdXXsyfSAnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtdSBkY29zLXNpZ25hbC5zZXJ2aWNlICAgICAgICAgICAgIFwK</text>
+        <text encoding="base64">ICBtdWx0aWxpbmUucGF0dGVybjogJ15bWzpkaWdpdDpdXXs0fS1bWzpkaWdpdDpdXXsyfS1bWzpkaWdpdDpdXXsyfSAnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtdSBkY29zLXNldHVwLnNlcnZpY2UgICAgICAgICAgICAgIFwK</text>
+        <text encoding="base64">ICAtdSBkY29zLXZhdWx0LnNlcnZpY2UgICAgICAgICAgICAgIFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtdSBkY29zLXNlY3JldHMuc2VydmljZSAgICAgICAgICAgIFwK</text>
+        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4uc2VydmljZSAgICAgICAgICAgIFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtdSBkY29zLW5ldHdvcmtpbmdfYXBpLnNlcnZpY2UgICAgIFwK</text>
+        <text encoding="base64">ICAtdSBkY29zLXNwYXJ0YW4td2F0Y2hkb2cudGltZXIgICAgIFwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/acaispuser/azuredev/</text>
