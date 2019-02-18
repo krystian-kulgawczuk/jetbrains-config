@@ -50,11 +50,18 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Dockerfile" timestamp="1550490444812" />
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/deploy/marathon-template.json" timestamp="1550132584331">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="23" column="19" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/pom.xml" timestamp="1550490723651">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/cassandra-cassandra-3.0.16/tools/bin/tests/test.yml" timestamp="1547717007036">
         <mark key="[" line="0" column="0" />
@@ -62,8 +69,8 @@
         <mark key="^" line="41" column="22" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-summary/Jenkinsfile.groovy" timestamp="1550481670570">
-        <mark key="'" line="85" column="97" />
+      <file name="$USER_HOME$/Projects/gvc-summary/Jenkinsfile.groovy" timestamp="1550492327073">
+        <mark key="'" line="146" column="19" />
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
         <mark key="^" line="65" column="88" />
@@ -248,11 +255,8 @@
         <mark key="." line="27" column="39" />
         <mark key="^" line="27" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550481610303">
+      <file name="/Dummy.txt" timestamp="1550492395297">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="o" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/Dockerfile" timestamp="1549364284425">
         <mark key="[" line="2" column="4" />
@@ -276,6 +280,13 @@
         <mark key="]" line="38" column="5" />
         <mark key="." line="38" column="5" />
         <mark key="^" line="38" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Jenkinsfile.groovy" timestamp="1550492394033">
+        <mark key="'" line="17" column="20" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="21" column="20" />
+        <mark key="^" line="21" column="20" />
+        <mark key="." line="21" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/elk/marathon/marathon_dev.json" timestamp="1549956599433">
         <mark key="[" line="36" column="17" />
@@ -355,11 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
-      <jump line="60" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
-      <jump line="148" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="409" column="13" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="403" column="13" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="35" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" />
       <jump line="117" column="20" filename="$USER_HOME$/Downloads/r3-ui/pkg/core_services/urls/urls.go" />
@@ -455,55 +461,60 @@
       <jump line="153" column="0" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
       <jump line="65" column="45" filename="$USER_HOME$/Projects/gvc-summary/Jenkinsfile.groovy" />
       <jump line="85" column="97" filename="$USER_HOME$/Projects/gvc-summary/Jenkinsfile.groovy" />
+      <jump line="146" column="19" filename="$USER_HOME$/Projects/gvc-summary/Jenkinsfile.groovy" />
+      <jump line="19" column="12" filename="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Jenkinsfile.groovy" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Jenkinsfile.groovy" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Jenkinsfile.groovy" />
+      <jump line="17" column="20" filename="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Jenkinsfile.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>CIPHER_KEY</text>
+        <text>dir</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFBST0ZJTEUgPSBERVZfU1RBR0lOR19QUk9GSUxFCiAgICAgICAgICAgICAgICBET0NLRVJfUkVHSVNUUlkgPSBERVZfU1RBR0lOR19ET0NLRVJfUkVHSVNUUlkKICAgICAgICAgICAgICAgIE1BU1RFUl9VU0VSID0gREVWX01BU1RFUl9VU0VSCiAgICAgICAgICAgICAgICBNQVNURVJfVVJMID0gREVWX01BU1RFUl9VUkwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZnlTdGF0dXMoY3VycmVudEJ1aWxkLnJlc3VsdCwgZXJyb3JNZXNzYWdlID0gZXJyb3JNZXNzYWdlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBzbGFja01haWxNYXAgPSBbOl0K</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRCdWlsZC5yZXN1bHQgPSAiRkFJTEVEIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvck1lc3NhZ2UgPSBleC5nZXRNZXNzYWdlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2ggImxuIC1zICR7Q0lQSEVSX0tFWX0gLi4vLmd2Yy1lbmNyeXB0aW9uLSR7UFJPRklMRX0uc2VjcmV0Igo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aXRoQ3JlZGVudGlhbHMoW2ZpbGUoY3JlZGVudGlhbHNJZDogImNpcGhlci1rZXktJHtQUk9GSUxFfSIsIHZhcmlhYmxlOiAnQ0lQSEVSX0tFWScpXSkgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpcigiJHttb2R1bGV9IikgewogICAgICAgICAgICAgICAgICAgIHdpdGhDcmVkZW50aWFscyhbZmlsZShjcmVkZW50aWFsc0lkOiAiY2lwaGVyLWtleS0ke1BST0ZJTEV9IiwgdmFyaWFibGU6ICdDSVBIRVJfS0VZJyldKSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICdtYXN0ZXInIHx8IGJyYW5jaF9uYW1lID09ICdkZXYnIHx8IGJyYW5jaF9uYW1lID09ICdzdGFnaW5nJykgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkaXIoJ1NlbGVuaXVtVGVzdHNfQ2hyb21lJykgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkaXIoJ1NlbGVuaXVtVGVzdHNfQ2hyb21lJykgewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpcignU2VsZW5pdW1UZXN0c19DaHJvbWUnKSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXIoJ1NlbGVuaXVtVGVzdHNfQ2hyb21lJykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>40,43y</text>
       </register>
     </registers>
     <search>
-      <last-search>CIPHER_KEY</last-search>
+      <last-search>dir</last-search>
       <last-offset />
-      <last-pattern>CIPHER_KEY</last-pattern>
+      <last-pattern>dir</last-pattern>
       <last-replace>azuredev</last-replace>
       <last-substitute>acaispuser</last-substitute>
       <last-dir>1</last-dir>
@@ -533,6 +544,7 @@
         <entry>acaispuser</entry>
         <entry>branch_name</entry>
         <entry>CIPHER_KEY</entry>
+        <entry>dir</entry>
       </history-search>
       <history-cmd>
         <entry>482,483y</entry>
