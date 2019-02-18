@@ -10,11 +10,17 @@
         <mark key="^" line="17" column="62" />
       </file>
       <file name="$USER_HOME$/scripts_common/decrypt.py" timestamp="1550480494283" />
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_post/tasks/main.yml" timestamp="1550040088744">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_post/files/logrotate.sh" timestamp="1550501801013">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_post/tasks/main.yml" timestamp="1550501915165">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/stress_tests/storage_savings_chart.yml" timestamp="1548009466813">
         <mark key="[" line="3" column="7" />
@@ -244,10 +250,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/tasks/main.yml" timestamp="1550040120570">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/tasks/main.yml" timestamp="1550501847442">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-summary/deploy/marathon-template.json" timestamp="1550060409198">
         <mark key="[" line="27" column="36" />
@@ -269,17 +275,17 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1550216516442">
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1550501763120">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1550040397062">
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="38" column="5" />
-        <mark key="." line="38" column="5" />
-        <mark key="^" line="38" column="5" />
+      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" timestamp="1550501328437">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="43" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Jenkinsfile.groovy" timestamp="1550492394033">
         <mark key="'" line="17" column="20" />
@@ -469,10 +475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>filebeat.yml</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>filebeat.yml</text>
       </register>
       <register name="/" type="4">
         <text>dir</text>
@@ -481,31 +487,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFBST0ZJTEUgPSBERVZfU1RBR0lOR19QUk9GSUxFCiAgICAgICAgICAgICAgICBET0NLRVJfUkVHSVNUUlkgPSBERVZfU1RBR0lOR19ET0NLRVJfUkVHSVNUUlkKICAgICAgICAgICAgICAgIE1BU1RFUl9VU0VSID0gREVWX01BU1RFUl9VU0VSCiAgICAgICAgICAgICAgICBNQVNURVJfVVJMID0gREVWX01BU1RFUl9VUkwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnlTdGF0dXMoY3VycmVudEJ1aWxkLnJlc3VsdCwgZXJyb3JNZXNzYWdlID0gZXJyb3JNZXNzYWdlKQo=</text>
+        <text encoding="base64">ICBob3N0czogWyJsb2dzdGFzaC5tYXJhdGhvbi5sNGxiLnRoaXNkY29zLmRpcmVjdG9yeTo1MDQ0Il0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRCdWlsZC5yZXN1bHQgPSAiRkFJTEVEIgo=</text>
+        <text encoding="base64">dGVlIC9ldGMvZmlsZWJlYXQvZmlsZWJlYXQueW1sIDw8LUVPRgogIGhvc3RzOiBbImxvZ3N0YXNoLm1hcmF0aG9uLmw0bGIudGhpc2Rjb3MuZGlyZWN0b3J5OjUwNDQiXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvck1lc3NhZ2UgPSBleC5nZXRNZXNzYWdlKCkK</text>
+        <text encoding="base64">b3V0cHV0LmxvZ3N0YXNoOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">dGFpbF9maWxlczogdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaXIoJ1NlbGVuaXVtVGVzdHNfQ2hyb21lJykgewo=</text>
+        <text encoding="base64">ICBtdWx0aWxpbmUubWF0Y2g6IGFmdGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXIoJ1NlbGVuaXVtVGVzdHNfQ2hyb21lJykgewo=</text>
+        <text encoding="base64">ICBtdWx0aWxpbmUubmVnYXRlOiB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpcignU2VsZW5pdW1UZXN0c19DaHJvbWUnKSB7Cg==</text>
+        <text encoding="base64">ICBtdWx0aWxpbmUucGF0dGVybjogJ15bWzpkaWdpdDpdXXs0fS1bWzpkaWdpdDpdXXsyfS1bWzpkaWdpdDpdXXsyfSAnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC0gL3Zhci9sb2cvZGNvcy9kY29zLmxvZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXIoJ1NlbGVuaXVtVGVzdHNfQ2hyb21lJykgewo=</text>
+        <text encoding="base64">ICAgIC0gL3Zhci9saWIvbWVzb3Mvc2xhdmUvc2xhdmVzLyovZnJhbWV3b3Jrcy8qL2V4ZWN1dG9ycy8qL3J1bnMvbGF0ZXN0L3N0ZGVycgo=</text>
       </register>
       <register name=":" type="4">
         <text>40,43y</text>
