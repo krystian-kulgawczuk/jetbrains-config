@@ -28,11 +28,6 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/bootstrap.sh" timestamp="1550127260596">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/.gitignore" timestamp="1549366686788">
         <mark key="[" line="125" column="13" />
         <mark key="]" line="226" column="23" />
@@ -45,16 +40,17 @@
         <mark key="." line="30" column="12" />
         <mark key="^" line="30" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Makefile" timestamp="1550580155894">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="59" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/akkaloadportal/pom.xml" timestamp="1548159242190">
         <mark key="[" line="40" column="21" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/masters/tasks/main.yml" timestamp="1550150308287">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Dockerfile" timestamp="1550490444812" />
       <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/package.json" timestamp="1550576562007" />
@@ -76,7 +72,7 @@
         <mark key="^" line="41" column="22" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-summary/Jenkinsfile.groovy" timestamp="1550575898498">
+      <file name="$USER_HOME$/Projects/gvc-summary/Jenkinsfile.groovy" timestamp="1550580752800">
         <mark key="'" line="146" column="19" />
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
@@ -109,11 +105,6 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/slaves/tasks/main.yml" timestamp="1550150220333">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/arango/src/main/java/org/arango/ArangoApp.java" timestamp="1547809650502">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="19" column="42" />
@@ -144,11 +135,6 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/orientdb/pom.xml" timestamp="1548069846515">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/gvc-summary/kafka-stats-listener/Makefile" timestamp="1550480481077" />
       <file name="$USER_HOME$/dev/scripts_common/ci/git_changes.py" timestamp="1547029425715">
         <mark key="[" line="37" column="4" />
@@ -169,21 +155,11 @@
         <mark key="^" line="116" column="23" />
         <mark key="." line="116" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/resources/application-local.properties" timestamp="1548673594853">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/resources/application-us-dev.properties" timestamp="1548674616144">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="9" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/masters/files/create_service.sh" timestamp="1550151224609">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orientdbdemo/src/test/java/com/acaisoft/orientdbdemo/demo/OrientDbTest.java" timestamp="1548070421734">
         <mark key="[" line="11" column="44" />
@@ -228,11 +204,6 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1550044103751">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-      </file>
       <file name="$USER_HOME$/Projects/orientdbdemo/src/main/java/com/acaisoft/orientdbdemo/demo/config/SchemaCreator.java" timestamp="1548070376414">
         <mark key="[" line="12" column="44" />
         <mark key="]" line="12" column="50" />
@@ -262,7 +233,12 @@
         <mark key="." line="27" column="39" />
         <mark key="^" line="27" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550498292474">
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/build.sh" timestamp="1550579883981">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1550580876724">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/Dockerfile" timestamp="1549364284425">
@@ -270,11 +246,6 @@
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/slaves/files/create_service.sh" timestamp="1550150132264">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/files/filebeat_all.sh" timestamp="1550501763120">
         <mark key="[" line="6" column="0" />
@@ -326,12 +297,7 @@
         <mark key="." line="0" column="55" />
         <mark key="^" line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/akkaloadportal/src/main/java/org/portal/HttPServerMinimalExampleTest.java" timestamp="1548144874987">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/Makefile" timestamp="1549973260431">
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Makefile" timestamp="1550580146765">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
@@ -349,11 +315,12 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="27" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1550576590478">
-        <mark key="[" line="64" column="20" />
-        <mark key="]" line="64" column="27" />
-        <mark key="^" line="64" column="27" />
-        <mark key="." line="64" column="27" />
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1550580872308">
+        <mark key="'" line="160" column="0" />
+        <mark key="[" line="73" column="53" />
+        <mark key="]" line="73" column="56" />
+        <mark key="^" line="73" column="56" />
+        <mark key="." line="73" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/playground/count_asset_per_organization.py" timestamp="1547735266658">
         <mark key="[" line="9" column="8" />
@@ -381,13 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="403" column="13" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="35" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/utils/SignatureUtils.java" />
-      <jump line="117" column="20" filename="$USER_HOME$/Downloads/r3-ui/pkg/core_services/urls/urls.go" />
-      <jump line="59" column="9" filename="$USER_HOME$/Downloads/r3-ui/pkg/agents/agent_registration/agent_registration.go" />
-      <jump line="115" column="24" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
-      <jump line="90" column="20" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
-      <jump line="164" column="18" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
       <jump line="91" column="25" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
       <jump line="131" column="16" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
       <jump line="132" column="27" filename="$USER_HOME$/Downloads/r3-ui/pkg/api/utils/auth/auth.go" />
@@ -481,13 +441,20 @@
       <jump line="16" column="0" filename="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Jenkinsfile.groovy" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Jenkinsfile.groovy" />
       <jump line="17" column="20" filename="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Jenkinsfile.groovy" />
+      <jump line="59" column="54" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="81" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="61" column="12" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="101" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="96" column="10" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="155" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="160" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvY2tlci5pbWFnZSgnbm9kZToxMC42LjAtYWxwaW5lJykuaW5zaWRlIHsgCg==</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>dir</text>
@@ -496,34 +463,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFBST0ZJTEUgPSBERVZfU1RBR0lOR19QUk9GSUxFCiAgICAgICAgICAgICAgICBET0NLRVJfUkVHSVNUUlkgPSBERVZfU1RBR0lOR19ET0NLRVJfUkVHSVNUUlkKICAgICAgICAgICAgICAgIE1BU1RFUl9VU0VSID0gREVWX01BU1RFUl9VU0VSCiAgICAgICAgICAgICAgICBNQVNURVJfVVJMID0gREVWX01BU1RFUl9VUkwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvY2tlci5pbWFnZSgnbm9kZToxMC42LjAtYWxwaW5lJykuaW5zaWRlIHsgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtmaWxlKGNyZWRlbnRpYWxzSWQ6ICJjaXBoZXIta2V5LSR7UFJPRklMRX0iLCB2YXJpYWJsZTogJ0NJUEhFUl9LRVknKV0pIHsKICAgICAgICAgICAgICBzaCAibG4gLXMgJHtDSVBIRVJfS0VZfSAuZ3ZjLWVuY3J5cHRpb24tJHtQUk9GSUxFfS5zZWNyZXQiCiAgICAgICAgICAgICAgc2ggIlBST0ZJTEU9JHtQUk9GSUxFfSBtYWtlIGRlY3J5cHQiCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CS4vc2NyaXB0cy9kZXBsb3lfbWFyYXRob24ucHkgLi9kZXBsb3kvbWFyYXRob24uanNvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVwbG95Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZSgnSW50ZWdyYXRpb24gdGVzdHMnKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vZGVwbG95IC4vc2NyaXB0cy9nZW5lcmF0ZV90ZW1wbGF0ZS5zaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIG5wbSBjaSAmJiBucG0gcnVuIGJ1aWxkLSR7QlVJTERfRU5WfQo=</text>
+        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBQUk9GSUxFPSR7UFJPRklMRX0gLi9idWlsZC5zaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YnVpbGQ6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q09QWSAuIC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>40,43y</text>
+        <text>54,57d</text>
       </register>
     </registers>
     <search>
@@ -584,6 +551,8 @@
         <entry>%s/acaispuser/azuredev/</entry>
         <entry>34,38y</entry>
         <entry>40,43y</entry>
+        <entry>54m57d</entry>
+        <entry>54,57d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
