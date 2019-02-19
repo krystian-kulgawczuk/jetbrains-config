@@ -40,10 +40,11 @@
         <mark key="." line="30" column="12" />
         <mark key="^" line="30" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-mail-service/Jenkinsfile.groovy" timestamp="1550586086905" />
       <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Makefile" timestamp="1550580155894">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="59" />
+        <mark key="^" line="7" column="59" />
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/akkaloadportal/pom.xml" timestamp="1548159242190">
@@ -175,12 +176,6 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-mail-service/Makefile" timestamp="1549447932421">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="8" />
-        <mark key="^" line="9" column="5" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/ssh.cfg" timestamp="1550040201985">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="7" />
@@ -211,12 +206,6 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-mail-service/build.sh" timestamp="1549445031489">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="7" column="42" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/tasks/main.yml" timestamp="1550501847442">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -233,7 +222,7 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550583962233">
+      <file name="/Dummy.txt" timestamp="1550587059231">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/Dockerfile" timestamp="1549364284425">
@@ -254,7 +243,7 @@
         <mark key="." line="23" column="9" />
         <mark key="^" line="43" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Jenkinsfile.groovy" timestamp="1550492394033">
+      <file name="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Jenkinsfile.groovy" timestamp="1550585189810">
         <mark key="'" line="17" column="20" />
         <mark key="[" line="20" column="21" />
         <mark key="]" line="21" column="20" />
@@ -285,7 +274,7 @@
         <mark key="." line="0" column="55" />
         <mark key="^" line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/Makefile" timestamp="1550580146765">
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Makefile" timestamp="1550586321762">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
@@ -297,18 +286,12 @@
         <mark key="." line="4" column="85" />
         <mark key="^" line="4" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-mail-service/deploy/marathon-template.json" timestamp="1549444834236">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="27" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1550583960576">
-        <mark key="'" line="164" column="2" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="70" column="44" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1550587034281">
+        <mark key="'" line="236" column="2" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="180" column="2" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/playground/count_asset_per_organization.py" timestamp="1547735266658">
         <mark key="[" line="9" column="8" />
@@ -322,14 +305,8 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Dockerfile" timestamp="1550576532473">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="5" />
-        <mark key="." line="5" column="5" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="57" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
       <jump line="80" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
       <jump line="49" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
       <jump line="48" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/hmac/verifier/VER_2016_07_29Verifier.java" />
@@ -429,13 +406,14 @@
       <jump line="155" column="0" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
       <jump line="76" column="5" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
       <jump line="164" column="2" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
+      <jump line="170" column="4" filename="$USER_HOME$/Projects/gvc-mail-service/Jenkinsfile.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>dir</text>
@@ -444,31 +422,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFBST0ZJTEUgPSBERVZfU1RBR0lOR19QUk9GSUxFCiAgICAgICAgICAgICAgICBET0NLRVJfUkVHSVNUUlkgPSBERVZfU1RBR0lOR19ET0NLRVJfUkVHSVNUUlkKICAgICAgICAgICAgICAgIE1BU1RFUl9VU0VSID0gREVWX01BU1RFUl9VU0VSCiAgICAgICAgICAgICAgICBNQVNURVJfVVJMID0gREVWX01BU1RFUl9VUkwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhpcyBkaXJlY3RvcnkgY29udGFpbnMgYWxsIHRoZSBpbWFnZXMgdGhhdCBhcmUgdXNlZCBpbiBndmMgcHJvamVjdCAoY3VzdG9tIG1hZGUgb25lcykK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYnJhbmNoX25hbWUgPT0gJ21hc3RlcicgfHwgYnJhbmNoX25hbWUgPT0gJ3Byb2QnIHx8IGJyYW5jaF9uYW1lID09ICdzdGFnaW5nJykgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFtmaWxlKGNyZWRlbnRpYWxzSWQ6ICJjaXBoZXIta2V5LSR7UFJPRklMRX0iLCB2YXJpYWJsZTogJ0NJUEhFUl9LRVknKV0pIHsKICAgICAgICAgICAgICBzaCAibG4gLXMgJHtDSVBIRVJfS0VZfSAuZ3ZjLWVuY3J5cHRpb24tJHtQUk9GSUxFfS5zZWNyZXQiCiAgICAgICAgICAgICAgc2ggIlBST0ZJTEU9JHtQUk9GSUxFfSBtYWtlIGRlY3J5cHQiCiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CS4vc2NyaXB0cy9kZXBsb3lfbWFyYXRob24ucHkgLi9kZXBsb3kvbWFyYXRob24uanNvbgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVwbG95Ogo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBDT05URVhUPS4vZGVwbG95IC4vc2NyaXB0cy9nZW5lcmF0ZV90ZW1wbGF0ZS5zaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggIm5wbSBydW4gdGVzdCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CVZFUlNJT049JHtWRVJTSU9OfSBQUk9GSUxFPSR7UFJPRklMRX0gLi9idWlsZC5zaAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRvY2tlci5pbWFnZShET0NLRVJfUkVHSVNUUlkgKyAnL25vZGVfdGVzdDoxJykuaW5zaWRlIHsK</text>
       </register>
       <register name=":" type="4">
         <text>54,57d</text>
