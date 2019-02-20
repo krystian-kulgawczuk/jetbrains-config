@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/protection/ProtectionController.java" timestamp="1550659748658">
+        <mark key="'" line="27" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/.dockerignore" timestamp="1550589171615">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -63,11 +66,6 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Dockerfile" timestamp="1550583076398" />
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/package.json" timestamp="1550581594736">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/portal/AgentMetricsController.java" timestamp="1550659090587">
         <mark key="'" line="24" column="60" />
       </file>
@@ -149,6 +147,7 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/schaduler/ControllerSchedulerConfig.java" timestamp="1550659843797" />
       <file name="$USER_HOME$/Projects/orientdb/pom.xml" timestamp="1548069846515">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -260,21 +259,11 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/tasks/main.yml" timestamp="1550501847442">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/gvc-summary/deploy/marathon-template.json" timestamp="1550060409198">
         <mark key="[" line="27" column="36" />
         <mark key="]" line="27" column="39" />
         <mark key="." line="27" column="39" />
         <mark key="^" line="27" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/build.sh" timestamp="1550579883981">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1550590154914">
         <mark key="[" line="0" column="0" />
@@ -375,6 +364,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" timestamp="1550144564962">
         <mark key="'" line="152" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/protection/impl/ProtectionServiceImpl.java" timestamp="1550659776979" />
       <file name="$USER_HOME$/Documents/stress_tests/throughput.yml" timestamp="1548009181413">
         <mark key="[" line="31" column="23" />
         <mark key="]" line="31" column="38" />
@@ -389,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="38" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="71" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="318" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
       <jump line="101" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/pom.xml" />
@@ -489,6 +478,7 @@
       <jump line="24" column="60" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/portal/AgentMetricsController.java" />
       <jump line="23" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/events/EventController.java" />
       <jump line="2" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/events/EventsService.java" />
+      <jump line="27" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/protection/ProtectionController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
