@@ -16,6 +16,9 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/newrelic.yml" timestamp="1550665101461">
         <mark key="'" line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/notes/cdp_portal.md" timestamp="1551097301591">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/portal/AgentMetricsController.java" timestamp="1550659090587">
         <mark key="'" line="24" column="60" />
       </file>
@@ -37,7 +40,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/cdp/agent/CdpEvent.java" timestamp="1550658869445">
         <mark key="'" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-kafka-cassandra-events/src/main/java/cdp/events/kafka/service/KfMessageEvent.java" timestamp="1550658922847">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-kafka-cassandra-events/src/main/java/cdp/events/kafka/service/KfMessageEvent.java" timestamp="1551097750545">
         <mark key="'" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/dev/notes/cdp.md" timestamp="1551087522015">
@@ -50,6 +53,9 @@
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/newrelic.yml" timestamp="1550664600249">
         <mark key="'" line="81" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" timestamp="1551098338776">
+        <mark key="'" line="31" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/build.sh" timestamp="1550667763998">
         <mark key="'" line="5" column="49" />
@@ -83,6 +89,8 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-jobs/deploy/marathon-template.json" timestamp="1550665300338">
         <mark key="'" line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" timestamp="1551098586999" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1551097892433" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/protection/ProtectionController.java" timestamp="1550659748658">
         <mark key="'" line="27" column="31" />
       </file>
@@ -102,6 +110,10 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-e2e/SeleniumTests_Chrome/Dockerfile" timestamp="1550583076398" />
+      <file name="$USER_HOME$/Projects/gvc-summary/kafka-stats-listener/src/main/java/com/quest/portal/summary/kafkastatslistener/listener/KafkaStatsListener.java" timestamp="1551097964563">
+        <mark key="'" line="34" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-summary/kafka-stats-listener/src/main/java/com/quest/portal/summary/kafkastatslistener/summary/QoreStorSummary.java" timestamp="1551098173519" />
       <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/slaves/tasks/main.yml" timestamp="1550150220333">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -203,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="15" filename="$USER_HOME$/Projects/gvc-group-structure/newrelic.yml" />
-      <jump line="113" column="5" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
       <jump line="122" column="81" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
       <jump line="165" column="96" filename="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" />
@@ -303,6 +313,8 @@
       <jump line="121" column="0" filename="$USER_HOME$/Projects/CDP/cdp-events/Jenkinsfile.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" />
       <jump line="120" column="0" filename="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" />
+      <jump line="31" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" />
+      <jump line="34" column="66" filename="$USER_HOME$/Projects/gvc-summary/kafka-stats-listener/src/main/java/com/quest/portal/summary/kafkastatslistener/listener/KafkaStatsListener.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
