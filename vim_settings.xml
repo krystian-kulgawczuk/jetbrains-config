@@ -16,10 +16,14 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/newrelic.yml" timestamp="1550665101461">
         <mark key="'" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/notes/cdp_portal.md" timestamp="1551097301591">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/notes/cdp_portal.md" timestamp="1551175641109">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="5" column="88" />
+        <mark key="]" line="5" column="207" />
+        <mark key="^" line="5" column="207" />
+        <mark key="." line="5" column="207" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" timestamp="1551174313767">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" timestamp="1551175275048">
         <mark key="'" line="41" column="23" />
         <mark key="[" line="22" column="31" />
         <mark key="]" line="22" column="31" />
@@ -116,7 +120,7 @@
         <mark key="'" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" timestamp="1551098586999" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1551097892433" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1551175934774" />
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/api/GroupController.java" timestamp="1551174479242">
         <mark key="'" line="51" column="18" />
       </file>
@@ -196,7 +200,7 @@
         <mark key="]" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/controller/command/controller/CommandController.java" timestamp="1551174897573">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/controller/command/controller/CommandController.java" timestamp="1551175532448">
         <mark key="'" line="29" column="58" />
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="36" />
@@ -236,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1301" column="20" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="288" column="16" filename="$USER_HOME$/Projects/gvc-mail-service/newrelic.yml" />
       <jump line="12" column="95" filename="$USER_HOME$/Projects/gvc-mail-service/Makefile" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
@@ -336,13 +339,14 @@
       <jump line="41" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" />
       <jump line="51" column="18" filename="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/api/GroupController.java" />
       <jump line="29" column="58" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/controller/command/controller/CommandController.java" />
+      <jump line="5" column="14" filename="$USER_HOME$/dev/notes/cdp_portal.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Object</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>cdp-events</text>
