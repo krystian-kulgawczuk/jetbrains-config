@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/newrelic.yml" timestamp="1550665101461">
         <mark key="'" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/notes/cdp_portal.md" timestamp="1551175641109">
+      <file name="$USER_HOME$/dev/notes/cdp_portal.md" timestamp="1551176506852">
         <mark key="'" line="5" column="14" />
-        <mark key="[" line="5" column="88" />
-        <mark key="]" line="5" column="207" />
-        <mark key="^" line="5" column="207" />
-        <mark key="." line="5" column="207" />
+        <mark key="[" line="2" column="113" />
+        <mark key="]" line="2" column="113" />
+        <mark key="^" line="2" column="106" />
+        <mark key="." line="2" column="113" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" timestamp="1551175275048">
         <mark key="'" line="41" column="23" />
@@ -83,7 +83,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/controller/command/dto/CommandDto.java" timestamp="1551174330983">
         <mark key="'" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" timestamp="1551098338776">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" timestamp="1551176903453">
         <mark key="'" line="31" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/build.sh" timestamp="1550667763998">
@@ -120,7 +120,9 @@
         <mark key="'" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" timestamp="1551098586999" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1551175934774" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1551176786560">
+        <mark key="'" line="34" column="60" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/api/GroupController.java" timestamp="1551174479242">
         <mark key="'" line="51" column="18" />
       </file>
@@ -240,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="16" filename="$USER_HOME$/Projects/gvc-mail-service/newrelic.yml" />
       <jump line="12" column="95" filename="$USER_HOME$/Projects/gvc-mail-service/Makefile" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
       <jump line="6" column="63" filename="$USER_HOME$/Projects/docker-devtools/elk/ansible/hosts" />
@@ -340,16 +341,17 @@
       <jump line="51" column="18" filename="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/api/GroupController.java" />
       <jump line="29" column="58" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/controller/command/controller/CommandController.java" />
       <jump line="5" column="14" filename="$USER_HOME$/dev/notes/cdp_portal.md" />
+      <jump line="34" column="60" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>cdp-events</text>
+        <text>customer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFBST0ZJTEUgPSBERVZfU1RBR0lOR19QUk9GSUxFCiAgICAgICAgICAgICAgICBET0NLRVJfUkVHSVNUUlkgPSBERVZfU1RBR0lOR19ET0NLRVJfUkVHSVNUUlkKICAgICAgICAgICAgICAgIE1BU1RFUl9VU0VSID0gREVWX01BU1RFUl9VU0VSCiAgICAgICAgICAgICAgICBNQVNURVJfVVJMID0gREVWX01BU1RFUl9VUkwK</text>
@@ -386,9 +388,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cdp-events</last-search>
+      <last-search>customer</last-search>
       <last-offset />
-      <last-pattern>cdp-events</last-pattern>
+      <last-pattern>customer</last-pattern>
       <last-replace>cdp-metadata</last-replace>
       <last-substitute>cdp-events</last-substitute>
       <last-dir>1</last-dir>
@@ -423,6 +425,7 @@
         <entry>cdp-agent-api</entry>
         <entry>cdp-jobs</entry>
         <entry>cdp-events</entry>
+        <entry>customer</entry>
       </history-search>
       <history-cmd>
         <entry>482,483y</entry>
