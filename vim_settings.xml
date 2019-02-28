@@ -10,8 +10,16 @@
         <mark key="'" line="183" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/common/security/jwt/principal/userdetails/SimpleUserDetails.java" timestamp="1551277294001" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/resources/application-us-dev.properties" timestamp="1551360239278" />
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/newrelic.yml" timestamp="1550665101461">
         <mark key="'" line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/notes/cdp_portal.md" timestamp="1551179127868">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" timestamp="1551187687520">
         <mark key="'" line="41" column="23" />
@@ -46,11 +54,18 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-jobs/newrelic.yml" timestamp="1550665395248">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-agent/pom.xml" timestamp="1551355880844">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="^" line="56" column="24" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/Projects/gvc-agent/pom.xml" timestamp="1551360097633">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/security/factory/impl/JwtFactoryImpl.java" timestamp="1551360473156" />
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/resources/application-us-dev.properties" timestamp="1551360477181">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="31" column="81" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/files/azuredeploy.json" timestamp="1551355456234">
         <mark key="'" line="2494" column="28" />
@@ -155,7 +170,9 @@
       <file name="$USER_HOME$/Projects/gvc-summary/kafka-stats-listener/src/main/java/com/quest/portal/summary/kafkastatslistener/listener/KafkaStatsListener.java" timestamp="1551097964563">
         <mark key="'" line="34" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" timestamp="1551346454295" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" timestamp="1551360082500">
+        <mark key="'" line="72" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1551350544065">
         <mark key="'" line="35" column="27" />
         <mark key="[" line="16" column="0" />
@@ -196,12 +213,6 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/ChartsImpl.java" timestamp="1551274818414">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="11" column="9" />
-        <mark key="^" line="11" column="9" />
-        <mark key="." line="11" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-jobs/build.sh" timestamp="1550665314333">
         <mark key="'" line="0" column="0" />
@@ -248,6 +259,9 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/error/BadReqCpException.java" timestamp="1551280136453">
         <mark key="'" line="6" column="48" />
       </file>
+      <file name="/Dummy.txt" timestamp="1551360485906">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-metadata/deploy/marathon-template.json" timestamp="1550668065032">
         <mark key="'" line="11" column="26" />
       </file>
@@ -284,19 +298,11 @@
         <mark key="'" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/sas/model/factory/impl/SasFactoryImpl.java" timestamp="1551278158135" />
-      <file name="/fragment.java" timestamp="1551355805944">
+      <file name="/fragment.java" timestamp="1551360485899">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="26" filename="$USER_HOME$/Projects/CDP/cdp-metadata/deploy/marathon-template.json" />
-      <jump line="5" column="42" filename="$USER_HOME$/Projects/CDP/cdp-metadata/build.sh" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/CDP/cdp-metadata/Dockerfile" />
-      <jump line="8" column="24" filename="$USER_HOME$/Projects/CDP/cdp-metadata/newrelic.yml" />
-      <jump line="121" column="0" filename="$USER_HOME$/Projects/CDP/cdp-events/Jenkinsfile.groovy" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" />
-      <jump line="120" column="0" filename="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" />
-      <jump line="31" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" />
       <jump line="34" column="66" filename="$USER_HOME$/Projects/gvc-summary/kafka-stats-listener/src/main/java/com/quest/portal/summary/kafkastatslistener/listener/KafkaStatsListener.java" />
       <jump line="53" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" />
       <jump line="60" column="59" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" />
@@ -389,43 +395,51 @@
       <jump line="5" column="30" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/metadata/fields/RpcRequestColumns.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/files/azuredeploy.json" />
       <jump line="2494" column="28" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/files/azuredeploy.json" />
+      <jump line="73" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
+      <jump line="179" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
+      <jump line="180" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
+      <jump line="70" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
+      <jump line="71" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
+      <jump line="72" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
+      <jump line="23" column="50" filename="$USER_HOME$/Projects/gvc-agent/src/main/resources/application-us-dev.properties" />
+      <jump line="14" column="15" filename="$USER_HOME$/Projects/gvc-agent/src/main/resources/application-us-dev.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jYXNzYW5kcmEua2V5c3BhY2U9b3JnYW5pemF0aW9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>1.11</text>
+        <text>portal.agent.contact.jwt.agent.signing.key</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFBST0ZJTEUgPSBERVZfU1RBR0lOR19QUk9GSUxFCiAgICAgICAgICAgICAgICBET0NLRVJfUkVHSVNUUlkgPSBERVZfU1RBR0lOR19ET0NLRVJfUkVHSVNUUlkKICAgICAgICAgICAgICAgIE1BU1RFUl9VU0VSID0gREVWX01BU1RFUl9VU0VSCiAgICAgICAgICAgICAgICBNQVNURVJfVVJMID0gREVWX01BU1RFUl9VUkwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jYXNzYW5kcmEua2V5c3BhY2U9b3JnYW5pemF0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7Cg==</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jYXNzYW5kcmEuc2luZ2xlLmNsdXN0ZXIuY29udGFjdC5wb2ludD0xMjcuMC4wLjEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jYXNzYW5kcmEuY2x1c3Rlci5kY29zLnVybD1odHRwOi8vbWFzdGVyLm1lc29zL3NlcnZpY2UvY2Fzc2FuZHJhL3YxL2VuZHBvaW50cy9uYXRpdmUtY2xpZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jYXNzYW5kcmEuY2x1c3Rlci5uYW1lPXNwZGMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC4xMjwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jbHVzdGVyLnVzZS5kY29zLmRpc2NvdmVyeT10cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jbHVzdGVyLnVzZS5kY29zLmRpc2NvdmVyeT10cnVlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -435,9 +449,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1.11</last-search>
+      <last-search>portal.agent.contact.jwt.agent.signing.key</last-search>
       <last-offset />
-      <last-pattern>1.11</last-pattern>
+      <last-pattern>portal.agent.contact.jwt.agent.signing.key</last-pattern>
       <last-replace>gvc-agent</last-replace>
       <last-substitute>group-structure</last-substitute>
       <last-dir>1</last-dir>
@@ -469,6 +483,8 @@
         <entry>spring</entry>
         <entry>lombok</entry>
         <entry>1.11</entry>
+        <entry>junit</entry>
+        <entry>portal.agent.contact.jwt.agent.signing.key</entry>
       </history-search>
       <history-cmd>
         <entry>1,12t</entry>
