@@ -7,6 +7,13 @@
         <mark key="'" line="183" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/common/security/jwt/principal/userdetails/SimpleUserDetails.java" timestamp="1551277294001" />
+      <file name="$USER_HOME$/dev/notes/cdp_portal.md" timestamp="1551179127868">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/factory/impl/BatchStmFactoryImpl.java" timestamp="1551347100393" />
       <file name="$USER_HOME$/Projects/gvc-summary/Jenkinsfile.groovy" timestamp="1551275162712" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/diagnostic/controller/DiagnosticsController.java" timestamp="1551278993958">
@@ -41,6 +48,9 @@
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1551348658130">
         <mark key="'" line="114" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/config/security/WebSecurityConfig.java" timestamp="1551349510612">
+        <mark key="'" line="21" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/table/R3Asset.java" timestamp="1551347947443">
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="21" />
@@ -68,16 +78,22 @@
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/metadata/fields/SignatureAccessKeyColumns.java" timestamp="1551341433693" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/config/blobs/AzureStorageConfig.java" timestamp="1551278134609" />
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/group/GroupRepository.java" timestamp="1551279508701" />
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/app/config/security/WebSecurityConfig.java" timestamp="1551349605600">
+        <mark key="'" line="24" column="16" />
+        <mark key="[" line="52" column="202" />
+        <mark key="]" line="53" column="43" />
+        <mark key="." line="53" column="43" />
+        <mark key="^" line="53" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/factory/impl/StmFactoryImpl.java" timestamp="1551348252778" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/RegularAgentApp.java" timestamp="1551278110540" />
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/azure/blobs/sas/model/impl/AzureSasImpl.java" timestamp="1551278055844" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/sas/model/factory/impl/SasFactoryImpl.java" timestamp="1551278158135" />
-      <file name="/fragment.java" timestamp="1551348441684">
+      <file name="/fragment.java" timestamp="1551349236938">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/CDP/cdp-jobs/newrelic.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/CDP/cdp-events/deploy/marathon-template.json" />
       <jump line="5" column="49" filename="$USER_HOME$/Projects/CDP/cdp-events/build.sh" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/CDP/cdp-events/Dockerfile" />
@@ -177,10 +193,11 @@
       <jump line="104" column="25" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/impl/DbImpl.java" />
       <jump line="109" column="25" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/impl/DbImpl.java" />
       <jump line="114" column="25" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/impl/DbImpl.java" />
+      <jump line="21" column="46" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/config/security/WebSecurityConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5zY2hlbWEuaW1wbC5EYkltcGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnQK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -192,31 +209,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFBST0ZJTEUgPSBERVZfU1RBR0lOR19QUk9GSUxFCiAgICAgICAgICAgICAgICBET0NLRVJfUkVHSVNUUlkgPSBERVZfU1RBR0lOR19ET0NLRVJfUkVHSVNUUlkKICAgICAgICAgICAgICAgIE1BU1RFUl9VU0VSID0gREVWX01BU1RFUl9VU0VSCiAgICAgICAgICAgICAgICBNQVNURVJfVVJMID0gREVWX01BU1RFUl9VUkwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5zY2hlbWEuaW1wbC5EYkltcGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5zY2hlbWEuZmFjdG9yeS5TdG1GYWN0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5zY2hlbWEuaW1wbC5EYkltcGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5zY2hlbWEuZmFjdG9yeS5TdG1GYWN0b3J5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4xLjI8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y2Fzc2FuZHJhLWRyaXZlci1jb3JlPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmRhdGFzdGF4LmNhc3NhbmRyYTwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/group-structure/gvc-agent/</text>
