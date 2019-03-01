@@ -21,12 +21,6 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" timestamp="1551187687520">
-        <mark key="'" line="41" column="23" />
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1551279148866">
         <mark key="'" line="144" column="42" />
       </file>
@@ -60,11 +54,11 @@
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/model/factory/impl/ActionFactoryImpl.java" timestamp="1551367281377">
         <mark key="'" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-agent/pom.xml" timestamp="1551363978963">
-        <mark key="'" line="47" column="33" />
-        <mark key="[" line="109" column="21" />
-        <mark key="]" line="109" column="21" />
-        <mark key="." line="109" column="21" />
+      <file name="$USER_HOME$/Projects/gvc-agent/pom.xml" timestamp="1551432482607">
+        <mark key="'" line="46" column="33" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/security/factory/impl/JwtFactoryImpl.java" timestamp="1551360473156" />
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/resources/application-us-dev.properties" timestamp="1551363715394">
@@ -171,6 +165,13 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/action/impl/DiagnosticsUploadAction.java" timestamp="1551278313822">
         <mark key="'" line="59" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" timestamp="1551432962867">
+        <mark key="'" line="24" column="40" />
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="60" />
+        <mark key="." line="24" column="60" />
+        <mark key="^" line="24" column="60" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/RegularAgentApp.java" timestamp="1551367427691">
         <mark key="[" line="8" column="107" />
         <mark key="]" line="8" column="129" />
@@ -179,6 +180,13 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/scheduler/impl/SchedulerServiceImpl.java" timestamp="1551180988203">
         <mark key="'" line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/ack/kafka/impl/KfImpl.java" timestamp="1551281919308">
+        <mark key="'" line="37" column="15" />
+        <mark key="[" line="41" column="31" />
+        <mark key="]" line="41" column="44" />
+        <mark key="." line="41" column="44" />
+        <mark key="^" line="41" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-summary/kafka-stats-listener/src/main/java/com/quest/portal/summary/kafkastatslistener/listener/KafkaStatsListener.java" timestamp="1551097964563">
         <mark key="'" line="34" column="66" />
@@ -189,20 +197,8 @@
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" timestamp="1551368446537">
         <mark key="'" line="48" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1551350544065">
-        <mark key="'" line="35" column="27" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/config/security/WebSecurityConfig.java" timestamp="1551349510612">
         <mark key="'" line="21" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" timestamp="1550670518287">
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/table/R3Asset.java" timestamp="1551368816592">
         <mark key="'" line="46" column="39" />
@@ -248,15 +244,9 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-kafka-cassandra-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" timestamp="1551193953988">
         <mark key="'" line="56" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/pom.xml" timestamp="1551277091788" />
+      <file name="$USER_HOME$/Projects/gvc-group-structure/pom.xml" timestamp="1551432414155" />
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/metadata/fields/SignatureAccessKeyColumns.java" timestamp="1551341433693" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/config/blobs/AzureStorageConfig.java" timestamp="1551278134609" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/Jenkinsfile.groovy" timestamp="1550668648452">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/test/java/portal/agent/regular/StandardizedR3StatsImplTest.java" timestamp="1551356089753">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -269,16 +259,24 @@
         <mark key="'" line="28" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/group/GroupRepository.java" timestamp="1551279508701" />
-      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/app/config/security/WebSecurityConfig.java" timestamp="1551350323724">
-        <mark key="'" line="24" column="16" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1551355327105">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/model/impl/ActorsKeepaliveImpl.java" timestamp="1551274736359">
+        <mark key="'" line="24" column="26" />
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="23" column="6" />
+        <mark key="^" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1551281386367">
+        <mark key="'" line="58" column="24" />
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/factory/impl/StmFactoryImpl.java" timestamp="1551363165154">
         <mark key="'" line="28" column="30" />
@@ -331,11 +329,11 @@
       <file name="/fragment.java" timestamp="1551360485899">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/ErrorDetails.java" timestamp="1551432916655">
+        <mark key="'" line="34" column="13" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="60" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" />
-      <jump line="16" column="75" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/backgroundjob/impl/BackgroundJobServiceImpl.java" />
-      <jump line="26" column="62" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/protection/ProtectionController.java" />
       <jump line="80" column="93" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/protection/impl/ProtectionServiceImpl.java" />
       <jump line="24" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/repository/RepositoryController.java" />
       <jump line="117" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/repository/impl/RepositoryServiceImpl.java" />
@@ -433,13 +431,16 @@
       <jump line="46" column="39" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/table/R3Asset.java" />
       <jump line="122" column="40" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
       <jump line="49" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" />
+      <jump line="25" column="38" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" />
+      <jump line="24" column="40" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" />
+      <jump line="34" column="13" filename="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/ErrorDetails.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>requestAttributes</text>
       </register>
       <register name="-" type="4">
-        <text>23</text>
+        <text>requestAttributes</text>
       </register>
       <register name="/" type="4">
         <text>guava.version</text>
@@ -448,34 +449,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFBST0ZJTEUgPSBERVZfU1RBR0lOR19QUk9GSUxFCiAgICAgICAgICAgICAgICBET0NLRVJfUkVHSVNUUlkgPSBERVZfU1RBR0lOR19ET0NLRVJfUkVHSVNUUlkKICAgICAgICAgICAgICAgIE1BU1RFUl9VU0VSID0gREVWX01BU1RFUl9VU0VSCiAgICAgICAgICAgICAgICBNQVNURVJfVVJMID0gREVWX01BU1RFUl9VUkwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jYXNzYW5kcmEuY2x1c3Rlci5kY29zLnVybD1odHRwOi8vbWFzdGVyLm1lc29zL3NlcnZpY2UvY2Fzc2FuZHJhL3YxL2VuZHBvaW50cy9uYXRpdmUtY2xpZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jbHVzdGVyLnVzZS5kY29zLmRpc2NvdmVyeT1mYWxzZQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLndlYi5FcnJvckF0dHJpYnV0ZXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jYXNzYW5kcmEua2V5c3BhY2U9b3JnYW5pemF0aW9uCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLndlYi5EZWZhdWx0RXJyb3JBdHRyaWJ1dGVzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jYXNzYW5kcmEuc2luZ2xlLmNsdXN0ZXIuY29udGFjdC5wb2ludD0xMjcuMC4wLjEK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jYXNzYW5kcmEuY2x1c3Rlci5kY29zLnVybD1odHRwOi8vbWFzdGVyLm1lc29zL3NlcnZpY2UvY2Fzc2FuZHJhL3YxL2VuZHBvaW50cy9uYXRpdmUtY2xpZW50Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cG9ydGFsLm9yZ2FuaXphdGlvbi5jYXNzYW5kcmEuY2x1c3Rlci5uYW1lPXNwZGMK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+am9kYS10aW1lPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qb2RhLXRpbWU8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>%s/group-structure/gvc-agent/</text>
+        <text>92,95d</text>
       </register>
     </registers>
     <search>
@@ -542,6 +543,7 @@
         <entry>%s/group-structure/gvc-agent</entry>
         <entry>%s/gvc-group-structure/gvc-agent/</entry>
         <entry>%s/group-structure/gvc-agent/</entry>
+        <entry>92,95d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
