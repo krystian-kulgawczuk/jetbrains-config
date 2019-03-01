@@ -17,6 +17,12 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/newrelic.yml" timestamp="1550665101461">
         <mark key="'" line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" timestamp="1551187687520">
+        <mark key="'" line="41" column="23" />
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1551279148866">
         <mark key="'" line="144" column="42" />
       </file>
@@ -41,6 +47,12 @@
         <mark key="'" line="85" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" timestamp="1551274874231" />
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/exception/AppException.java" timestamp="1551434431459">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/repository/RepositoryController.java" timestamp="1551180586942">
         <mark key="'" line="30" column="28" />
       </file>
@@ -82,11 +94,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-kafka-cassandra-events/src/main/java/cdp/events/kafka/service/MessageFactoryImpl.java" timestamp="1551194088136">
         <mark key="'" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/db/impl/DbFactoryImpl.java" timestamp="1551348162011">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/gvc-agent/deploy/marathon-template.json" timestamp="1551276665597">
         <mark key="'" line="1" column="9" />
       </file>
@@ -116,11 +123,7 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-events/newrelic.yml" timestamp="1550665842188">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/model/impl/ChartsImpl.java" timestamp="1551367242869">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorDetails.java" timestamp="1551434123483" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/sas/model/factory/SasDbFactory.java" timestamp="1551278205069">
         <mark key="'" line="5" column="22" />
       </file>
@@ -154,7 +157,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/action/impl/DiagnosticsUploadAction.java" timestamp="1551278313822">
         <mark key="'" line="59" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" timestamp="1551433466890">
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" timestamp="1551434363177">
         <mark key="'" line="30" column="44" />
         <mark key="[" line="24" column="43" />
         <mark key="]" line="24" column="60" />
@@ -186,8 +189,20 @@
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" timestamp="1551368446537">
         <mark key="'" line="48" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1551350544065">
+        <mark key="'" line="35" column="27" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/config/security/WebSecurityConfig.java" timestamp="1551349510612">
         <mark key="'" line="21" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" timestamp="1550670518287">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/table/R3Asset.java" timestamp="1551368816592">
         <mark key="'" line="46" column="39" />
@@ -213,22 +228,17 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/deploy/marathon-template.json" timestamp="1550665052311">
         <mark key="'" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/Db.java" timestamp="1551350407259">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/ChartsImpl.java" timestamp="1551274818414">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="11" column="9" />
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/RestResponseExceptionHandler.java" timestamp="1551433868665">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/RestResponseExceptionHandler.java" timestamp="1551434587994">
+        <mark key="[" line="45" column="31" />
+        <mark key="]" line="45" column="59" />
+        <mark key="^" line="45" column="59" />
+        <mark key="." line="45" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-jobs/build.sh" timestamp="1550665314333">
         <mark key="'" line="0" column="0" />
@@ -245,10 +255,11 @@
       <file name="$USER_HOME$/Projects/gvc-group-structure/pom.xml" timestamp="1551432414155" />
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/metadata/fields/SignatureAccessKeyColumns.java" timestamp="1551341433693" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/src/main/java/portal/azure/blobs/config/blobs/AzureStorageConfig.java" timestamp="1551278134609" />
-      <file name="$USER_HOME$/Projects/gvc-agent/src/test/java/portal/agent/regular/StandardizedR3StatsImplTest.java" timestamp="1551356089753">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/Jenkinsfile.groovy" timestamp="1550668648452">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-metadata/newrelic.yml" timestamp="1550668253578">
         <mark key="'" line="8" column="24" />
@@ -257,10 +268,11 @@
         <mark key="'" line="28" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/group/GroupRepository.java" timestamp="1551279508701" />
-      <file name="$USER_HOME$/dev/terraform_dcos/desired_cluster_profile.tfvars" timestamp="1551355327105">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/app/config/security/WebSecurityConfig.java" timestamp="1551350323724">
+        <mark key="'" line="24" column="16" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/model/impl/ActorsKeepaliveImpl.java" timestamp="1551274736359">
         <mark key="'" line="24" column="26" />
@@ -275,6 +287,11 @@
         <mark key="]" line="8" column="12" />
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/exception/AgentException.java" timestamp="1551434443178">
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/factory/impl/StmFactoryImpl.java" timestamp="1551363165154">
         <mark key="'" line="28" column="30" />
@@ -304,6 +321,9 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/repository/impl/RepositoryServiceImpl.java" timestamp="1551183151461">
         <mark key="'" line="70" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/RestResponseExceptionHandler.java" timestamp="1551434295983">
+        <mark key="'" line="72" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" timestamp="1551368976441">
         <mark key="'" line="49" column="25" />
       </file>
@@ -327,14 +347,11 @@
       <file name="/fragment.java" timestamp="1551360485899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/ErrorDetails.java" timestamp="1551432916655">
+      <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/ErrorDetails.java" timestamp="1551434129281">
         <mark key="'" line="34" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/repository/impl/RepositoryServiceImpl.java" />
-      <jump line="30" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/repository/RepositoryController.java" />
-      <jump line="39" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/scheduler/impl/SchedulerServiceImpl.java" />
       <jump line="36" column="47" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/schaduler/ControllerSchedulerConfig.java" />
       <jump line="27" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/transfer/TransferController.java" />
       <jump line="70" column="58" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/repository/impl/RepositoryServiceImpl.java" />
@@ -431,14 +448,17 @@
       <jump line="34" column="13" filename="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/ErrorDetails.java" />
       <jump line="24" column="39" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" />
       <jump line="100" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.6.RELEASE/spring-boot-2.0.6.RELEASE.jar!/org/springframework/boot/web/reactive/error/DefaultErrorAttributes.class" />
+      <jump line="87" column="37" filename="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/RestResponseExceptionHandler.java" />
+      <jump line="72" column="52" filename="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/RestResponseExceptionHandler.java" />
       <jump line="30" column="44" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/exception/AppException.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>requestAttributes</text>
+        <text>handleAppException</text>
       </register>
       <register name="-" type="4">
-        <text>requestAttributes</text>
+        <text>handleAppException</text>
       </register>
       <register name="/" type="4">
         <text>guava.version</text>
@@ -447,7 +467,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFBST0ZJTEUgPSBERVZfU1RBR0lOR19QUk9GSUxFCiAgICAgICAgICAgICAgICBET0NLRVJfUkVHSVNUUlkgPSBERVZfU1RBR0lOR19ET0NLRVJfUkVHSVNUUlkKICAgICAgICAgICAgICAgIE1BU1RFUl9VU0VSID0gREVWX01BU1RFUl9VU0VSCiAgICAgICAgICAgICAgICBNQVNURVJfVVJMID0gREVWX01BU1RFUl9VUkwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuaGFuZGxlTWV0aG9kQXJndW1lbnROb3RWYWxpZChleCwgaGVhZGVycywgc3RhdHVzLCByZXF1ZXN0KTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
@@ -456,22 +476,22 @@
         <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLndlYi5FcnJvckF0dHJpYnV0ZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLndlYi5EZWZhdWx0RXJyb3JBdHRyaWJ1dGVzOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLndlYi5FcnJvckF0dHJpYnV0ZXM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLndlYi5EZWZhdWx0RXJyb3JBdHRyaWJ1dGVzOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+am9kYS10aW1lPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qb2RhLXRpbWU8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+am9kYS10aW1lPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qb2RhLXRpbWU8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>92,95d</text>
