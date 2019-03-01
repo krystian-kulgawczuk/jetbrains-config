@@ -9,17 +9,13 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/pom.xml" timestamp="1551281607219">
         <mark key="'" line="183" column="32" />
       </file>
+      <file name="/a.dummy" timestamp="1551433528948">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/common/security/jwt/principal/userdetails/SimpleUserDetails.java" timestamp="1551277294001" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/resources/application-us-dev.properties" timestamp="1551363099836" />
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/newrelic.yml" timestamp="1550665101461">
         <mark key="'" line="8" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/notes/cdp_portal.md" timestamp="1551179127868">
-        <mark key="'" line="5" column="14" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1551279148866">
         <mark key="'" line="144" column="42" />
@@ -61,13 +57,6 @@
         <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/security/factory/impl/JwtFactoryImpl.java" timestamp="1551360473156" />
-      <file name="$USER_HOME$/Projects/gvc-agent/src/main/resources/application-us-dev.properties" timestamp="1551363715394">
-        <mark key="'" line="16" column="15" />
-        <mark key="[" line="14" column="47" />
-        <mark key="]" line="14" column="47" />
-        <mark key="." line="14" column="47" />
-        <mark key="^" line="10" column="51" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/files/azuredeploy.json" timestamp="1551355456234">
         <mark key="'" line="2494" column="28" />
       </file>
@@ -165,8 +154,8 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/action/impl/DiagnosticsUploadAction.java" timestamp="1551278313822">
         <mark key="'" line="59" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" timestamp="1551432962867">
-        <mark key="'" line="24" column="40" />
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" timestamp="1551433466890">
+        <mark key="'" line="30" column="44" />
         <mark key="[" line="24" column="43" />
         <mark key="]" line="24" column="60" />
         <mark key="." line="24" column="60" />
@@ -235,8 +224,17 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/RestResponseExceptionHandler.java" timestamp="1551433868665">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-jobs/build.sh" timestamp="1550665314333">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.6.RELEASE/spring-boot-2.0.6.RELEASE.jar!/org/springframework/boot/web/reactive/error/DefaultErrorAttributes.class" timestamp="1551433456556">
+        <mark key="'" line="100" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/Dockerfile" timestamp="1550665825909">
         <mark key="'" line="5" column="0" />
@@ -334,8 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="93" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/protection/impl/ProtectionServiceImpl.java" />
-      <jump line="24" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/repository/RepositoryController.java" />
       <jump line="117" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/repository/impl/RepositoryServiceImpl.java" />
       <jump line="30" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/repository/RepositoryController.java" />
       <jump line="39" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/portal/scheduler/impl/SchedulerServiceImpl.java" />
@@ -432,8 +428,10 @@
       <jump line="122" column="40" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
       <jump line="49" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" />
       <jump line="25" column="38" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" />
-      <jump line="24" column="40" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" />
       <jump line="34" column="13" filename="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/ErrorDetails.java" />
+      <jump line="24" column="39" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" />
+      <jump line="100" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.6.RELEASE/spring-boot-2.0.6.RELEASE.jar!/org/springframework/boot/web/reactive/error/DefaultErrorAttributes.class" />
+      <jump line="30" column="44" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
