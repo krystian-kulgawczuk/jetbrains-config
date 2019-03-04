@@ -494,7 +494,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>gson</text>
+        <text>TARGET_MODULE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFBST0ZJTEUgPSBERVZfU1RBR0lOR19QUk9GSUxFCiAgICAgICAgICAgICAgICBET0NLRVJfUkVHSVNUUlkgPSBERVZfU1RBR0lOR19ET0NLRVJfUkVHSVNUUlkKICAgICAgICAgICAgICAgIE1BU1RFUl9VU0VSID0gREVWX01BU1RFUl9VU0VSCiAgICAgICAgICAgICAgICBNQVNURVJfVVJMID0gREVWX01BU1RFUl9VUkwK</text>
@@ -531,9 +531,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gson</last-search>
+      <last-search>TARGET_MODULE</last-search>
       <last-offset />
-      <last-pattern>gson</last-pattern>
+      <last-pattern>TARGET_MODULE</last-pattern>
       <last-replace>gvc-agent</last-replace>
       <last-substitute>group-structure</last-substitute>
       <last-dir>1</last-dir>
@@ -570,6 +570,7 @@
         <entry>guava</entry>
         <entry>guava.version</entry>
         <entry>gson</entry>
+        <entry>TARGET_MODULE</entry>
       </history-search>
       <history-cmd>
         <entry>1,12t</entry>
