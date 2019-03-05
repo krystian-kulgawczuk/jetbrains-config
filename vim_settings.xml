@@ -59,6 +59,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/metadata/MetadataController.java" timestamp="1551779197997">
+        <mark key="'" line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/config/CassandraConfig.java" timestamp="1551698300562" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/agent/impl/MetadataAgentServiceImpl.java" timestamp="1550658842450">
         <mark key="'" line="29" column="19" />
       </file>
@@ -97,6 +101,7 @@
         <mark key="]" line="13" column="40" />
         <mark key="." line="13" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/view/AgentMetricsController.java" timestamp="1551705581355" />
       <file name="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/model/factory/impl/ActionFactoryImpl.java" timestamp="1551367281377">
         <mark key="'" line="34" column="14" />
       </file>
@@ -270,6 +275,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/backgroundjob/BackgroundJobController.java" timestamp="1551183170434">
         <mark key="'" line="26" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/metadata/impl/MetadataServiceImpl.java" timestamp="1551779421265" />
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/Volume.java" timestamp="1551697303398">
         <mark key="'" line="9" column="47" />
       </file>
@@ -524,7 +530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="24" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
       <jump line="41" column="119" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/ack/kafka/impl/KfImpl.java" />
       <jump line="37" column="15" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/ack/kafka/impl/KfImpl.java" />
       <jump line="37" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-contact-kafka/src/main/java/portal/ack/kafka/impl/KfImpl.java" />
@@ -624,6 +629,7 @@
       <jump line="2" column="25" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/exception/PersistenceException.java" />
       <jump line="18" column="75" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/protection/impl/ProtectionServiceImpl.java" />
       <jump line="24" column="53" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/command/controller/CommandController.java" />
+      <jump line="19" column="28" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/metadata/MetadataController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
