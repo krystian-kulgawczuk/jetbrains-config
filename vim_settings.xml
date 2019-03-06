@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/metadata/MetadataController.java" timestamp="1551779197997">
         <mark key="'" line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/config/CassandraConfig.java" timestamp="1551698300562" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/config/CassandraConfig.java" timestamp="1551867535885" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/service/agent/impl/MetadataAgentServiceImpl.java" timestamp="1550658842450">
         <mark key="'" line="29" column="19" />
       </file>
@@ -90,6 +90,7 @@
       <file name="$USER_HOME$/Projects/gvc-agent/Dockerfile" timestamp="1551276994551">
         <mark key="'" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/resources/application-us-dev.properties" timestamp="1551867679794" />
       <file name="$USER_HOME$/Projects/CDP/cdp-events/build.sh" timestamp="1550667763998">
         <mark key="'" line="5" column="49" />
       </file>
@@ -240,9 +241,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/error/BadReqCpException.java" timestamp="1551280136453">
         <mark key="'" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/exception/PersistenceException.java" timestamp="1551707114242">
-        <mark key="'" line="2" column="25" />
-      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-metadata/deploy/marathon-template.json" timestamp="1550668065032">
         <mark key="'" line="11" column="26" />
       </file>
@@ -251,9 +249,6 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/metadata/fields/RpcRequestColumns.java" timestamp="1551354700516">
         <mark key="'" line="5" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/protection/impl/ProtectionServiceImpl.java" timestamp="1551712850729">
-        <mark key="'" line="18" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/Makefile" timestamp="1551858994266" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/query/DbQueryImpl.java" timestamp="1551186793201">
