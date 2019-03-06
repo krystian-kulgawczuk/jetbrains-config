@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/pom.xml" timestamp="1551281607219">
         <mark key="'" line="183" column="32" />
       </file>
+      <file name="/a.dummy" timestamp="1551705240777">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/newrelic.yml" timestamp="1550665101461">
         <mark key="'" line="8" column="24" />
       </file>
@@ -56,11 +59,23 @@
         <mark key="'" line="2494" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/model/CommandEntityColumns.java" timestamp="1551794939093" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/repository/RepositoryServiceImpl.java" timestamp="1551700131912">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="83" column="40" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/cdp/agent/CdpEvent.java" timestamp="1550658869445">
         <mark key="'" line="16" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-kafka-cassandra-events/src/main/java/cdp/events/kafka/service/KfMessageEvent.java" timestamp="1551267093426">
         <mark key="'" line="35" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/BackgroundJobService.java" timestamp="1551706330127">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="17" column="43" />
+        <mark key="." line="17" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/repository/CommandRepository.java" timestamp="1551705751881">
         <mark key="'" line="9" column="58" />
@@ -90,7 +105,12 @@
       <file name="$USER_HOME$/Projects/gvc-agent/Dockerfile" timestamp="1551276994551">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/resources/application-us-dev.properties" timestamp="1551867679794" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/resources/application-us-dev.properties" timestamp="1551882277930">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="47" />
+        <mark key="." line="11" column="47" />
+        <mark key="^" line="11" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/build.sh" timestamp="1550667763998">
         <mark key="'" line="5" column="49" />
       </file>
@@ -205,6 +225,12 @@
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/group/type/Role.java" timestamp="1551694611305">
         <mark key="'" line="67" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/SchedulerConfigController.java" timestamp="1551706853515">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-api/src/main/java/cdp/api/controller/commands/schaduler/ControllerSchedulerConfig.java" timestamp="1551181065896">
         <mark key="'" line="36" column="47" />
       </file>
@@ -226,6 +252,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-kafka-cassandra-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" timestamp="1551193953988">
         <mark key="'" line="56" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/command/metadata/CommandColumns.java" timestamp="1551706043951">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/dto/BasicDto.java" timestamp="1551694783029">
         <mark key="'" line="7" column="17" />
       </file>
@@ -240,6 +272,9 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/error/BadReqCpException.java" timestamp="1551280136453">
         <mark key="'" line="6" column="48" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1551882079545">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-metadata/deploy/marathon-template.json" timestamp="1550668065032">
         <mark key="'" line="11" column="26" />
@@ -280,6 +315,9 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/cdp-agent/src/main/java/cdp/agent/service/command/CommandService.java" timestamp="1551173897300">
         <mark key="'" line="3" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1551882079537">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/ErrorDetails.java" timestamp="1551434129281">
         <mark key="'" line="34" column="13" />
@@ -389,10 +427,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
