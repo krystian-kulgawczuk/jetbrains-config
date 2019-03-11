@@ -8,6 +8,9 @@
         <mark key="]" line="14" column="31" />
         <mark key="." line="14" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/CommandType.java" timestamp="1552311966936">
+        <mark key="'" line="11" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/utils/SchedulerMapper.java" timestamp="1551708699838">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -43,7 +46,7 @@
         <mark key="]" line="18" column="34" />
         <mark key="." line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1552295902216" />
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1552313203888" />
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" timestamp="1552055065209">
         <mark key="[" line="16" column="29" />
         <mark key="]" line="16" column="29" />
@@ -113,6 +116,9 @@
         <mark key="^" line="18" column="47" />
         <mark key="." line="30" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/backgroundjob/BackgroundJobController.java" timestamp="1552311899160">
+        <mark key="'" line="22" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/metadata/QuotaColumns.java" timestamp="1552053026361">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="11" />
@@ -130,6 +136,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/local/CassandraConfigLocal.java" timestamp="1552048832800">
+        <mark key="'" line="54" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/metadata/MetadataColumns.java" timestamp="1552052985177">
         <mark key="[" line="2" column="0" />
@@ -197,9 +206,6 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/command/fields/CommandColumns.java" timestamp="1552054806031">
-        <mark key="[" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/metadata/DiskColumns.java" timestamp="1552052952617">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="11" />
@@ -217,6 +223,7 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/view/CommandsController.java" timestamp="1552311831148" />
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/metadata/StorageColumns.java" timestamp="1552053036411">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="11" />
@@ -251,13 +258,14 @@
         <mark key="." line="33" column="24" />
         <mark key="^" line="32" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/WebSecurityConfig.java" timestamp="1552312068357" />
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/Metadata.java" timestamp="1551697147046">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="12" column="5" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/command/controller/CommandController.java" timestamp="1552300583431">
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/command/controller/CommandController.java" timestamp="1552311800838">
         <mark key="'" line="22" column="11" />
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="42" />
@@ -270,13 +278,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/HealthCheckController.java" timestamp="1552313634264" />
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/mapper/RepoMapper.java" timestamp="1552049440801">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/CassandraConfig.java" timestamp="1552048778707">
-        <mark key="[" line="47" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/handler/RestResponseExceptionHandler.java" timestamp="1551707355963">
         <mark key="[" line="19" column="39" />
@@ -377,7 +383,8 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/backgroundjob/impl/BackgroundJobServiceImpl.java" timestamp="1552049131886">
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/backgroundjob/impl/BackgroundJobServiceImpl.java" timestamp="1552311941267">
+        <mark key="'" line="27" column="42" />
         <mark key="[" line="17" column="37" />
         <mark key="]" line="17" column="37" />
         <mark key="." line="17" column="37" />
@@ -453,10 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="48" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/error/BadReqCpException.java" />
-      <jump line="33" column="12" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" />
-      <jump line="62" column="24" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
-      <jump line="41" column="119" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/ack/kafka/impl/KfImpl.java" />
       <jump line="37" column="15" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/ack/kafka/impl/KfImpl.java" />
       <jump line="37" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-contact-kafka/src/main/java/portal/ack/kafka/impl/KfImpl.java" />
       <jump line="41" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-contact-kafka/src/main/java/portal/ack/kafka/impl/KfImpl.java" />
@@ -553,6 +556,10 @@
       <jump line="3" column="21" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/command/CommandService.java" />
       <jump line="22" column="11" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/command/controller/CommandController.java" />
       <jump line="25" column="48" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" />
+      <jump line="21" column="64" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/backgroundjob/BackgroundJobController.java" />
+      <jump line="22" column="28" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/backgroundjob/BackgroundJobController.java" />
+      <jump line="11" column="4" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/CommandType.java" />
+      <jump line="27" column="42" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/backgroundjob/impl/BackgroundJobServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
