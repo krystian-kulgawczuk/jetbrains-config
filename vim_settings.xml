@@ -577,7 +577,7 @@
         <text>Object</text>
       </register>
       <register name="/" type="4">
-        <text>public</text>
+        <text>elastic</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PA==</text>
@@ -614,9 +614,9 @@
       </register>
     </registers>
     <search>
-      <last-search>public</last-search>
+      <last-search>elastic</last-search>
       <last-offset />
-      <last-pattern>public</last-pattern>
+      <last-pattern>elastic</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -644,6 +644,7 @@
         <entry>private</entry>
         <entry>public</entry>
         <entry encoding="base64">XDxpZFw+</entry>
+        <entry>elastic</entry>
       </history-search>
       <history-cmd>
         <entry>34,38y</entry>
