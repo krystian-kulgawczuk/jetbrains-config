@@ -3,38 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/CommandType.java" timestamp="1552311966936">
-        <mark key="'" line="11" column="4" />
+      <file name="/Dummy.txt" timestamp="1552300384322">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/Jenkinsfile.groovy" timestamp="1552387758437" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" timestamp="1552300100434">
-        <mark key="'" line="25" column="48" />
-        <mark key="[" line="17" column="57" />
-        <mark key="]" line="17" column="57" />
-        <mark key="." line="17" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1552391270574" />
       <file name="$USER_HOME$/Documents/gvc.md" timestamp="1552574312247">
         <mark key="'" line="89" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/backgroundjob/BackgroundJobController.java" timestamp="1552311899160">
-        <mark key="'" line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/local/CassandraConfigLocal.java" timestamp="1552048832800">
-        <mark key="'" line="54" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/MetadataService.java" timestamp="1552997933538">
-        <mark key="'" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1552574304816">
-        <mark key="'" line="218" column="28" />
-        <mark key="[" line="131" column="40" />
-        <mark key="." line="131" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1552380741784" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/view/CommandsController.java" timestamp="1552311831148" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/resources/cdp_cassandra_schema.cql" timestamp="1552987628486" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/WebSecurityConfig.java" timestamp="1552312068357" />
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/command/controller/CommandController.java" timestamp="1552311800838">
         <mark key="'" line="22" column="11" />
         <mark key="[" line="22" column="11" />
@@ -42,17 +16,8 @@
         <mark key="." line="22" column="42" />
         <mark key="^" line="22" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/HealthCheckController.java" timestamp="1552313634264" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/metadata/MetadataController.java" timestamp="1552299612315" />
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/Jenkinsfile.groovy" timestamp="1552391331376">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="60" />
-        <mark key="]" line="24" column="60" />
-        <mark key="." line="24" column="60" />
-        <mark key="^" line="86" column="7" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1552300384322">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/MetadataService.java" timestamp="1552997933538">
+        <mark key="'" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/backgroundjob/impl/BackgroundJobServiceImpl.java" timestamp="1552311941267">
         <mark key="'" line="27" column="42" />
@@ -60,6 +25,34 @@
         <mark key="]" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/backgroundjob/BackgroundJobController.java" timestamp="1552311899160">
+        <mark key="'" line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1552574304816">
+        <mark key="'" line="218" column="28" />
+        <mark key="[" line="131" column="40" />
+        <mark key="." line="131" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/local/CassandraConfigLocal.java" timestamp="1552048832800">
+        <mark key="'" line="54" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/Jenkinsfile.groovy" timestamp="1552391331376">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="60" />
+        <mark key="]" line="24" column="60" />
+        <mark key="." line="24" column="60" />
+        <mark key="^" line="86" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/CommandType.java" timestamp="1552311966936">
+        <mark key="'" line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" timestamp="1552300100434">
+        <mark key="'" line="25" column="48" />
+        <mark key="[" line="17" column="57" />
+        <mark key="]" line="17" column="57" />
+        <mark key="." line="17" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/one_time_migrations/production_7_10_18.sh" timestamp="1553159671428" />
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/MetadataServiceImpl.java" timestamp="1553004112760">
         <mark key="'" line="17" column="54" />
         <mark key="[" line="29" column="0" />
@@ -225,8 +218,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cdp-events</entry>
-        <entry>customer</entry>
         <entry>save</entry>
         <entry>gvc-group-structure</entry>
         <entry>group-structure</entry>
