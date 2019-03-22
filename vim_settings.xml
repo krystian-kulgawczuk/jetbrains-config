@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1552300384322">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/gvc.md" timestamp="1552574312247">
         <mark key="'" line="89" column="6" />
       </file>
@@ -43,8 +40,19 @@
         <mark key="." line="24" column="60" />
         <mark key="^" line="86" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1553246986439">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/CommandType.java" timestamp="1552311966936">
         <mark key="'" line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/docker-compose.yaml" timestamp="1553246912275">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" timestamp="1552300100434">
         <mark key="'" line="25" column="48" />
@@ -165,7 +173,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">Q1JFQVRFIFRZUEUgb3JnYW5pemF0aW9uLmJsb2NrX21hcCAoCiAgICBsYXN0X2FjY2Vzc2VkIGJpZ2ludCwK</text>
       </register>
       <register name="-" type="4">
         <text>Object</text>
@@ -177,31 +185,31 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">Q1JFQVRFIFRZUEUgb3JnYW5pemF0aW9uLmJsb2NrX21hcCAoCiAgICBsYXN0X2FjY2Vzc2VkIGJpZ2ludCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEdVSURfTkFNRSA9ICJndWlkX25hbWUiOwo=</text>
+        <text encoding="base64">ICAgICAgLSAiOTMwMDo5MzAwIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAiOTIwMDo5MjAwIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAgZWxhc3RpY19kYXRhOi91c3Ivc2hhcmUvZWxhc3RpY3NlYXJjaC9kYXRhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbGFzdGljc2VhcmNoOgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
