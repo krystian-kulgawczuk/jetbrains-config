@@ -57,6 +57,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1553588202852">
+        <mark key="'" line="25" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/MetadataServiceImpl.java" timestamp="1553004112760">
         <mark key="'" line="17" column="54" />
         <mark key="[" line="29" column="0" />
@@ -66,15 +69,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="25" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/impl/DbImpl.java" />
-      <jump line="104" column="25" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/impl/DbImpl.java" />
-      <jump line="109" column="25" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/impl/DbImpl.java" />
-      <jump line="114" column="25" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/impl/DbImpl.java" />
-      <jump line="21" column="46" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-manage/src/main/java/portal/agent/manage/config/security/WebSecurityConfig.java" />
-      <jump line="35" column="27" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/impl/DbImpl.java" />
-      <jump line="13" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/RegisteredAsset.java" />
-      <jump line="5" column="30" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/metadata/fields/RpcRequestColumns.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/files/azuredeploy.json" />
       <jump line="2494" column="28" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/files/azuredeploy.json" />
       <jump line="73" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
       <jump line="179" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
@@ -166,6 +160,15 @@
       <jump line="17" column="54" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/MetadataServiceImpl.java" />
       <jump line="2" column="24" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/MetadataService.java" />
       <jump line="68" column="42" filename="$USER_HOME$/Projects/gvc-group-structure/pom.xml" />
+      <jump line="73" column="36" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="28" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="29" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="30" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="31" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="32" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="49" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="50" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="25" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -175,7 +178,7 @@
         <text>Object</text>
       </register>
       <register name="/" type="4">
-        <text>surefire</text>
+        <text>cassandra</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PA==</text>
@@ -212,9 +215,9 @@
       </register>
     </registers>
     <search>
-      <last-search>surefire</last-search>
+      <last-search>cassandra</last-search>
       <last-offset />
-      <last-pattern>surefire</last-pattern>
+      <last-pattern>cassandra</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -242,6 +245,7 @@
         <entry>elastic</entry>
         <entry>kafka</entry>
         <entry>surefire</entry>
+        <entry>cassandra</entry>
       </history-search>
       <history-cmd>
         <entry>34,38y</entry>
