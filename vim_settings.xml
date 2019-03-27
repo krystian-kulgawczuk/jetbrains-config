@@ -37,6 +37,9 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="1" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/SingleElasticSearchCluster.java" timestamp="1553698026858">
+        <mark key="'" line="27" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/repository/AssetsRepository.java" timestamp="1553688373208">
         <mark key="'" line="7" column="56" />
       </file>
@@ -48,11 +51,11 @@
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/one_time_migrations/production_7_10_18.sh" timestamp="1553245340997" />
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1553677670456" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1553696933924">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="47" />
-        <mark key="." line="10" column="47" />
-        <mark key="^" line="10" column="48" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1553698208979">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="47" />
+        <mark key="." line="24" column="47" />
+        <mark key="^" line="24" column="49" />
       </file>
       <file name="/Dummy.txt" timestamp="1553693361112">
         <mark key="[" line="0" column="0" />
@@ -82,7 +85,9 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1553688304248">
         <mark key="'" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" timestamp="1553696921242" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" timestamp="1553698341297">
+        <mark key="'" line="34" column="67" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/docker-compose.yaml" timestamp="1553696998938">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -99,8 +104,6 @@
       <file name="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/config/elasticsearch/support/SingleElasticSearchCluster.java" timestamp="1553689476822" />
     </filemarks>
     <jumps>
-      <jump line="25" column="38" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" />
-      <jump line="34" column="13" filename="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/ErrorDetails.java" />
       <jump line="24" column="39" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" />
       <jump line="100" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.6.RELEASE/spring-boot-2.0.6.RELEASE.jar!/org/springframework/boot/web/reactive/error/DefaultErrorAttributes.class" />
       <jump line="87" column="37" filename="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/RestResponseExceptionHandler.java" />
@@ -177,7 +180,6 @@
       <jump line="49" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="50" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="25" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="34" column="18" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" />
       <jump line="15" column="19" filename="$USER_HOME$/Projects/gvc-summary/pom.xml" />
       <jump line="12" column="23" filename="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" />
       <jump line="17" column="38" filename="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" />
@@ -199,13 +201,16 @@
       <jump line="63" column="20" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
       <jump line="25" column="23" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
       <jump line="38" column="62" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
+      <jump line="27" column="29" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/SingleElasticSearchCluster.java" />
+      <jump line="48" column="34" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" />
+      <jump line="34" column="67" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTMwMDo5MzAwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>S4reey7</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>S4reey7</text>
       </register>
       <register name="/" type="4">
         <text>Dcos</text>
