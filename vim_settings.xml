@@ -15,6 +15,14 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/resources/application-us-dev.properties" timestamp="1553675808692" />
       <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1553516320296" />
+      <file name="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/GvcSummaryApplication.java" timestamp="1553683686113">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-summary/pom.xml" timestamp="1553684379627">
+        <mark key="'" line="86" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/local/CassandraConfigLocal.java" timestamp="1552048832800">
         <mark key="'" line="54" column="26" />
       </file>
@@ -27,6 +35,18 @@
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/CommandType.java" timestamp="1552311966936">
         <mark key="'" line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" timestamp="1553684489478">
+        <mark key="'" line="24" column="24" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" timestamp="1552300100434">
+        <mark key="'" line="25" column="48" />
+        <mark key="[" line="17" column="57" />
+        <mark key="]" line="17" column="57" />
+        <mark key="." line="17" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/one_time_migrations/production_7_10_18.sh" timestamp="1553245340997" />
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1553677670456" />
@@ -43,16 +63,23 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/MetadataService.java" timestamp="1552997933538">
         <mark key="'" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1552574304816">
-        <mark key="'" line="218" column="28" />
-        <mark key="[" line="131" column="40" />
-        <mark key="." line="131" column="54" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/backgroundjob/impl/BackgroundJobServiceImpl.java" timestamp="1552311941267">
+        <mark key="'" line="27" column="42" />
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1553246986439">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="1" />
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/config/elasticsearch/ElasticSearchConfig.java" timestamp="1553684321233" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" timestamp="1553684519150">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/docker-compose.yaml" timestamp="1553246912275">
         <mark key="[" line="3" column="0" />
@@ -69,18 +96,9 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="73" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/test/java/cdp/agent/controller/metrics/events/EventsControllerTest.java" timestamp="1553684111503" />
     </filemarks>
     <jumps>
-      <jump line="2494" column="28" filename="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/files/azuredeploy.json" />
-      <jump line="73" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
-      <jump line="179" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
-      <jump line="180" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
-      <jump line="70" column="12" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
-      <jump line="71" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
-      <jump line="72" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/azure-blobs/pom.xml" />
-      <jump line="23" column="50" filename="$USER_HOME$/Projects/gvc-agent/src/main/resources/application-us-dev.properties" />
-      <jump line="14" column="15" filename="$USER_HOME$/Projects/gvc-agent/src/main/resources/application-us-dev.properties" />
-      <jump line="28" column="30" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/factory/impl/StmFactoryImpl.java" />
       <jump line="48" column="35" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/portal/schema/config/cassandra/CassandraConfig.java" />
       <jump line="151" column="35" filename="$USER_HOME$/Projects/gvc-agent/pom.xml" />
       <jump line="47" column="33" filename="$USER_HOME$/Projects/gvc-agent/pom.xml" />
@@ -171,55 +189,65 @@
       <jump line="49" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="50" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="25" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
+      <jump line="34" column="18" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" />
+      <jump line="15" column="19" filename="$USER_HOME$/Projects/gvc-summary/pom.xml" />
+      <jump line="19" column="38" filename="$USER_HOME$/Projects/gvc-summary/pom.xml" />
+      <jump line="84" column="25" filename="$USER_HOME$/Projects/gvc-summary/pom.xml" />
+      <jump line="85" column="24" filename="$USER_HOME$/Projects/gvc-summary/pom.xml" />
+      <jump line="86" column="23" filename="$USER_HOME$/Projects/gvc-summary/pom.xml" />
+      <jump line="12" column="23" filename="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" />
+      <jump line="17" column="38" filename="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" />
+      <jump line="23" column="25" filename="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" />
+      <jump line="24" column="24" filename="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q1JFQVRFIFRZUEUgb3JnYW5pemF0aW9uLmJsb2NrX21hcCAoCiAgICBsYXN0X2FjY2Vzc2VkIGJpZ2ludCwK</text>
+        <text encoding="base64">CQlUcmFuc3BvcnRDbGllbnQuYnVpbGRlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>Object</text>
       </register>
       <register name="/" type="4">
-        <text>cassandra</text>
+        <text>elasticsearch</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q1JFQVRFIFRZUEUgb3JnYW5pemF0aW9uLmJsb2NrX21hcCAoCiAgICBsYXN0X2FjY2Vzc2VkIGJpZ2ludCwK</text>
+        <text encoding="base64">CQlUcmFuc3BvcnRDbGllbnQuYnVpbGRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTMwMDo5MzAwIgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLnRyYW5zcG9ydC5jbGllbnQuUHJlQnVpbHRUcmFuc3BvcnRDbGllbnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTIwMDo5MjAwIgo=</text>
+        <text encoding="base64">CQlUcmFuc3BvcnRDbGllbnQuYnVpbGRlcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogZXMK</text>
+        <text encoding="base64">CQljbGllbnQuYWRkVHJhbnNwb3J0QWRkcmVzc2VzKHNlYXJjaENsdXN0ZXIubm9kZVRyYW5zcG9ydEFkZHJlc3NlcygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOgo=</text>
+        <text encoding="base64">CQlUcmFuc3BvcnRDbGllbnQgY2xpZW50ID0gbmV3IFByZUJ1aWx0VHJhbnNwb3J0Q2xpZW50KHNldHRpbmdzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAgZWxhc3RpY19kYXRhOi91c3Ivc2hhcmUvZWxhc3RpY3NlYXJjaC9kYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gY2xpZW50Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbGFzdGljc2VhcmNoOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
       </register>
     </registers>
     <search>
-      <last-search>cassandra</last-search>
+      <last-search>elasticsearch</last-search>
       <last-offset />
-      <last-pattern>cassandra</last-pattern>
+      <last-pattern>elasticsearch</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -248,6 +276,7 @@
         <entry>kafka</entry>
         <entry>surefire</entry>
         <entry>cassandra</entry>
+        <entry>elasticsearch</entry>
       </history-search>
       <history-cmd>
         <entry>34,38y</entry>
