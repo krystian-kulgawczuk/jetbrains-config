@@ -48,7 +48,15 @@
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/elasticsearch/migration/one_time_migrations/production_7_10_18.sh" timestamp="1553245340997" />
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1553677670456" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1553690767320" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1553693536255">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="44" />
+        <mark key="." line="28" column="44" />
+        <mark key="^" line="27" column="51" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553693361112">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/gvc.md" timestamp="1552574312247">
         <mark key="'" line="89" column="6" />
       </file>
@@ -86,6 +94,9 @@
         <mark key="'" line="25" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/test/java/cdp/agent/controller/metrics/events/EventsControllerTest.java" timestamp="1553684111503" />
+      <file name="/fragment.java" timestamp="1553693361087">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/config/elasticsearch/support/SingleElasticSearchCluster.java" timestamp="1553689476822" />
     </filemarks>
     <jumps>
@@ -192,10 +203,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>24</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>24</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>elasticsearch</text>
