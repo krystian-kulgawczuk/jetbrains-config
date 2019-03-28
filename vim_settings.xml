@@ -60,11 +60,11 @@
         <mark key="]" line="17" column="57" />
         <mark key="." line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1553779093309">
-        <mark key="[" line="1" column="45" />
-        <mark key="]" line="1" column="45" />
-        <mark key="." line="1" column="45" />
-        <mark key="^" line="1" column="49" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1553779942441">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+        <mark key="^" line="17" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1553693361112">
         <mark key="[" line="0" column="0" />
@@ -215,8 +215,8 @@
       <jump line="18" column="26" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/SingleElasticSearchCluster.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>127.0.0.1</text>
       </register>
       <register name="-" type="4">
         <text>127.0.0.1</text>
