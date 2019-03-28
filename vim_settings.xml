@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/KfMessageEvent.java" timestamp="1553781343719">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+        <mark key="^" line="32" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/backgroundjob/BackgroundJobController.java" timestamp="1552311899160">
         <mark key="'" line="22" column="28" />
       </file>
@@ -14,10 +20,13 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" timestamp="1553692141891">
         <mark key="'" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/GvcSummaryApplication.java" timestamp="1553683686113">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/GvcSummaryApplication.java" timestamp="1553784781450">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/config/kafka/KafkaConsumerConfig.java" timestamp="1553784543091">
+        <mark key="'" line="29" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-summary/pom.xml" timestamp="1553689641268">
         <mark key="'" line="19" column="38" />
@@ -46,7 +55,7 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/SingleElasticSearchCluster.java" timestamp="1553770151571">
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/SingleElasticSearchCluster.java" timestamp="1553784192997">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="17" />
         <mark key="." line="18" column="17" />
@@ -60,18 +69,26 @@
         <mark key="]" line="17" column="57" />
         <mark key="." line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1553779942441">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="46" />
-        <mark key="^" line="17" column="46" />
+      <file name="$USER_HOME$/Projects/gvc-summary/src/main/resources/application-us-dev.properties" timestamp="1553784698006">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+        <mark key="^" line="2" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553693361112">
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1553784871866">
+        <mark key="[" line="1" column="58" />
+        <mark key="]" line="1" column="59" />
+        <mark key="." line="1" column="59" />
+        <mark key="^" line="21" column="68" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553784631886">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/gvc.md" timestamp="1552574312247">
         <mark key="'" line="89" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/config/kafka/KafkaDiscoveryConfig.java" timestamp="1553784577992" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/CdpEvents.java" timestamp="1553784787512" />
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/MetadataService.java" timestamp="1552997933538">
         <mark key="'" line="2" column="24" />
       </file>
@@ -81,8 +98,11 @@
         <mark key="]" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" timestamp="1553780576382">
-        <mark key="'" line="38" column="62" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" timestamp="1553784809026">
+        <mark key="'" line="60" column="83" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1553246986439">
         <mark key="[" line="11" column="0" />
@@ -100,7 +120,7 @@
         <mark key="^" line="35" column="127" />
         <mark key="." line="35" column="127" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/docker-compose.yaml" timestamp="1553779274135">
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/docker-compose.yaml" timestamp="1553782141881">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -108,14 +128,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1553588202852">
         <mark key="'" line="25" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1553693361087">
+      <file name="/fragment.java" timestamp="1553784631871">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="52" filename="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/handler/RestResponseExceptionHandler.java" />
-      <jump line="30" column="44" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" />
-      <jump line="12" column="13" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/exception/AppException.java" />
       <jump line="33" column="56" filename="$USER_HOME$/Projects/gvc-agent/src/main/java/agent/common/config/error/ErrorConfig.java" />
       <jump line="136" column="21" filename="$USER_HOME$/Projects/gvc-agent/pom.xml" />
       <jump line="109" column="19" filename="$USER_HOME$/Projects/gvc-agent/pom.xml" />
@@ -204,7 +221,6 @@
       <jump line="17" column="24" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" />
       <jump line="73" column="71" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
       <jump line="61" column="54" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
-      <jump line="63" column="20" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
       <jump line="25" column="23" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
       <jump line="38" column="62" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
       <jump line="27" column="29" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/SingleElasticSearchCluster.java" />
@@ -213,10 +229,14 @@
       <jump line="35" column="82" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" />
       <jump line="46" column="39" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" />
       <jump line="18" column="26" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/SingleElasticSearchCluster.java" />
+      <jump line="37" column="49" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
+      <jump line="29" column="86" filename="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/config/kafka/KafkaConsumerConfig.java" />
+      <jump line="63" column="37" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
+      <jump line="60" column="83" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>127.0.0.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>127.0.0.1</text>
@@ -231,28 +251,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRyaXZlcjogbG9jYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbGFzdGljX2RhdGE6Cg==</text>
+        <text encoding="base64">CUBCZWFuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRyaXZlcjogbG9jYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYXNzYW5kcmFfZGF0YToK</text>
+        <text encoding="base64">ICAgIGRyaXZlcjogbG9jYWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dm9sdW1lczoK</text>
+        <text encoding="base64">ICBlbGFzdGljX2RhdGE6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAiOTA0Mjo5MDQyIgo=</text>
+        <text encoding="base64">ICAgIGRyaXZlcjogbG9jYWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">ICBjYXNzYW5kcmFfZGF0YToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogY2Fzc2FuZHJhCg==</text>
+        <text encoding="base64">dm9sdW1lczoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
