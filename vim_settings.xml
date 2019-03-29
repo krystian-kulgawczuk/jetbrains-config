@@ -12,7 +12,9 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/backgroundjob/BackgroundJobController.java" timestamp="1552311899160">
         <mark key="'" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-integration-api/src/main/java/portal/integration/controller/AssetController.java" timestamp="1553856936628" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-integration-api/src/main/java/portal/integration/controller/AssetController.java" timestamp="1553858401869">
+        <mark key="'" line="23" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" timestamp="1553846993229">
         <mark key="'" line="17" column="24" />
       </file>
@@ -105,9 +107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="52" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/metadata/ProtectionConfigurationColumns.java" />
-      <jump line="15" column="15" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/Quota.java" />
-      <jump line="19" column="46" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/Quota.java" />
       <jump line="13" column="16" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/Quota.java" />
       <jump line="15" column="19" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/Storage.java" />
       <jump line="9" column="47" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/Volume.java" />
@@ -205,6 +204,9 @@
       <jump line="30" column="23" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" />
       <jump line="30" column="54" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" />
       <jump line="24" column="26" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" />
+      <jump line="26" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-integration-api/src/main/java/portal/integration/controller/AssetController.java" />
+      <jump line="21" column="48" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-integration-api/src/main/java/portal/integration/controller/AssetController.java" />
+      <jump line="23" column="47" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-integration-api/src/main/java/portal/integration/controller/AssetController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
