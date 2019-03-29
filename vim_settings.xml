@@ -51,15 +51,14 @@
         <mark key="'" line="89" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/CdpEvents.java" timestamp="1553784787512" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" timestamp="1553855604750">
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" timestamp="1553868272507">
         <mark key="'" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/dev/notes/cassandra.md" timestamp="1553852631113" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/resources/application.properties" timestamp="1553861106172">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="12" column="58" />
-        <mark key="^" line="12" column="58" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/resources/application.properties" timestamp="1553867392350">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/KfMessageEvent.java" timestamp="1553781343719">
         <mark key="[" line="32" column="16" />
@@ -108,21 +107,18 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/MetadataService.java" timestamp="1552997933538">
         <mark key="'" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" timestamp="1553784809026">
-        <mark key="'" line="60" column="83" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1553860622233">
-        <mark key="'" line="30" column="38" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/security/JwtUser.java" timestamp="1553867765385" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1553867600001">
+        <mark key="'" line="25" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1553588202852">
         <mark key="'" line="25" column="26" />
       </file>
+      <file name="/fragment.java" timestamp="1553868093808">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="26" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/local/CassandraConfigLocal.java" />
       <jump line="30" column="17" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/MetadataServiceImpl.java" />
       <jump line="25" column="57" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/command/controller/CommandController.java" />
       <jump line="3" column="21" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/command/CommandService.java" />
@@ -222,10 +218,11 @@
       <jump line="23" column="24" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/security/RemoteJwtAuthenticationFilter.java" />
       <jump line="36" column="26" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/WebSecurityConfig.java" />
       <jump line="35" column="61" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/security/RemoteJwtAuthenticationFilter.java" />
+      <jump line="25" column="41" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCS5hZGRGaWx0ZXJBZnRlcihqd3RBdXRoZW50aWNhdGlvbkZpbHRlciwgU2VjdXJpdHlDb250ZXh0UGVyc2lzdGVuY2VGaWx0ZXIuY2xhc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -237,31 +234,31 @@
         <text>searchCluster.nodeTransportAddresses(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCS5hZGRGaWx0ZXJBZnRlcihqd3RBdXRoZW50aWNhdGlvbkZpbHRlciwgU2VjdXJpdHlDb250ZXh0UGVyc2lzdGVuY2VGaWx0ZXIuY2xhc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uKGV4Y2x1ZGUgPSB7U2VjdXJpdHlBdXRvQ29uZmlndXJhdGlvbi5jbGFzc30pCg==</text>
+        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkPWZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">c2VjdXJpdHkuYmFzaWMuZW5hYmxlZD1mYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLCAiL2Zhdmljb24uaWNvIgo=</text>
+        <text encoding="base64">c2VjdXJpdHkuaWdub3JlZD0vKioK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJhbmNoX25hbWUgPSAiJHtlbnYuQlJBTkNIX05BTUV9Ii5yZXBsYWNlKCcvJywgJy0nKQo=</text>
+        <text encoding="base64">CQkJCS5hZGRGaWx0ZXJBZnRlcihqd3RBdXRoZW50aWNhdGlvbkZpbHRlciwgU2VjdXJpdHlDb250ZXh0UGVyc2lzdGVuY2VGaWx0ZXIuY2xhc3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggImVjaG8gYnJhbmNoIGVudiB2MjogJHtCUkFOQ0hfTkFNRX0iCg==</text>
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uKGV4Y2x1ZGUgPSB7U2VjdXJpdHlBdXRvQ29uZmlndXJhdGlvbi5jbGFzc30pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggImVjaG8gYnJhbmNoIGVudiB2MjogJHtCUkFOQ0hfTkFNRX0iCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggImVjaG8gYnJhbmNoIGVudjogJHtlbnYuQlJBTkNIX05BTUV9Igo=</text>
+        <text encoding="base64">CQkJLCAiL2Zhdmljb24uaWNvIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggImVjaG8gdGhpcyAgYnJhbmNoOiAke2JyYW5jaF9uYW1lfSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJhbmNoX25hbWUgPSAiJHtlbnYuQlJBTkNIX05BTUV9Ii5yZXBsYWNlKCcvJywgJy0nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
