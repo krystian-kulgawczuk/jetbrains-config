@@ -23,6 +23,12 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/CommandType.java" timestamp="1552311966936">
         <mark key="'" line="11" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" timestamp="1553764867606">
+        <mark key="'" line="24" column="24" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/SingleElasticSearchCluster.java" timestamp="1553784192997">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="17" />
@@ -33,6 +39,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="23" column="11" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" timestamp="1552300100434">
+        <mark key="'" line="25" column="48" />
+        <mark key="[" line="17" column="57" />
+        <mark key="]" line="17" column="57" />
+        <mark key="." line="17" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-summary/src/main/resources/application-us-dev.properties" timestamp="1553784698006">
         <mark key="[" line="2" column="24" />
@@ -51,6 +63,12 @@
         <mark key="'" line="89" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/CdpEvents.java" timestamp="1553784787512" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/command/controller/CommandController.java" timestamp="1553871651210">
+        <mark key="'" line="19" column="75" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" timestamp="1553869465651">
         <mark key="'" line="30" column="25" />
       </file>
@@ -107,9 +125,15 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/MetadataService.java" timestamp="1552997933538">
         <mark key="'" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/backgroundjob/impl/BackgroundJobServiceImpl.java" timestamp="1552311941267">
+        <mark key="'" line="27" column="42" />
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/security/JwtUser.java" timestamp="1553867765385" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1553870954720">
-        <mark key="'" line="25" column="41" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1553871552973">
+        <mark key="'" line="25" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1553588202852">
         <mark key="'" line="25" column="26" />
@@ -119,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="21" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/command/CommandService.java" />
       <jump line="22" column="11" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/command/controller/CommandController.java" />
       <jump line="25" column="48" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" />
       <jump line="21" column="64" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/backgroundjob/BackgroundJobController.java" />
@@ -218,11 +241,12 @@
       <jump line="36" column="26" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/WebSecurityConfig.java" />
       <jump line="30" column="21" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" />
       <jump line="28" column="32" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" />
-      <jump line="25" column="41" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" />
+      <jump line="25" column="40" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" />
+      <jump line="19" column="75" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/command/controller/CommandController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVtZWFkb2cxCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -234,31 +258,31 @@
         <text>searchCluster.nodeTransportAddresses(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVtZWFkb2cxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkPWZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VjdXJpdHkuYmFzaWMuZW5hYmxlZD1mYWxzZQo=</text>
+        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkPWZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VjdXJpdHkuaWdub3JlZD0vKioK</text>
+        <text encoding="base64">c2VjdXJpdHkuYmFzaWMuZW5hYmxlZD1mYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS5hZGRGaWx0ZXJBZnRlcihqd3RBdXRoZW50aWNhdGlvbkZpbHRlciwgU2VjdXJpdHlDb250ZXh0UGVyc2lzdGVuY2VGaWx0ZXIuY2xhc3MpCg==</text>
+        <text encoding="base64">c2VjdXJpdHkuaWdub3JlZD0vKioK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uKGV4Y2x1ZGUgPSB7U2VjdXJpdHlBdXRvQ29uZmlndXJhdGlvbi5jbGFzc30pCg==</text>
+        <text encoding="base64">CQkJCS5hZGRGaWx0ZXJBZnRlcihqd3RBdXRoZW50aWNhdGlvbkZpbHRlciwgU2VjdXJpdHlDb250ZXh0UGVyc2lzdGVuY2VGaWx0ZXIuY2xhc3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uKGV4Y2x1ZGUgPSB7U2VjdXJpdHlBdXRvQ29uZmlndXJhdGlvbi5jbGFzc30pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLCAiL2Zhdmljb24uaWNvIgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJhbmNoX25hbWUgPSAiJHtlbnYuQlJBTkNIX05BTUV9Ii5yZXBsYWNlKCcvJywgJy0nKQo=</text>
+        <text encoding="base64">CQkJLCAiL2Zhdmljb24uaWNvIgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
