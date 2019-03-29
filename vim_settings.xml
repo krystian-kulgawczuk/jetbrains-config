@@ -69,10 +69,11 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1553784907361">
-        <mark key="[" line="14" column="72" />
-        <mark key="]" line="14" column="73" />
-        <mark key="." line="14" column="73" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1553846230989">
+        <mark key="'" line="19" column="39" />
+        <mark key="[" line="21" column="55" />
+        <mark key="]" line="21" column="55" />
+        <mark key="." line="21" column="55" />
         <mark key="^" line="21" column="68" />
       </file>
       <file name="/Dummy.txt" timestamp="1553784631886">
@@ -128,8 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="36" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/Metadata.java" />
-      <jump line="12" column="66" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/Metadata.java" />
       <jump line="19" column="9" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/Metadata.java" />
       <jump line="15" column="60" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/Name.java" />
       <jump line="17" column="15" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/model/agent/OracleSummaryMetadata.java" />
@@ -228,16 +227,18 @@
       <jump line="939" column="61" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="940" column="76" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="957" column="55" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
+      <jump line="17" column="46" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" />
+      <jump line="19" column="39" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>192.168.99.100</text>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text>192.168.99.100</text>
       </register>
       <register name="/" type="4">
-        <text>roles</text>
+        <text>kafka</text>
       </register>
       <register name="0" type="4">
         <text>searchCluster.nodeTransportAddresses(</text>
@@ -274,9 +275,9 @@
       </register>
     </registers>
     <search>
-      <last-search>roles</last-search>
+      <last-search>kafka</last-search>
       <last-offset />
-      <last-pattern>roles</last-pattern>
+      <last-pattern>kafka</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -299,7 +300,6 @@
         <entry>public</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry>elastic</entry>
-        <entry>kafka</entry>
         <entry>surefire</entry>
         <entry>cassandra</entry>
         <entry>elasticsearch</entry>
@@ -309,6 +309,7 @@
         <entry>organiztion</entry>
         <entry>user_roles</entry>
         <entry>roles</entry>
+        <entry>kafka</entry>
       </history-search>
       <history-cmd>
         <entry>34,38y</entry>
