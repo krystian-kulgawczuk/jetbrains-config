@@ -103,6 +103,7 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-summary/Jenkinsfile.groovy" timestamp="1554119694655" />
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/WebSecurityConfig.java" timestamp="1553869626612">
         <mark key="'" line="36" column="26" />
         <mark key="[" line="39" column="0" />
@@ -110,18 +111,14 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1554117408545">
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1554120812785">
         <mark key="'" line="19" column="39" />
         <mark key="[" line="24" column="47" />
         <mark key="]" line="24" column="55" />
         <mark key="." line="24" column="55" />
         <mark key="^" line="24" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554102575016">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="7" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1554120135776" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1554107766844">
         <mark key="'" line="266" column="9" />
       </file>
@@ -155,9 +152,11 @@
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1554105294899">
         <mark key="'" line="1111" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/config/elasticsearch/ElasticSearchConfig.java" timestamp="1554119796310" />
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1553871552973">
         <mark key="'" line="25" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" timestamp="1554119801311" />
       <file name="$USER_HOME$/dev/notes/cassandra.md" timestamp="1554115726784" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1553588202852">
         <mark key="'" line="25" column="26" />
@@ -274,53 +273,53 @@
       <jump line="1111" column="13" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mesos-ha</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJfSBlbHNlIHsK</text>
       </register>
       <register name="-" type="4">
         <text>mesos-ha</text>
       </register>
       <register name="/" type="4">
-        <text>organization.organization</text>
+        <text>elastic</text>
       </register>
       <register name="0" type="4">
         <text>searchCluster.nodeTransportAddresses(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi50cmFuc3BvcnQuSW5ldFNvY2tldFRyYW5zcG9ydEFkZHJlc3M7Cg==</text>
+        <text encoding="base64">CQkJfSBlbHNlIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi50cmFuc3BvcnQuSW5ldFNvY2tldFRyYW5zcG9ydEFkZHJlc3M7Cg==</text>
+        <text encoding="base64">CQkJCXJldHVybiBuZXcgRGNvc0VsYXN0aWNTZWFyY2hDbHVzdGVyKHRoaXMuZGNvc1VybCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi50cmFuc3BvcnQuSW5ldFNvY2tldFRyYW5zcG9ydEFkZHJlc3M7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmVtZWFkb2cxCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi50cmFuc3BvcnQuSW5ldFNvY2tldFRyYW5zcG9ydEFkZHJlc3M7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi50cmFuc3BvcnQuSW5ldFNvY2tldFRyYW5zcG9ydEFkZHJlc3M7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkPWZhbHNlCg==</text>
+        <text encoding="base64">dmVtZWFkb2cxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VjdXJpdHkuYmFzaWMuZW5hYmxlZD1mYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VjdXJpdHkuaWdub3JlZD0vKioK</text>
+        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkPWZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS5hZGRGaWx0ZXJBZnRlcihqd3RBdXRoZW50aWNhdGlvbkZpbHRlciwgU2VjdXJpdHlDb250ZXh0UGVyc2lzdGVuY2VGaWx0ZXIuY2xhc3MpCg==</text>
+        <text encoding="base64">c2VjdXJpdHkuYmFzaWMuZW5hYmxlZD1mYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
       </register>
     </registers>
     <search>
-      <last-search>organization.organization</last-search>
+      <last-search>elastic</last-search>
       <last-offset />
-      <last-pattern>organization.organization</last-pattern>
+      <last-pattern>elastic</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -333,7 +332,6 @@
         <entry>private</entry>
         <entry>public</entry>
         <entry encoding="base64">XDxpZFw+</entry>
-        <entry>elastic</entry>
         <entry>surefire</entry>
         <entry>cassandra</entry>
         <entry>elasticsearch</entry>
@@ -348,6 +346,7 @@
         <entry>assigned_organizations</entry>
         <entry>user</entry>
         <entry>organization.organization</entry>
+        <entry>elastic</entry>
       </history-search>
       <history-cmd>
         <entry>34,38y</entry>
