@@ -110,12 +110,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1553856255455">
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1554116575908">
         <mark key="'" line="19" column="39" />
-        <mark key="[" line="21" column="55" />
-        <mark key="]" line="21" column="55" />
-        <mark key="." line="21" column="55" />
-        <mark key="^" line="21" column="68" />
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="46" />
+        <mark key="." line="24" column="46" />
+        <mark key="^" line="24" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1554102575016">
         <mark key="[" line="0" column="0" />
@@ -275,10 +275,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>mesos-ha</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>mesos-ha</text>
       </register>
       <register name="/" type="4">
         <text>organization.organization</text>
