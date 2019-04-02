@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" timestamp="1554127639007">
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" timestamp="1554189608187">
         <mark key="'" line="15" column="62" />
-        <mark key="[" line="49" column="37" />
-        <mark key="]" line="49" column="39" />
-        <mark key="." line="49" column="39" />
-        <mark key="^" line="49" column="39" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/KfMessageEvent.java" timestamp="1554100565751">
         <mark key="[" line="32" column="16" />
@@ -107,13 +107,6 @@
         <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-summary/Jenkinsfile.groovy" timestamp="1554119694655" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/WebSecurityConfig.java" timestamp="1553869626612">
-        <mark key="'" line="36" column="26" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="38" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1554125262407">
         <mark key="'" line="19" column="39" />
         <mark key="[" line="24" column="47" />
@@ -121,12 +114,13 @@
         <mark key="." line="24" column="55" />
         <mark key="^" line="24" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554127871447">
+      <file name="/Dummy.txt" timestamp="1554189634828">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1554107766844">
         <mark key="'" line="266" column="9" />
       </file>
+      <file name="/MarathonElasticSearchCluster.java" timestamp="1554189595521" />
       <file name="$USER_HOME$/Documents/gvc.md" timestamp="1552574312247">
         <mark key="'" line="89" column="6" />
       </file>
@@ -172,6 +166,9 @@
         <mark key="]" line="12" column="55" />
         <mark key="^" line="12" column="49" />
         <mark key="." line="12" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/deploy/marathon-template.json" timestamp="1554189420621">
+        <mark key="[" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/dev/notes/cassandra.md" timestamp="1554115726784" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1553588202852">
@@ -289,8 +286,8 @@
       <jump line="15" column="62" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJdGhyb3cgbmV3IEV4Y2VwdGlvbigiQ2FuJ3QgY2FsY3VsYXRlIHRyYW5zcG9ydCBhZHJlc3NlcyBpbiBkY29zIiwgZXgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -305,28 +302,28 @@
         <text encoding="base64">CQkJdGhyb3cgbmV3IEV4Y2VwdGlvbigiQ2FuJ3QgY2FsY3VsYXRlIHRyYW5zcG9ydCBhZHJlc3NlcyBpbiBkY29zIiwgZXgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJfSBlbHNlIHsK</text>
+        <text encoding="base64">CQkJdGhyb3cgbmV3IEV4Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBuZXcgRGNvc0VsYXN0aWNTZWFyY2hDbHVzdGVyKHRoaXMuZGNvc1VybCk7Cg==</text>
+        <text encoding="base64">CQkJdGhyb3cgbmV3IEV4Y2VwdGlvbigiQ2FuJ3QgY2FsY3VsYXRlIHRyYW5zcG9ydCBhZHJlc3NlcyBpbiBkY29zIiwgZXgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi50cmFuc3BvcnQuSW5ldFNvY2tldFRyYW5zcG9ydEFkZHJlc3M7Cg==</text>
+        <text encoding="base64">CQkJfSBlbHNlIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi50cmFuc3BvcnQuSW5ldFNvY2tldFRyYW5zcG9ydEFkZHJlc3M7Cg==</text>
+        <text encoding="base64">CQkJCXJldHVybiBuZXcgRGNvc0VsYXN0aWNTZWFyY2hDbHVzdGVyKHRoaXMuZGNvc1VybCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi50cmFuc3BvcnQuSW5ldFNvY2tldFRyYW5zcG9ydEFkZHJlc3M7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmVtZWFkb2cxCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi50cmFuc3BvcnQuSW5ldFNvY2tldFRyYW5zcG9ydEFkZHJlc3M7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNvbW1vbi50cmFuc3BvcnQuSW5ldFNvY2tldFRyYW5zcG9ydEFkZHJlc3M7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWFuYWdlbWVudC5zZWN1cml0eS5lbmFibGVkPWZhbHNlCg==</text>
+        <text encoding="base64">dmVtZWFkb2cxCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
