@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" timestamp="1554210926836">
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" timestamp="1554211055161">
         <mark key="'" line="15" column="56" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="14" column="94" />
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/KfMessageEvent.java" timestamp="1554100565751">
         <mark key="[" line="32" column="16" />
@@ -52,11 +52,12 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/local/CassandraConfigLocal.java" timestamp="1552048832800">
         <mark key="'" line="54" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/SingleElasticSearchCluster.java" timestamp="1554210587120">
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="31" column="27" />
-        <mark key="." line="31" column="27" />
-        <mark key="^" line="30" column="71" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/SingleElasticSearchCluster.java" timestamp="1554213874334">
+        <mark key="'" line="7" column="60" />
+        <mark key="[" line="11" column="79" />
+        <mark key="]" line="11" column="79" />
+        <mark key="^" line="10" column="56" />
+        <mark key="." line="11" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/CommandType.java" timestamp="1552311966936">
         <mark key="'" line="11" column="4" />
@@ -106,14 +107,14 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1554209784323">
-        <mark key="'" line="19" column="39" />
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="26" column="52" />
-        <mark key="." line="26" column="52" />
-        <mark key="^" line="26" column="50" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1554213505692">
+        <mark key="'" line="4" column="27" />
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="68" />
+        <mark key="." line="16" column="68" />
+        <mark key="^" line="16" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554208229189">
+      <file name="/Dummy.txt" timestamp="1554213905802">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1554107766844">
@@ -140,12 +141,12 @@
         <mark key="]" line="17" column="37" />
         <mark key="." line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchCluster.java" timestamp="1554210518049">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="6" column="29" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchCluster.java" timestamp="1554213176267">
+        <mark key="'" line="6" column="21" />
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+        <mark key="^" line="7" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" timestamp="1553784809026">
         <mark key="'" line="60" column="83" />
@@ -159,13 +160,13 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1553871552973">
         <mark key="'" line="25" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" timestamp="1554209829354">
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" timestamp="1554213862470">
         <mark key="v" line="41" column="8" />
-        <mark key="'" line="49" column="40" />
-        <mark key="[" line="49" column="61" />
-        <mark key="]" line="49" column="75" />
-        <mark key="." line="49" column="75" />
-        <mark key="^" line="49" column="75" />
+        <mark key="'" line="48" column="24" />
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+        <mark key="^" line="24" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/deploy/marathon-template.json" timestamp="1554189420621">
         <mark key="[" line="9" column="30" />
@@ -183,11 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="25" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="15" column="19" filename="$USER_HOME$/Projects/gvc-summary/pom.xml" />
-      <jump line="12" column="23" filename="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" />
-      <jump line="17" column="38" filename="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" />
       <jump line="23" column="25" filename="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" />
       <jump line="24" column="24" filename="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" />
       <jump line="29" column="30" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" />
@@ -281,57 +277,62 @@
       <jump line="40" column="46" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
       <jump line="49" column="40" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" />
       <jump line="28" column="33" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
-      <jump line="6" column="20" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchCluster.java" />
       <jump line="15" column="56" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
+      <jump line="48" column="24" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" />
+      <jump line="6" column="21" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchCluster.java" />
+      <jump line="13" column="41" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" />
+      <jump line="6" column="27" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" />
+      <jump line="4" column="27" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" />
+      <jump line="7" column="60" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/SingleElasticSearchCluster.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl0aGlzLnBvcnQgPSBwb3J0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>url, port</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>elastic</text>
+        <text>true</text>
       </register>
       <register name="0" type="4">
-        <text>searchCluster.nodeTransportAddresses(</text>
+        <text>new SingleElasticSearchCluster(this.dcosUrl, this.dcosPort);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl0aGlzLnBvcnQgPSBwb3J0Owo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkZHJlc3MgPSBuZXcgVHJhbnNwb3J0QWRkcmVzcyhuZXcgSW5ldFNvY2tldEFkZHJlc3MoYWRkcmVzcywgcG9ydCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl0aGlzLnVybCA9IHVybDsK</text>
+        <text encoding="base64">CQl0cnkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgU3RyaW5nIHVybDsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgaW50IHBvcnQ7Cg==</text>
+        <text encoding="base64">CQkJbG9nLmluZm8oIkNhdWdodCB0cmFuc3BvcnQgY2xpZW50OiB7fSIsIGV4KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5SZXN0VGVtcGxhdGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5ub2RlLkFycmF5Tm9kZTsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5Kc29uTm9kZTsK</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3IFNpbmdsZUVsYXN0aWNTZWFyY2hDbHVzdGVyKHRoaXMuZGNvc1VybCwgdGhpcy5kY29zUG9ydCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLnV0aWwuT2JqZWN0cy5pc051bGw7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgRWxhc3RpY1NlYXJjaENsdXN0ZXIgZWxhc3RpY1NlYXJjaENsdXN0ZXIoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
       </register>
     </registers>
     <search>
-      <last-search>elastic</last-search>
+      <last-search>true</last-search>
       <last-offset />
-      <last-pattern>elastic</last-pattern>
+      <last-pattern>true</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -359,6 +360,7 @@
         <entry>user</entry>
         <entry>organization.organization</entry>
         <entry>elastic</entry>
+        <entry>true</entry>
       </history-search>
       <history-cmd>
         <entry>34,38y</entry>
