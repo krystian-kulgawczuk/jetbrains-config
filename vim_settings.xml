@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" timestamp="1554204459504">
-        <mark key="'" line="27" column="51" />
-        <mark key="[" line="45" column="66" />
-        <mark key="]" line="45" column="66" />
-        <mark key="." line="45" column="66" />
-        <mark key="^" line="45" column="69" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" timestamp="1554208193859">
+        <mark key="'" line="40" column="46" />
+        <mark key="[" line="40" column="49" />
+        <mark key="]" line="40" column="50" />
+        <mark key="." line="40" column="50" />
+        <mark key="^" line="39" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/KfMessageEvent.java" timestamp="1554100565751">
         <mark key="[" line="32" column="16" />
@@ -113,14 +113,14 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1554204289255">
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1554206881207">
         <mark key="'" line="19" column="39" />
         <mark key="[" line="24" column="47" />
         <mark key="]" line="24" column="55" />
         <mark key="." line="24" column="55" />
         <mark key="^" line="24" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554204522928">
+      <file name="/Dummy.txt" timestamp="1554208229189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1554107766844">
@@ -166,7 +166,7 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1553871552973">
         <mark key="'" line="25" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" timestamp="1554205079406">
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" timestamp="1554205824385">
         <mark key="v" line="41" column="8" />
         <mark key="'" line="41" column="8" />
         <mark key="[" line="29" column="45" />
@@ -190,8 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
-      <jump line="31" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="32" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="49" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
       <jump line="50" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" />
@@ -290,10 +288,12 @@
       <jump line="40" column="48" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" />
       <jump line="41" column="8" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" />
+      <jump line="39" column="33" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
+      <jump line="40" column="46" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dGFzay5nZXQoImhvc3QiKS5hc1RleHQoKTsKCQkJCWludCBwb3J0ID0gdGFzay5nZXQoInBvcnRzIikuZ2V0KDEpLmFzSW50KCk7CgkJCQl0cmFuc3BvcnRBZGRyZXNzZXMuYWRkKG5ldyBUcmFuc3BvcnRBZGRyZXNzKG5ldyBJbmV0U29ja2V0QWRkcmVzcyhob3N0LCBwb3J0KSkpOwoJCQl9CgkJCXJldHVybiB0cmFuc3BvcnRBZGRyZXNzZXMudG9BcnJheShuZXcgVHJhbnNwb3J0QWRkcmVzc1swXSk7CgkJfSBjYXRjaCAoRXhjZXB0aW9uIGV4KSB7CgkJICAgIHRocm93IG5ldyBFeGNlcHRpb24oIkZhaWxlZCB0byBnZXQgZWxhc3RpY3NlYXJjaCBub2RlcyIsIGV4KTsKCQl9Cgk=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -304,32 +304,32 @@
       <register name="0" type="4">
         <text>searchCluster.nodeTransportAddresses(</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">dGFzay5nZXQoImhvc3QiKS5hc1RleHQoKTsKCQkJCWludCBwb3J0ID0gdGFzay5nZXQoInBvcnRzIikuZ2V0KDEpLmFzSW50KCk7CgkJCQl0cmFuc3BvcnRBZGRyZXNzZXMuYWRkKG5ldyBUcmFuc3BvcnRBZGRyZXNzKG5ldyBJbmV0U29ja2V0QWRkcmVzcyhob3N0LCBwb3J0KSkpOwoJCQl9CgkJCXJldHVybiB0cmFuc3BvcnRBZGRyZXNzZXMudG9BcnJheShuZXcgVHJhbnNwb3J0QWRkcmVzc1swXSk7CgkJfSBjYXRjaCAoRXhjZXB0aW9uIGV4KSB7CgkJICAgIHRocm93IG5ldyBFeGNlcHRpb24oIkZhaWxlZCB0byBnZXQgZWxhc3RpY3NlYXJjaCBub2RlcyIsIGV4KTsKCQl9Cgk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljbGllbnQuYWRkVHJhbnNwb3J0QWRkcmVzc2VzKHNlYXJjaENsdXN0ZXIubm9kZVRyYW5zcG9ydEFkZHJlc3NlcygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQljbGllbnQuYWRkVHJhbnNwb3J0QWRkcmVzc2VzKHNlYXJjaENsdXN0ZXIubm9kZVRyYW5zcG9ydEFkZHJlc3NlcygpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IFRyYW5zcG9ydEFkZHJlc3NbXSB7fTsK</text>
+        <text encoding="base64">CQljbGllbnQuYWRkVHJhbnNwb3J0QWRkcmVzc2VzKHNlYXJjaENsdXN0ZXIubm9kZVRyYW5zcG9ydEFkZHJlc3NlcygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJbG9nLmVycm9yKGV4LmdldFN0YWNrVHJhY2UoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3IFRyYW5zcG9ydEFkZHJlc3NbXSB7fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJbG9nLmVycm9yKGV4LmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">CQkJbG9nLmVycm9yKGV4LmdldFN0YWNrVHJhY2UoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJbG9nLmVycm9yKGV4LnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">CQkJbG9nLmVycm9yKGV4LmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IEV4Y2VwdGlvbigiQ2FuJ3QgY2FsY3VsYXRlIHRyYW5zcG9ydCBhZHJlc3NlcyBpbiBkY29zIiwgZXgpOwo=</text>
+        <text encoding="base64">CQkJbG9nLmVycm9yKGV4LnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IEV4Cg==</text>
+        <text encoding="base64">CQkJdGhyb3cgbmV3IEV4Y2VwdGlvbigiQ2FuJ3QgY2FsY3VsYXRlIHRyYW5zcG9ydCBhZHJlc3NlcyBpbiBkY29zIiwgZXgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
