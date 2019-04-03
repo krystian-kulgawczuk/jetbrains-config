@@ -30,6 +30,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-integration-api/src/main/java/portal/integration/controller/AssetController.java" timestamp="1553858401869">
         <mark key="'" line="23" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/controller/metrics/metadata/MetadataController.java" timestamp="1554281417161">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" timestamp="1553846993229">
         <mark key="'" line="17" column="24" />
       </file>
@@ -62,12 +67,6 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/CommandType.java" timestamp="1552311966936">
         <mark key="'" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/pom.xml" timestamp="1554102351272">
-        <mark key="'" line="24" column="24" />
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/DcosElasticSearchCluster.java" timestamp="1554102443938">
         <mark key="[" line="44" column="64" />
         <mark key="]" line="44" column="64" />
@@ -95,12 +94,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/command/impl/CommandServiceImpl.java" timestamp="1552300100434">
-        <mark key="'" line="25" column="48" />
-        <mark key="[" line="17" column="57" />
-        <mark key="]" line="17" column="57" />
-        <mark key="." line="17" column="57" />
-      </file>
       <file name="$USER_HOME$/Projects/gvc-summary/src/main/resources/application-us-dev.properties" timestamp="1554123466155">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="33" />
@@ -123,23 +116,11 @@
       <file name="$USER_HOME$/Documents/gvc.md" timestamp="1552574312247">
         <mark key="'" line="89" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/command/controller/CommandController.java" timestamp="1553871651210">
-        <mark key="'" line="19" column="75" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" timestamp="1553869465651">
         <mark key="'" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/MetadataService.java" timestamp="1552997933538">
         <mark key="'" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/backgroundjob/impl/BackgroundJobServiceImpl.java" timestamp="1552311941267">
-        <mark key="'" line="27" column="42" />
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="17" column="37" />
-        <mark key="." line="17" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchCluster.java" timestamp="1554213176267">
         <mark key="'" line="6" column="21" />
@@ -147,12 +128,6 @@
         <mark key="]" line="7" column="40" />
         <mark key="." line="7" column="40" />
         <mark key="^" line="7" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" timestamp="1553784809026">
-        <mark key="'" line="60" column="83" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1554105294899">
         <mark key="'" line="1111" column="13" />
@@ -287,10 +262,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>true</text>
