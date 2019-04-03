@@ -71,6 +71,11 @@
         <mark key="]" line="26" column="52" />
         <mark key="." line="26" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1554284534843">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/local/CassandraConfigLocal.java" timestamp="1552048832800">
         <mark key="'" line="54" column="26" />
       </file>
@@ -94,7 +99,7 @@
         <mark key="." line="16" column="68" />
         <mark key="^" line="16" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554213905802">
+      <file name="/Dummy.txt" timestamp="1554284829240">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1554107766844">
@@ -227,10 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>4096</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>4096</text>
       </register>
       <register name="/" type="4">
         <text>true</text>
