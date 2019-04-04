@@ -10,7 +10,7 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/security/RemoteJwtAuthenticationFilter.java" timestamp="1554293593032">
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/security/RemoteJwtAuthenticationFilter.java" timestamp="1554366223371">
         <mark key="'" line="61" column="0" />
         <mark key="]" line="39" column="39" />
         <mark key="^" line="39" column="39" />
@@ -43,10 +43,10 @@
       <file name="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/config/kafka/KafkaConsumerConfig.java" timestamp="1553784543091">
         <mark key="'" line="29" column="86" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1554284534843">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1554366251509">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-summary/pom.xml" timestamp="1553689641268">
         <mark key="'" line="19" column="38" />
@@ -54,7 +54,7 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/local/CassandraConfigLocal.java" timestamp="1552048832800">
         <mark key="'" line="54" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/SingleElasticSearchCluster.java" timestamp="1554213874334">
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/SingleElasticSearchCluster.java" timestamp="1554365811478">
         <mark key="'" line="7" column="60" />
         <mark key="[" line="11" column="79" />
         <mark key="]" line="11" column="79" />
@@ -64,6 +64,7 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/CommandType.java" timestamp="1552311966936">
         <mark key="'" line="11" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/config/support/SingleClusterBuilderConfigurer.java" timestamp="1554365613830" />
       <file name="$USER_HOME$/Projects/docker-devtools/Jenkinsfile.groovy" timestamp="1553855002439">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -92,7 +93,7 @@
         <mark key="." line="16" column="68" />
         <mark key="^" line="16" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554284829240">
+      <file name="/Dummy.txt" timestamp="1554365740803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1554107766844">
@@ -117,18 +118,14 @@
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1554105294899">
         <mark key="'" line="1111" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/config/support/ConnectionResponse.java" timestamp="1554365755799" />
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1553871552973">
         <mark key="'" line="25" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" timestamp="1554213862470">
-        <mark key="v" line="41" column="8" />
-        <mark key="'" line="48" column="24" />
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="14" />
-        <mark key="." line="24" column="14" />
-        <mark key="^" line="24" column="14" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" timestamp="1554365846724">
+        <mark key="v" line="42" column="8" />
+        <mark key="'" line="49" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1554298708564" />
       <file name="$USER_HOME$/Projects/CDP/cdp-events/deploy/marathon-template.json" timestamp="1554189420621">
         <mark key="[" line="9" column="30" />
       </file>
@@ -146,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="29" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" />
       <jump line="7" column="56" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/repository/AssetsRepository.java" />
       <jump line="94" column="0" filename="$USER_HOME$/Projects/gvc-summary/pom.xml" />
       <jump line="84" column="25" filename="$USER_HOME$/Projects/gvc-summary/pom.xml" />
@@ -246,13 +242,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/security/JwtUser.java" />
       <jump line="49" column="12" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/security/RemoteJwtAuthenticationFilter.java" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/security/RemoteJwtAuthenticationFilter.java" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W2Rldm9wc10gcmVtb3ZlIGlmIGJyYWNrZXRzIHYzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>1024</text>
       </register>
       <register name="/" type="4">
         <text>command_table</text>
@@ -261,31 +258,31 @@
         <text>new SingleElasticSearchCluster(this.dcosUrl, this.dcosPort);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLCBAUmVxdWVzdEJvZHkgT2JqZWN0IG1ldGFkYXRhCg==</text>
+        <text encoding="base64">W2Rldm9wc10gcmVtb3ZlIGlmIGJyYWNrZXRzIHYzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFkZHJlc3MgPSBuZXcgVHJhbnNwb3J0QWRkcmVzcyhuZXcgSW5ldFNvY2tldEFkZHJlc3MoYWRkcmVzcywgcG9ydCkpOwo=</text>
+        <text encoding="base64">CQkJLCBAUmVxdWVzdEJvZHkgT2JqZWN0IG1ldGFkYXRhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkZHJlc3MgPSBuZXcgVHJhbnNwb3J0QWRkcmVzcyhuZXcgSW5ldFNvY2tldEFkZHJlc3MoYWRkcmVzcywgcG9ydCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQl0cnkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJbG9nLmluZm8oIkNhdWdodCB0cmFuc3BvcnQgY2xpZW50OiB7fSIsIGV4KTsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsK</text>
+        <text encoding="base64">CQkJbG9nLmluZm8oIkNhdWdodCB0cmFuc3BvcnQgY2xpZW50OiB7fSIsIGV4KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IFNpbmdsZUVsYXN0aWNTZWFyY2hDbHVzdGVyKHRoaXMuZGNvc1VybCwgdGhpcy5kY29zUG9ydCk7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
@@ -302,8 +299,6 @@
     </search>
     <history>
       <history-search>
-        <entry>@Column(</entry>
-        <entry>private</entry>
         <entry>public</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry>surefire</entry>
