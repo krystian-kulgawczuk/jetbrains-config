@@ -86,12 +86,19 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/security/JwtUser.java" timestamp="1554290103275">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1554380378865" />
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" timestamp="1554213505692">
         <mark key="'" line="4" column="27" />
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="68" />
         <mark key="." line="16" column="68" />
         <mark key="^" line="16" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1554381218635">
+        <mark key="[" line="230" column="19" />
+        <mark key="]" line="230" column="19" />
+        <mark key="." line="230" column="19" />
+        <mark key="^" line="261" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1554365740803">
         <mark key="[" line="0" column="0" />
@@ -245,11 +252,11 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W2Rldm9wc10gcmVtb3ZlIGlmIGJyYWNrZXRzIHYzCg==</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>1024</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>command_table</text>
