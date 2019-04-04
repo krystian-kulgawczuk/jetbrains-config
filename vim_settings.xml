@@ -255,7 +255,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>true</text>
+        <text>command_table</text>
       </register>
       <register name="0" type="4">
         <text>new SingleElasticSearchCluster(this.dcosUrl, this.dcosPort);</text>
@@ -292,9 +292,9 @@
       </register>
     </registers>
     <search>
-      <last-search>true</last-search>
+      <last-search>command_table</last-search>
       <last-offset />
-      <last-pattern>true</last-pattern>
+      <last-pattern>command_table</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -322,6 +322,8 @@
         <entry>organization.organization</entry>
         <entry>elastic</entry>
         <entry>true</entry>
+        <entry>background_job</entry>
+        <entry>command_table</entry>
       </history-search>
       <history-cmd>
         <entry>34,38y</entry>
