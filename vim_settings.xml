@@ -22,28 +22,29 @@
         <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1554380378865" />
-      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/Jenkinsfile.groovy" timestamp="1554468615654">
-        <mark key="[" line="23" column="98" />
-        <mark key="]" line="23" column="75" />
-        <mark key="." line="23" column="75" />
-        <mark key="^" line="23" column="75" />
+      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/Jenkinsfile.groovy" timestamp="1554470172475">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+        <mark key="^" line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1554449297631">
-        <mark key="[" line="230" column="19" />
-        <mark key="]" line="230" column="19" />
-        <mark key="." line="230" column="19" />
-        <mark key="^" line="261" column="20" />
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1554472450315">
+        <mark key="[" line="264" column="54" />
+        <mark key="]" line="264" column="46" />
+        <mark key="." line="264" column="46" />
+        <mark key="^" line="263" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/Dockerfile" timestamp="1554449275806">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="3" />
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/Dockerfile" timestamp="1554470848905">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/config/support/ConnectionResponse.java" timestamp="1554365755799" />
       <file name="$USER_HOME$/Projects/CDP/cdp-events/deploy/marathon-template.json" timestamp="1554189420621">
         <mark key="[" line="9" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1554470667253" />
       <file name="$USER_HOME$/Projects/docker-devtools/scripts_common/decrypt.py" timestamp="1554458751995">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="21" />
@@ -65,7 +66,7 @@
         <mark key="." line="23" column="52" />
         <mark key="^" line="23" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1554468295292">
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1554470105158">
         <mark key="[" line="16" column="36" />
         <mark key="]" line="16" column="36" />
         <mark key="." line="16" column="36" />
@@ -78,8 +79,13 @@
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Jenkinsfile.groovy" timestamp="1554458279766" />
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/config/support/SingleClusterBuilderConfigurer.java" timestamp="1554365613830" />
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/azure-wildcard.key" timestamp="1554446139688" />
-      <file name="/Dummy.txt" timestamp="1554365740803">
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/azure-wildcard.key" timestamp="1554470759438">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554470336155">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_check.py" timestamp="1554467743969">
@@ -87,7 +93,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/azure-wildcard.crt" timestamp="1554446056348" />
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/azure-wildcard.crt" timestamp="1554470753654">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/scripts_common/encrypt.py" timestamp="1554458032767">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="21" />
@@ -103,6 +114,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/wildcard-certificate.key" timestamp="1554470683471" />
       <file name="/fragment.java" timestamp="1554102574999">
         <mark key="[" line="0" column="0" />
       </file>
@@ -216,11 +228,11 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>message</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>command_table</text>
@@ -232,28 +244,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFjaGluZXNfbm90X3R1cm5lZF9vZmYgPSBbXQo=</text>
+        <text encoding="base64">UlVOIHN1ZG8gY2VydGJvdC1hdXRvIC0tbm8tYm9vdHN0cmFwIC0tbmdpbnggLWQgamVua2lucy5vcGVuY2l0eS5jbwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Rk5VTEwgPSBvcGVuKG9zLmRldm51bGwsICd3JykK</text>
+        <text encoding="base64">UlVOIHN1ZG8gY2htb2QgK3ggL3Vzci9iaW4vY2VydGJvdC1hdXRvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWFjaGkK</text>
+        <text encoding="base64">UlVOIHN1ZG8gbXYgLi9jZXJ0Ym90LWF1dG8gL3Vzci9iaW4vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIG1hY2hpbmUgaW4gdmlydHVhbF9tYWNoaW5lczoK</text>
+        <text encoding="base64">UlVOIHdnZXQgaHR0cHM6Ly9kbC5lZmYub3JnL2NlcnRib3QtYXV0bwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50QnVpbGQucmVzdWx0ID0gIkZBSUxFRCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hY2hpbmVfbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xhY2tTZW5kKGNvbG9yOiAnI0M3MUJFOScsIG1lc3NhZ2U6IG1hY2hpbmVzX25vdF90dXJuZWRfb2ZmLCBjaGFubmVsOiAiI3EtamVua2lucy1jb21tb24iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIG1hY2hpbmVbJ2NvbXB1dGVyTmFtZSddIAo=</text>
+        <text encoding="base64">ICAgICAgICBub3RpZnlTdGF0dXMoY3VycmVudEJ1aWxkLnJlc3VsdCwgZXJyb3JNZXNzYWdlID0gZXJyb3JNZXNzYWdlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
