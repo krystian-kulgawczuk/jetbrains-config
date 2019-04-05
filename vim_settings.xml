@@ -22,11 +22,11 @@
         <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1554380378865" />
-      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/Jenkinsfile.groovy" timestamp="1554458290668">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
+      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/Jenkinsfile.groovy" timestamp="1554468615654">
+        <mark key="[" line="23" column="98" />
+        <mark key="]" line="23" column="75" />
+        <mark key="." line="23" column="75" />
+        <mark key="^" line="23" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1554449297631">
         <mark key="[" line="230" column="19" />
@@ -65,6 +65,11 @@
         <mark key="." line="23" column="52" />
         <mark key="^" line="23" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1554468295292">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_list.txt" timestamp="1554457436658">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="17" column="9" />
@@ -77,11 +82,10 @@
       <file name="/Dummy.txt" timestamp="1554365740803">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_check.py" timestamp="1554466333893">
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="24" column="62" />
-        <mark key="." line="24" column="62" />
-        <mark key="^" line="24" column="62" />
+      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_check.py" timestamp="1554467743969">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/azure-wildcard.crt" timestamp="1554446056348" />
       <file name="$USER_HOME$/Projects/docker-devtools/scripts_common/encrypt.py" timestamp="1554458032767">
@@ -212,11 +216,11 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWFjaGkK</text>
+      <register name="&quot;" type="4">
+        <text>message</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text>command_table</text>
@@ -225,31 +229,31 @@
         <text>'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFjaGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIG1hY2hpbmUgaW4gdmlydHVhbF9tYWNoaW5lczoK</text>
+        <text encoding="base64">bWFjaGluZXNfbm90X3R1cm5lZF9vZmYgPSBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hY2hpbmVfbmFtZQo=</text>
+        <text encoding="base64">Rk5VTEwgPSBvcGVuKG9zLmRldm51bGwsICd3JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIG1hY2hpbmVbJ2NvbXB1dGVyTmFtZSddIAo=</text>
+        <text encoding="base64">bWFjaGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpzb24uZHVtcHMobWFjaGluZSkpCg==</text>
+        <text encoding="base64">Zm9yIG1hY2hpbmUgaW4gdmlydHVhbF9tYWNoaW5lczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQodmlydHVhbF9tYWNoaW5lcykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmlydHVhbF9tYWNoaW5lcyA9IGpzb24ubG9hZChyZXN1bHQuc3Rkb3V0LmRlY29kZSgndXRmLTgnKSkK</text>
+        <text encoding="base64">ICAgIG1hY2hpbmVfbmFtZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG1hY2hpbmVbJ2NvbXB1dGVyTmFtZSddIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
