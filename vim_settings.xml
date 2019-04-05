@@ -77,11 +77,11 @@
       <file name="/Dummy.txt" timestamp="1554365740803">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_check.py" timestamp="1554461508497">
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-        <mark key="^" line="22" column="40" />
+      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_check.py" timestamp="1554464951782">
+        <mark key="[" line="16" column="79" />
+        <mark key="]" line="16" column="79" />
+        <mark key="." line="16" column="79" />
+        <mark key="^" line="16" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/azure-wildcard.crt" timestamp="1554446056348" />
       <file name="$USER_HOME$/Projects/docker-devtools/scripts_common/encrypt.py" timestamp="1554458032767">
@@ -212,17 +212,17 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQodmlydHVhbF9tYWNoaW5lcykK</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>command_table</text>
       </register>
       <register name="0" type="4">
-        <text>new SingleElasticSearchCluster(this.dcosUrl, this.dcosPort);</text>
+        <text>'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cHJpbnQodmlydHVhbF9tYWNoaW5lcykK</text>
