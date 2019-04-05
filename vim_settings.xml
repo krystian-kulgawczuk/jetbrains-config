@@ -9,6 +9,15 @@
       <file name="$USER_HOME$/Projects/docker-devtools/.gitignore" timestamp="1554457993297">
         <mark key="[" line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/scripts_common/decrypt.py" timestamp="1554473295026">
+        <mark key="[" line="17" column="38" />
+      </file>
+      <file name="$USER_HOME$/scripts_common/encrypt.py" timestamp="1554473312192">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/Jenkinsfile.groovy" timestamp="1554457532858">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -22,11 +31,11 @@
         <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1554380378865" />
-      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/Jenkinsfile.groovy" timestamp="1554470172475">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="8" />
-        <mark key="." line="29" column="8" />
-        <mark key="^" line="29" column="10" />
+      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/Jenkinsfile.groovy" timestamp="1554473951597">
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="16" column="62" />
+        <mark key="." line="16" column="62" />
+        <mark key="^" line="16" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1554472450315">
         <mark key="[" line="264" column="54" />
@@ -45,7 +54,7 @@
         <mark key="[" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1554470667253" />
-      <file name="$USER_HOME$/Projects/docker-devtools/scripts_common/decrypt.py" timestamp="1554458751995">
+      <file name="$USER_HOME$/Projects/docker-devtools/scripts_common/decrypt.py" timestamp="1554473385808">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="21" />
         <mark key="^" line="18" column="19" />
@@ -66,7 +75,7 @@
         <mark key="." line="23" column="52" />
         <mark key="^" line="23" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1554470105158">
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1554474041676">
         <mark key="[" line="16" column="36" />
         <mark key="]" line="16" column="36" />
         <mark key="." line="16" column="36" />
@@ -85,7 +94,7 @@
         <mark key="^" line="26" column="23" />
         <mark key="." line="26" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554470336155">
+      <file name="/Dummy.txt" timestamp="1554473682303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_check.py" timestamp="1554467743969">
@@ -104,9 +113,6 @@
         <mark key="]" line="18" column="21" />
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1554455748645">
-        <mark key="'" line="1111" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/machines_check/credentials.json" timestamp="1554458057133">
         <mark key="[" line="0" column="0" />
@@ -228,11 +234,11 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>command_table</text>
@@ -241,31 +247,31 @@
         <text>'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2NrZXIuaW1hZ2UoJ21pY3Jvc29mdC9henVyZS1jbGk6MC45LjknKS5pbnNpZGUgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIHN1ZG8gY2VydGJvdC1hdXRvIC0tbm8tYm9vdHN0cmFwIC0tbmdpbnggLWQgamVua2lucy5vcGVuY2l0eS5jbwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2NrZXIuaW1hZ2UoJ21pY3Jvc29mdC9henVyZS1jbGk6MC45LjknKS5pbnNpZGUgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIHN1ZG8gY2htb2QgK3ggL3Vzci9iaW4vY2VydGJvdC1hdXRvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIHN1ZG8gbXYgLi9jZXJ0Ym90LWF1dG8gL3Vzci9iaW4vCg==</text>
+        <text encoding="base64">UlVOIHN1ZG8gY2VydGJvdC1hdXRvIC0tbm8tYm9vdHN0cmFwIC0tbmdpbnggLWQgamVua2lucy5vcGVuY2l0eS5jbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIHdnZXQgaHR0cHM6Ly9kbC5lZmYub3JnL2NlcnRib3QtYXV0bwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50QnVpbGQucmVzdWx0ID0gIkZBSUxFRCIK</text>
+        <text encoding="base64">UlVOIHN1ZG8gY2htb2QgK3ggL3Vzci9iaW4vY2VydGJvdC1hdXRvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xhY2tTZW5kKGNvbG9yOiAnI0M3MUJFOScsIG1lc3NhZ2U6IG1hY2hpbmVzX25vdF90dXJuZWRfb2ZmLCBjaGFubmVsOiAiI3EtamVua2lucy1jb21tb24iKQo=</text>
+        <text encoding="base64">UlVOIHN1ZG8gbXYgLi9jZXJ0Ym90LWF1dG8gL3Vzci9iaW4vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnlTdGF0dXMoY3VycmVudEJ1aWxkLnJlc3VsdCwgZXJyb3JNZXNzYWdlID0gZXJyb3JNZXNzYWdlKQo=</text>
+        <text encoding="base64">UlVOIHdnZXQgaHR0cHM6Ly9kbC5lZmYub3JnL2NlcnRib3QtYXV0bwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
