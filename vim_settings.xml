@@ -81,7 +81,7 @@
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1554380378865" />
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/azure-wildcard.key" timestamp="1554446139688" />
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1554381218635">
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1554449297631">
         <mark key="[" line="230" column="19" />
         <mark key="]" line="230" column="19" />
         <mark key="." line="230" column="19" />
@@ -92,6 +92,12 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1554107766844">
         <mark key="'" line="266" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/Dockerfile" timestamp="1554449275806">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/gvc.md" timestamp="1552574312247">
         <mark key="'" line="89" column="6" />
@@ -234,10 +240,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>command_table</text>
