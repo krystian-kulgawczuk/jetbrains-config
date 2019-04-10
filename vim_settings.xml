@@ -37,8 +37,8 @@
         <mark key="'" line="11" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/processor/ChartAggregatorProcessor.java" timestamp="1554818067836" />
-      <file name="$USER_HOME$/Projects/docker-devtools/Jenkinsfile.groovy" timestamp="1554797774741">
-        <mark key="[" line="46" column="0" />
+      <file name="$USER_HOME$/Projects/docker-devtools/Jenkinsfile.groovy" timestamp="1554897620242">
+        <mark key="[" line="45" column="26" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="23" column="11" />
         <mark key="." line="46" column="0" />
@@ -143,8 +143,10 @@
         <mark key="^" line="26" column="23" />
         <mark key="." line="26" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554891163810">
+      <file name="/Dummy.txt" timestamp="1554897988267">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1554107766844">
         <mark key="'" line="266" column="9" />
@@ -152,8 +154,8 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/MetadataService.java" timestamp="1552997933538">
         <mark key="'" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" timestamp="1554707263478">
-        <mark key="[" line="0" column="11" />
+      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" timestamp="1554897595215">
+        <mark key="[" line="48" column="114" />
         <mark key="]" line="2" column="6" />
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
@@ -306,11 +308,11 @@
       <jump line="23" column="54" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/controller/view/CdpRepositoryController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>no clean</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>no clean</text>
       </register>
       <register name="/" type="4">
         <text>command_table</text>
