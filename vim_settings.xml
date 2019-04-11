@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/service/agent/data/view/MetadataAgentService.java" timestamp="1554904986208">
-        <mark key="'" line="4" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/pom.xml" timestamp="1554279340679">
-        <mark key="'" line="17" column="16" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/machines_check/credentials.txt" timestamp="1554457914863">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,14 +12,11 @@
       <file name="$USER_HOME$/scripts_common/decrypt.py" timestamp="1554473295026">
         <mark key="[" line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-integration-api/src/main/java/portal/integration/controller/AssetController.java" timestamp="1553858401869">
-        <mark key="'" line="23" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" timestamp="1553846993229">
-        <mark key="'" line="17" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/config/kafka/KafkaConsumerConfig.java" timestamp="1553784543091">
-        <mark key="'" line="29" column="86" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-jobs/Jenkinsfile.groovy" timestamp="1554986703953">
+        <mark key="[" line="102" column="15" />
+        <mark key="]" line="109" column="8" />
+        <mark key="^" line="109" column="8" />
+        <mark key="." line="109" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/Makefile" timestamp="1554900911149">
         <mark key="[" line="13" column="9" />
@@ -33,11 +24,11 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-summary/pom.xml" timestamp="1553689641268">
-        <mark key="'" line="19" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/CommandType.java" timestamp="1552311966936">
-        <mark key="'" line="11" column="4" />
+      <file name="$USER_HOME$/scripts_common/encrypt.py" timestamp="1554473312192">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/processor/ChartAggregatorProcessor.java" timestamp="1554818067836" />
       <file name="$USER_HOME$/Projects/docker-devtools/Jenkinsfile.groovy" timestamp="1554902086063">
@@ -46,10 +37,16 @@
         <mark key="^" line="38" column="53" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1554380378865" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/repository/impl/RepositoryServiceImpl.java" timestamp="1554890425942">
-        <mark key="'" line="30" column="26" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/Jenkinsfile.groovy" timestamp="1554986095117">
+        <mark key="[" line="102" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-summary/src/main/resources/application-us-dev.properties" timestamp="1554123466155">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1554380378865" />
       <file name="$USER_HOME$/Projects/docker-devtools/machines_check/Jenkinsfile.groovy" timestamp="1554967257724">
         <mark key="[" line="38" column="21" />
         <mark key="]" line="38" column="0" />
@@ -67,18 +64,18 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/gvc.md" timestamp="1552574312247">
-        <mark key="'" line="89" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" timestamp="1553869465651">
-        <mark key="'" line="30" column="25" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" timestamp="1554986501431">
+        <mark key="[" line="103" column="15" />
+        <mark key="]" line="110" column="8" />
+        <mark key="^" line="110" column="8" />
+        <mark key="." line="110" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/config/support/ConnectionResponse.java" timestamp="1554365755799" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/Jenkinsfile.groovy" timestamp="1554983459330">
-        <mark key="[" line="109" column="8" />
-        <mark key="]" line="109" column="9" />
-        <mark key="^" line="109" column="9" />
-        <mark key="." line="109" column="9" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/Jenkinsfile.groovy" timestamp="1554986002988">
+        <mark key="[" line="105" column="25" />
+        <mark key="]" line="105" column="25" />
+        <mark key="^" line="103" column="9" />
+        <mark key="." line="105" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1554982579687">
         <mark key="'" line="182" column="28" />
@@ -101,8 +98,14 @@
       </file>
       <file name="/nginx.conf" timestamp="1554882808813" />
       <file name="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" timestamp="1554972451319" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/controller/commands/backgroundjob/BackgroundJobController.java" timestamp="1552311899160">
-        <mark key="'" line="22" column="28" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/KfMessageEvent.java" timestamp="1554100565751">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+        <mark key="^" line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/Jenkinsfile.groovy" timestamp="1554986178330">
+        <mark key="[" line="102" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1554705981217">
         <mark key="[" line="16" column="36" />
@@ -116,20 +119,8 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/local/CassandraConfigLocal.java" timestamp="1552048832800">
-        <mark key="'" line="54" column="26" />
-      </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Jenkinsfile.groovy" timestamp="1554458279766" />
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/config/support/SingleClusterBuilderConfigurer.java" timestamp="1554365613830" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/repository/AssetsRepository.java" timestamp="1553688373208">
-        <mark key="'" line="7" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/security/RemoteJwtAuthenticationFilter.java" timestamp="1553864420902">
-        <mark key="'" line="35" column="61" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/security/JwtUser.java" timestamp="1554290103275">
-        <mark key="'" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/azure-wildcard.key" timestamp="1554470759438">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="26" column="23" />
@@ -139,18 +130,12 @@
       <file name="$USER_HOME$/Projects/orbital-group-service/build.gradle" timestamp="1554974479861">
         <mark key="'" line="114" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554983467223">
+      <file name="/Dummy.txt" timestamp="1554986709966">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1554107766844">
-        <mark key="'" line="266" column="9" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-group-service/Jenkinsfile" timestamp="1554975741439" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/MetadataService.java" timestamp="1552997933538">
-        <mark key="'" line="2" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" timestamp="1554901241753">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="2" column="0" />
@@ -183,8 +168,11 @@
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1554455748645">
         <mark key="'" line="1904" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1553871552973">
-        <mark key="'" line="25" column="40" />
+      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/credentials.json" timestamp="1554458057133">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/wildcard-certificate.key" timestamp="1554470683471" />
       <file name="$USER_HOME$/Projects/CDP/cdp-api/pom.xml" timestamp="1554971977800">
@@ -192,11 +180,14 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1553588202852">
-        <mark key="'" line="25" column="26" />
-      </file>
       <file name="/fragment.java" timestamp="1554102574999">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/repository/CommandRepository.java" timestamp="1554290189573">
+        <mark key="[" line="10" column="55" />
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="56" />
+        <mark key="." line="10" column="56" />
       </file>
     </filemarks>
     <jumps>
@@ -303,10 +294,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>buildStatus</text>
+        <text>krystian.kulgawczuk@acaisoft.com</text>
       </register>
       <register name="-" type="4">
-        <text>buildStatus</text>
+        <text>krystian.kulgawczuk@acaisoft.com</text>
       </register>
       <register name="/" type="4">
         <text>currentBuild</text>
@@ -315,31 +306,31 @@
         <text>'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib2R5OiAiYnVpbGQgZmFpbGVkIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0bzogImtyeXN0aWFuLmt1bGdhd2N6dWtAYWNhaXNvZnQuY29tIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJqZWN0OiAiJHtjdXJyZW50QnVpbGQucmVzdWx0fTogSm9iICcke2Vudi5KT0JfTkFNRX0gWyR7ZW52LkJVSUxEX05VTUJFUn1dIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJqZWN0OiAiJHtjdXJyZW50QnVpbGQucmVzdWx0fTogSm9iICcke2Vudi5KT0JfTkFNRX0gWyR7ZW52LkJVSUxEX05VTUJFUn1dIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPmZvcm1hdDwvZ29hbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0bzogImtyeXN0aWFuLmt1bGdhd2N6dWtAYWNhaXNvZnQuY29tIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
