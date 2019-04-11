@@ -62,11 +62,10 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/repository/impl/RepositoryServiceImpl.java" timestamp="1554890425942">
         <mark key="'" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/Jenkinsfile.groovy" timestamp="1554907268419">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="19" />
+      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/Jenkinsfile.groovy" timestamp="1554967257724">
+        <mark key="[" line="38" column="21" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/controller/view/CdpRepositoryController.java" timestamp="1554890900296">
         <mark key="'" line="24" column="54" />
@@ -169,10 +168,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_check.py" timestamp="1554907460264">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_check.py" timestamp="1554967188142">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/azure-wildcard.crt" timestamp="1554470753654">
         <mark key="[" line="23" column="25" />
@@ -317,11 +317,11 @@
       <jump line="4" column="21" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/service/agent/data/view/MetadataAgentService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>command_table</text>
@@ -330,31 +330,31 @@
         <text>'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2NyaXB0X25hbWU9JDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWVjaG8gInVzYWdlOiAkc2NyaXB0X25hbWUgWy1oXSBpbnZlbnRvcnlfbmFtZSBwcm9maWxlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG1hY2hpbmVzX3R1cm5lZF9vbiA9IHNoKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuU3Rkb3V0OiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5TdGRvdXQ6IHRydWUK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">c3VicHJvY2Vzcy5ydW4obG9naW5fYXp1cmVfY29tbWFuZCwgc3Rkb3V0PUZOVUxMLCBzdGRlcnI9c3VicHJvY2Vzcy5TVERPVVQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2ggIlZFUlNJT049JHtlbnYuVkVSU0lPTn0gbWFrZSAke0pPQl9OQU1FfSIK</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICctLXRlbmFudCcsIGF6dXJlX2NyZWRlbnRpYWxzWyd0ZW5hbnQnXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0cnkoMykgewo=</text>
+        <text encoding="base64">ICAgICctcCcsIGF6dXJlX2NyZWRlbnRpYWxzWydwYXNzd29yZCddLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
