@@ -74,6 +74,9 @@
         <mark key="'" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/config/support/ConnectionResponse.java" timestamp="1554365755799" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1554978039361">
+        <mark key="'" line="182" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-group-service/gradle.properties" timestamp="1554974342957">
         <mark key="[" line="0" column="0" />
       </file>
@@ -191,10 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="38" filename="$USER_HOME$/Projects/gvc-summary/pom.xml" />
-      <jump line="18" column="22" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" />
-      <jump line="17" column="24" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" />
-      <jump line="73" column="71" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
       <jump line="61" column="54" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
       <jump line="25" column="23" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
       <jump line="38" column="62" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
@@ -291,6 +290,10 @@
       <jump line="23" column="54" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/controller/view/CdpRepositoryController.java" />
       <jump line="4" column="21" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/service/agent/data/view/MetadataAgentService.java" />
       <jump line="114" column="9" filename="$USER_HOME$/Projects/orbital-group-service/build.gradle" />
+      <jump line="270" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="275" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="81" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="182" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -300,7 +303,7 @@
         <text>eclipse</text>
       </register>
       <register name="/" type="4">
-        <text>command_table</text>
+        <text>currentBuild</text>
       </register>
       <register name="0" type="4">
         <text>'</text>
@@ -337,9 +340,9 @@
       </register>
     </registers>
     <search>
-      <last-search>command_table</last-search>
+      <last-search>currentBuild</last-search>
       <last-offset />
-      <last-pattern>command_table</last-pattern>
+      <last-pattern>currentBuild</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -367,6 +370,7 @@
         <entry>true</entry>
         <entry>background_job</entry>
         <entry>command_table</entry>
+        <entry>currentBuild</entry>
       </history-search>
       <history-cmd>
         <entry>34,38y</entry>
