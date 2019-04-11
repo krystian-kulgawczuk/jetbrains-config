@@ -47,11 +47,6 @@
         <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1554380378865" />
-      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/Jenkinsfile.groovy" timestamp="1554967257724">
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1554472450315">
         <mark key="[" line="264" column="54" />
         <mark key="]" line="264" column="46" />
@@ -97,7 +92,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/nginx.conf" timestamp="1554882808813" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" timestamp="1554972451319" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" timestamp="1554990576355">
+        <mark key="'" line="54" column="22" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="237" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/KfMessageEvent.java" timestamp="1554100565751">
         <mark key="[" line="32" column="16" />
         <mark key="]" line="32" column="23" />
@@ -129,6 +130,12 @@
       </file>
       <file name="$USER_HOME$/Projects/orbital-group-service/build.gradle" timestamp="1554974479861">
         <mark key="'" line="114" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/service/commands/CommandType.java" timestamp="1554990477288">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1554986709966">
         <mark key="[" line="0" column="0" />
@@ -170,7 +177,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/wildcard-certificate.key" timestamp="1554470683471" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/pom.xml" timestamp="1554989444935">
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/pom.xml" timestamp="1554989588120">
         <mark key="v" line="89" column="16" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -187,31 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="29" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/SingleElasticSearchCluster.java" />
-      <jump line="48" column="34" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" />
-      <jump line="34" column="67" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" />
-      <jump line="35" column="82" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" />
-      <jump line="46" column="39" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" />
-      <jump line="18" column="26" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/SingleElasticSearchCluster.java" />
-      <jump line="37" column="49" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
-      <jump line="29" column="86" filename="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/config/kafka/KafkaConsumerConfig.java" />
-      <jump line="63" column="37" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
-      <jump line="60" column="83" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
-      <jump line="1435" column="30" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="1509" column="12" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="1510" column="12" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="199" column="35" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="209" column="40" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="211" column="84" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="257" column="4" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="601" column="4" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="603" column="55" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="604" column="57" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="621" column="55" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="623" column="82" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="624" column="61" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="625" column="75" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="642" column="55" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="644" column="82" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="645" column="61" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="646" column="76" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
@@ -287,55 +269,80 @@
       <jump line="275" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="81" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="182" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="71" column="35" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="39" column="41" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="253" column="32" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="261" column="32" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="229" column="29" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="233" column="22" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="239" column="22" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="20" column="27" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="232" column="12" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="238" column="12" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="257" column="12" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="260" column="12" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="269" column="12" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="231" column="29" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="236" column="22" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="244" column="22" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="259" column="32" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="268" column="32" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="228" column="22" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="230" column="16" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="111" column="48" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="173" column="35" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="227" column="12" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="27" column="61" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="54" column="22" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>krystian.kulgawczuk@acaisoft.com</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>krystian.kulgawczuk@acaisoft.com</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>currentBuild</text>
+        <text>AvoidStar</text>
       </register>
       <register name="0" type="4">
         <text>'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib2R5OiAiYnVpbGQgZmFpbGVkIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InNldmVyaXR5IiB2YWx1ZT0id2FybmluZyIvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0bzogImtyeXN0aWFuLmt1bGdhd2N6dWtAYWNhaXNvZnQuY29tIgo=</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJzZXZlcml0eSIgdmFsdWU9ImVycm9yIi8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJqZWN0OiAiJHtjdXJyZW50QnVpbGQucmVzdWx0fTogSm9iICcke2Vudi5KT0JfTkFNRX0gWyR7ZW52LkJVSUxEX05VTUJFUn1dIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InNldmVyaXR5IiB2YWx1ZT0id2FybmluZyIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJqZWN0OiAiJHtjdXJyZW50QnVpbGQucmVzdWx0fTogSm9iICcke2Vudi5KT0JfTkFNRX0gWyR7ZW52LkJVSUxEX05VTUJFUn1dIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InNldmVyaXR5IiB2YWx1ZT0id2FybmluZyIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0bzogImtyeXN0aWFuLmt1bGdhd2N6dWtAYWNhaXNvZnQuY29tIgo=</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJzZXZlcml0eSIgdmFsdWU9ImVycm9yIi8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbnM+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib2R5OiAiYnVpbGQgZmFpbGVkIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0bzogImtyeXN0aWFuLmt1bGdhd2N6dWtAYWNhaXNvZnQuY29tIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJqZWN0OiAiJHtjdXJyZW50QnVpbGQucmVzdWx0fTogSm9iICcke2Vudi5KT0JfTkFNRX0gWyR7ZW52LkJVSUxEX05VTUJFUn1dIiwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/public/private</text>
       </register>
     </registers>
     <search>
-      <last-search>currentBuild</last-search>
+      <last-search>AvoidStar</last-search>
       <last-offset />
-      <last-pattern>currentBuild</last-pattern>
+      <last-pattern>AvoidStar</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -365,6 +372,12 @@
         <entry>command_table</entry>
         <entry>currentBuild.result</entry>
         <entry>currentBuild</entry>
+        <entry>warning</entry>
+        <entry>javadoc</entry>
+        <entry>JavadocMethod</entry>
+        <entry>severi</entry>
+        <entry>header</entry>
+        <entry>AvoidStar</entry>
       </history-search>
       <history-cmd>
         <entry>34,38y</entry>
