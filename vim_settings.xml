@@ -9,6 +9,15 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/pom.xml" timestamp="1554279340679">
         <mark key="'" line="17" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/credentials.txt" timestamp="1554457914863">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/.gitignore" timestamp="1554457993297">
+        <mark key="[" line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/scripts_common/decrypt.py" timestamp="1554473295026">
+        <mark key="[" line="17" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-integration-api/src/main/java/portal/integration/controller/AssetController.java" timestamp="1553858401869">
         <mark key="'" line="23" column="47" />
       </file>
@@ -65,12 +74,21 @@
         <mark key="'" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/config/support/ConnectionResponse.java" timestamp="1554365755799" />
+      <file name="$USER_HOME$/Projects/orbital-group-service/gradle.properties" timestamp="1554974342957">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/deploy/marathon-template.json" timestamp="1554189420621">
+        <mark key="[" line="9" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/wildcard-bundled.crt" timestamp="1554882240667" />
       <file name="$USER_HOME$/Projects/docker-devtools/scripts_common/decrypt.py" timestamp="1554473385808">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="21" />
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_check.sh" timestamp="1554457209920">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/nginx.conf" timestamp="1554882808813" />
       <file name="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" timestamp="1554972451319" />
@@ -109,7 +127,10 @@
         <mark key="^" line="26" column="23" />
         <mark key="." line="26" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554902087201">
+      <file name="$USER_HOME$/Projects/orbital-group-service/build.gradle" timestamp="1554974479861">
+        <mark key="'" line="114" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554974238536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -117,6 +138,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1554107766844">
         <mark key="'" line="266" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/orbital-group-service/Jenkinsfile" timestamp="1554974961431" />
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/MetadataService.java" timestamp="1552997933538">
         <mark key="'" line="2" column="24" />
       </file>
@@ -149,6 +171,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1554455748645">
+        <mark key="'" line="1904" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" timestamp="1553871552973">
         <mark key="'" line="25" column="40" />
       </file>
@@ -161,9 +186,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1553588202852">
         <mark key="'" line="25" column="26" />
       </file>
+      <file name="/fragment.java" timestamp="1554102574999">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="23" filename="$USER_HOME$/Projects/gvc-summary/pom.xml" />
       <jump line="19" column="38" filename="$USER_HOME$/Projects/gvc-summary/pom.xml" />
       <jump line="18" column="22" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" />
       <jump line="17" column="24" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/elk/impl/StatsServiceImpl.java" />
@@ -263,6 +290,7 @@
       <jump line="30" column="26" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/repository/impl/RepositoryServiceImpl.java" />
       <jump line="23" column="54" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/controller/view/CdpRepositoryController.java" />
       <jump line="4" column="21" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/service/agent/data/view/MetadataAgentService.java" />
+      <jump line="114" column="9" filename="$USER_HOME$/Projects/orbital-group-service/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
