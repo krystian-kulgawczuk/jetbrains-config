@@ -74,7 +74,13 @@
         <mark key="'" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-group-structure/src/main/java/com/quest/portal/groupstructure/config/support/ConnectionResponse.java" timestamp="1554365755799" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1554978039361">
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/Jenkinsfile.groovy" timestamp="1554983459330">
+        <mark key="[" line="109" column="8" />
+        <mark key="]" line="109" column="9" />
+        <mark key="^" line="109" column="9" />
+        <mark key="." line="109" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1554982579687">
         <mark key="'" line="182" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-group-service/gradle.properties" timestamp="1554974342957">
@@ -133,7 +139,7 @@
       <file name="$USER_HOME$/Projects/orbital-group-service/build.gradle" timestamp="1554974479861">
         <mark key="'" line="114" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554974238536">
+      <file name="/Dummy.txt" timestamp="1554983467223">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -194,9 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="54" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
-      <jump line="25" column="23" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
-      <jump line="38" column="62" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/KafkaConfig.java" />
       <jump line="27" column="29" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/SingleElasticSearchCluster.java" />
       <jump line="48" column="34" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" />
       <jump line="34" column="67" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/config/elk/ElasticSearchConfig.java" />
@@ -290,17 +293,20 @@
       <jump line="23" column="54" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/controller/view/CdpRepositoryController.java" />
       <jump line="4" column="21" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/service/agent/data/view/MetadataAgentService.java" />
       <jump line="114" column="9" filename="$USER_HOME$/Projects/orbital-group-service/build.gradle" />
-      <jump line="270" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="217" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="219" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="256" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="270" column="8" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="275" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="81" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="182" column="28" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>buildStatus</text>
       </register>
       <register name="-" type="4">
-        <text>eclipse</text>
+        <text>buildStatus</text>
       </register>
       <register name="/" type="4">
         <text>currentBuild</text>
@@ -370,6 +376,7 @@
         <entry>true</entry>
         <entry>background_job</entry>
         <entry>command_table</entry>
+        <entry>currentBuild.result</entry>
         <entry>currentBuild</entry>
       </history-search>
       <history-cmd>
