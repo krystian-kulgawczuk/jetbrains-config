@@ -111,7 +111,6 @@
         <mark key="^" line="110" column="8" />
         <mark key="." line="110" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/orbital-group-service/Jenkinsfile" timestamp="1555064033479" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" timestamp="1554901241753">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="2" column="0" />
@@ -295,7 +294,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>AvoidStar</text>
+        <text>null_Resource</text>
       </register>
       <register name="0" type="4">
         <text>'</text>
@@ -332,9 +331,9 @@
       </register>
     </registers>
     <search>
-      <last-search>AvoidStar</last-search>
+      <last-search>null_Resource</last-search>
       <last-offset />
-      <last-pattern>AvoidStar</last-pattern>
+      <last-pattern>null_Resource</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -362,6 +361,7 @@
         <entry>severi</entry>
         <entry>header</entry>
         <entry>AvoidStar</entry>
+        <entry>null_Resource</entry>
       </history-search>
       <history-cmd>
         <entry>34,38y</entry>
