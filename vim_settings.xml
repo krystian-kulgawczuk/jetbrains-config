@@ -178,8 +178,8 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555313248001">
-        <mark key="'" line="108" column="43" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555316048951">
+        <mark key="'" line="179" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_check.sh" timestamp="1554457209920">
         <mark key="[" line="0" column="0" />
@@ -195,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="46" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" />
-      <jump line="19" column="39" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" />
       <jump line="12" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
       <jump line="266" column="9" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
       <jump line="24" column="26" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" />
@@ -295,6 +293,8 @@
       <jump line="106" column="43" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="107" column="43" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="108" column="43" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="174" column="76" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="179" column="63" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
