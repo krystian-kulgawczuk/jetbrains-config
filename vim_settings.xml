@@ -58,12 +58,16 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" timestamp="1555313083806">
+        <mark key="'" line="40" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/Jenkinsfile.groovy" timestamp="1554902086063">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
         <mark key="^" line="38" column="53" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" timestamp="1555312850575" />
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/Jenkinsfile.groovy" timestamp="1554986095117">
         <mark key="[" line="102" column="15" />
       </file>
@@ -172,6 +176,9 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555313248001">
+        <mark key="'" line="108" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_check.sh" timestamp="1554457209920">
         <mark key="[" line="0" column="0" />
       </file>
@@ -186,17 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="644" column="82" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="645" column="61" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="646" column="76" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="916" column="4" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="918" column="55" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="919" column="57" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="936" column="55" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="938" column="82" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="939" column="61" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="940" column="76" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="957" column="55" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="17" column="46" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" />
       <jump line="19" column="39" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" />
       <jump line="12" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
@@ -286,6 +282,17 @@
       <jump line="227" column="12" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
       <jump line="27" column="61" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
       <jump line="54" column="22" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
+      <jump line="109" column="58" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="112" column="48" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="113" column="48" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="161" column="69" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="127" column="32" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="40" column="23" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" />
+      <jump line="240" column="32" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="24" column="9" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="106" column="43" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="107" column="43" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="108" column="43" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -295,7 +302,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>null_Resource</text>
+        <text>private</text>
       </register>
       <register name="0" type="4">
         <text>'</text>
@@ -332,9 +339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>null_Resource</last-search>
+      <last-search>private</last-search>
       <last-offset />
-      <last-pattern>null_Resource</last-pattern>
+      <last-pattern>private</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -363,6 +370,7 @@
         <entry>header</entry>
         <entry>AvoidStar</entry>
         <entry>null_Resource</entry>
+        <entry>private</entry>
       </history-search>
       <history-cmd>
         <entry>34,38y</entry>
