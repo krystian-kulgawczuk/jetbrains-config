@@ -3,31 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" timestamp="1554990576355">
-        <mark key="'" line="54" column="22" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="51" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="237" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/KfMessageEvent.java" timestamp="1554100565751">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="23" />
-        <mark key="." line="32" column="23" />
-        <mark key="^" line="32" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/credentials.txt" timestamp="1554457914863">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/.gitignore" timestamp="1554457993297">
-        <mark key="[" line="8" column="16" />
-      </file>
-      <file name="$USER_HOME$/scripts_common/decrypt.py" timestamp="1554473295026">
-        <mark key="[" line="17" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/Jenkinsfile.groovy" timestamp="1554986178330">
-        <mark key="[" line="102" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/load_test_asset/notes.py" timestamp="1555417281462" />
       <file name="$USER_HOME$/Projects/CDP/cdp-jobs/Jenkinsfile.groovy" timestamp="1554986703953">
         <mark key="[" line="102" column="15" />
@@ -41,17 +16,8 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1554705981217">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="15" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_list.txt" timestamp="1554457436658">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="17" column="9" />
-        <mark key="^" line="17" column="9" />
-        <mark key="." line="17" column="9" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" timestamp="1555422638162">
+        <mark key="'" line="52" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/load-ddos-cloudflare/requirements.txt" timestamp="1555411370476">
         <mark key="[" line="0" column="0" />
@@ -65,23 +31,90 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" timestamp="1555313083806">
-        <mark key="'" line="40" column="23" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/Jenkinsfile.groovy" timestamp="1554902086063">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
         <mark key="^" line="38" column="53" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/Jenkinsfile.groovy" timestamp="1554986095117">
-        <mark key="[" line="102" column="15" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" timestamp="1555422656407">
+        <mark key="'" line="49" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-summary/src/main/resources/application-us-dev.properties" timestamp="1554123466155">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1554472450315">
+        <mark key="[" line="264" column="54" />
+        <mark key="]" line="264" column="46" />
+        <mark key="." line="264" column="46" />
+        <mark key="^" line="263" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/Dockerfile" timestamp="1554470848905">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" timestamp="1554986501431">
+        <mark key="[" line="103" column="15" />
+        <mark key="]" line="110" column="8" />
+        <mark key="^" line="110" column="8" />
+        <mark key="." line="110" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/Jenkinsfile.groovy" timestamp="1554991267351">
+        <mark key="[" line="51" column="40" />
+        <mark key="]" line="51" column="37" />
+        <mark key="^" line="51" column="37" />
+        <mark key="." line="51" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1554982579687">
+        <mark key="'" line="182" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/scripts_common/decrypt.py" timestamp="1554473385808">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555423611503">
+        <mark key="'" line="151" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" timestamp="1554990576355">
+        <mark key="'" line="54" column="22" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="237" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" timestamp="1555422793614">
+        <mark key="'" line="68" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/cdp/events/kafka/service/KfMessageEvent.java" timestamp="1554100565751">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="23" />
+        <mark key="." line="32" column="23" />
+        <mark key="^" line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" timestamp="1555422614511">
+        <mark key="'" line="75" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-group-structure/Jenkinsfile.groovy" timestamp="1554705981217">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_list.txt" timestamp="1554457436658">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="17" column="9" />
+        <mark key="^" line="17" column="9" />
+        <mark key="." line="17" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" timestamp="1555313083806">
+        <mark key="'" line="40" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/ssl/azure-wildcard.key" timestamp="1554470759438">
         <mark key="[" line="27" column="25" />
@@ -98,34 +131,16 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1554472450315">
-        <mark key="[" line="264" column="54" />
-        <mark key="]" line="264" column="46" />
-        <mark key="." line="264" column="46" />
-        <mark key="^" line="263" column="61" />
-      </file>
       <file name="$USER_HOME$/Projects/load-ddos-cloudflare/tests/locustfile.py" timestamp="1555416633198">
         <mark key="'" line="47" column="20" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/Dockerfile" timestamp="1554470848905">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1555415376776">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" timestamp="1554986501431">
-        <mark key="[" line="103" column="15" />
-        <mark key="]" line="110" column="8" />
-        <mark key="^" line="110" column="8" />
-        <mark key="." line="110" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/cassandra/backup_restore/scripts/backup.sh" timestamp="1554901241753">
         <mark key="[" line="0" column="11" />
@@ -160,42 +175,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/Jenkinsfile.groovy" timestamp="1554991267351">
-        <mark key="[" line="51" column="40" />
-        <mark key="]" line="51" column="37" />
-        <mark key="^" line="51" column="37" />
-        <mark key="." line="51" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1554982579687">
-        <mark key="'" line="182" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/orbital-group-service/gradle.properties" timestamp="1554974342957">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-api/pom.xml" timestamp="1554989588120">
-        <mark key="v" line="89" column="16" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-events/deploy/marathon-template.json" timestamp="1554189420621">
-        <mark key="[" line="9" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/scripts_common/decrypt.py" timestamp="1554473385808">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="21" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555329654697">
-        <mark key="'" line="179" column="63" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/machines_check/machines_check.sh" timestamp="1554457209920">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1554102574999">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/repository/CommandRepository.java" timestamp="1554290189573">
         <mark key="[" line="10" column="55" />
         <mark key="]" line="10" column="56" />
@@ -204,55 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="26" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" />
-      <jump line="26" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-integration-api/src/main/java/portal/integration/controller/AssetController.java" />
-      <jump line="21" column="48" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-integration-api/src/main/java/portal/integration/controller/AssetController.java" />
-      <jump line="23" column="47" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-integration-api/src/main/java/portal/integration/controller/AssetController.java" />
-      <jump line="17" column="16" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/pom.xml" />
-      <jump line="37" column="66" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/WebSecurityConfig.java" />
-      <jump line="22" column="36" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/WebSecurityConfig.java" />
-      <jump line="23" column="24" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/security/RemoteJwtAuthenticationFilter.java" />
-      <jump line="35" column="61" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/security/RemoteJwtAuthenticationFilter.java" />
-      <jump line="30" column="25" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/service/metrics/impl/EventServiceImpl.java" />
-      <jump line="39" column="46" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/WebSecurityConfig.java" />
-      <jump line="36" column="26" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/config/WebSecurityConfig.java" />
-      <jump line="30" column="21" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" />
-      <jump line="28" column="32" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" />
-      <jump line="25" column="40" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/metrics/events/EventsController.java" />
-      <jump line="19" column="75" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/cdp/agent/controller/command/controller/CommandController.java" />
-      <jump line="455" column="31" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="266" column="2" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="391" column="13" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="399" column="9" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="1026" column="44" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="1044" column="26" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="1046" column="4" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="1042" column="28" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="1111" column="13" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
-      <jump line="42" column="53" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
-      <jump line="42" column="34" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" />
-      <jump line="33" column="18" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
-      <jump line="27" column="51" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
-      <jump line="43" column="34" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" />
-      <jump line="40" column="48" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" />
-      <jump line="41" column="8" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" />
-      <jump line="39" column="33" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
-      <jump line="40" column="46" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
-      <jump line="49" column="40" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" />
-      <jump line="28" column="33" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
-      <jump line="15" column="56" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/MarathonElasticSearchCluster.java" />
-      <jump line="48" column="24" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchConfig.java" />
-      <jump line="6" column="21" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/ElasticSearchCluster.java" />
-      <jump line="13" column="41" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" />
-      <jump line="6" column="27" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" />
-      <jump line="4" column="27" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/resources/application-us-dev.properties" />
-      <jump line="7" column="60" filename="$USER_HOME$/Projects/CDP/cdp-events/src/main/java/com/quest/cdp/events/config/elk/SingleElasticSearchCluster.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/security/JwtUser.java" />
-      <jump line="49" column="12" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/security/RemoteJwtAuthenticationFilter.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/CDP/cdp-agent-api/src/main/java/com/quest/cdp/agent/security/RemoteJwtAuthenticationFilter.java" />
-      <jump line="0" column="0" filename="/Dummy.txt" />
-      <jump line="47" column="16" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/repository/impl/RepositoryServiceImpl.java" />
       <jump line="30" column="26" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/cdp/api/service/portal/repository/impl/RepositoryServiceImpl.java" />
       <jump line="23" column="54" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/controller/view/CdpRepositoryController.java" />
       <jump line="4" column="21" filename="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/service/agent/data/view/MetadataAgentService.java" />
@@ -292,7 +222,6 @@
       <jump line="109" column="58" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="112" column="48" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="113" column="48" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="161" column="69" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="127" column="32" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="40" column="23" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" />
       <jump line="240" column="32" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
@@ -304,6 +233,56 @@
       <jump line="179" column="63" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="7" column="30" filename="$USER_HOME$/Projects/load-ddos-cloudflare/tests/locustfile.py" />
       <jump line="27" column="20" filename="$USER_HOME$/Projects/load-ddos-cloudflare/tests/locustfile.py" />
+      <jump line="92" column="43" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="120" column="45" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="167" column="69" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="176" column="51" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
+      <jump line="81" column="33" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" />
+      <jump line="75" column="44" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" />
+      <jump line="52" column="40" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" />
+      <jump line="0" column="9" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="54" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="58" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="62" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="67" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="73" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="78" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="82" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="1" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="5" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="9" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="13" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="17" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="21" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="25" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="30" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="36" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="41" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="45" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="49" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
+      <jump line="24" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
+      <jump line="31" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
+      <jump line="37" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
+      <jump line="43" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
+      <jump line="49" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
+      <jump line="56" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
+      <jump line="62" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
+      <jump line="68" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
+      <jump line="161" column="79" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="157" column="68" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="154" column="68" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="191" column="61" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="94" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="95" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="96" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="97" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="98" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="147" column="4" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="148" column="55" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="149" column="55" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="150" column="55" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="151" column="2" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -313,7 +292,7 @@
         <text>random_agent</text>
       </register>
       <register name="/" type="4">
-        <text>private</text>
+        <text>bootstrap</text>
       </register>
       <register name="0" type="4">
         <text>'</text>
@@ -350,9 +329,9 @@
       </register>
     </registers>
     <search>
-      <last-search>private</last-search>
+      <last-search>bootstrap</last-search>
       <last-offset />
-      <last-pattern>private</last-pattern>
+      <last-pattern>bootstrap</last-pattern>
       <last-replace>private</last-replace>
       <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
@@ -380,6 +359,9 @@
         <entry>AvoidStar</entry>
         <entry>null_Resource</entry>
         <entry>private</entry>
+        <entry>ip</entry>
+        <entry>public_ip</entry>
+        <entry>bootstrap</entry>
       </history-search>
       <history-cmd>
         <entry>34,38y</entry>
