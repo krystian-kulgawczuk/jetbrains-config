@@ -5,12 +5,13 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="template" type="PLAIN_TEXT" />
-      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="private-key-us-dev" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="encrypted" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="rego" type="PLAIN_TEXT" />
