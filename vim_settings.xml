@@ -9,8 +9,8 @@
         <mark key="." line="35" column="14" />
         <mark key="^" line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1555588357609">
-        <mark key="'" line="200" column="46" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1555590830836">
+        <mark key="'" line="236" column="0" />
         <mark key="[" line="200" column="46" />
         <mark key="]" line="200" column="54" />
         <mark key="." line="200" column="54" />
@@ -21,6 +21,9 @@
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" timestamp="1555422656407">
         <mark key="'" line="49" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1555589653561">
+        <mark key="'" line="57" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1555588096149" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1554982579687">
@@ -38,8 +41,11 @@
         <mark key="]" line="4" column="86" />
         <mark key="." line="4" column="86" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555423611503">
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555590333886">
         <mark key="'" line="151" column="2" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-data/Jenkinsfile.groovy" timestamp="1555580392108">
         <mark key="'" line="31" column="35" />
@@ -70,6 +76,12 @@
       <file name="$USER_HOME$/Projects/orbital-group-service/build.gradle" timestamp="1554974479861">
         <mark key="'" line="114" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/load-ddos-cloudflare/tests/locustfile.py" timestamp="1555416633198">
+        <mark key="'" line="47" column="20" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1555577427289">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -87,10 +99,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="22" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
-      <jump line="239" column="22" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
-      <jump line="20" column="27" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
-      <jump line="232" column="12" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
       <jump line="238" column="12" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
       <jump line="257" column="12" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
       <jump line="260" column="12" filename="$USER_HOME$/Projects/CDP/cdp-api/checkstyle.xml" />
@@ -187,10 +195,14 @@
       <jump line="198" column="48" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="199" column="45" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="200" column="46" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
+      <jump line="71" column="36" filename="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-private-agents-remote-exec/main.tf" />
+      <jump line="57" column="55" filename="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-private-agents-remote-exec/main.tf" />
+      <jump line="143" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
+      <jump line="236" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CnByb3ZpZGVyICJhenVyZXJtIiB7fQo=</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -202,31 +214,31 @@
         <text encoding="base64">IyBQcml2YXRlIGFnZW50IG5vZGUgdGVzdGVkIE9TZXMgaW1hZ2UKdmFyaWFibGUgInByaXZhdGVfYWdlbnRzX2Rjb3NfaW5zdGFuY2Vfb3MiIHsKICBkZXNjcmlwdGlvbiA9ICJQcml2YXRlIGFnZW50IG5vZGUgdGVzdGVkIE9TZXMgaW1hZ2UiCiAgZGVmYXVsdCAgICAgPSAiIgp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0hvc3QnOiBIT1NULAo=</text>
+        <text encoding="base64">CnByb3ZpZGVyICJhenVyZXJtIiB7fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0hvc3QnOiBIT1NULAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1JlZmVyZXInOiByYW5kb21fcmVmZXJlciArIHNlbGYuX2dldF9yYW5kb21fcShyYW5kb20ucmFuZGludCg1KSArIDUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0FjY2VwdC1DaGFyc2V0JywgYWNjZXB0X2NoYXJzZXQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1JlZmVyZXInOiByYW5kb21fcmVmZXJlciArIHNlbGYuX2dldF9yYW5kb21fcShyYW5kb20ucmFuZGludCg1KSArIDUpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlYWRlcmtra2tra2tra2trawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0FjY2VwdC1DaGFyc2V0JywgYWNjZXB0X2NoYXJzZXQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>217,221y</text>
