@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/load_test_asset/notes.py" timestamp="1555417281462" />
+      <file name="$USER_HOME$/Projects/load_test_asset/notes.py" timestamp="1555574918731">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="14" />
+        <mark key="." line="35" column="14" />
+        <mark key="^" line="35" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-jobs/Jenkinsfile.groovy" timestamp="1554986703953">
         <mark key="[" line="102" column="15" />
         <mark key="]" line="109" column="8" />
@@ -137,7 +142,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555415376776">
+      <file name="/Dummy.txt" timestamp="1555573966120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -285,17 +290,17 @@
       <jump line="151" column="2" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0hvc3QnOiBIT1NULAo=</text>
+      <register name="&quot;" type="4">
+        <text>VfMp5nmtaJk/aELnETAM2+TzQoFqHRN4Sw6AmojZAKE=</text>
       </register>
       <register name="-" type="4">
-        <text>random_agent</text>
+        <text>VfMp5nmtaJk/aELnETAM2+TzQoFqHRN4Sw6AmojZAKE=</text>
       </register>
       <register name="/" type="4">
         <text>bootstrap</text>
       </register>
       <register name="0" type="4">
-        <text>'</text>
+        <text>j</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ0hvc3QnOiBIT1NULAo=</text>
