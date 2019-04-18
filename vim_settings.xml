@@ -9,7 +9,7 @@
         <mark key="." line="35" column="14" />
         <mark key="^" line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1555590830836">
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1555594843345">
         <mark key="'" line="236" column="0" />
         <mark key="[" line="200" column="46" />
         <mark key="]" line="200" column="54" />
@@ -22,10 +22,16 @@
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" timestamp="1555422656407">
         <mark key="'" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1555589653561">
+      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" timestamp="1555596160240">
+        <mark key="[" line="206" column="13" />
+        <mark key="]" line="206" column="21" />
+        <mark key="." line="206" column="21" />
+        <mark key="^" line="206" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1555595529870">
         <mark key="'" line="57" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1555588096149" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1555595414741" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1554982579687">
         <mark key="'" line="182" column="28" />
       </file>
@@ -201,8 +207,8 @@
       <jump line="236" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CnByb3ZpZGVyICJhenVyZXJtIiB7fQo=</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -211,7 +217,7 @@
         <text>module.private_agents</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBQcml2YXRlIGFnZW50IG5vZGUgdGVzdGVkIE9TZXMgaW1hZ2UKdmFyaWFibGUgInByaXZhdGVfYWdlbnRzX2Rjb3NfaW5zdGFuY2Vfb3MiIHsKICBkZXNjcmlwdGlvbiA9ICJQcml2YXRlIGFnZW50IG5vZGUgdGVzdGVkIE9TZXMgaW1hZ2UiCiAgZGVmYXVsdCAgICAgPSAiIgp9Cg==</text>
+        <text encoding="base64">bW9kdWxlICJkY29zLXByaXZhdGUtYWdlbnRzLWluc3RhbGwiIHsKICBzb3VyY2UgID0gImRjb3MtdGVycmFmb3JtL2Rjb3MtaW5zdGFsbC1wcml2YXRlLWFnZW50cy1yZW1vdGUtZXhlYy9udWxsIgogIHZlcnNpb24gPSAifj4gMC4xLjAiCgogIGJvb3RzdHJhcF9wcml2YXRlX2lwID0gIiR7dmFyLmJvb3RzdHJhcF9wcml2YXRlX2lwfSIKICBib290c3RyYXBfcG9ydCAgICAgICA9ICIke3Zhci5kY29zX2Jvb3RzdHJhcF9wb3J0fSIKICBvc191c2VyICAgICAgICAgICAgICA9ICIke2NvYWxlc2NlKHZhci5wcml2YXRlX2FnZW50c19vc191c2VyLCB2YXIub3NfdXNlcil9IgogIGRjb3NfaW5zdGFsbF9tb2RlICAgID0gIiR7dmFyLmRjb3NfaW5zdGFsbF9tb2RlfSIKICBkY29zX3NraXBfY2hlY2tzICAgICA9ICIke3Zhci5kY29zX3NraXBfY2hlY2tzfSIKICBkY29zX3ZlcnNpb24gICAgICAgICA9ICIke3Zhci5kY29zX3ZlcnNpb259IgogIHByaXZhdGVfYWdlbnRfaXBzICAgID0gWyIke3Zhci5wcml2YXRlX2FnZW50X2lwc30iXQogIG51bV9wcml2YXRlX2FnZW50cyAgID0gIiR7dmFyLm51bV9wcml2YXRlX2FnZW50c30iCgogIHRyaWdnZXIgICAgPSBbIiR7bW9kdWxlLmRjb3MtbWFzdGVycy1pbnN0YWxsLmRlcGVuZHN9Il0KICBkZXBlbmRzX29uID0gWyIke3Zhci5wcml2YXRlX2FnZW50c19wcmVyZXEtaWR9Il0KfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CnByb3ZpZGVyICJhenVyZXJtIiB7fQo=</text>
@@ -241,7 +247,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ0FjY2VwdC1DaGFyc2V0JywgYWNjZXB0X2NoYXJzZXQsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>217,221y</text>
+        <text>190,205y</text>
       </register>
     </registers>
     <search>
@@ -314,6 +320,7 @@
         <entry>147,151y</entry>
         <entry>91,96y</entry>
         <entry>217,221y</entry>
+        <entry>190,205y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
