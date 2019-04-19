@@ -3,18 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/outputs.tf" timestamp="1555680971309" />
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" timestamp="1555587269683">
         <mark key="'" line="80" column="7" />
         <mark key="[" line="224" column="17" />
         <mark key="]" line="224" column="25" />
         <mark key="." line="224" column="25" />
         <mark key="^" line="224" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/load_test_asset/notes.py" timestamp="1555578520301">
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="35" column="14" />
-        <mark key="." line="35" column="14" />
-        <mark key="^" line="35" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" timestamp="1555662260646">
         <mark key="'" line="99" column="48" />
@@ -23,12 +18,12 @@
         <mark key="." line="105" column="34" />
         <mark key="^" line="105" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1555671359909">
-        <mark key="'" line="236" column="0" />
-        <mark key="[" line="200" column="46" />
-        <mark key="]" line="200" column="54" />
-        <mark key="." line="200" column="54" />
-        <mark key="^" line="200" column="54" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1555682653702">
+        <mark key="'" line="202" column="71" />
+        <mark key="[" line="184" column="13" />
+        <mark key="]" line="184" column="91" />
+        <mark key="." line="184" column="91" />
+        <mark key="^" line="184" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-cassandra-agents-remote-exec/outputs.tf" timestamp="1555678953859">
         <mark key="[" line="2" column="43" />
@@ -36,8 +31,21 @@
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" timestamp="1555422638162">
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-cassandra-agents/variables.tf" timestamp="1555681441023">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" timestamp="1555680850767">
         <mark key="'" line="52" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-cassandra-agents/main.tf" timestamp="1555682567330">
+        <mark key="'" line="35" column="47" />
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="49" />
+        <mark key="." line="35" column="49" />
+        <mark key="^" line="35" column="49" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1555668909834" />
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" timestamp="1555313083806">
@@ -46,17 +54,27 @@
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" timestamp="1555422656407">
         <mark key="'" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" timestamp="1555678805948">
+      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" timestamp="1555682692609">
         <mark key="'" line="208" column="48" />
         <mark key="[" line="208" column="12" />
         <mark key="]" line="208" column="18" />
         <mark key="." line="208" column="18" />
         <mark key="^" line="208" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents/main.tf" timestamp="1555681201377">
+        <mark key="'" line="52" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/orbital-group-service/build.gradle" timestamp="1554974479861">
         <mark key="'" line="114" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1555668884077" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-cassandra-agents/outputs.tf" timestamp="1555682098469">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/private-db-agent.tf" timestamp="1555682631137" />
       <file name="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" timestamp="1555664292457" />
       <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1555678396697">
         <mark key="'" line="29" column="42" />
@@ -65,7 +83,7 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="75" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555678965351">
+      <file name="/Dummy.txt" timestamp="1555682107024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -85,12 +103,6 @@
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-public-agents-remote-exec/main.tf" timestamp="1555678448743">
         <mark key="'" line="57" column="55" />
-      </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/variables.tf" timestamp="1555597965749">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="17" />
-        <mark key="." line="31" column="17" />
-        <mark key="^" line="29" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-data/deploy/marathon-template.json" timestamp="1555578139105">
         <mark key="'" line="1" column="22" />
@@ -114,29 +126,18 @@
         <mark key="." line="64" column="227" />
         <mark key="^" line="64" column="227" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555677010600">
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555682666418">
         <mark key="'" line="166" column="69" />
         <mark key="[" line="87" column="13" />
         <mark key="]" line="87" column="93" />
         <mark key="." line="87" column="93" />
         <mark key="^" line="87" column="93" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/variables.tf" timestamp="1555597004018">
-        <mark key="[" line="46" column="25" />
-        <mark key="]" line="46" column="33" />
-        <mark key="." line="46" column="33" />
-        <mark key="^" line="46" column="33" />
-      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-data/Jenkinsfile.groovy" timestamp="1555580392108">
         <mark key="'" line="31" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="76" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="179" column="63" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="7" column="30" filename="$USER_HOME$/Projects/load-ddos-cloudflare/tests/locustfile.py" />
-      <jump line="27" column="20" filename="$USER_HOME$/Projects/load-ddos-cloudflare/tests/locustfile.py" />
-      <jump line="92" column="43" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="120" column="45" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="167" column="69" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="176" column="51" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
@@ -193,7 +194,6 @@
       <jump line="33" column="19" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" />
       <jump line="75" column="19" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" />
       <jump line="81" column="19" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" />
-      <jump line="191" column="52" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="193" column="52" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="194" column="50" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="195" column="53" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
@@ -232,16 +232,22 @@
       <jump line="52" column="38" filename="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-cassandra-agents-remote-exec/main.tf" />
       <jump line="61" column="13" filename="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-cassandra-agents-remote-exec/main.tf" />
       <jump line="64" column="75" filename="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-cassandra-agents-remote-exec/main.tf" />
+      <jump line="203" column="66" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
+      <jump line="191" column="10" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
+      <jump line="52" column="49" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents/main.tf" />
+      <jump line="35" column="47" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-cassandra-agents/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-cassandra-agents/outputs.tf" />
+      <jump line="202" column="71" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>cassandra</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>cassandra</text>
       </register>
       <register name="/" type="4">
-        <text>bootstrap</text>
+        <text>private</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgIm51bV9wcml2YXRlX2FnZW50cyIgewogIGRlc2NyaXB0aW9uID0gIlNwZWNpZnkgdGhlIGFtb3VudCBvZiBwcml2YXRlIGFnZW50cy4gVGhlc2UgYWdlbnRzIHdpbGwgcHJvdmlkZSB5b3VyIG1haW4gcmVzb3VyY2VzIgogIGRlZmF1bHQgICAgID0gMgp9Cg==</text>
@@ -253,36 +259,36 @@
         <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgInN1ZG8gY2htb2QgLXcgL3Zhci9saWIvZGNvcy9tZXNvcy1zbGF2ZS1jb21tb24iCg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgImVjaG8gXCJNRVNPU19BVFRSSUJVVEVTPW9zOkxpbnV4O3JvbGU6ZGI7XCIgfCBzdWRvIHRlZSAvdmFyL2xpYi9kY29zL21lc29zLXNsYXZlLWNvbW1vbiIsCg==</text>
+        <text encoding="base64">ICAgICAgInN1ZG8gY2htb2QgLXcgL3Zhci9saWIvZGNvcy9tZXNvcy1zbGF2ZS1jb21tb24iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgInN1ZG8gbWtkaXIgLXAgL3Zhci9saWIvZGNvcyIsCg==</text>
+        <text encoding="base64">ICAgICAgImVjaG8gXCJNRVNPU19BVFRSSUJVVEVTPW9zOkxpbnV4O3JvbGU6ZGI7XCIgfCBzdWRvIHRlZSAvdmFyL2xpYi9kY29zL21lc29zLXNsYXZlLWNvbW1vbiIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlubGluZSA9IFsK</text>
+        <text encoding="base64">ICAgICAgInN1ZG8gbWtkaXIgLXAgL3Zhci9saWIvZGNvcyIsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/[pP]rivate/cassandra/</text>
+        <text>%s/private/cassandra</text>
       </register>
     </registers>
     <search>
-      <last-search>bootstrap</last-search>
+      <last-search>private</last-search>
       <last-offset />
-      <last-pattern>bootstrap</last-pattern>
+      <last-pattern>private</last-pattern>
       <last-replace>cassandra</last-replace>
-      <last-substitute>[pP]rivate</last-substitute>
+      <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -305,9 +311,9 @@
         <entry>cdp-api</entry>
         <entry>api</entry>
         <entry>module.private_agents</entry>
-        <entry>private</entry>
         <entry>[pP]rivate</entry>
         <entry>bootstrap</entry>
+        <entry>private</entry>
       </history-search>
       <history-cmd>
         <entry>157,182</entry>
@@ -330,6 +336,7 @@
         <entry>161,165y</entry>
         <entry>25,28y</entry>
         <entry>%s/[pP]rivate/cassandra/</entry>
+        <entry>%s/private/cassandra</entry>
       </history-cmd>
       <history-expr />
       <history-input />
