@@ -40,12 +40,12 @@
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" timestamp="1555422656407">
         <mark key="'" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" timestamp="1555669432677">
-        <mark key="'" line="215" column="37" />
-        <mark key="[" line="190" column="13" />
-        <mark key="]" line="190" column="115" />
-        <mark key="." line="190" column="115" />
-        <mark key="^" line="190" column="115" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" timestamp="1555677695616">
+        <mark key="'" line="208" column="16" />
+        <mark key="[" line="215" column="6" />
+        <mark key="]" line="215" column="14" />
+        <mark key="." line="215" column="14" />
+        <mark key="^" line="215" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-group-service/build.gradle" timestamp="1554974479861">
         <mark key="'" line="114" column="9" />
@@ -59,7 +59,7 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="75" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555677114991">
+      <file name="/Dummy.txt" timestamp="1555677721682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -119,7 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="32" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="40" column="23" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" />
       <jump line="240" column="32" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="24" column="9" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
@@ -219,13 +218,14 @@
       <jump line="216" column="37" filename="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" />
       <jump line="168" column="49" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="166" column="69" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="208" column="16" filename="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dcos-terraform/infrastructure/azurerm</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>dcos-terraform/infrastructure/azurerm</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>[pP]rivate</text>
