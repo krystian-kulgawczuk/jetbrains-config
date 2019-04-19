@@ -100,12 +100,12 @@
         <mark key="." line="68" column="34" />
         <mark key="^" line="68" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555668703642">
-        <mark key="'" line="168" column="49" />
-        <mark key="[" line="143" column="12" />
-        <mark key="]" line="143" column="94" />
-        <mark key="." line="143" column="94" />
-        <mark key="^" line="143" column="94" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555675535468">
+        <mark key="'" line="166" column="69" />
+        <mark key="[" line="87" column="13" />
+        <mark key="]" line="87" column="93" />
+        <mark key="." line="87" column="93" />
+        <mark key="^" line="87" column="93" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/variables.tf" timestamp="1555597004018">
         <mark key="[" line="46" column="25" />
@@ -118,7 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="48" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="127" column="32" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="40" column="23" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" />
       <jump line="240" column="32" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
@@ -218,13 +217,14 @@
       <jump line="45" column="36" filename="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-cassandra-agents-remote-exec/main.tf" />
       <jump line="216" column="37" filename="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" />
       <jump line="168" column="49" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="166" column="69" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dcos-terraform/dcos-install-private-agents-remote-exec/null</text>
+        <text>dcos-terraform/infrastructure/azurerm</text>
       </register>
       <register name="-" type="4">
-        <text>dcos-terraform/dcos-install-private-agents-remote-exec/null</text>
+        <text>dcos-terraform/infrastructure/azurerm</text>
       </register>
       <register name="/" type="4">
         <text>[pP]rivate</text>
@@ -236,28 +236,28 @@
         <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgInN1ZG8gY2htb2QgLXcgL3Zhci9saWIvZGNvcy9tZXNvcy1zbGF2ZS1jb21tb24iCg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgImVjaG8gXCJNRVNPU19BVFRSSUJVVEVTPW9zOkxpbnV4O3JvbGU6ZGI7XCIgfCBzdWRvIHRlZSAvdmFyL2xpYi9kY29zL21lc29zLXNsYXZlLWNvbW1vbiIsCg==</text>
+        <text encoding="base64">ICAgICAgInN1ZG8gY2htb2QgLXcgL3Zhci9saWIvZGNvcy9tZXNvcy1zbGF2ZS1jb21tb24iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgInN1ZG8gbWtkaXIgLXAgL3Zhci9saWIvZGNvcyIsCg==</text>
+        <text encoding="base64">ICAgICAgImVjaG8gXCJNRVNPU19BVFRSSUJVVEVTPW9zOkxpbnV4O3JvbGU6ZGI7XCIgfCBzdWRvIHRlZSAvdmFyL2xpYi9kY29zL21lc29zLXNsYXZlLWNvbW1vbiIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlubGluZSA9IFsK</text>
+        <text encoding="base64">ICAgICAgInN1ZG8gbWtkaXIgLXAgL3Zhci9saWIvZGNvcyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm92aXNpb25lciAicmVtb3RlLWV4ZWMiIHsK</text>
+        <text encoding="base64">ICAgIGlubGluZSA9IFsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/[pP]rivate/cassandra/</text>
