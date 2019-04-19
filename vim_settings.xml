@@ -3,11 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" timestamp="1555587269683">
+        <mark key="'" line="80" column="7" />
+        <mark key="[" line="224" column="17" />
+        <mark key="]" line="224" column="25" />
+        <mark key="." line="224" column="25" />
+        <mark key="^" line="224" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/load_test_asset/notes.py" timestamp="1555578520301">
         <mark key="[" line="35" column="14" />
         <mark key="]" line="35" column="14" />
         <mark key="." line="35" column="14" />
         <mark key="^" line="35" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" timestamp="1555662260646">
+        <mark key="'" line="99" column="48" />
+        <mark key="[" line="105" column="26" />
+        <mark key="]" line="105" column="34" />
+        <mark key="." line="105" column="34" />
+        <mark key="^" line="105" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1555662310939">
         <mark key="'" line="236" column="0" />
@@ -19,6 +33,9 @@
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" timestamp="1555422638162">
         <mark key="'" line="52" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" timestamp="1555313083806">
+        <mark key="'" line="40" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" timestamp="1555422656407">
         <mark key="'" line="49" column="7" />
       </file>
@@ -29,53 +46,6 @@
         <mark key="." line="220" column="31" />
         <mark key="^" line="220" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1555662364120">
-        <mark key="'" line="77" column="39" />
-        <mark key="[" line="57" column="56" />
-        <mark key="]" line="57" column="56" />
-        <mark key="." line="57" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/cassandra/backup_restore/ansible/inventories/gvc-us-dev/hosts" timestamp="1555662093226" />
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1555663547928" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1554982579687">
-        <mark key="'" line="182" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-data/deploy/marathon-template.json" timestamp="1555578139105">
-        <mark key="'" line="1" column="22" />
-        <mark key="[" line="27" column="40" />
-        <mark key="]" line="27" column="49" />
-        <mark key="." line="27" column="49" />
-        <mark key="^" line="27" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555598089195">
-        <mark key="'" line="164" column="2" />
-        <mark key="[" line="170" column="6" />
-        <mark key="]" line="170" column="14" />
-        <mark key="." line="170" column="14" />
-        <mark key="^" line="170" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-private-agents-remote-exec/outputs.tf" timestamp="1555662374630" />
-      <file name="$USER_HOME$/Projects/CDP/cdp-agent-data/Jenkinsfile.groovy" timestamp="1555580392108">
-        <mark key="'" line="31" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" timestamp="1555587269683">
-        <mark key="'" line="80" column="7" />
-        <mark key="[" line="224" column="17" />
-        <mark key="]" line="224" column="25" />
-        <mark key="." line="224" column="25" />
-        <mark key="^" line="224" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" timestamp="1555662260646">
-        <mark key="'" line="99" column="48" />
-        <mark key="[" line="105" column="26" />
-        <mark key="]" line="105" column="34" />
-        <mark key="." line="105" column="34" />
-        <mark key="^" line="105" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1555580350540" />
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" timestamp="1555313083806">
-        <mark key="'" line="40" column="23" />
-      </file>
       <file name="$USER_HOME$/Projects/orbital-group-service/build.gradle" timestamp="1554974479861">
         <mark key="'" line="114" column="9" />
       </file>
@@ -84,6 +54,13 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/terraform_dcos/private-gateway-agent.tf" timestamp="1555664292457" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1555662364120">
+        <mark key="'" line="77" column="39" />
+        <mark key="[" line="57" column="56" />
+        <mark key="]" line="57" column="56" />
+        <mark key="." line="57" column="56" />
       </file>
       <file name="/Dummy.txt" timestamp="1555577427289">
         <mark key="[" line="0" column="0" />
@@ -96,11 +73,21 @@
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1554455748645">
         <mark key="'" line="1904" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1554982579687">
+        <mark key="'" line="182" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/variables.tf" timestamp="1555597965749">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="31" column="17" />
         <mark key="." line="31" column="17" />
         <mark key="^" line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-data/deploy/marathon-template.json" timestamp="1555578139105">
+        <mark key="'" line="1" column="22" />
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="49" />
+        <mark key="." line="27" column="49" />
+        <mark key="^" line="27" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-data/newrelic.yml" timestamp="1555577338050">
         <mark key="'" line="288" column="29" />
@@ -109,12 +96,19 @@
         <mark key="." line="296" column="30" />
         <mark key="^" line="296" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-cassandra-agents-remote-exec/main.tf" timestamp="1555663348199">
+      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-cassandra-agents-remote-exec/main.tf" timestamp="1555664424615">
         <mark key="'" line="45" column="36" />
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="27" />
-        <mark key="^" line="24" column="27" />
+        <mark key="[" line="68" column="27" />
+        <mark key="]" line="68" column="34" />
+        <mark key="." line="68" column="34" />
+        <mark key="^" line="68" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1555598089195">
+        <mark key="'" line="164" column="2" />
+        <mark key="[" line="170" column="6" />
+        <mark key="]" line="170" column="14" />
+        <mark key="." line="170" column="14" />
+        <mark key="^" line="170" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/variables.tf" timestamp="1555597004018">
         <mark key="[" line="46" column="25" />
@@ -122,7 +116,9 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/common/tasks/main.yml" timestamp="1555662111841" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-agent-data/Jenkinsfile.groovy" timestamp="1555580392108">
+        <mark key="'" line="31" column="35" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="112" column="48" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
@@ -282,13 +278,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kafka</entry>
-        <entry>organization</entry>
-        <entry>swagger</entry>
-        <entry>assigned_organizations</entry>
-        <entry>user</entry>
-        <entry>organization.organization</entry>
-        <entry>elastic</entry>
         <entry>true</entry>
         <entry>background_job</entry>
         <entry>command_table</entry>
@@ -311,25 +300,6 @@
         <entry>[pP]rivate</entry>
       </history-search>
       <history-cmd>
-        <entry>34,38y</entry>
-        <entry>54m57d</entry>
-        <entry>54,57d</entry>
-        <entry>%s/group-structure/cdp-api/</entry>
-        <entry>%s/cdp-api/cdp-agent-api/</entry>
-        <entry>%s/cdp-agent-api/cdp-jobs</entry>
-        <entry>%s/cdp-agent-api/cdp-jobs/</entry>
-        <entry>%s/cdp-jobs/cdp-events/</entry>
-        <entry>%s/cdp-events/cdp-metadata/</entry>
-        <entry>%s/group-structure/gvc-agent</entry>
-        <entry>%s/gvc-group-structure/gvc-agent/</entry>
-        <entry>%s/group-structure/gvc-agent/</entry>
-        <entry>92,95d</entry>
-        <entry>%s/@Column(/@Column(DiskColumns\./</entry>
-        <entry>64,81d</entry>
-        <entry>%s/public/private/</entry>
-        <entry>%s/private/public</entry>
-        <entry>%s/public/private</entry>
-        <entry>66,113d</entry>
         <entry>157,182</entry>
         <entry>157,182y</entry>
         <entry>25,35y</entry>
