@@ -58,8 +58,9 @@
         <mark key="^" line="35" column="49" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1555668909834" />
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/modules/dcos-infrastructure-vmss/variables.tf" timestamp="1556023258604">
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/modules/dcos-infrastructure-vmss/variables.tf" timestamp="1556028257409">
         <mark key="'" line="27" column="10" />
+        <mark key="[" line="29" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" timestamp="1556021213992">
         <mark key="'" line="488" column="24" />
@@ -152,7 +153,7 @@
         <mark key="^" line="72" column="46" />
       </file>
       <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/modules/dcos-infrastructure-vmss/outputs.tf" timestamp="1556018580898" />
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1556024225390">
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1556027894470">
         <mark key="'" line="289" column="35" />
         <mark key="[" line="285" column="26" />
         <mark key="]" line="285" column="44" />
@@ -279,7 +280,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>admin_username</text>
+        <text>dcos_version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyaWFibGUgInZtc3NfaW5zdGFuY2VfY291bnR9IiB7Cg==</text>
@@ -316,9 +317,9 @@
       </register>
     </registers>
     <search>
-      <last-search>admin_username</last-search>
+      <last-search>dcos_version</last-search>
       <last-offset />
-      <last-pattern>admin_username</last-pattern>
+      <last-pattern>dcos_version</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -356,6 +357,7 @@
         <entry>location</entry>
         <entry>dcos_teste</entry>
         <entry>admin_username</entry>
+        <entry>dcos_version</entry>
       </history-search>
       <history-cmd>
         <entry>157,182</entry>
