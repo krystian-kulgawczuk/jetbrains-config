@@ -145,10 +145,11 @@
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-data/Jenkinsfile.groovy" timestamp="1555580392108">
         <mark key="'" line="31" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" timestamp="1556013110869">
+        <mark key="'" line="127" column="30" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
-      <jump line="30" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
       <jump line="36" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
       <jump line="41" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
       <jump line="45" column="7" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" />
@@ -247,6 +248,8 @@
       <jump line="115" column="53" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="197" column="55" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="216" column="39" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
+      <jump line="100" column="43" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
+      <jump line="127" column="30" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
