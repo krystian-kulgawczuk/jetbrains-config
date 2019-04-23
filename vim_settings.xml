@@ -11,9 +11,6 @@
         <mark key="." line="182" column="24" />
         <mark key="^" line="182" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/modules/dcos-infrastructure-vmss/main.tf" timestamp="1556014143749">
-        <mark key="'" line="96" column="45" />
-      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" timestamp="1556003367566">
         <mark key="'" line="99" column="38" />
         <mark key="[" line="105" column="26" />
@@ -130,16 +127,14 @@
         <mark key="." line="111" column="53" />
         <mark key="^" line="111" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" timestamp="1556015020579">
-        <mark key="'" line="306" column="62" />
+      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" timestamp="1556016288175">
+        <mark key="'" line="214" column="61" />
         <mark key="[" line="286" column="0" />
         <mark key="]" line="288" column="3" />
         <mark key="." line="286" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="68" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="154" column="68" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="191" column="61" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="94" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="95" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
@@ -224,7 +219,6 @@
       <jump line="197" column="55" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="216" column="39" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="100" column="43" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
-      <jump line="127" column="30" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
       <jump line="96" column="45" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/modules/dcos-infrastructure-vmss/main.tf" />
       <jump line="182" column="95" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
       <jump line="184" column="70" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
@@ -238,6 +232,9 @@
       <jump line="304" column="56" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
       <jump line="305" column="56" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
       <jump line="306" column="62" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
+      <jump line="127" column="28" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
+      <jump line="194" column="2" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
+      <jump line="214" column="61" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -247,7 +244,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dcos_aws</text>
+        <text>dcos_ca</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcm92aWRlcnMgPSB7CiAgICBhenVyZXJtID0gImF6dXJlcm0iCiAgfQo=</text>
@@ -284,9 +281,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dcos_aws</last-search>
+      <last-search>dcos_ca</last-search>
       <last-offset />
-      <last-pattern>dcos_aws</last-pattern>
+      <last-pattern>dcos_ca</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -319,6 +316,7 @@
         <entry>example</entry>
         <entry>adminrouter</entry>
         <entry>dcos_aws</entry>
+        <entry>dcos_ca</entry>
       </history-search>
       <history-cmd>
         <entry>157,182</entry>
