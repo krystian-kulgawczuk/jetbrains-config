@@ -11,6 +11,9 @@
         <mark key="." line="182" column="24" />
         <mark key="^" line="182" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/modules/dcos-infrastructure-vmss/main.tf" timestamp="1556020134905">
+        <mark key="'" line="32" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" timestamp="1556003367566">
         <mark key="'" line="99" column="38" />
         <mark key="[" line="105" column="26" />
@@ -89,6 +92,9 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/modules/dcos-core-vmss/main.tf" timestamp="1556018593956">
+        <mark key="'" line="52" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/variables.tf" timestamp="1555684580223">
         <mark key="[" line="115" column="10" />
         <mark key="]" line="115" column="10" />
@@ -120,26 +126,22 @@
         <mark key="." line="72" column="46" />
         <mark key="^" line="72" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1556014518954">
-        <mark key="'" line="185" column="72" />
+      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/modules/dcos-infrastructure-vmss/outputs.tf" timestamp="1556018580898" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1556019651893">
+        <mark key="'" line="167" column="48" />
         <mark key="[" line="111" column="45" />
         <mark key="]" line="111" column="53" />
         <mark key="." line="111" column="53" />
         <mark key="^" line="111" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" timestamp="1556016288175">
-        <mark key="'" line="214" column="61" />
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="288" column="3" />
-        <mark key="." line="286" column="0" />
+      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" timestamp="1556020058538">
+        <mark key="'" line="217" column="65" />
+        <mark key="[" line="138" column="32" />
+        <mark key="]" line="138" column="32" />
+        <mark key="." line="138" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="61" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="94" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="95" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="96" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="97" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="98" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="147" column="4" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="149" column="55" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
@@ -235,10 +237,15 @@
       <jump line="127" column="28" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
       <jump line="194" column="2" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
       <jump line="214" column="61" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
+      <jump line="52" column="38" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/modules/dcos-core-vmss/main.tf" />
+      <jump line="167" column="48" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
+      <jump line="6" column="35" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/modules/dcos-infrastructure-vmss/main.tf" />
+      <jump line="217" column="65" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
+      <jump line="32" column="38" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/modules/dcos-infrastructure-vmss/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnMgPSB7CiAgICBhenVyZXJtID0gImF6dXJlcm0iCiAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
