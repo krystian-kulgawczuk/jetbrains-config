@@ -31,12 +31,10 @@
         <mark key="." line="105" column="34" />
         <mark key="^" line="105" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1556004943199">
-        <mark key="'" line="216" column="39" />
-        <mark key="[" line="216" column="57" />
-        <mark key="]" line="216" column="28" />
-        <mark key="." line="216" column="28" />
-        <mark key="^" line="216" column="27" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1556095947058">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-cassandra-agents-remote-exec/outputs.tf" timestamp="1555678953859">
         <mark key="[" line="2" column="43" />
@@ -273,8 +271,8 @@
       <jump line="151" column="56" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/modules/dcos-infrastructure-vmss/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -286,31 +284,31 @@
         <text encoding="base64">dmFyaWFibGUgInZtc3NfaW5zdGFuY2VfY291bnR9IiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb3VudCA9ICIke3Zhci5udW19Igo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZV9rZXkgPSAiJHt2YXIuc3NoX3ByaXZhdGVfa2V5X2ZpbGVuYW1lfSIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSA9ICIke3Zhci5jYXNzYW5kcmFfYWdlbnRzX2FkbWluX3VzZXJuYW1lfSIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBudW1fY2Fzc2FuZHJhX2FnZW50cyA9ICIke3Zhci5udW1fY2Fzc2FuZHJhX2FnZW50c30iCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbW1hbmQgPSAiIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcm92aXNpb25lciAibG9jYWwtZXhlYyIgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgcHJpdmF0ZV9rZXkgPSAiJHtmaWxlKHZhci5zc2hfcHJpdmF0ZV9rZXlfZmlsZV9wYXRoKX0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>142,144y</text>
