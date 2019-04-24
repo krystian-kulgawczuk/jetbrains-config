@@ -69,8 +69,8 @@
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" timestamp="1556004213859">
         <mark key="'" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" timestamp="1555682692609">
-        <mark key="'" line="208" column="48" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" timestamp="1556100417317">
+        <mark key="'" line="218" column="36" />
         <mark key="[" line="208" column="12" />
         <mark key="]" line="208" column="18" />
         <mark key="." line="208" column="18" />
@@ -151,7 +151,7 @@
         <mark key="^" line="72" column="46" />
       </file>
       <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/modules/dcos-infrastructure-vmss/outputs.tf" timestamp="1556018580898" />
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1556027894470">
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" timestamp="1556100569778">
         <mark key="'" line="289" column="35" />
         <mark key="[" line="285" column="26" />
         <mark key="]" line="285" column="44" />
@@ -169,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="19" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" />
       <jump line="193" column="52" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="194" column="50" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="195" column="53" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
@@ -269,6 +268,7 @@
       <jump line="177" column="61" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
       <jump line="289" column="35" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="151" column="56" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/modules/dcos-infrastructure-vmss/main.tf" />
+      <jump line="218" column="36" filename="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
