@@ -146,7 +146,7 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" timestamp="1556182320676">
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" timestamp="1556185373003">
         <mark key="'" line="30" column="72" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
@@ -172,11 +172,12 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/main.tf" timestamp="1556182793333">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="16" column="22" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/main.tf" timestamp="1556185728639">
+        <mark key="'" line="1" column="36" />
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="47" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1555676250699" />
       <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-cassandra-agents-remote-exec/main.tf" timestamp="1556003737817">
@@ -233,8 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="2" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
-      <jump line="105" column="10" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
       <jump line="106" column="17" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
       <jump line="110" column="2" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
       <jump line="111" column="10" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
@@ -333,49 +332,51 @@
       <jump line="11" column="42" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-public-agents/outputs.tf" />
       <jump line="79" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="30" column="72" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
+      <jump line="23" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/main.tf" />
+      <jump line="1" column="36" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhaGdrbGFrbGtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2trayA9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;${lookup(local.final_rules[count.index], &quot;idle_timeout_in_minutes&quot;, 4)}&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>publ.load_balancer.id</text>
+        <text>&quot;${lookup(local.final_rules[count.index], &quot;idle_timeout_in_minutes&quot;, 4)}&quot;</text>
       </register>
       <register name="/" type="4">
         <text>probe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyaWFibGUgInZtc3NfaW5zdGFuY2VfY291bnR9IiB7Cg==</text>
+        <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fbGJfcHJvYmUiICJsb2FkX2JhbGFuY2VyX21hcmF0aG9uXzEwMDAwIiB7CiAgcmVzb3VyY2VfZ3JvdXBfbmFtZSA9ICIke3Zhci5yZXNvdXJjZV9ncm91cF9uYW1lfSIKICBsb2FkYmFsYW5jZXJfaWQgICAgID0gIiR7bW9kdWxlLnB1YmxpYy1hZ2VudHMufSIKICBuYW1lICAgICAgICAgICAgICAgID0gIiR7bG9jYWwubGJfbmFtZX0tcHJvYmUiCiAgcG9ydCAgICAgICAgICAgICAgICA9ICIke2xvb2t1cChsb2NhbC5wcm9iZV8xMDAwMCwgInBvcnQiKX0iCiAgcHJvdG9jb2wgICAgICAgICAgICA9ICIke2xvb2t1cChsb2NhbC5wcm9iZV8xMDAwMCwgInByb3RvY29sIil9IgogIGludGVydmFsX2luX3NlY29uZHMgPSAiJHtsb29rdXAobG9jYWwucHJvYmVfMTAwMDAsICJpbnRlcnZhbF9pbl9zZWNvbmRzIil9IgogIG51bWJlcl9vZl9wcm9iZXMgICAgPSAiJHtsb29rdXAobG9jYWwucHJvYmVfMTAwMDAsICJudW1iZXJfb2ZfcHJvYmVzIil9Igp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhaGdrbGFrbGtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2trayA9Cg==</text>
+        <text encoding="base64">ICBjb3VudCAgICAgICAgICAgICAgID0gIiR7bGVuZ3RoKGxvY2FsLmZpbmFsX3J1bGVzKX0iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXF1ZXN0X3BhdGggICAgICAgID0gIiR7bG9va3VwKGxvY2FsLnByb2JlXzEwMDAwLCAicmVxdWVzdF9wYXRoIiwgIiIpfSIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICJBenVyZSBSZWdpb24iCg==</text>
+        <text encoding="base64">ICAgICAgICBwb3J0ID0gMTAwMDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyaWFibGUgImxvY2F0aW9uIiB7Cg==</text>
+        <text encoding="base64">ICAxMDAwMV9wcm9iZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBMb2NhdGlvbiAocmVnaW9uKQo=</text>
+        <text encoding="base64">ICBhaGdrbGFrbGtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2trayA9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>142,144y</text>
+        <text>30,38y</text>
       </register>
     </registers>
     <search>
@@ -454,6 +455,8 @@
         <entry>146,149y</entry>
         <entry>110,114y</entry>
         <entry>142,144y</entry>
+        <entry>5,8y</entry>
+        <entry>30,38y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
