@@ -11,17 +11,14 @@
         <mark key="." line="152" column="52" />
         <mark key="^" line="152" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/modules/dcos-infrastructure-vmss/main.tf" timestamp="1556088800360">
-        <mark key="'" line="32" column="38" />
-        <mark key="[" line="98" column="16" />
-        <mark key="]" line="98" column="17" />
-        <mark key="." line="98" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/load_test_asset/notes.py" timestamp="1555578520301">
         <mark key="[" line="35" column="14" />
         <mark key="]" line="35" column="14" />
         <mark key="." line="35" column="14" />
         <mark key="^" line="35" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/outputs.tf" timestamp="1556180438549">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1556098310756">
         <mark key="[" line="209" column="0" />
@@ -77,7 +74,7 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" timestamp="1556109046462">
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" timestamp="1556181157175">
         <mark key="'" line="112" column="19" />
         <mark key="[" line="149" column="17" />
         <mark key="]" line="92" column="0" />
@@ -101,6 +98,7 @@
         <mark key="." line="285" column="44" />
         <mark key="^" line="285" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-dcos/variables.tf" timestamp="1556180365800" />
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-data/Jenkinsfile.groovy" timestamp="1555580392108">
         <mark key="'" line="31" column="35" />
       </file>
@@ -121,9 +119,15 @@
         <mark key="." line="74" column="17" />
         <mark key="^" line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/variables.tf" timestamp="1556182297983" />
       <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1555668909834" />
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" timestamp="1556021213992">
         <mark key="'" line="488" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/variables.tf" timestamp="1556182309863">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/orbital-group-service/build.gradle" timestamp="1554974479861">
         <mark key="'" line="114" column="9" />
@@ -142,8 +146,8 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" timestamp="1556113411072">
-        <mark key="'" line="102" column="21" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" timestamp="1556182320676">
+        <mark key="'" line="30" column="72" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="^" line="114" column="24" />
@@ -156,6 +160,9 @@
         <mark key="^" line="192" column="12" />
         <mark key="." line="192" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-dcos/main.tf" timestamp="1556180392935">
+        <mark key="'" line="66" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" timestamp="1554455748645">
         <mark key="'" line="1904" column="13" />
       </file>
@@ -164,6 +171,12 @@
         <mark key="]" line="34" column="29" />
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/main.tf" timestamp="1556182793333">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="16" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1555676250699" />
       <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-cassandra-agents-remote-exec/main.tf" timestamp="1556003737817">
@@ -179,7 +192,19 @@
         <mark key="^" line="298" column="16" />
         <mark key="." line="298" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/outputs.tf" timestamp="1556113341868" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-public-agents/outputs.tf" timestamp="1556181850814">
+        <mark key="'" line="11" column="42" />
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/outputs.tf" timestamp="1556181358296">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="15" column="45" />
+        <mark key="^" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" timestamp="1556108440660">
         <mark key="'" line="211" column="44" />
         <mark key="[" line="214" column="2" />
@@ -206,24 +231,8 @@
         <mark key="^" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" timestamp="1556023312422">
-        <mark key="'" line="177" column="61" />
-        <mark key="[" line="138" column="32" />
-        <mark key="]" line="138" column="32" />
-        <mark key="." line="138" column="32" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="51" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="114" column="48" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="113" column="50" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="112" column="48" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="111" column="46" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="99" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/outputs.tf" />
-      <jump line="52" column="33" filename="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-cassandra-agents-remote-exec/main.tf" />
-      <jump line="38" column="48" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-bootstrap/main.tf" />
-      <jump line="41" column="51" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
       <jump line="104" column="2" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
       <jump line="105" column="10" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
       <jump line="106" column="17" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
@@ -304,7 +313,6 @@
       <jump line="41" column="35" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-public-agents/main.tf" />
       <jump line="47" column="64" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="40" column="4" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
-      <jump line="105" column="42" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="107" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="108" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="109" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
@@ -312,15 +320,26 @@
       <jump line="111" column="56" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="93" column="30" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="98" column="74" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
-      <jump line="99" column="73" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="102" column="21" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
+      <jump line="64" column="46" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-dcos/main.tf" />
+      <jump line="63" column="46" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-dcos/main.tf" />
+      <jump line="62" column="36" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-dcos/main.tf" />
+      <jump line="61" column="41" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-dcos/main.tf" />
+      <jump line="66" column="19" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-dcos/main.tf" />
+      <jump line="99" column="10" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
+      <jump line="104" column="52" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
+      <jump line="105" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
+      <jump line="103" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
+      <jump line="11" column="42" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-public-agents/outputs.tf" />
+      <jump line="79" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
+      <jump line="30" column="72" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhaGdrbGFrbGtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2trayA9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cassandra</text>
+        <text>publ.load_balancer.id</text>
       </register>
       <register name="/" type="4">
         <text>probe</text>
@@ -329,31 +348,31 @@
         <text encoding="base64">dmFyaWFibGUgInZtc3NfaW5zdGFuY2VfY291bnR9IiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhaGdrbGFrbGtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2trayA9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBudW1iZXJfb2ZfcHJvYmVzICAgID0gIiR7bG9va3VwKHZhci5wcm9iZSwgIm51bWJlcl9vZl9wcm9iZXMiLCAyKX0iCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBpbnRlcnZhbF9pbl9zZWNvbmRzID0gIiR7bG9va3VwKHZhci5wcm9iZSwgImludGVydmFsX2luX3NlY29uZHMiLCAzMCl9Igo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICByZXF1ZXN0X3BhdGggICAgICAgID0gIiR7bG9va3VwKHZhci5wcm9iZSwgInJlcXVlc3RfcGF0aCIsICIiKX0iCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwcm90b2NvbCAgICAgICAgICAgID0gIiR7bG9va3VwKHZhci5wcm9iZSwgInByb3RvY29sIiwgIlRDUCIpfSIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwb3J0ICAgICAgICAgICAgICAgID0gIiR7bG9va3VwKHZhci5wcm9iZSwgInBvcnQiLCA4MCl9Igo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICJBenVyZSBSZWdpb24iCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyaWFibGUgImxvY2F0aW9uIiB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBMb2NhdGlvbiAocmVnaW9uKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBuYW1lICAgICAgICAgICAgICAgID0gIiR7bG9jYWwubGJfbmFtZX0tcHJvYmUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>142,144y</text>
