@@ -146,8 +146,8 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" timestamp="1556185373003">
-        <mark key="'" line="30" column="72" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" timestamp="1556185898122">
+        <mark key="'" line="97" column="81" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="^" line="114" column="24" />
@@ -200,7 +200,8 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/outputs.tf" timestamp="1556181358296">
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/outputs.tf" timestamp="1556185936722">
+        <mark key="'" line="15" column="26" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="15" column="45" />
         <mark key="^" line="15" column="45" />
@@ -234,9 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="17" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
-      <jump line="110" column="2" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
-      <jump line="111" column="10" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
       <jump line="112" column="17" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
       <jump line="115" column="53" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="197" column="55" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
@@ -334,6 +332,9 @@
       <jump line="30" column="72" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="23" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/main.tf" />
       <jump line="1" column="36" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/main.tf" />
+      <jump line="97" column="81" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
+      <jump line="9" column="49" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/outputs.tf" />
+      <jump line="15" column="26" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/outputs.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
