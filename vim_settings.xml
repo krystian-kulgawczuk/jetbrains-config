@@ -11,6 +11,12 @@
         <mark key="." line="152" column="52" />
         <mark key="^" line="152" column="52" />
       </file>
+      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/modules/dcos-infrastructure-vmss/main.tf" timestamp="1556088800360">
+        <mark key="'" line="32" column="38" />
+        <mark key="[" line="98" column="16" />
+        <mark key="]" line="98" column="17" />
+        <mark key="." line="98" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/outputs.tf" timestamp="1556180438549">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,6 +112,12 @@
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/variables.tf" timestamp="1556281828840" />
       <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-bootstrap-remote-exec/main.tf" timestamp="1557125640027">
         <mark key="'" line="129" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-nsg/main.tf" timestamp="1557131224669">
+        <mark key="'" line="25" column="56" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/dev/terraform_dcos/private-general-agent.tf" timestamp="1555668909834" />
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" timestamp="1556021213992">
@@ -208,19 +220,14 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" timestamp="1556023312422">
+        <mark key="'" line="177" column="61" />
+        <mark key="[" line="138" column="32" />
+        <mark key="]" line="138" column="32" />
+        <mark key="." line="138" column="32" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="15" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" />
-      <jump line="205" column="17" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" />
-      <jump line="488" column="24" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" />
-      <jump line="290" column="39" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
-      <jump line="26" column="39" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/modules/dcos-infrastructure-vmss/main.tf" />
-      <jump line="42" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/modules/dcos-infrastructure-vmss/variables.tf" />
-      <jump line="27" column="10" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/modules/dcos-infrastructure-vmss/variables.tf" />
-      <jump line="322" column="14" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
-      <jump line="183" column="74" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
-      <jump line="189" column="72" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
-      <jump line="171" column="65" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
       <jump line="177" column="61" filename="$USER_HOME$/dev/playground/terraform_foglight/dcos-terraform/main.tf" />
       <jump line="289" column="35" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/main.tf" />
       <jump line="151" column="56" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/modules/dcos-infrastructure-vmss/main.tf" />
@@ -310,55 +317,66 @@
       <jump line="201" column="19" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="252" column="61" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="138" column="14" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
+      <jump line="252" column="35" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-nsg/main.tf" />
+      <jump line="48" column="43" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-nsg/main.tf" />
+      <jump line="160" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-nsg/main.tf" />
+      <jump line="277" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-nsg/main.tf" />
+      <jump line="82" column="34" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-nsg/main.tf" />
+      <jump line="75" column="35" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-nsg/main.tf" />
+      <jump line="76" column="34" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-nsg/main.tf" />
+      <jump line="167" column="33" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-nsg/main.tf" />
+      <jump line="69" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-nsg/main.tf" />
+      <jump line="148" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-nsg/main.tf" />
+      <jump line="25" column="56" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-nsg/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>oauth</text>
+        <text>443</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fbGJfcnVsZSIgImxvYWRfYmFsYW5jZXJfaHR0cHNfcnVsZSIgewogIHJlc291cmNlX2dyb3VwX25hbWUgPSAiJHt2YXIucmVzb3VyY2VfZ3JvdXBfbmFtZX0iCiAgbG9hZGJhbGFuY2VyX2lkICAgICA9ICIke21vZHVsZS5wdWJsaWMtYWdlbnRzLmxiX2lkfSIKCiAgbmFtZSAgICAgICAgICAgICAgICAgICAgPSAibG9hZC1iYWxhbmNlci1ydWxlLWh0dHBzIgogIHByb3RvY29sICAgICAgICAgICAgICAgID0gIiR7bG9va3VwKGxvY2FsLnByb2JlXzEwMDAwLCAicHJvdG9jb2wiKX0iCiAgZnJvbnRlbmRfcG9ydCAgICAgICAgICAgPSA0NDMKICBiYWNrZW5kX3BvcnQgICAgICAgICAgICA9ICIke2xvb2t1cChsb2NhbC5wcm9iZV8xMDAwMCwgInBvcnQiKX0iCiAgaWRsZV90aW1lb3V0X2luX21pbnV0ZXMgPSA1CgogIGZyb250ZW5kX2lwX2NvbmZpZ3VyYXRpb25fbmFtZSA9ICIke2xvY2FsLmxiX25hbWV9LXB1YmxpYy1pcC1jb25maWciCiAgYmFja2VuZF9hZGRyZXNzX3Bvb2xfaWQgICAgICAgID0gIiR7bW9kdWxlLnB1YmxpYy1hZ2VudHMuYmFja2VuZF9hZGRyZXNzX3Bvb2x9IgogIHByb2JlX2lkICAgICAgICAgICAgICAgICAgICAgICA9ICIke2F6dXJlcm1fbGJfcHJvYmUubG9hZF9iYWxhbmNlcl9tYXJhdGhvbl8xMDAwMV9wcm9iZS5pZH0iCiAgZGVwZW5kc19vbiAgICAgICAgICAgICAgICAgICAgID0gWyJhenVyZXJtX2xiX3Byb2JlLmxvYWRfYmFsYW5jZXJfbWFyYXRob25fMTAwMDAiXQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZXBlbmRzX29uID0gWyJtb2R1bGUucHVibGljLWFnZW50cyJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBuZXR3b3JrX3NlY3VyaXR5X2dyb3VwX25hbWUgPSAiJHthenVyZXJtX25ldHdvcmtfc2VjdXJpdHlfZ3JvdXAucHVibGljX2FnZW50cy5uYW1lfSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ICAgICA9IFtdCg==</text>
+        <text encoding="base64">ICByZXNvdXJjZV9ncm91cF9uYW1lICAgICAgICAgPSAiJHt2YXIucmVzb3VyY2VfZ3JvdXBfbmFtZX0iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0eXBlID0gImxpc3QiCg==</text>
+        <text encoding="base64">ICBkZXN0aW5hdGlvbl9hZGRyZXNzX3ByZWZpeCAgPSAiKiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICJBZGRpdGlvbmFsIGxpc3Qgb2YgcnVsZXMgZm9yIHB1YmxpYyBhZ2VudHMuIFRoZXNlIFJ1bGVzIGFyZSBhbiBhZGRpdG9uIHRvIHRoZSBkZWZhdWx0IHJ1bGVzLiIK</text>
+        <text encoding="base64">ICBzb3VyY2VfYWRkcmVzc19wcmVmaXhlcyAgICAgPSBbIiR7dmFyLmFkbWluX2lwc30iXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyaWFibGUgInB1YmxpY19hZ2VudHNfYWRkaXRpb25hbF9ydWxlcyIgewo=</text>
+        <text encoding="base64">ICBkZXN0aW5hdGlvbl9wb3J0X3JhbmdlICAgICAgPSAiNDQzIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzb3VyY2VfcG9ydF9yYW5nZSAgICAgICAgICAgPSAiKiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBwcm90b2NvbCAgICAgICAgICAgICAgICAgICAgPSAiVGNwIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>40,54y</text>
+        <text>443</text>
       </register>
     </registers>
     <search>
-      <last-search>oauth</last-search>
+      <last-search>443</last-search>
       <last-offset />
-      <last-pattern>oauth</last-pattern>
+      <last-pattern>443</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -408,6 +426,8 @@
         <entry>azurerm_lb_rule</entry>
         <entry>oauth_enabled</entry>
         <entry>oauth</entry>
+        <entry>80</entry>
+        <entry>443</entry>
       </history-search>
       <history-cmd>
         <entry>157,182</entry>
@@ -441,6 +461,7 @@
         <entry>5,8y</entry>
         <entry>30,38y</entry>
         <entry>40,54y</entry>
+        <entry>443</entry>
       </history-cmd>
       <history-expr />
       <history-input />
