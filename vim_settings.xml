@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/outputs.tf" timestamp="1557305886434">
+        <mark key="'" line="12" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/modules/dcos-infrastructure-vmss/main.tf" timestamp="1556024625851">
         <mark key="'" line="151" column="56" />
         <mark key="[" line="152" column="50" />
@@ -79,7 +82,13 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1557300036028" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1557306508493">
+        <mark key="'" line="165" column="56" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="67" column="29" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" timestamp="1557222684690">
         <mark key="'" line="272" column="71" />
         <mark key="[" line="149" column="17" />
@@ -108,6 +117,9 @@
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-agent-data/Jenkinsfile.groovy" timestamp="1555580392108">
         <mark key="'" line="31" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/outputs.tf" timestamp="1557306356947">
+        <mark key="'" line="15" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/dcos_core_variables.tf" timestamp="1557222436560">
         <mark key="'" line="301" column="54" />
@@ -264,12 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="8" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
-      <jump line="105" column="26" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
-      <jump line="214" column="42" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
-      <jump line="80" column="36" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" />
-      <jump line="57" column="37" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" />
-      <jump line="30" column="40" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" />
       <jump line="45" column="26" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" />
       <jump line="219" column="34" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
       <jump line="218" column="50" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
@@ -364,55 +370,61 @@
       <jump line="272" column="71" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="169" column="95" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="108" column="14" filename="$USER_HOME$/Projects/CDP/cdp-api/Jenkinsfile.groovy" />
+      <jump line="12" column="40" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/outputs.tf" />
+      <jump line="52" column="34" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
+      <jump line="15" column="45" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/outputs.tf" />
+      <jump line="109" column="34" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
+      <jump line="151" column="28" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
+      <jump line="165" column="56" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GroovyTestCase</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWNfaXBfYWRkcmVzc19hbGxvY2F0aW9uID0gImR5bmFtaWMiCg==</text>
       </register>
       <register name="-" type="4">
         <text>GroovyTestCase</text>
       </register>
       <register name="/" type="4">
-        <text>username</text>
+        <text>public</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fbGJfcnVsZSIgImxvYWRfYmFsYW5jZXJfaHR0cHNfcnVsZSIgewogIHJlc291cmNlX2dyb3VwX25hbWUgPSAiJHt2YXIucmVzb3VyY2VfZ3JvdXBfbmFtZX0iCiAgbG9hZGJhbGFuY2VyX2lkICAgICA9ICIke21vZHVsZS5wdWJsaWMtYWdlbnRzLmxiX2lkfSIKCiAgbmFtZSAgICAgICAgICAgICAgICAgICAgPSAibG9hZC1iYWxhbmNlci1ydWxlLWh0dHBzIgogIHByb3RvY29sICAgICAgICAgICAgICAgID0gIiR7bG9va3VwKGxvY2FsLnByb2JlXzEwMDAwLCAicHJvdG9jb2wiKX0iCiAgZnJvbnRlbmRfcG9ydCAgICAgICAgICAgPSA0NDMKICBiYWNrZW5kX3BvcnQgICAgICAgICAgICA9ICIke2xvb2t1cChsb2NhbC5wcm9iZV8xMDAwMCwgInBvcnQiKX0iCiAgaWRsZV90aW1lb3V0X2luX21pbnV0ZXMgPSA1CgogIGZyb250ZW5kX2lwX2NvbmZpZ3VyYXRpb25fbmFtZSA9ICIke2xvY2FsLmxiX25hbWV9LXB1YmxpYy1pcC1jb25maWciCiAgYmFja2VuZF9hZGRyZXNzX3Bvb2xfaWQgICAgICAgID0gIiR7bW9kdWxlLnB1YmxpYy1hZ2VudHMuYmFja2VuZF9hZGRyZXNzX3Bvb2x9IgogIHByb2JlX2lkICAgICAgICAgICAgICAgICAgICAgICA9ICIke2F6dXJlcm1fbGJfcHJvYmUubG9hZF9iYWxhbmNlcl9tYXJhdGhvbl8xMDAwMV9wcm9iZS5pZH0iCiAgZGVwZW5kc19vbiAgICAgICAgICAgICAgICAgICAgID0gWyJhenVyZXJtX2xiX3Byb2JlLmxvYWRfYmFsYW5jZXJfbWFyYXRob25fMTAwMDAiXQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgeCA9IE1vY2soKQo=</text>
+        <text encoding="base64">ICBwdWJsaWNfaXBfYWRkcmVzc19hbGxvY2F0aW9uID0gImR5bmFtaWMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1hcmNpbiBKYXJvc3pld2ljeiBbOToxNiBBTV0K</text>
+        <text encoding="base64">ICAgICAgICBkZWYgeCA9IE1vY2soKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
+        <text encoding="base64">ICAgIE1hcmNpbiBKYXJvc3pld2ljeiBbOToxNiBBTV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuZXR3b3JrX3NlY3VyaXR5X2dyb3VwX25hbWUgPSAiJHthenVyZXJtX25ldHdvcmtfc2VjdXJpdHlfZ3JvdXAucHVibGljX2FnZW50cy5uYW1lfSIK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXNvdXJjZV9ncm91cF9uYW1lICAgICAgICAgPSAiJHt2YXIucmVzb3VyY2VfZ3JvdXBfbmFtZX0iCg==</text>
+        <text encoding="base64">ICBuZXR3b3JrX3NlY3VyaXR5X2dyb3VwX25hbWUgPSAiJHthenVyZXJtX25ldHdvcmtfc2VjdXJpdHlfZ3JvdXAucHVibGljX2FnZW50cy5uYW1lfSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZXN0aW5hdGlvbl9hZGRyZXNzX3ByZWZpeCAgPSAiKiIK</text>
+        <text encoding="base64">ICByZXNvdXJjZV9ncm91cF9uYW1lICAgICAgICAgPSAiJHt2YXIucmVzb3VyY2VfZ3JvdXBfbmFtZX0iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzb3VyY2VfYWRkcmVzc19wcmVmaXhlcyAgICAgPSBbIiR7dmFyLmFkbWluX2lwc30iXQo=</text>
+        <text encoding="base64">ICBkZXN0aW5hdGlvbl9hZGRyZXNzX3ByZWZpeCAgPSAiKiIK</text>
       </register>
       <register name=":" type="4">
         <text>443</text>
       </register>
     </registers>
     <search>
-      <last-search>username</last-search>
+      <last-search>public</last-search>
       <last-offset />
-      <last-pattern>username</last-pattern>
+      <last-pattern>public</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -440,6 +452,7 @@
         <entry>443</entry>
         <entry>user</entry>
         <entry>username</entry>
+        <entry>public</entry>
       </history-search>
       <history-cmd>
         <entry>45,38y</entry>
