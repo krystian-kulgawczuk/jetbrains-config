@@ -82,8 +82,8 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1557306508493">
-        <mark key="'" line="165" column="56" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1557307600091">
+        <mark key="'" line="94" column="4" />
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="^" line="67" column="29" />
@@ -276,10 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="26" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" />
-      <jump line="219" column="34" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
-      <jump line="218" column="50" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
-      <jump line="173" column="69" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="211" column="44" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
       <jump line="92" column="0" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="118" column="57" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
@@ -376,6 +372,10 @@
       <jump line="109" column="34" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
       <jump line="151" column="28" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
       <jump line="165" column="56" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
+      <jump line="64" column="55" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
+      <jump line="53" column="81" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
+      <jump line="94" column="4" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -385,7 +385,7 @@
         <text>GroovyTestCase</text>
       </register>
       <register name="/" type="4">
-        <text>public</text>
+        <text>subnet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fbGJfcnVsZSIgImxvYWRfYmFsYW5jZXJfaHR0cHNfcnVsZSIgewogIHJlc291cmNlX2dyb3VwX25hbWUgPSAiJHt2YXIucmVzb3VyY2VfZ3JvdXBfbmFtZX0iCiAgbG9hZGJhbGFuY2VyX2lkICAgICA9ICIke21vZHVsZS5wdWJsaWMtYWdlbnRzLmxiX2lkfSIKCiAgbmFtZSAgICAgICAgICAgICAgICAgICAgPSAibG9hZC1iYWxhbmNlci1ydWxlLWh0dHBzIgogIHByb3RvY29sICAgICAgICAgICAgICAgID0gIiR7bG9va3VwKGxvY2FsLnByb2JlXzEwMDAwLCAicHJvdG9jb2wiKX0iCiAgZnJvbnRlbmRfcG9ydCAgICAgICAgICAgPSA0NDMKICBiYWNrZW5kX3BvcnQgICAgICAgICAgICA9ICIke2xvb2t1cChsb2NhbC5wcm9iZV8xMDAwMCwgInBvcnQiKX0iCiAgaWRsZV90aW1lb3V0X2luX21pbnV0ZXMgPSA1CgogIGZyb250ZW5kX2lwX2NvbmZpZ3VyYXRpb25fbmFtZSA9ICIke2xvY2FsLmxiX25hbWV9LXB1YmxpYy1pcC1jb25maWciCiAgYmFja2VuZF9hZGRyZXNzX3Bvb2xfaWQgICAgICAgID0gIiR7bW9kdWxlLnB1YmxpYy1hZ2VudHMuYmFja2VuZF9hZGRyZXNzX3Bvb2x9IgogIHByb2JlX2lkICAgICAgICAgICAgICAgICAgICAgICA9ICIke2F6dXJlcm1fbGJfcHJvYmUubG9hZF9iYWxhbmNlcl9tYXJhdGhvbl8xMDAwMV9wcm9iZS5pZH0iCiAgZGVwZW5kc19vbiAgICAgICAgICAgICAgICAgICAgID0gWyJhenVyZXJtX2xiX3Byb2JlLmxvYWRfYmFsYW5jZXJfbWFyYXRob25fMTAwMDAiXQp9Cg==</text>
@@ -422,9 +422,9 @@
       </register>
     </registers>
     <search>
-      <last-search>public</last-search>
+      <last-search>subnet</last-search>
       <last-offset />
-      <last-pattern>public</last-pattern>
+      <last-pattern>subnet</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -453,6 +453,7 @@
         <entry>user</entry>
         <entry>username</entry>
         <entry>public</entry>
+        <entry>subnet</entry>
       </history-search>
       <history-cmd>
         <entry>45,38y</entry>
