@@ -82,7 +82,6 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1557314513032" />
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1557317107874">
         <mark key="'" line="65" column="47" />
         <mark key="[" line="67" column="0" />
@@ -156,6 +155,7 @@
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/dcos_core_variables.tf" timestamp="1556021213992">
         <mark key="'" line="488" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1557388347395" />
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/variables.tf" timestamp="1556282022130">
         <mark key="[" line="21" column="16" />
         <mark key="]" line="21" column="26" />
@@ -436,9 +436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cluster_name</entry>
-        <entry>location</entry>
-        <entry>dcos_teste</entry>
         <entry>admin_username</entry>
         <entry>dcos_version</entry>
         <entry>cassandra</entry>
