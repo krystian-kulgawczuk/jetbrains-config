@@ -39,6 +39,9 @@
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/test.com/src/integrationTest/groovy/GetMessageSpec.groovy" timestamp="1557395814497">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" timestamp="1556104799481">
         <mark key="'" line="37" column="43" />
       </file>
@@ -64,6 +67,9 @@
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/variables.tf" timestamp="1556105071621">
         <mark key="'" line="49" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/test.com/src/integrationTest/groovy/IntegrationTest.groovy" timestamp="1557395860264">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote-exec/main.tf" timestamp="1556100417317">
         <mark key="'" line="218" column="36" />
@@ -253,11 +259,11 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/test.com/build.gradle" timestamp="1557213383174">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="85" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/terraform/test.com/build.gradle" timestamp="1557395767976">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="18" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-public-agents/main.tf" timestamp="1556282009918">
         <mark key="'" line="34" column="12" />
@@ -383,7 +389,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdWJsaWNfaXBfYWRkcmVzc19hbGxvY2F0aW9uID0gImR5bmFtaWMiCg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnb3JnLnVuYnJva2VuLWRvbWUudGVzdC1zZXRzJwo=</text>
       </register>
       <register name="-" type="4">
         <text>GroovyTestCase</text>
@@ -395,31 +401,31 @@
         <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fbGJfcnVsZSIgImxvYWRfYmFsYW5jZXJfaHR0cHNfcnVsZSIgewogIHJlc291cmNlX2dyb3VwX25hbWUgPSAiJHt2YXIucmVzb3VyY2VfZ3JvdXBfbmFtZX0iCiAgbG9hZGJhbGFuY2VyX2lkICAgICA9ICIke21vZHVsZS5wdWJsaWMtYWdlbnRzLmxiX2lkfSIKCiAgbmFtZSAgICAgICAgICAgICAgICAgICAgPSAibG9hZC1iYWxhbmNlci1ydWxlLWh0dHBzIgogIHByb3RvY29sICAgICAgICAgICAgICAgID0gIiR7bG9va3VwKGxvY2FsLnByb2JlXzEwMDAwLCAicHJvdG9jb2wiKX0iCiAgZnJvbnRlbmRfcG9ydCAgICAgICAgICAgPSA0NDMKICBiYWNrZW5kX3BvcnQgICAgICAgICAgICA9ICIke2xvb2t1cChsb2NhbC5wcm9iZV8xMDAwMCwgInBvcnQiKX0iCiAgaWRsZV90aW1lb3V0X2luX21pbnV0ZXMgPSA1CgogIGZyb250ZW5kX2lwX2NvbmZpZ3VyYXRpb25fbmFtZSA9ICIke2xvY2FsLmxiX25hbWV9LXB1YmxpYy1pcC1jb25maWciCiAgYmFja2VuZF9hZGRyZXNzX3Bvb2xfaWQgICAgICAgID0gIiR7bW9kdWxlLnB1YmxpYy1hZ2VudHMuYmFja2VuZF9hZGRyZXNzX3Bvb2x9IgogIHByb2JlX2lkICAgICAgICAgICAgICAgICAgICAgICA9ICIke2F6dXJlcm1fbGJfcHJvYmUubG9hZF9iYWxhbmNlcl9tYXJhdGhvbl8xMDAwMV9wcm9iZS5pZH0iCiAgZGVwZW5kc19vbiAgICAgICAgICAgICAgICAgICAgID0gWyJhenVyZXJtX2xiX3Byb2JlLmxvYWRfYmFsYW5jZXJfbWFyYXRob25fMTAwMDAiXQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWNfaXBfYWRkcmVzc19hbGxvY2F0aW9uID0gImR5bmFtaWMiCg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnb3JnLnVuYnJva2VuLWRvbWUudGVzdC1zZXRzJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgeCA9IE1vY2soKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIE1hcmNpbiBKYXJvc3pld2ljeiBbOToxNiBBTV0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">Y2hlY2suZGVwZW5kc09uIGludGVncmF0aW9uVGVzdAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG11c3RSdW5BZnRlciB0ZXN0Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuZXR3b3JrX3NlY3VyaXR5X2dyb3VwX25hbWUgPSAiJHthenVyZXJtX25ldHdvcmtfc2VjdXJpdHlfZ3JvdXAucHVibGljX2FnZW50cy5uYW1lfSIK</text>
+        <text encoding="base64">ICAgIG91dHB1dHMudXBUb0RhdGVXaGVuIHsgZmFsc2UgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXNvdXJjZV9ncm91cF9uYW1lICAgICAgICAgPSAiJHt2YXIucmVzb3VyY2VfZ3JvdXBfbmFtZX0iCg==</text>
+        <text encoding="base64">ICAgIGNsYXNzcGF0aCA9IHNvdXJjZVNldHMuaW50ZWdyYXRpb25UZXN0LnJ1bnRpbWVDbGFzc3BhdGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZXN0aW5hdGlvbl9hZGRyZXNzX3ByZWZpeCAgPSAiKiIK</text>
+        <text encoding="base64">ICAgIHRlc3RDbGFzc2VzRGlycyA9IHNvdXJjZVNldHMuaW50ZWdyYXRpb25UZXN0Lm91dHB1dC5jbGFzc2VzRGlycwo=</text>
       </register>
       <register name=":" type="4">
         <text>443</text>
