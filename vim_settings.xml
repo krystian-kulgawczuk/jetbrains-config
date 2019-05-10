@@ -3,6 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1557403634221">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/integration-test/groovy/com/testwithspring/master/GetMessageSpec.groovy" timestamp="1557404815297">
+        <mark key="'" line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/integration-test/groovy/com.quest/GroupControllerITSpec.groovy" timestamp="1557409586091">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/build.gradle" timestamp="1557404751067">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -15,6 +28,13 @@
         <mark key="]" line="26" column="50" />
         <mark key="^" line="27" column="68" />
         <mark key="." line="26" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/temp/orbital-group-service/build.gradle" timestamp="1557496188998">
+        <mark key="'" line="132" column="2" />
+        <mark key="[" line="126" column="1" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="127" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/controller/recovery/RestoreController.java" timestamp="1557297636399">
         <mark key="[" line="20" column="0" />
@@ -33,38 +53,14 @@
         <mark key="." line="60" column="3" />
         <mark key="^" line="60" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/test.com/src/integrationTest/groovy/IntegrationTest.groovy" timestamp="1557395860264">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/temp/orbital-group-service/gradle.properties" timestamp="1557404008027">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="1" column="92" />
       </file>
-      <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/integration-test/groovy/com/testwithspring/master/GroupController.groovy" timestamp="1557401434966" />
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/integration-test/groovy/com.quest/IntegrationTest.groovy" timestamp="1557405568350" />
-      <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/main/java/com/testwithspring/master/MessageService.java" timestamp="1557401854108" />
-      <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/integration-test/groovy/com/testwithspring/master/GetMessageSpec.groovy" timestamp="1557404815297">
-        <mark key="'" line="13" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/inventories/gvc-us-dev/gvc-us-dev" timestamp="1557388347395" />
-      <file name="/Dummy.txt" timestamp="1557403634221">
+      <file name="$USER_HOME$/Projects/terraform/test.com/src/integrationTest/groovy/IntegrationTest.groovy" timestamp="1557395860264">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/integration-test/groovy/com.quest/GroupControllerITSpec.groovy" timestamp="1557409586091">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/build.gradle" timestamp="1557480564676">
-        <mark key="'" line="132" column="2" />
-        <mark key="[" line="126" column="1" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-        <mark key="^" line="127" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/test.com/build.gradle" timestamp="1557404580185">
         <mark key="[" line="28" column="19" />
@@ -72,7 +68,6 @@
         <mark key="." line="28" column="18" />
         <mark key="^" line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/integration-test/groovy/com/testwithspring/master/IntegrationTest.groovy" timestamp="1557401169802" />
       <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/integration-test/groovy/com.quest/SimpleTest.groovy" timestamp="1557406468259">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -237,11 +232,6 @@
     </search>
     <history>
       <history-search>
-        <entry>admin_username</entry>
-        <entry>dcos_version</entry>
-        <entry>cassandra</entry>
-        <entry>vmss</entry>
-        <entry>vm</entry>
         <entry>probe</entry>
         <entry>data</entry>
         <entry>additional_rules</entry>
@@ -264,7 +254,6 @@
         <entry>jupiter</entry>
       </history-search>
       <history-cmd>
-        <entry>45,38y</entry>
         <entry>45,48y</entry>
         <entry>40,43y</entry>
         <entry>84,86y</entry>
