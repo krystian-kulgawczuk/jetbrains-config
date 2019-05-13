@@ -55,7 +55,7 @@
         <mark key="." line="172" column="16" />
         <mark key="^" line="172" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557739464866">
+      <file name="/Dummy.txt" timestamp="1557743211714">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -72,12 +72,12 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557741362405">
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557743203535">
         <mark key="'" line="250" column="43" />
-        <mark key="[" line="249" column="37" />
-        <mark key="]" line="249" column="43" />
-        <mark key="." line="249" column="43" />
-        <mark key="^" line="249" column="43" />
+        <mark key="[" line="237" column="40" />
+        <mark key="]" line="237" column="55" />
+        <mark key="." line="237" column="55" />
+        <mark key="^" line="237" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" timestamp="1557740805570">
         <mark key="'" line="121" column="45" />
@@ -97,12 +97,6 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="1" column="92" />
-      </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/variables.tf" timestamp="1557741203984">
-        <mark key="[" line="257" column="14" />
-        <mark key="]" line="257" column="20" />
-        <mark key="." line="257" column="20" />
-        <mark key="^" line="257" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" timestamp="1557737025509">
         <mark key="'" line="236" column="40" />
@@ -228,10 +222,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cassandra</text>
+        <text>private_agents</text>
       </register>
       <register name="-" type="4">
-        <text>cassandra</text>
+        <text>private_agents</text>
       </register>
       <register name="/" type="4">
         <text>bootstrap_inv</text>
@@ -240,31 +234,31 @@
         <text encoding="base64">dmFyaWFibGUgIm51bV9jYXNzYW5kcmFfYWdlbnRzIiB7CiAgZGVzY3JpcHRpb24gPSAiU3BlY2lmeSB0aGUgYW1vdW50IG9mIHByaXZhdGUgYWdlbnRzLiBUaGVzZSBhZ2VudHMgd2lsbCBwcm92aWRlIHlvdXIgbWFpbiByZXNvdXJjZXMiCiAgZGVmYXVsdCAgICAgPSAiMSIKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBudW1fY2Fzc2FuZHJhX2FnZW50cyA9ICIke3Zhci5udW1fY2Fzc2FuZHJhX2FnZW50c30iCg==</text>
+        <text encoding="base64">ICAgIGhvc3RzID0gIiR7cmVwbGFjZShtb2R1bGUuY2Fzc2FuZHJhX2FnZW50cy5wdWJsaWNfaXBzLCAiLCIsICJcbiIpfSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhvc3RzID0gIiR7cmVwbGFjZShqb2luKCIsIiwgbW9kdWxlLnByaXZhdGVfYWdlbnRzLnB1YmxpY19pcHMpLCAiLCIsICJcbiIpfSIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kdQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGhvc3RzID0gIiR7cmVwbGFjZShtb2R1bGUuY2Fzc2FuZHJhX2FnZW50cy5wdWJsaWNfaXBzLCAiLCIsICJcbiIpfSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZSA9ICIke2ZpbGUoJHtwYXRoLm1vZHVsZX0pfSIK</text>
+        <text encoding="base64">ICAgIHNzaF91c2VyID0gIiR7dmFyLmNhc3NhbmRyYV9hZ2VudHNfYWRtaW5fdXNlcm5hbWV9Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdFNldHMgewogICAgaW50ZWdyYXRpb25UZXN0IHsgZGlyTmFtZSA9ICdpbnRlZ3JhdGlvbi10ZXN0JyB9Cn0KCmNoZWNrLmRlcGVuZHNPbiBpbnRlZ3JhdGlvblRlc3QKaW50ZWdyYXRpb25UZXN0Lm11c3RSdW5BZnRlciB0ZXN0Cg==</text>
+        <text encoding="base64">ICB2YXJzIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0ZXN0Q29tcGlsZSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItdGVzdCcK</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZSA9ICIke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3RlbXBsYXRlcy9ob3N0cy50cGwiKX0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>253,256y</text>
