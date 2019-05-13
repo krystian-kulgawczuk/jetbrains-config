@@ -22,6 +22,9 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" timestamp="1557732553783">
+        <mark key="'" line="25" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/integration-test/groovy/com/testwithspring/master/GroupControllerITSpec.groovy" timestamp="1557401686036">
         <mark key="'" line="23" column="40" />
         <mark key="[" line="26" column="50" />
@@ -47,11 +50,23 @@
       <file name="$USER_HOME$/Projects/terraform/test.com/src/integrationTest/groovy/GetMessageSpec.groovy" timestamp="1557395814497">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557732522625">
+        <mark key="[" line="158" column="61" />
+        <mark key="]" line="158" column="70" />
+        <mark key="^" line="158" column="70" />
+        <mark key="." line="158" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/test/java/com/quest/orbital/group/service/controller/V1ApiControllerTest.java" timestamp="1557407152278">
         <mark key="[" line="55" column="22" />
         <mark key="]" line="60" column="3" />
         <mark key="." line="60" column="3" />
         <mark key="^" line="60" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/templates/hosts.tpl" timestamp="1557732059613">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/temp/orbital-group-service/gradle.properties" timestamp="1557404008027">
         <mark key="[" line="0" column="10" />
@@ -74,14 +89,9 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" timestamp="1557732482373" />
     </filemarks>
     <jumps>
-      <jump line="105" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
-      <jump line="103" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
-      <jump line="79" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
-      <jump line="9" column="49" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/outputs.tf" />
-      <jump line="47" column="82" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
-      <jump line="97" column="74" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="98" column="65" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="144" column="47" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
@@ -176,6 +186,12 @@
       <jump line="49" column="19" filename="$USER_HOME$/Projects/temp/orbital-group-service/build.gradle" />
       <jump line="101" column="39" filename="$USER_HOME$/Projects/temp/orbital-group-service/build.gradle" />
       <jump line="132" column="2" filename="$USER_HOME$/Projects/temp/orbital-group-service/build.gradle" />
+      <jump line="66" column="20" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
+      <jump line="1" column="18" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
+      <jump line="3" column="36" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
+      <jump line="13" column="16" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
+      <jump line="15" column="34" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
+      <jump line="25" column="23" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -185,7 +201,7 @@
         <text>Compile</text>
       </register>
       <register name="/" type="4">
-        <text>jupiter</text>
+        <text>admin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fbGJfcnVsZSIgImxvYWRfYmFsYW5jZXJfaHR0cHNfcnVsZSIgewogIHJlc291cmNlX2dyb3VwX25hbWUgPSAiJHt2YXIucmVzb3VyY2VfZ3JvdXBfbmFtZX0iCiAgbG9hZGJhbGFuY2VyX2lkICAgICA9ICIke21vZHVsZS5wdWJsaWMtYWdlbnRzLmxiX2lkfSIKCiAgbmFtZSAgICAgICAgICAgICAgICAgICAgPSAibG9hZC1iYWxhbmNlci1ydWxlLWh0dHBzIgogIHByb3RvY29sICAgICAgICAgICAgICAgID0gIiR7bG9va3VwKGxvY2FsLnByb2JlXzEwMDAwLCAicHJvdG9jb2wiKX0iCiAgZnJvbnRlbmRfcG9ydCAgICAgICAgICAgPSA0NDMKICBiYWNrZW5kX3BvcnQgICAgICAgICAgICA9ICIke2xvb2t1cChsb2NhbC5wcm9iZV8xMDAwMCwgInBvcnQiKX0iCiAgaWRsZV90aW1lb3V0X2luX21pbnV0ZXMgPSA1CgogIGZyb250ZW5kX2lwX2NvbmZpZ3VyYXRpb25fbmFtZSA9ICIke2xvY2FsLmxiX25hbWV9LXB1YmxpYy1pcC1jb25maWciCiAgYmFja2VuZF9hZGRyZXNzX3Bvb2xfaWQgICAgICAgID0gIiR7bW9kdWxlLnB1YmxpYy1hZ2VudHMuYmFja2VuZF9hZGRyZXNzX3Bvb2x9IgogIHByb2JlX2lkICAgICAgICAgICAgICAgICAgICAgICA9ICIke2F6dXJlcm1fbGJfcHJvYmUubG9hZF9iYWxhbmNlcl9tYXJhdGhvbl8xMDAwMV9wcm9iZS5pZH0iCiAgZGVwZW5kc19vbiAgICAgICAgICAgICAgICAgICAgID0gWyJhenVyZXJtX2xiX3Byb2JlLmxvYWRfYmFsYW5jZXJfbWFyYXRob25fMTAwMDAiXQp9Cg==</text>
@@ -222,9 +238,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jupiter</last-search>
+      <last-search>admin</last-search>
       <last-offset />
-      <last-pattern>jupiter</last-pattern>
+      <last-pattern>admin</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -252,6 +268,7 @@
         <entry>groovy</entry>
         <entry>spock</entry>
         <entry>jupiter</entry>
+        <entry>admin</entry>
       </history-search>
       <history-cmd>
         <entry>45,48y</entry>
