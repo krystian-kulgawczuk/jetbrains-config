@@ -72,12 +72,12 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557743203535">
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557743868554">
         <mark key="'" line="250" column="43" />
-        <mark key="[" line="237" column="40" />
-        <mark key="]" line="237" column="55" />
-        <mark key="." line="237" column="55" />
-        <mark key="^" line="237" column="55" />
+        <mark key="[" line="241" column="8" />
+        <mark key="]" line="241" column="14" />
+        <mark key="." line="241" column="14" />
+        <mark key="^" line="241" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" timestamp="1557740805570">
         <mark key="'" line="121" column="45" />
@@ -222,16 +222,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private_agents</text>
+        <text>cassandra</text>
       </register>
       <register name="-" type="4">
-        <text>private_agents</text>
+        <text>cassandra</text>
       </register>
       <register name="/" type="4">
         <text>bootstrap_inv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyaWFibGUgIm51bV9jYXNzYW5kcmFfYWdlbnRzIiB7CiAgZGVzY3JpcHRpb24gPSAiU3BlY2lmeSB0aGUgYW1vdW50IG9mIHByaXZhdGUgYWdlbnRzLiBUaGVzZSBhZ2VudHMgd2lsbCBwcm92aWRlIHlvdXIgbWFpbiByZXNvdXJjZXMiCiAgZGVmYXVsdCAgICAgPSAiMSIKfQo=</text>
+        <text encoding="base64">bW9kdWxlICJjYXNzYW5kcmFfYWdlbnRzIiB7CiAgc291cmNlICA9ICJkY29zLXRlcnJhZm9ybS9wcml2YXRlLWFnZW50cy9henVyZXJtIgogIHZlcnNpb24gPSAifj4gMC4xLjAiCgogIHByb3ZpZGVycyA9IHsKICAgIGF6dXJlcm0gPSAiYXp1cmVybSIKICB9CgogIGhvc3RuYW1lX2Zvcm1hdCAgICAgICAgICAgPSAiJHt2YXIuY2Fzc2FuZHJhX2hvc3RuYW1lX2Zvcm1hdH0iCiAgbnVtX3ByaXZhdGVfYWdlbnRzICAgICAgPSAiJHt2YXIubnVtX2Nhc3NhbmRyYV9hZ2VudHN9IgogIGxvY2F0aW9uICAgICAgICAgICAgICAgICAgPSAiJHt2YXIubG9jYXRpb259IgogIGRpc2tfc2l6ZSAgICAgICAgICAgICAgICAgPSAiJHtjb2FsZXNjZSh2YXIuY2Fzc2FuZHJhX2FnZW50c19kaXNrX3NpemUsIHZhci5pbmZyYV9kaXNrX3NpemUpfSIKICBkaXNrX3R5cGUgICAgICAgICAgICAgICAgID0gIiR7Y29hbGVzY2UodmFyLmNhc3NhbmRyYV9hZ2VudHNfZGlza190eXBlLCB2YXIuaW5mcmFfZGlza190eXBlKX0iCiAgdm1fc2l6ZSAgICAgICAgICAgICAgICAgICA9ICIke2NvYWxlc2NlKHZhci5jYXNzYW5kcmFfYWdlbnRzX3ZtX3NpemUsIHZhci5pbmZyYV92bV9zaXplKX0iCiAgbmFtZV9wcmVmaXggICAgICAgICAgICAgICA9ICIke3Zhci5jbHVzdGVyX25hbWV9IgogIHNzaF9wdWJsaWNfa2V5ICAgICAgICAgICAgPSAiJHtmaWxlKHZhci5zc2hfcHVibGljX2tleV9maWxlKX0iCiAgYWRtaW5fdXNlcm5hbWUgICAgICAgICAgICA9ICIke2NvYWxlc2NlKHZhci5jYXNzYW5kcmFfYWdlbnRzX2FkbWluX3VzZXJuYW1lLCB2YXIuaW5mcmFfYWRtaW5fdXNlcm5hbWUpfSIKICBpbWFnZSAgICAgICAgICAgICAgICAgICAgID0gIiR7dmFyLmNhc3NhbmRyYV9hZ2VudHNfaW1hZ2V9IgogIGRjb3NfaW5zdGFuY2Vfb3MgICAgICAgICAgPSAiJHtjb2FsZXNjZSh2YXIuY2Fzc2FuZHJhX2FnZW50c19kY29zX2luc3RhbmNlX29zLCB2YXIuaW5mcmFfZGNvc19pbnN0YW5jZV9vcyl9IgogIHJlc291cmNlX2dyb3VwX25hbWUgICAgICAgPSAiJHthenVyZXJtX3Jlc291cmNlX2dyb3VwLnJnLm5hbWV9IgogIHN1Ym5ldF9pZCAgICAgICAgICAgICAgICAgPSAiJHttb2R1bGUubmV0d29yay5zdWJuZXRfaWR9IgogIG5ldHdvcmtfc2VjdXJpdHlfZ3JvdXBfaWQgPSAiJHttb2R1bGUubmV0d29yay1zZWN1cml0eS1ncm91cC5wcml2YXRlX2FnZW50cy5uc2dfaWR9IgoKICAjIERldGVybWluZSBpZiB3ZSBuZWVkIHRvIGZvcmNlIGEgcGFydGljdWxhciBsb2NhdGlvbgogIGRjb3NfdmVyc2lvbiA9ICIke3Zhci5kY29zX3ZlcnNpb259IgogIHRhZ3MgICAgICAgICA9ICIke3Zhci50YWdzfSIKfQoKZGF0YSAidGVtcGxhdGVfZmlsZSIgImNhc3NhbmRyYV9pbnZlbnRvcnkiIHsKICB0ZW1wbGF0ZSA9ICIke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3RlbXBsYXRlcy9ob3N0cy50cGwiKX0iCiAgdmFycyB7CiAgICBzc2hfdXNlciA9ICIke3Zhci5jYXNzYW5kcmFfYWdlbnRzX2FkbWluX3VzZXJuYW1lfSIKICAgIGhvc3RzID0gIiR7cmVwbGFjZShqb2luKCIsIiwgbW9kdWxlLmNhc3NhbmRyYV9hZ2VudHMucHVibGljX2lwcyksICIsIiwgIlxuIil9IgogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGhvc3RzID0gIiR7cmVwbGFjZShtb2R1bGUuY2Fzc2FuZHJhX2FnZW50cy5wdWJsaWNfaXBzLCAiLCIsICJcbiIpfSIK</text>
@@ -261,7 +261,7 @@
         <text encoding="base64">ICB0ZW1wbGF0ZSA9ICIke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3RlbXBsYXRlcy9ob3N0cy50cGwiKX0iCg==</text>
       </register>
       <register name=":" type="4">
-        <text>253,256y</text>
+        <text>206,240y</text>
       </register>
     </registers>
     <search>
@@ -334,9 +334,9 @@
         <entry>138,140y</entry>
         <entry>153,156y</entry>
         <entry>168,171y</entry>
-        <entry>206,240y</entry>
         <entry>297,300y</entry>
         <entry>253,256y</entry>
+        <entry>206,240y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
