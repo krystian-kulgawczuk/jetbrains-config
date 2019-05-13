@@ -106,11 +106,11 @@
         <mark key="." line="236" column="29" />
         <mark key="^" line="236" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/test.com/build.gradle" timestamp="1557749961151">
-        <mark key="[" line="16" column="83" />
-        <mark key="]" line="16" column="84" />
-        <mark key="^" line="16" column="82" />
-        <mark key="." line="16" column="84" />
+      <file name="$USER_HOME$/Projects/terraform/test.com/build.gradle" timestamp="1557751876784">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="1" />
+        <mark key="^" line="69" column="1" />
+        <mark key="." line="69" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/integration-test/groovy/com.quest/SimpleTest.groovy" timestamp="1557406468259">
         <mark key="[" line="2" column="0" />
@@ -223,43 +223,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://artifactory.foglight.quest.com</text>
+        <text>compile</text>
       </register>
       <register name="-" type="4">
-        <text>https://artifactory.foglight.quest.com</text>
+        <text>compile</text>
       </register>
       <register name="/" type="4">
         <text>elastic</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">b3V0cHV0ICJjYXNzYW5kcmFfaW52ZW50b3J5IiB7CiAgdmFsdWUgPSAiJHtkYXRhLnRlbXBsYXRlX2ZpbGUuY2Fzc2FuZHJhX2ludmVudG9yeS5yZW5kZXJlZH0iCn0K</text>
+      <register name="0" type="4">
+        <text>o</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gZ3JvdXA6ICdvcmcuc3BvY2tmcmFtZXdvcmsnLCBuYW1lOiAnc3BvY2stc3ByaW5nJywgdmVyc2lvbjogJzEuMi1ncm9vdnktMi41Jwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gZ3JvdXA6ICdvcmcuc3BvY2tmcmFtZXdvcmsnLCBuYW1lOiAnc3BvY2stc3ByaW5nJywgdmVyc2lvbjogJzEuMi1ncm9vdnktMi41Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBhc3N3b3JkICIkYXJ0aWZhY3RvcnlQYXNzd29yZCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHVzZXJuYW1lICIkYXJ0aWZhY3RvcnlVc2VyIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVkZW50aWFscyB7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z3JvdXAgJ3Rlc3QnCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAnamF2YScKICAgIGlkICdncm9vdnknCn0K</text>
+        <text encoding="base64">ICAgIHNob3dTdGFuZGFyZFN0cmVhbXMgPSB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXN0TG9nZ2luZyB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,4d</text>
