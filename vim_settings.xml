@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1557403634221">
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/outputs.tf" timestamp="1557735366840" />
+      <file name="/Dummy.txt" timestamp="1557735472559">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -22,8 +23,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" timestamp="1557732553783">
-        <mark key="'" line="25" column="23" />
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" timestamp="1557735384799">
+        <mark key="'" line="153" column="32" />
+        <mark key="[" line="153" column="42" />
+        <mark key="]" line="153" column="43" />
+        <mark key="." line="153" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/integration-test/groovy/com/testwithspring/master/GroupControllerITSpec.groovy" timestamp="1557401686036">
         <mark key="'" line="23" column="40" />
@@ -50,11 +54,12 @@
       <file name="$USER_HOME$/Projects/terraform/test.com/src/integrationTest/groovy/GetMessageSpec.groovy" timestamp="1557395814497">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557732522625">
-        <mark key="[" line="158" column="61" />
-        <mark key="]" line="158" column="70" />
-        <mark key="^" line="158" column="70" />
-        <mark key="." line="158" column="70" />
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557735462567">
+        <mark key="'" line="125" column="22" />
+        <mark key="[" line="129" column="59" />
+        <mark key="]" line="129" column="59" />
+        <mark key="." line="129" column="59" />
+        <mark key="^" line="209" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/test/java/com/quest/orbital/group/service/controller/V1ApiControllerTest.java" timestamp="1557407152278">
         <mark key="[" line="55" column="22" />
@@ -89,17 +94,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" timestamp="1557732482373" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" timestamp="1557734843495">
+        <mark key="'" line="12" column="41" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="65" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
-      <jump line="144" column="47" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
-      <jump line="23" column="46" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/main.tf" />
-      <jump line="40" column="39" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-public-agents/main.tf" />
-      <jump line="63" column="44" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-dcos/main.tf" />
-      <jump line="88" column="22" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
-      <jump line="94" column="61" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="22" column="25" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="85" column="73" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="65" column="18" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb-dcos/main.tf" />
@@ -192,55 +191,63 @@
       <jump line="13" column="16" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
       <jump line="15" column="34" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
       <jump line="25" column="23" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
+      <jump line="12" column="41" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" />
+      <jump line="239" column="0" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
+      <jump line="256" column="2" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
+      <jump line="248" column="0" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
+      <jump line="238" column="2" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
+      <jump line="153" column="32" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
+      <jump line="209" column="14" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
+      <jump line="125" column="22" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGVzdFNldHMgewogICAgaW50ZWdyYXRpb25UZXN0IHsgZGlyTmFtZSA9ICdpbnRlZ3JhdGlvbi10ZXN0JyB9Cn0KCmNoZWNrLmRlcGVuZHNPbiBpbnRlZ3JhdGlvblRlc3QKaW50ZWdyYXRpb25UZXN0Lm11c3RSdW5BZnRlciB0ZXN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>Compile</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>admin</text>
+        <text>bootstrap_inv</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fbGJfcnVsZSIgImxvYWRfYmFsYW5jZXJfaHR0cHNfcnVsZSIgewogIHJlc291cmNlX2dyb3VwX25hbWUgPSAiJHt2YXIucmVzb3VyY2VfZ3JvdXBfbmFtZX0iCiAgbG9hZGJhbGFuY2VyX2lkICAgICA9ICIke21vZHVsZS5wdWJsaWMtYWdlbnRzLmxiX2lkfSIKCiAgbmFtZSAgICAgICAgICAgICAgICAgICAgPSAibG9hZC1iYWxhbmNlci1ydWxlLWh0dHBzIgogIHByb3RvY29sICAgICAgICAgICAgICAgID0gIiR7bG9va3VwKGxvY2FsLnByb2JlXzEwMDAwLCAicHJvdG9jb2wiKX0iCiAgZnJvbnRlbmRfcG9ydCAgICAgICAgICAgPSA0NDMKICBiYWNrZW5kX3BvcnQgICAgICAgICAgICA9ICIke2xvb2t1cChsb2NhbC5wcm9iZV8xMDAwMCwgInBvcnQiKX0iCiAgaWRsZV90aW1lb3V0X2luX21pbnV0ZXMgPSA1CgogIGZyb250ZW5kX2lwX2NvbmZpZ3VyYXRpb25fbmFtZSA9ICIke2xvY2FsLmxiX25hbWV9LXB1YmxpYy1pcC1jb25maWciCiAgYmFja2VuZF9hZGRyZXNzX3Bvb2xfaWQgICAgICAgID0gIiR7bW9kdWxlLnB1YmxpYy1hZ2VudHMuYmFja2VuZF9hZGRyZXNzX3Bvb2x9IgogIHByb2JlX2lkICAgICAgICAgICAgICAgICAgICAgICA9ICIke2F6dXJlcm1fbGJfcHJvYmUubG9hZF9iYWxhbmNlcl9tYXJhdGhvbl8xMDAwMV9wcm9iZS5pZH0iCiAgZGVwZW5kc19vbiAgICAgICAgICAgICAgICAgICAgID0gWyJhenVyZXJtX2xiX3Byb2JlLmxvYWRfYmFsYW5jZXJfbWFyYXRob25fMTAwMDAiXQp9Cg==</text>
+      <register name="0" type="4">
+        <text>l</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVzdFNldHMgewogICAgaW50ZWdyYXRpb25UZXN0IHsgZGlyTmFtZSA9ICdpbnRlZ3JhdGlvbi10ZXN0JyB9Cn0KCmNoZWNrLmRlcGVuZHNPbiBpbnRlZ3JhdGlvblRlc3QKaW50ZWdyYXRpb25UZXN0Lm11c3RSdW5BZnRlciB0ZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0ZXN0Q29tcGlsZSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItdGVzdCcK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ZXN0UnVudGltZSAnY2dsaWI6Y2dsaWItbm9kZXA6My4yLjQnCg==</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZSA9ICIke2ZpbGUoJHtwYXRoLm1vZHVsZX0pfSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RDb25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">dGVzdFNldHMgewogICAgaW50ZWdyYXRpb25UZXN0IHsgZGlyTmFtZSA9ICdpbnRlZ3JhdGlvbi10ZXN0JyB9Cn0KCmNoZWNrLmRlcGVuZHNPbiBpbnRlZ3JhdGlvblRlc3QKaW50ZWdyYXRpb25UZXN0Lm11c3RSdW5BZnRlciB0ZXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0LkNvbnRleHRDb25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">ICB0ZXN0Q29tcGlsZSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItdGVzdCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">ICB0ZXN0UnVudGltZSAnY2dsaWI6Y2dsaWItbm9kZXA6My4yLjQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RDb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXRlc3QnCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0LkNvbnRleHRDb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gZ3JvdXA6ICdvcmcuc3BvY2tmcmFtZXdvcmsnLCBuYW1lOiAnc3BvY2stc3ByaW5nJywgdmVyc2lvbjogJzEuMi1ncm9vdnktMi41Jwo=</text>
+        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>61,66d</text>
       </register>
     </registers>
     <search>
-      <last-search>admin</last-search>
+      <last-search>bootstrap_inv</last-search>
       <last-offset />
-      <last-pattern>admin</last-pattern>
+      <last-pattern>bootstrap_inv</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -269,6 +276,11 @@
         <entry>spock</entry>
         <entry>jupiter</entry>
         <entry>admin</entry>
+        <entry>public_inv</entry>
+        <entry>private_in</entry>
+        <entry>private_inv</entry>
+        <entry>private_inte</entry>
+        <entry>bootstrap_inv</entry>
       </history-search>
       <history-cmd>
         <entry>45,48y</entry>
