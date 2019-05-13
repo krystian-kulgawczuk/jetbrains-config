@@ -105,8 +105,9 @@
         <mark key="." line="298" column="17" />
         <mark key="^" line="297" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" timestamp="1557756197948">
-        <mark key="'" line="253" column="38" />
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" timestamp="1557757835251">
+        <mark key="e" line="271" column="0" />
+        <mark key="'" line="240" column="3" />
         <mark key="[" line="249" column="34" />
         <mark key="]" line="249" column="38" />
         <mark key="." line="249" column="38" />
@@ -126,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="23" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
       <jump line="12" column="41" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" />
       <jump line="239" column="0" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="256" column="2" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
@@ -226,6 +226,7 @@
       <jump line="248" column="32" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
       <jump line="249" column="35" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
       <jump line="253" column="38" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
+      <jump line="240" column="3" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
