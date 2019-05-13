@@ -4,18 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/outputs.tf" timestamp="1557735366840" />
-      <file name="/Dummy.txt" timestamp="1557739464866">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/integration-test/groovy/com/testwithspring/master/GetMessageSpec.groovy" timestamp="1557404815297">
         <mark key="'" line="13" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/integration-test/groovy/com.quest/GroupControllerITSpec.groovy" timestamp="1557409586091">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/build.gradle" timestamp="1557404751067">
         <mark key="[" line="4" column="0" />
@@ -36,13 +26,6 @@
         <mark key="^" line="27" column="68" />
         <mark key="." line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/build.gradle" timestamp="1557496188998">
-        <mark key="'" line="132" column="2" />
-        <mark key="[" line="126" column="1" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-        <mark key="^" line="127" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/variables.tf" timestamp="1557737014049">
         <mark key="[" line="79" column="10" />
         <mark key="]" line="79" column="10" />
@@ -54,18 +37,47 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557739453978">
-        <mark key="'" line="237" column="51" />
-        <mark key="[" line="237" column="57" />
-        <mark key="]" line="237" column="57" />
-        <mark key="." line="237" column="57" />
-        <mark key="^" line="209" column="14" />
-      </file>
       <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/test/java/com/quest/orbital/group/service/controller/V1ApiControllerTest.java" timestamp="1557407152278">
         <mark key="[" line="55" column="22" />
         <mark key="]" line="60" column="3" />
         <mark key="." line="60" column="3" />
         <mark key="^" line="60" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1557736775359">
+        <mark key="'" line="72" column="77" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" timestamp="1557734843495">
+        <mark key="'" line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/variables.tf" timestamp="1557738689943">
+        <mark key="[" line="172" column="10" />
+        <mark key="]" line="172" column="16" />
+        <mark key="." line="172" column="16" />
+        <mark key="^" line="172" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1557739464866">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/integration-test/groovy/com.quest/GroupControllerITSpec.groovy" timestamp="1557409586091">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/temp/orbital-group-service/build.gradle" timestamp="1557496188998">
+        <mark key="'" line="132" column="2" />
+        <mark key="[" line="126" column="1" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557741362405">
+        <mark key="'" line="250" column="43" />
+        <mark key="[" line="249" column="37" />
+        <mark key="]" line="249" column="43" />
+        <mark key="." line="249" column="43" />
+        <mark key="^" line="249" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" timestamp="1557740805570">
         <mark key="'" line="121" column="45" />
@@ -86,8 +98,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="1" column="92" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1557736775359">
-        <mark key="'" line="72" column="77" />
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/variables.tf" timestamp="1557741203984">
+        <mark key="[" line="257" column="14" />
+        <mark key="]" line="257" column="20" />
+        <mark key="." line="257" column="20" />
+        <mark key="^" line="257" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" timestamp="1557737025509">
         <mark key="'" line="236" column="40" />
@@ -108,19 +123,8 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" timestamp="1557734843495">
-        <mark key="'" line="12" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/variables.tf" timestamp="1557738689943">
-        <mark key="[" line="172" column="10" />
-        <mark key="]" line="172" column="16" />
-        <mark key="." line="172" column="16" />
-        <mark key="^" line="172" column="16" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="41" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
-      <jump line="1" column="36" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents-wrapper/main.tf" />
       <jump line="89" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="85" column="10" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-lb/main.tf" />
       <jump line="129" column="63" filename="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-bootstrap-remote-exec/main.tf" />
@@ -219,19 +223,21 @@
       <jump line="121" column="45" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="201" column="48" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="237" column="51" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
+      <jump line="249" column="41" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
+      <jump line="250" column="43" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>cassandra</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>cassandra</text>
       </register>
       <register name="/" type="4">
         <text>bootstrap_inv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyaWFibGUgImNhc3NhbmRyYV9hZ2VudHNfcm9vdF92b2x1bWVfdHlwZSIgewogIGRlc2NyaXB0aW9uID0gIltQUklWQVRFIEFHRU5UU10gUm9vdCB2b2x1bWUgdHlwZSIKICBkZWZhdWx0ICAgICA9ICJTdGFuZGFyZF9MUlMiCn0K</text>
+        <text encoding="base64">dmFyaWFibGUgIm51bV9jYXNzYW5kcmFfYWdlbnRzIiB7CiAgZGVzY3JpcHRpb24gPSAiU3BlY2lmeSB0aGUgYW1vdW50IG9mIHByaXZhdGUgYWdlbnRzLiBUaGVzZSBhZ2VudHMgd2lsbCBwcm92aWRlIHlvdXIgbWFpbiByZXNvdXJjZXMiCiAgZGVmYXVsdCAgICAgPSAiMSIKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBudW1fY2Fzc2FuZHJhX2FnZW50cyA9ICIke3Zhci5udW1fY2Fzc2FuZHJhX2FnZW50c30iCg==</text>
@@ -261,7 +267,7 @@
         <text encoding="base64">ICB0ZXN0Q29tcGlsZSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItdGVzdCcK</text>
       </register>
       <register name=":" type="4">
-        <text>168,171y</text>
+        <text>253,256y</text>
       </register>
     </registers>
     <search>
@@ -334,6 +340,9 @@
         <entry>138,140y</entry>
         <entry>153,156y</entry>
         <entry>168,171y</entry>
+        <entry>206,240y</entry>
+        <entry>297,300y</entry>
+        <entry>253,256y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
