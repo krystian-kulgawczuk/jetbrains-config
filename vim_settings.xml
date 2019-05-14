@@ -90,12 +90,12 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557825349028">
-        <mark key="'" line="304" column="26" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="171" column="90" />
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557837087290">
+        <mark key="'" line="304" column="39" />
+        <mark key="[" line="340" column="31" />
+        <mark key="]" line="340" column="36" />
+        <mark key="." line="340" column="36" />
+        <mark key="^" line="340" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1557827250298">
         <mark key="'" line="137" column="41" />
@@ -149,9 +149,9 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/common/tasks/main.yml" timestamp="1557836603429" />
     </filemarks>
     <jumps>
-      <jump line="236" column="40" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
       <jump line="177" column="83" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="180" column="48" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="172" column="52" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
@@ -251,13 +251,14 @@
       <jump line="111" column="55" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="107" column="55" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="200" column="8" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/prepare_disks.sh" />
+      <jump line="304" column="39" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>dcos-terraform/private-agents/azurerm</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>instance_os</text>
