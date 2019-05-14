@@ -13,12 +13,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" timestamp="1557755723674">
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" timestamp="1557816674266">
         <mark key="'" line="209" column="32" />
-        <mark key="[" line="153" column="26" />
-        <mark key="]" line="153" column="30" />
-        <mark key="." line="153" column="30" />
-        <mark key="^" line="153" column="30" />
+        <mark key="[" line="210" column="1" />
+        <mark key="]" line="213" column="55" />
+        <mark key="." line="213" column="55" />
+        <mark key="^" line="213" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/integration-test/groovy/com/testwithspring/master/GroupControllerITSpec.groovy" timestamp="1557401686036">
         <mark key="'" line="23" column="40" />
@@ -56,7 +56,7 @@
         <mark key="." line="40" column="43" />
         <mark key="^" line="40" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557754264693">
+      <file name="/Dummy.txt" timestamp="1557816188639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
@@ -65,6 +65,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/outputs.tf" timestamp="1557816789223">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="58" />
+        <mark key="^" line="26" column="58" />
+        <mark key="." line="26" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/temp/orbital-group-service/build.gradle" timestamp="1557496188998">
         <mark key="'" line="132" column="2" />
@@ -79,6 +85,9 @@
         <mark key="]" line="309" column="44" />
         <mark key="." line="309" column="44" />
         <mark key="^" line="309" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1557816838175">
+        <mark key="'" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" timestamp="1557754898417">
         <mark key="'" line="140" column="32" />
@@ -105,12 +114,12 @@
         <mark key="." line="298" column="17" />
         <mark key="^" line="297" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" timestamp="1557757835251">
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" timestamp="1557816186674">
         <mark key="e" line="271" column="0" />
         <mark key="'" line="240" column="3" />
-        <mark key="[" line="249" column="34" />
-        <mark key="]" line="249" column="38" />
-        <mark key="." line="249" column="38" />
+        <mark key="[" line="250" column="26" />
+        <mark key="]" line="250" column="26" />
+        <mark key="." line="250" column="26" />
         <mark key="^" line="249" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/test.com/build.gradle" timestamp="1557751876784">
@@ -127,7 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="41" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" />
       <jump line="239" column="0" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="256" column="2" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="248" column="0" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
@@ -227,13 +235,14 @@
       <jump line="249" column="35" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
       <jump line="253" column="38" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
       <jump line="240" column="3" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
+      <jump line="52" column="34" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cassandra</text>
+        <text>data.template_file.bootstrap_inventory.rendered</text>
       </register>
       <register name="-" type="4">
-        <text>cassandra</text>
+        <text>data.template_file.bootstrap_inventory.rendered</text>
       </register>
       <register name="/" type="4">
         <text>elastic</text>
@@ -245,28 +254,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBrYWZrYV9hZ2VudCBwdWJsaWMgaXAKb3V0cHV0ICJrYWZrYV9hZ2VudHMucHVibGljX2lwcyIgewogIGRlc2NyaXB0aW9uID0gIkthZmthIEFnZW50IHB1YmxpYyBJUHMiCiAgdmFsdWUgICAgICAgPSAiJHttb2R1bGUua2Fma2FfYWdlbnRzLnB1YmxpY19pcHN9Igp9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWx1ZSA9ICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBEZXBsb3llZCBrYWZrYSBhZ2VudCBTU0ggdXNlcgpvdXRwdXQgImthZmthX2FnZW50cy5hZG1pbl91c2VybmFtZSIgewogIGRlc2NyaXB0aW9uID0gIlByaXZhdGUgQWdlbnRzIG5vZGUgU1NIIFVzZXIiCiAgdmFsdWUgICAgICAgPSAiJHttb2R1bGUua2Fma2FfYWdlbnRzLmFkbWluX3VzZXJuYW1lfSIKfQo=</text>
+        <text encoding="base64">b3V0cHV0ICIiIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBOdW1iZXIgb2YgQ2Fzc2FuZHJhIEFnZW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBudW1fZWxhc3RpY19hZ2VudHMgPSAiJHt2YXIubnVtX2VsYXN0aWNfYWdlbnRzfSIK</text>
+        <text encoding="base64">IyBrYWZrYV9hZ2VudCBwdWJsaWMgaXAKb3V0cHV0ICJrYWZrYV9hZ2VudHMucHVibGljX2lwcyIgewogIGRlc2NyaXB0aW9uID0gIkthZmthIEFnZW50IHB1YmxpYyBJUHMiCiAgdmFsdWUgICAgICAgPSAiJHttb2R1bGUua2Fma2FfYWdlbnRzLnB1YmxpY19pcHN9Igp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhc3N3b3JkICIkYXJ0aWZhY3RvcnlQYXNzd29yZCIK</text>
+        <text encoding="base64">IyBEZXBsb3llZCBrYWZrYSBhZ2VudCBTU0ggdXNlcgpvdXRwdXQgImthZmthX2FnZW50cy5hZG1pbl91c2VybmFtZSIgewogIGRlc2NyaXB0aW9uID0gIlByaXZhdGUgQWdlbnRzIG5vZGUgU1NIIFVzZXIiCiAgdmFsdWUgICAgICAgPSAiJHttb2R1bGUua2Fma2FfYWdlbnRzLmFkbWluX3VzZXJuYW1lfSIKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVzZXJuYW1lICIkYXJ0aWZhY3RvcnlVc2VyIgo=</text>
+        <text encoding="base64">IyBOdW1iZXIgb2YgQ2Fzc2FuZHJhIEFnZW50cwo=</text>
       </register>
       <register name=":" type="4">
         <text>90,93y</text>
