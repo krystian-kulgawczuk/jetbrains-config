@@ -72,6 +72,7 @@
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-tested-oses/variables.tf" timestamp="1557828123892" />
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/outputs.tf" timestamp="1557826499929">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -92,15 +93,15 @@
         <mark key="." line="172" column="0" />
         <mark key="^" line="171" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1557824913447">
-        <mark key="'" line="68" column="38" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1557827250298">
+        <mark key="'" line="137" column="41" />
         <mark key="[" line="175" column="68" />
         <mark key="]" line="175" column="69" />
         <mark key="^" line="168" column="1" />
         <mark key="." line="175" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" timestamp="1557754898417">
-        <mark key="'" line="140" column="32" />
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" timestamp="1557827446983">
+        <mark key="'" line="107" column="55" />
         <mark key="[" line="200" column="38" />
         <mark key="]" line="200" column="42" />
         <mark key="^" line="200" column="42" />
@@ -146,12 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="0" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
-      <jump line="209" column="14" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
-      <jump line="125" column="22" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
-      <jump line="72" column="77" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" />
-      <jump line="227" column="54" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
-      <jump line="231" column="35" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
       <jump line="232" column="37" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
       <jump line="236" column="40" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/main.tf" />
       <jump line="177" column="83" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
@@ -199,7 +194,6 @@
       <jump line="125" column="45" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="126" column="42" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="127" column="45" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
-      <jump line="140" column="32" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="285" column="42" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="286" column="41" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="288" column="52" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
@@ -246,6 +240,13 @@
       <jump line="52" column="34" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
       <jump line="43" column="44" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" />
       <jump line="68" column="38" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
+      <jump line="137" column="41" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
+      <jump line="93" column="46" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
+      <jump line="140" column="27" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
+      <jump line="90" column="13" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
+      <jump line="105" column="54" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
+      <jump line="111" column="55" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
+      <jump line="107" column="55" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -255,7 +256,7 @@
         <text>dcos-terraform/private-agents/azurerm</text>
       </register>
       <register name="/" type="4">
-        <text>52,60y</text>
+        <text>instance_os</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzdG9yYWdlX2RhdGFfZGlzayB7CiAgICBuYW1lICAgICAgICAgICAgPSAiJHthenVyZXJtX21hbmFnZWRfZGlzay5pbnN0YW5jZV9tYW5hZ2VkX2Rpc2tfMC4qLm5hbWVbY291bnQuaW5kZXhdfSIKICAgIG1hbmFnZWRfZGlza19pZCA9ICIke2F6dXJlcm1fbWFuYWdlZF9kaXNrLmluc3RhbmNlX21hbmFnZWRfZGlza18wLiouaWRbY291bnQuaW5kZXhdfSIKICAgIGNyZWF0ZV9vcHRpb24gICA9ICJBdHRhY2giCiAgICBjYWNoaW5nICAgICAgICAgPSAiTm9uZSIKICAgIGx1biAgICAgICAgICAgICA9IDAKICAgIGRpc2tfc2l6ZV9nYiAgICA9ICIke2F6dXJlcm1fbWFuYWdlZF9kaXNrLmluc3RhbmNlX21hbmFnZWRfZGlza18wLiouZGlza19zaXplX2diW2NvdW50LmluZGV4XX0iCiAgfQo=</text>
@@ -292,9 +293,9 @@
       </register>
     </registers>
     <search>
-      <last-search>52,60y</last-search>
+      <last-search>instance_os</last-search>
       <last-offset />
-      <last-pattern>52,60y</last-pattern>
+      <last-pattern>instance_os</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -333,6 +334,7 @@
         <entry>cassandra</entry>
         <entry>elastic</entry>
         <entry>52,60y</entry>
+        <entry>instance_os</entry>
       </history-search>
       <history-cmd>
         <entry>40,43y</entry>
