@@ -7,12 +7,6 @@
       <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/integration-test/groovy/com/testwithspring/master/GetMessageSpec.groovy" timestamp="1557404815297">
         <mark key="'" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/build.gradle" timestamp="1557404751067">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" timestamp="1557816674266">
         <mark key="'" line="209" column="32" />
         <mark key="[" line="210" column="1" />
@@ -37,12 +31,6 @@
         <mark key="[" line="209" column="0" />
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/test/java/com/quest/orbital/group/service/controller/V1ApiControllerTest.java" timestamp="1557407152278">
-        <mark key="[" line="55" column="22" />
-        <mark key="]" line="60" column="3" />
-        <mark key="." line="60" column="3" />
-        <mark key="^" line="60" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" timestamp="1557825198962">
         <mark key="'" line="42" column="44" />
@@ -111,17 +99,8 @@
         <mark key="^" line="200" column="42" />
         <mark key="." line="200" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/templates/hosts.tpl" timestamp="1557732059613">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/gradle.properties" timestamp="1557404008027">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="1" column="92" />
+      <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" timestamp="1557842058273">
+        <mark key="'" line="315" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/variables.tf" timestamp="1557755424679">
         <mark key="[" line="298" column="17" />
@@ -143,17 +122,9 @@
         <mark key="^" line="69" column="1" />
         <mark key="." line="69" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/integration-test/groovy/com.quest/SimpleTest.groovy" timestamp="1557406468259">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/common/tasks/main.yml" timestamp="1557839609305" />
     </filemarks>
     <jumps>
-      <jump line="177" column="83" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
-      <jump line="180" column="48" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="172" column="52" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="117" column="44" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="118" column="46" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
@@ -252,6 +223,8 @@
       <jump line="107" column="55" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="200" column="8" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/prepare_disks.sh" />
       <jump line="304" column="39" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
+      <jump line="21" column="56" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" />
+      <jump line="315" column="10" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -261,7 +234,7 @@
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>instance_os</text>
+        <text>disks to partition</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzdG9yYWdlX2RhdGFfZGlzayB7CiAgICBuYW1lICAgICAgICAgICAgPSAiJHthenVyZXJtX21hbmFnZWRfZGlzay5pbnN0YW5jZV9tYW5hZ2VkX2Rpc2tfMC4qLm5hbWVbY291bnQuaW5kZXhdfSIKICAgIG1hbmFnZWRfZGlza19pZCA9ICIke2F6dXJlcm1fbWFuYWdlZF9kaXNrLmluc3RhbmNlX21hbmFnZWRfZGlza18wLiouaWRbY291bnQuaW5kZXhdfSIKICAgIGNyZWF0ZV9vcHRpb24gICA9ICJBdHRhY2giCiAgICBjYWNoaW5nICAgICAgICAgPSAiTm9uZSIKICAgIGx1biAgICAgICAgICAgICA9IDAKICAgIGRpc2tfc2l6ZV9nYiAgICA9ICIke2F6dXJlcm1fbWFuYWdlZF9kaXNrLmluc3RhbmNlX21hbmFnZWRfZGlza18wLiouZGlza19zaXplX2diW2NvdW50LmluZGV4XX0iCiAgfQo=</text>
@@ -294,13 +267,13 @@
         <text encoding="base64">ICBzdG9yYWdlX2FjY291bnRfdHlwZSA9ICIiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>152,159y</text>
+        <text>19</text>
       </register>
     </registers>
     <search>
-      <last-search>instance_os</last-search>
+      <last-search>disks to partition</last-search>
       <last-offset />
-      <last-pattern>instance_os</last-pattern>
+      <last-pattern>disks to partition</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -340,6 +313,11 @@
         <entry>elastic</entry>
         <entry>52,60y</entry>
         <entry>instance_os</entry>
+        <entry>setlocale</entry>
+        <entry>lang</entry>
+        <entry>locale</entry>
+        <entry>19</entry>
+        <entry>disks to partition</entry>
       </history-search>
       <history-cmd>
         <entry>40,43y</entry>
@@ -421,6 +399,7 @@
         <entry>52,60y</entry>
         <entry>62,70y</entry>
         <entry>152,159y</entry>
+        <entry>19</entry>
       </history-cmd>
       <history-expr />
       <history-input />
