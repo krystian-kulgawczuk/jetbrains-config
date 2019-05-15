@@ -35,11 +35,6 @@
         <mark key="." line="95" column="39" />
         <mark key="^" line="90" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1556098310756">
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" timestamp="1557825198962">
         <mark key="'" line="42" column="44" />
         <mark key="[" line="28" column="13" />
@@ -61,17 +56,12 @@
         <mark key="." line="125" column="1" />
         <mark key="^" line="125" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557929051559">
+      <file name="/Dummy.txt" timestamp="1557930130834">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/credentials/tasks/main.yml" timestamp="1557834673763" />
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/integration-test/groovy/com.quest/GroupControllerITSpec.groovy" timestamp="1557409586091">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-tested-oses/variables.tf" timestamp="1557828896768" />
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/outputs.tf" timestamp="1557826499929">
         <mark key="[" line="52" column="0" />
@@ -130,11 +120,11 @@
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" timestamp="1557842058273">
         <mark key="'" line="315" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-ansible/README.md" timestamp="1557929026371">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="17" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-ansible/README.md" timestamp="1557930120110">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/variables.tf" timestamp="1557755424679">
         <mark key="[" line="298" column="17" />
@@ -253,8 +243,8 @@
       <jump line="2" column="120" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/outputs.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>provisoning</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>provisoning</text>
@@ -266,13 +256,13 @@
         <text encoding="base64">ICBzdG9yYWdlX2RhdGFfZGlzayB7CiAgICBuYW1lICAgICAgICAgICAgPSAiJHthenVyZXJtX21hbmFnZWRfZGlzay5pbnN0YW5jZV9tYW5hZ2VkX2Rpc2tfMC4qLm5hbWVbY291bnQuaW5kZXhdfSIKICAgIG1hbmFnZWRfZGlza19pZCA9ICIke2F6dXJlcm1fbWFuYWdlZF9kaXNrLmluc3RhbmNlX21hbmFnZWRfZGlza18wLiouaWRbY291bnQuaW5kZXhdfSIKICAgIGNyZWF0ZV9vcHRpb24gICA9ICJBdHRhY2giCiAgICBjYWNoaW5nICAgICAgICAgPSAiTm9uZSIKICAgIGx1biAgICAgICAgICAgICA9IDAKICAgIGRpc2tfc2l6ZV9nYiAgICA9ICIke2F6dXJlcm1fbWFuYWdlZF9kaXNrLmluc3RhbmNlX21hbmFnZWRfZGlza18wLiouZGlza19zaXplX2diW2NvdW50LmluZGV4XX0iCiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8IC0gfAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8IC0gfAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
+        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8IC0gfAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
@@ -290,7 +280,7 @@
         <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,4d</text>
