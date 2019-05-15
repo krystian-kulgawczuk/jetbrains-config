@@ -4,15 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/outputs.tf" timestamp="1557735366840" />
-      <file name="$USER_HOME$/Projects/terraform/terraform-main/main.tf" timestamp="1557916782899" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-main/main.tf" timestamp="1557918003270">
+        <mark key="'" line="40" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/integration-test/groovy/com/testwithspring/master/GetMessageSpec.groovy" timestamp="1557404815297">
         <mark key="'" line="13" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/build.gradle" timestamp="1557404751067">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-main/variables.tf" timestamp="1557915485203">
         <mark key="[" line="1" column="0" />
@@ -44,12 +40,6 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/test/java/com/quest/orbital/group/service/controller/V1ApiControllerTest.java" timestamp="1557407152278">
-        <mark key="[" line="55" column="22" />
-        <mark key="]" line="60" column="3" />
-        <mark key="." line="60" column="3" />
-        <mark key="^" line="60" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" timestamp="1557825198962">
         <mark key="'" line="42" column="44" />
         <mark key="[" line="28" column="13" />
@@ -62,11 +52,14 @@
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1557736775359">
         <mark key="'" line="72" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/variables.tf" timestamp="1557754770299">
-        <mark key="[" line="40" column="39" />
-        <mark key="]" line="40" column="43" />
-        <mark key="." line="40" column="43" />
-        <mark key="^" line="40" column="43" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" timestamp="1557734843495">
+        <mark key="'" line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/variables.tf" timestamp="1557917874381">
+        <mark key="[" line="125" column="35" />
+        <mark key="]" line="125" column="1" />
+        <mark key="." line="125" column="1" />
+        <mark key="^" line="125" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1557825493699">
         <mark key="[" line="0" column="0" />
@@ -86,11 +79,11 @@
         <mark key="^" line="26" column="58" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-main/README.md" timestamp="1557915812537">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="1" column="34" />
-        <mark key="^" line="1" column="34" />
-        <mark key="." line="1" column="34" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-main/README.md" timestamp="1557918337703">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/temp/orbital-group-service/build.gradle" timestamp="1557496188998">
         <mark key="'" line="132" column="2" />
@@ -113,25 +106,16 @@
         <mark key="^" line="168" column="1" />
         <mark key="." line="175" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-tested-oses/README.md" timestamp="1557915805072" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-main/output.tf" timestamp="1557918389125">
+        <mark key="'" line="37" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-tested-oses/README.md" timestamp="1557918075712" />
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" timestamp="1557827446983">
         <mark key="'" line="107" column="55" />
         <mark key="[" line="200" column="38" />
         <mark key="]" line="200" column="42" />
         <mark key="^" line="200" column="42" />
         <mark key="." line="200" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/templates/hosts.tpl" timestamp="1557732059613">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/gradle.properties" timestamp="1557404008027">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="1" column="92" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" timestamp="1557842058273">
         <mark key="'" line="315" column="10" />
@@ -156,17 +140,9 @@
         <mark key="^" line="69" column="1" />
         <mark key="." line="69" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/integration-test/groovy/com.quest/SimpleTest.groovy" timestamp="1557406468259">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/common/tasks/main.yml" timestamp="1557839609305" />
     </filemarks>
     <jumps>
-      <jump line="172" column="52" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
-      <jump line="117" column="44" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="118" column="46" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="119" column="45" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="120" column="47" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
@@ -265,43 +241,45 @@
       <jump line="304" column="39" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="21" column="56" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" />
       <jump line="315" column="10" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" />
+      <jump line="40" column="35" filename="$USER_HOME$/Projects/terraform/terraform-main/main.tf" />
+      <jump line="37" column="22" filename="$USER_HOME$/Projects/terraform/terraform-main/output.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>centos_7.5</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>disks to partition</text>
+        <text>variant</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzdG9yYWdlX2RhdGFfZGlzayB7CiAgICBuYW1lICAgICAgICAgICAgPSAiJHthenVyZXJtX21hbmFnZWRfZGlzay5pbnN0YW5jZV9tYW5hZ2VkX2Rpc2tfMC4qLm5hbWVbY291bnQuaW5kZXhdfSIKICAgIG1hbmFnZWRfZGlza19pZCA9ICIke2F6dXJlcm1fbWFuYWdlZF9kaXNrLmluc3RhbmNlX21hbmFnZWRfZGlza18wLiouaWRbY291bnQuaW5kZXhdfSIKICAgIGNyZWF0ZV9vcHRpb24gICA9ICJBdHRhY2giCiAgICBjYWNoaW5nICAgICAgICAgPSAiTm9uZSIKICAgIGx1biAgICAgICAgICAgICA9IDAKICAgIGRpc2tfc2l6ZV9nYiAgICA9ICIke2F6dXJlcm1fbWFuYWdlZF9kaXNrLmluc3RhbmNlX21hbmFnZWRfZGlza18wLiouZGlza19zaXplX2diW2NvdW50LmluZGV4XX0iCiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8IC0gfAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyaWFibGUgIiIge30K</text>
+        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8IC0gfAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gImNlbnRvc183LjUiCg==</text>
+        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZXNjcmlwdGlvbiA9ICJPUyBpbnN0YW5jZSB1c2VkIGZvciBldmVyeSBub2RlIGluIHRoZSBjbHVzdGVyIgo=</text>
+        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyaWFibGUgImluc3RhbmNlX29zIiB7Cg==</text>
+        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -311,9 +289,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disks to partition</last-search>
+      <last-search>variant</last-search>
       <last-offset />
-      <last-pattern>disks to partition</last-pattern>
+      <last-pattern>variant</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -358,6 +336,8 @@
         <entry>locale</entry>
         <entry>19</entry>
         <entry>disks to partition</entry>
+        <entry>dcos_o</entry>
+        <entry>variant</entry>
       </history-search>
       <history-cmd>
         <entry>40,43y</entry>
