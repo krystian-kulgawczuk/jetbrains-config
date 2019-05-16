@@ -16,13 +16,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/integration-test/groovy/com/testwithspring/master/GroupControllerITSpec.groovy" timestamp="1557401686036">
-        <mark key="'" line="23" column="40" />
-        <mark key="[" line="26" column="50" />
-        <mark key="]" line="26" column="50" />
-        <mark key="^" line="27" column="68" />
-        <mark key="." line="26" column="50" />
-      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-api/src/main/java/com/quest/cdp/api/controller/recovery/RestoreController.java" timestamp="1557297636399">
         <mark key="[" line="20" column="0" />
       </file>
@@ -38,6 +31,9 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-charts/src/main/java/portal/kcch/model/impl/KfMessageCharts.java" timestamp="1557991397083">
         <mark key="'" line="35" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/job/ChartAggregatorJob.java" timestamp="1558005724735">
+        <mark key="'" line="88" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1557736775359">
         <mark key="'" line="72" column="77" />
@@ -59,19 +55,12 @@
         <mark key="." line="125" column="1" />
         <mark key="^" line="125" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" timestamp="1557997494531">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" timestamp="1558006441578">
         <mark key="'" line="31" column="61" />
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="25" />
-        <mark key="^" line="37" column="44" />
-        <mark key="." line="37" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1557827250298">
-        <mark key="'" line="137" column="41" />
-        <mark key="[" line="175" column="68" />
-        <mark key="]" line="175" column="69" />
-        <mark key="^" line="168" column="1" />
-        <mark key="." line="175" column="69" />
+        <mark key="[" line="34" column="74" />
+        <mark key="]" line="34" column="71" />
+        <mark key="." line="34" column="71" />
+        <mark key="^" line="34" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1557999011118" />
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" timestamp="1557827446983">
@@ -82,13 +71,6 @@
         <mark key="." line="200" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1557989075322" />
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/outputs.tf" timestamp="1557927649989">
-        <mark key="'" line="2" column="120" />
-        <mark key="[" line="2" column="191" />
-        <mark key="]" line="2" column="188" />
-        <mark key="^" line="2" column="188" />
-        <mark key="." line="2" column="188" />
-      </file>
       <file name="$USER_HOME$/Projects/temp/orbital-group-service/gradle.properties" timestamp="1557404008027">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="11" />
@@ -114,8 +96,12 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1558001899080">
-        <mark key="'" line="73" column="63" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1558005205231">
+        <mark key="'" line="146" column="19" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="76" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" timestamp="1557816674266">
         <mark key="'" line="209" column="32" />
@@ -174,13 +160,6 @@
         <mark key="." line="53" column="64" />
         <mark key="^" line="53" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/temp/orbital-group-service/build.gradle" timestamp="1557496188998">
-        <mark key="'" line="132" column="2" />
-        <mark key="[" line="126" column="1" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-        <mark key="^" line="127" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1557995075761">
         <mark key="'" line="54" column="26" />
       </file>
@@ -203,6 +182,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="21" column="37" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/impl/JwtUserImpl.java" timestamp="1558003676084">
+        <mark key="'" line="19" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/variables.tf" timestamp="1557755424679">
         <mark key="[" line="298" column="17" />
@@ -243,14 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="22" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
-      <jump line="130" column="0" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
-      <jump line="180" column="8" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
-      <jump line="181" column="32" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
-      <jump line="36" column="11" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
-      <jump line="37" column="8" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
-      <jump line="39" column="26" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/outputs.tf" />
-      <jump line="123" column="43" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="124" column="45" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="125" column="45" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
       <jump line="126" column="42" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
@@ -334,58 +308,66 @@
       <jump line="76" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
       <jump line="31" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/EsFactoryImpl.java" />
       <jump line="24" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/EsFactoryImpl.java" />
-      <jump line="75" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
       <jump line="28" column="61" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" />
       <jump line="75" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
       <jump line="54" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
       <jump line="9" column="50" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/resources/application-us-dev.properties" />
       <jump line="1" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/resources/application-us-dev.properties" />
       <jump line="3" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/resources/application-us-dev.properties" />
-      <jump line="73" column="63" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
       <jump line="5" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/JwtUser.java" />
+      <jump line="79" column="62" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="73" column="63" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="19" column="70" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/impl/JwtUserImpl.java" />
+      <jump line="74" column="65" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="75" column="54" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="64" column="23" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="76" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="146" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="76" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/job/ChartAggregatorJob.java" />
+      <jump line="88" column="35" filename="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/job/ChartAggregatorJob.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>standardizedJson</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>standardizedJson</text>
       </register>
       <register name="/" type="4">
         <text>true</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdG9yYWdlX2RhdGFfZGlzayB7CiAgICBuYW1lICAgICAgICAgICAgPSAiJHthenVyZXJtX21hbmFnZWRfZGlzay5pbnN0YW5jZV9tYW5hZ2VkX2Rpc2tfMC4qLm5hbWVbY291bnQuaW5kZXhdfSIKICAgIG1hbmFnZWRfZGlza19pZCA9ICIke2F6dXJlcm1fbWFuYWdlZF9kaXNrLmluc3RhbmNlX21hbmFnZWRfZGlza18wLiouaWRbY291bnQuaW5kZXhdfSIKICAgIGNyZWF0ZV9vcHRpb24gICA9ICJBdHRhY2giCiAgICBjYWNoaW5nICAgICAgICAgPSAiTm9uZSIKICAgIGx1biAgICAgICAgICAgICA9IDAKICAgIGRpc2tfc2l6ZV9nYiAgICA9ICIke2F6dXJlcm1fbWFuYWdlZF9kaXNrLmluc3RhbmNlX21hbmFnZWRfZGlza18wLiouZGlza19zaXplX2diW2NvdW50LmluZGV4XX0iCiAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZSBwcm9jZXNzUjNTdGF0cyhAQXV0aGVudGljYXRpb25QcmluY2lwYWwgSnd0VXNlciBqd3RVc2VyLCBAUmVxdWVzdEJvZHkgU3RyaW5nIGpzb24pIHRocm93cyBFeGNlcHRpb24gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oInZlcnNpb24gY2hlY2s6ICIgKyBxc1ZlcnNpb24udG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9GSVhNRTogZGlzYWJsZSBzZW5kaW5nIHN0YXRzIHRvIGthZmthIHdoZW4gcXMgdmVyIGlzIDYuMAogICAgICAgICAgICBHc29uIGcgPSBuZXcgR3NvbigpOwogICAgICAgICAgICBWZXJzaW9uRmluZGVyNjAgcXNWZXJzaW9uID0gZy5mcm9tSnNvbihqc29uLCBWZXJzaW9uRmluZGVyNjAuY2xhc3MpOwogICAgICAgICAgICBpZiAocXNWZXJzaW9uID09IG51bGwgJiYgcXNWZXJzaW9uLmdldFN5c3RlbVN0YXRlKCkuZ2V0VmVyc2lvbigpLnN0YXJ0c1dpdGgoIjYiKSkgewogICAgICAgICAgICAgICAgbG9nLmluZm8oInZlcnNpb24gY2hlY2s6ICIgKyBxc1ZlcnNpb24udG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3lzdGVtU3RhdGUgc3lzdGVtU3RhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIlN0YXRzOiAiICsgc3RhbmRhcmRpemVkSnNvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKd3RVc2VyIHVzZXIgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8IC0gfAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oInZlcnNpb24gY2hlY2s6ICIgKyBxc1ZlcnNpb24udG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8IC0gfAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3lzdGVtU3RhdGUgc3lzdGVtU3RhdGU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
+        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8IC0gfAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
+        <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8IC0gfAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">fGJvb3RzdHJhcF9pbnZlbnRvcnl8YW5zaWJsZSBob3N0IGZpbGV8Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1,4d</text>
+        <text>35,42d</text>
       </register>
     </registers>
     <search>
@@ -524,6 +506,7 @@
         <entry>152,159y</entry>
         <entry>19</entry>
         <entry>1,4d</entry>
+        <entry>35,42d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
