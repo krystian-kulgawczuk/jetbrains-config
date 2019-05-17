@@ -87,8 +87,8 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1558088020440">
-        <mark key="'" line="89" column="22" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1558090357327">
+        <mark key="'" line="94" column="17" />
         <mark key="[" line="94" column="66" />
         <mark key="]" line="95" column="58" />
         <mark key="." line="95" column="58" />
@@ -143,8 +143,8 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/impl/JwtUserImpl.java" timestamp="1558003676084">
         <mark key="'" line="19" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1558013060149">
-        <mark key="'" line="60" column="24" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1558090716248">
+        <mark key="'" line="86" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/metadata/controller/OrganizationsMetadataController.java" timestamp="1557993533483">
         <mark key="'" line="52" column="42" />
@@ -220,8 +220,8 @@
         <mark key="'" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-tested-oses/variables.tf" timestamp="1557828896768" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" timestamp="1558012937548">
-        <mark key="'" line="62" column="39" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" timestamp="1558090366591">
+        <mark key="'" line="63" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-main/README.md" timestamp="1557927190096">
         <mark key="[" line="62" column="54" />
@@ -269,11 +269,6 @@
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/common/tasks/main.yml" timestamp="1557839609305" />
     </filemarks>
     <jumps>
-      <jump line="21" column="56" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" />
-      <jump line="315" column="10" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" />
-      <jump line="40" column="35" filename="$USER_HOME$/Projects/terraform/terraform-main/main.tf" />
-      <jump line="37" column="22" filename="$USER_HOME$/Projects/terraform/terraform-main/output.tf" />
-      <jump line="2" column="120" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/outputs.tf" />
       <jump line="61" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
       <jump line="49" column="55" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
       <jump line="93" column="48" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
@@ -367,8 +362,13 @@
       <jump line="92" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
       <jump line="162" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
       <jump line="31" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" />
-      <jump line="89" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
       <jump line="15" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
+      <jump line="89" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="93" column="43" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="94" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="54" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" />
+      <jump line="63" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" />
+      <jump line="86" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -378,7 +378,7 @@
         <text>prod</text>
       </register>
       <register name="/" type="4">
-        <text>r3_asset</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9GSVhNRTogYmxvY2sgc2VuZGluZyBjaGFydHMgd2hlbiBxcyBpcyA2LlgKICAgICAgICAgICAgU3RyaW5nIGFzc2V0SWQgPSBqd3RVc2VyLmdldFVzZXJuYW1lKCk7CiAgICAgICAgICAgIExpc3Q8UjNBc3NldD4gYXNzZXRzID0gZGJGYWN0b3J5LmRiKCkuZGJSM0Fzc2V0KCkuc2VsZWN0KCkud2hlcmUoUXVlcnlCdWlsZGVyLmVxKFIzQXNzZXRDb2x1bW5zLkFTU0VUX0lELCBhc3NldElkKSkuZXhlY3V0ZSgpLm1hcChSM0Fzc2V0LmNsYXNzKTsKICAgICAgICAgICAgZm9yIChSM0Fzc2V0IGFzc2V0OiBhc3NldHMpIHsKICAgICAgICAgICAgICAgIGlmIChhc3NldC5nZXRWZXJzaW9uKCkuZ2V0U3lzdGVtKCkuc3RhcnRzV2l0aCgiNiIpKSB7CiAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oIlFzIDYuMCBkZXRlY3RlZCBza2lwcGluZyBjaGFydHMgZm9yOiAiICsgYXNzZXRJZCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnN1Y2Nlc3MoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
@@ -415,9 +415,9 @@
       </register>
     </registers>
     <search>
-      <last-search>r3_asset</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>r3_asset</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -470,6 +470,7 @@
         <entry>systemState</entry>
         <entry>charts</entry>
         <entry>r3_asset</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>40,43y</entry>
