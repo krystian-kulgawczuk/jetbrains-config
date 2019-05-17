@@ -25,6 +25,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-charts/src/main/java/portal/kcch/model/impl/KfMessageCharts.java" timestamp="1557991397083">
         <mark key="'" line="35" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" timestamp="1557825198962">
+        <mark key="'" line="42" column="44" />
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/temp/test/pom.xml" timestamp="1558007534575">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="17" column="34" />
@@ -43,6 +49,12 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/factory/impl/ConsumerFactoryImpl.java" timestamp="1558012585569">
         <mark key="'" line="28" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" timestamp="1558082476449">
+        <mark key="'" line="36" column="67" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/view/charts/controller/ChartsController.java" timestamp="1558012579922">
         <mark key="'" line="35" column="52" />
@@ -74,11 +86,11 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1558076915971">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1558082640381">
         <mark key="'" line="31" column="13" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
         <mark key="^" line="53" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/temp/test/src/main/java/test/Test.java" timestamp="1558007666042">
@@ -97,11 +109,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/EsFactoryImpl.java" timestamp="1558010749888">
         <mark key="'" line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1557994812298">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1558082630074">
         <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-        <mark key="^" line="3" column="13" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/statement/SelectStmImpl.java" timestamp="1558014408717">
         <mark key="'" line="29" column="22" />
@@ -120,8 +132,8 @@
         <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/healthcheck/controller/HealthcheckController.java" timestamp="1557999357911" />
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1558012342068">
-        <mark key="'" line="49" column="22" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1558082711106">
+        <mark key="'" line="49" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/ActionFactoryImpl.java" timestamp="1558008524215">
         <mark key="'" line="73" column="20" />
@@ -197,6 +209,11 @@
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/prepare_disks.sh" timestamp="1557835202321">
         <mark key="'" line="200" column="8" />
       </file>
+      <file name="/Dummy.txt" timestamp="1558082815244">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-tested-oses/variables.tf" timestamp="1557828896768" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" timestamp="1558012937548">
         <mark key="'" line="62" column="39" />
@@ -235,12 +252,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" timestamp="1558009342511">
         <mark key="'" line="76" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" timestamp="1558011436511">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" timestamp="1558082595543">
         <mark key="'" line="46" column="25" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="49" column="68" />
-        <mark key="^" line="49" column="68" />
-        <mark key="." line="49" column="68" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/EsFactoryImpl.java" timestamp="1558009513566">
         <mark key="'" line="31" column="20" />
@@ -327,7 +343,6 @@
       <jump line="48" column="64" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
       <jump line="50" column="63" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
       <jump line="28" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/userdetails/UserDetailsWrap.java" />
-      <jump line="49" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
       <jump line="25" column="15" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/MessageFactoryImpl.java" />
       <jump line="26" column="47" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/MessageFactoryImpl.java" />
       <jump line="15" column="45" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/KfMessageCharts.java" />
@@ -348,13 +363,14 @@
       <jump line="23" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" />
       <jump line="8" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/factory/StmFactory.java" />
       <jump line="29" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/statement/SelectStmImpl.java" />
+      <jump line="49" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFnZW50LmNvbW1vbi5zZWN1cml0eS5qd3QucHJpbmNpcGFsLmltcGwuSnd0VXNlckltcGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>charts</text>
@@ -363,31 +379,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZSBwcm9jZXNzUjNTdGF0cyhAQXV0aGVudGljYXRpb25QcmluY2lwYWwgSnd0VXNlciBqd3RVc2VyLCBAUmVxdWVzdEJvZHkgU3RyaW5nIGpzb24pIHRocm93cyBFeGNlcHRpb24gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFnZW50LmNvbW1vbi5zZWN1cml0eS5qd3QucHJpbmNpcGFsLmltcGwuSnd0VXNlckltcGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5zY2hlbWEudGFibGUuVmVyc2lvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIkNoYXJ0cyBhc3NldDogIiArIGdzb24udG9Kc29uKGFzc2V0KSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vRklYTUU6IGJsb2NrIHNlbmRpbmcgY2hhcnRzIHdoZW4gcXMgaXMgNi5YCiAgICAgICAgICAgIFN0cmluZyBhc3NldElkID0gand0VXNlci5nZXRVc2VybmFtZSgpOwogICAgICAgICAgICBMaXN0PFIzQXNzZXQ+IGFzc2V0cyA9IGRiRmFjdG9yeS5kYigpLmRiUjNBc3NldCgpLnNlbGVjdCgpLndoZXJlKFF1ZXJ5QnVpbGRlci5lcShSM0Fzc2V0Q29sdW1ucy5BU1NFVF9JRCwgYXNzZXRJZCkpLmV4ZWN1dGUoKS5tYXAoUjNBc3NldC5jbGFzcyk7CiAgICAgICAgICAgIGZvciAoUjNBc3NldCBhc3NldDogYXNzZXRzKSB7CiAgICAgICAgICAgICAgICBpZiAoYXNzZXQuZ2V0VmVyc2lvbigpLmdldFN5c3RlbSgpLnN0YXJ0c1dpdGgoIjYiKSkgewogICAgICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJRcyA2LjAgZGV0ZWN0ZWQgc2tpcHBpbmcgY2hhcnRzIGZvcjogIiArIGFzc2V0SWQpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5zdWNjZXNzKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yaQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVyc2lvbgo=</text>
+        <text encoding="base64">aW1wb3J0IGFnZW50LmNvbW1vbi5zZWN1cml0eS5qd3QucHJpbmNpcGFsLmltcGwuSnd0VXNlckltcGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUjNBc3NldENvbHVtbnMK</text>
+        <text encoding="base64">aW1wb3J0IHBvcnRhbC5zY2hlbWEudGFibGUuVmVyc2lvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFzc2V0T2JqZWN0Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vRklYTUU6IGJsb2NrIHNlbmRpbmcgY2hhcnRzIHdoZW4gcXMgaXMgNi5YCiAgICAgICAgICAgIFN0cmluZyBhc3NldElkID0gand0VXNlci5nZXRVc2VybmFtZSgpOwogICAgICAgICAgICBMaXN0PFIzQXNzZXQ+IGFzc2V0cyA9IGRiRmFjdG9yeS5kYigpLmRiUjNBc3NldCgpLnNlbGVjdCgpLndoZXJlKFF1ZXJ5QnVpbGRlci5lcShSM0Fzc2V0Q29sdW1ucy5BU1NFVF9JRCwgYXNzZXRJZCkpLmV4ZWN1dGUoKS5tYXAoUjNBc3NldC5jbGFzcyk7CiAgICAgICAgICAgIGZvciAoUjNBc3NldCBhc3NldDogYXNzZXRzKSB7CiAgICAgICAgICAgICAgICBpZiAoYXNzZXQuZ2V0VmVyc2lvbigpLmdldFN5c3RlbSgpLnN0YXJ0c1dpdGgoIjYiKSkgewogICAgICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJRcyA2LjAgZGV0ZWN0ZWQgc2tpcHBpbmcgY2hhcnRzIGZvcjogIiArIGFzc2V0SWQpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5zdWNjZXNzKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1vZGVsRmFjdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTW9kZWxGYWN0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVyc2lvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>47,56d</text>
