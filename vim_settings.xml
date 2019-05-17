@@ -51,11 +51,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/factory/impl/ConsumerFactoryImpl.java" timestamp="1558012585569">
         <mark key="'" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" timestamp="1558082476449">
-        <mark key="'" line="36" column="67" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" timestamp="1558087262048">
+        <mark key="'" line="31" column="22" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/view/charts/controller/ChartsController.java" timestamp="1558012579922">
         <mark key="'" line="35" column="52" />
@@ -87,12 +87,12 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1558082640381">
-        <mark key="'" line="31" column="13" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="53" column="44" />
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1558088020440">
+        <mark key="'" line="89" column="22" />
+        <mark key="[" line="94" column="66" />
+        <mark key="]" line="95" column="58" />
+        <mark key="." line="95" column="58" />
+        <mark key="^" line="95" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/temp/test/src/main/java/test/Test.java" timestamp="1558007666042">
         <mark key="[" line="8" column="8" />
@@ -110,11 +110,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/EsFactoryImpl.java" timestamp="1558010749888">
         <mark key="'" line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1558082630074">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1558088520796">
         <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/statement/SelectStmImpl.java" timestamp="1558014408717">
         <mark key="'" line="29" column="22" />
@@ -216,6 +216,9 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1558087860115">
+        <mark key="'" line="15" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-tested-oses/variables.tf" timestamp="1557828896768" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" timestamp="1558012937548">
         <mark key="'" line="62" column="39" />
@@ -266,10 +269,6 @@
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/common/tasks/main.yml" timestamp="1557839609305" />
     </filemarks>
     <jumps>
-      <jump line="111" column="55" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
-      <jump line="107" column="55" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
-      <jump line="200" column="8" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/prepare_disks.sh" />
-      <jump line="304" column="39" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" />
       <jump line="21" column="56" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" />
       <jump line="315" column="10" filename="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" />
       <jump line="40" column="35" filename="$USER_HOME$/Projects/terraform/terraform-main/main.tf" />
@@ -277,7 +276,6 @@
       <jump line="2" column="120" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-remote/outputs.tf" />
       <jump line="61" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
       <jump line="49" column="55" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" />
-      <jump line="31" column="57" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" />
       <jump line="93" column="48" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
       <jump line="49" column="16" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KfMessageStats.java" />
       <jump line="18" column="14" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Stats.java" />
@@ -366,55 +364,60 @@
       <jump line="8" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/factory/StmFactory.java" />
       <jump line="29" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/statement/SelectStmImpl.java" />
       <jump line="49" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
+      <jump line="92" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="162" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="31" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" />
+      <jump line="89" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="15" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>prod</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
-        <text>charts</text>
+        <text>r3_asset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwb25zZSBwcm9jZXNzUjNTdGF0cyhAQXV0aGVudGljYXRpb25QcmluY2lwYWwgSnd0VXNlciBqd3RVc2VyLCBAUmVxdWVzdEJvZHkgU3RyaW5nIGpzb24pIHRocm93cyBFeGNlcHRpb24gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9GSVhNRTogYmxvY2sgc2VuZGluZyBjaGFydHMgd2hlbiBxcyBpcyA2LlgKICAgICAgICAgICAgU3RyaW5nIGFzc2V0SWQgPSBqd3RVc2VyLmdldFVzZXJuYW1lKCk7CiAgICAgICAgICAgIExpc3Q8UjNBc3NldD4gYXNzZXRzID0gZGJGYWN0b3J5LmRiKCkuZGJSM0Fzc2V0KCkuc2VsZWN0KCkud2hlcmUoUXVlcnlCdWlsZGVyLmVxKFIzQXNzZXRDb2x1bW5zLkFTU0VUX0lELCBhc3NldElkKSkuZXhlY3V0ZSgpLm1hcChSM0Fzc2V0LmNsYXNzKTsKICAgICAgICAgICAgZm9yIChSM0Fzc2V0IGFzc2V0OiBhc3NldHMpIHsKICAgICAgICAgICAgICAgIGlmIChhc3NldC5nZXRWZXJzaW9uKCkuZ2V0U3lzdGVtKCkuc3RhcnRzV2l0aCgiNiIpKSB7CiAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oIlFzIDYuMCBkZXRlY3RlZCBza2lwcGluZyBjaGFydHMgZm9yOiAiICsgYXNzZXRJZCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnN1Y2Nlc3MoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZ3Nvbi5Hc29uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIkNoYXJ0cyBhc3NldDogIiArIGdzb24udG9Kc29uKGFzc2V0KSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFnZW50LmRhdGEuc3RydWN0dXJlLnN0YXRzLlZlcnNpb25GaW5kZXI2MDsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFnZW50LmNvbW1vbi5zZWN1cml0eS5qd3QucHJpbmNpcGFsLmltcGwuSnd0VXNlckltcGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBvcnRhbC5zY2hlbWEudGFibGUuVmVyc2lvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHFzVmVyc2lvbiAhPSBudWxsICYmIHFzVmVyc2lvbi5nZXRTeXN0ZW1TdGF0ZSgpLmdldFZlcnNpb24oKS5zdGFydHNXaXRoKCI2IikpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vRklYTUU6IGJsb2NrIHNlbmRpbmcgY2hhcnRzIHdoZW4gcXMgaXMgNi5YCiAgICAgICAgICAgIFN0cmluZyBhc3NldElkID0gand0VXNlci5nZXRVc2VybmFtZSgpOwogICAgICAgICAgICBMaXN0PFIzQXNzZXQ+IGFzc2V0cyA9IGRiRmFjdG9yeS5kYigpLmRiUjNBc3NldCgpLnNlbGVjdCgpLndoZXJlKFF1ZXJ5QnVpbGRlci5lcShSM0Fzc2V0Q29sdW1ucy5BU1NFVF9JRCwgYXNzZXRJZCkpLmV4ZWN1dGUoKS5tYXAoUjNBc3NldC5jbGFzcyk7CiAgICAgICAgICAgIGZvciAoUjNBc3NldCBhc3NldDogYXNzZXRzKSB7CiAgICAgICAgICAgICAgICBpZiAoYXNzZXQuZ2V0VmVyc2lvbigpLmdldFN5c3RlbSgpLnN0YXJ0c1dpdGgoIjYiKSkgewogICAgICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJRcyA2LjAgZGV0ZWN0ZWQgc2tpcHBpbmcgY2hhcnRzIGZvcjogIiArIGFzc2V0SWQpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5zdWNjZXNzKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVyc2lvbkZpbmRlcjYwIHFzVmVyc2lvbiA9IGcuZnJvbUpzb24oanNvbiwgVmVyc2lvbkZpbmRlcjYwLmNsYXNzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgR3NvbiBnID0gbmV3IEdzb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVyc2lvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9GSVhNRTogZGlzYWJsZSBzZW5kaW5nIHN0YXRzIHRvIGthZmthIHdoZW4gcXMgdmVyIGlzIDYuMAo=</text>
       </register>
       <register name=":" type="4">
-        <text>47,56d</text>
+        <text>59,67y</text>
       </register>
     </registers>
     <search>
-      <last-search>charts</last-search>
+      <last-search>r3_asset</last-search>
       <last-offset />
-      <last-pattern>charts</last-pattern>
+      <last-pattern>r3_asset</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -466,6 +469,7 @@
         <entry>true</entry>
         <entry>systemState</entry>
         <entry>charts</entry>
+        <entry>r3_asset</entry>
       </history-search>
       <history-cmd>
         <entry>40,43y</entry>
@@ -550,6 +554,7 @@
         <entry>1,4d</entry>
         <entry>35,42d</entry>
         <entry>47,56d</entry>
+        <entry>59,67y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
