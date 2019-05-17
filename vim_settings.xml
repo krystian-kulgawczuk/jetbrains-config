@@ -99,12 +99,12 @@
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1558092150695">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1558093455272">
         <mark key="'" line="94" column="17" />
-        <mark key="[" line="97" column="8" />
-        <mark key="]" line="96" column="11" />
-        <mark key="." line="96" column="11" />
-        <mark key="^" line="96" column="11" />
+        <mark key="[" line="99" column="85" />
+        <mark key="]" line="99" column="19" />
+        <mark key="." line="99" column="19" />
+        <mark key="^" line="99" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/temp/test/src/main/java/test/Test.java" timestamp="1558092052456">
         <mark key="[" line="10" column="63" />
@@ -121,11 +121,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/EsFactoryImpl.java" timestamp="1558010749888">
         <mark key="'" line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1558092691768">
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1558093497009">
         <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="3" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/VersionFinder_6_0.java" timestamp="1557992656359">
         <mark key="[" line="5" column="24" />
@@ -282,6 +282,7 @@
         <mark key="." line="53" column="64" />
         <mark key="^" line="53" column="64" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/DiagnosticsImpl.java" timestamp="1558093190234" />
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557837087290">
         <mark key="'" line="304" column="39" />
         <mark key="[" line="340" column="31" />
@@ -437,10 +438,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>prod</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
@@ -449,31 +450,31 @@
         <text encoding="base64">ICAgICAgICAgICAgLy9GSVhNRTogYmxvY2sgc2VuZGluZyBjaGFydHMgd2hlbiBxcyBpcyA2LlgKICAgICAgICAgICAgU3RyaW5nIGFzc2V0SWQgPSBqd3RVc2VyLmdldFVzZXJuYW1lKCk7CiAgICAgICAgICAgIExpc3Q8UjNBc3NldD4gYXNzZXRzID0gZGJGYWN0b3J5LmRiKCkuZGJSM0Fzc2V0KCkuc2VsZWN0KCkud2hlcmUoUXVlcnlCdWlsZGVyLmVxKFIzQXNzZXRDb2x1bW5zLkFTU0VUX0lELCBhc3NldElkKSkuZXhlY3V0ZSgpLm1hcChSM0Fzc2V0LmNsYXNzKTsKICAgICAgICAgICAgZm9yIChSM0Fzc2V0IGFzc2V0OiBhc3NldHMpIHsKICAgICAgICAgICAgICAgIGlmIChhc3NldC5nZXRWZXJzaW9uKCkuZ2V0U3lzdGVtKCkuc3RhcnRzV2l0aCgiNiIpKSB7CiAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oIlFzIDYuMCBkZXRlY3RlZCBza2lwcGluZyBjaGFydHMgZm9yOiAiICsgYXNzZXRJZCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnN1Y2Nlc3MoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIiIpICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4ZWN1dGUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnZhbHVlKFIzQXNzZXRDb2x1bW5zLkRJQUdOT1NUSUNTLCBsYXRlc3REaWFnbm9zdGljcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJOb3QgNi4wLCBjb250aW51ZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnZhbHVlKFIzQXNzZXRDb2x1bW5zLlNVQkRPTUFJTiwgdGhpcy5zdGF0cy5nZXRTdWJkb21haW4oKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNlcmlhbGl6ZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnZhbHVlKFIzQXNzZXRDb2x1bW5zLlNFUlZJQ0VfVEFHLCB0aGlzLnN0YXRzLmdldFNlcnZpY2VUYWcoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2hlY2tJZjYwKGp3dFVzZXIpKSByZXR1cm4gUmVzcG9uc2Uuc3VjY2VzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnZhbHVlKFIzQXNzZXRDb2x1bW5zLkRJQUdOT1NUSUNTLCBsYXRlc3REaWFnbm9zdGljcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnZhbHVlKFIzQXNzZXRDb2x1bW5zLlNVQkRPTUFJTiwgdGhpcy5zdGF0cy5nZXRTdWJkb21haW4oKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnZhbHVlKFIzQXNzZXRDb2x1bW5zLlNFUlZJQ0VfVEFHLCB0aGlzLnN0YXRzLmdldFNlcnZpY2VUYWcoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNlcmlhbGl6ZWQpOyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJvY2Vzc1N0YXRzKGp3dFVzZXIsIGpzb24sIEFzc2V0VHlwZS5RUyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>59,67y</text>
