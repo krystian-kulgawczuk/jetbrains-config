@@ -111,7 +111,12 @@
         <mark key="^" line="2" column="188" />
         <mark key="." line="2" column="188" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1558353362823" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1558356940446">
+        <mark key="[" line="71" column="18" />
+        <mark key="]" line="71" column="18" />
+        <mark key="^" line="74" column="28" />
+        <mark key="." line="71" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/KfMessageCharts.java" timestamp="1558012478201">
         <mark key="'" line="15" column="45" />
       </file>
@@ -472,11 +477,11 @@
       <jump line="52" column="78" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpY19pcF9hZGRyZXNzX2lkICAgICAgICAgICAgICAgICAgICA9ICIke2VsZW1lbnQoYXp1cmVybV9wdWJsaWNfaXAuaW5zdGFuY2VfcHVibGljX2lwLiouaWQsIGNvdW50LmluZGV4KX0iCg==</text>
+      <register name="&quot;" type="4">
+        <text>qs-qa-7.westeurope.cloudapp.azure.com</text>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text>qs-qa-7.westeurope.cloudapp.azure.com</text>
       </register>
       <register name="/" type="4">
         <text>network_interface</text>
