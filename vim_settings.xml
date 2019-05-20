@@ -3,12 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/outputs.tf" timestamp="1557735366840" />
       <file name="$USER_HOME$/Projects/terraform/terraform-main/main.tf" timestamp="1557918003270">
         <mark key="'" line="40" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/db/impl/DbFactoryImpl.java" timestamp="1558014297610">
         <mark key="'" line="21" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" timestamp="1558353891855">
+        <mark key="'" line="52" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/JwtUser.java" timestamp="1558001901782">
         <mark key="'" line="5" column="39" />
@@ -51,14 +53,12 @@
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/ModelFactory.java" timestamp="1558013632241" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/StatsEsImpl.java" timestamp="1558010187319">
         <mark key="'" line="53" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" timestamp="1557734843495">
         <mark key="'" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/Makefile" timestamp="1558084959846" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/VersionFinder60.java" timestamp="1558007838140">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="28" />
@@ -77,9 +77,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" timestamp="1558353023660">
+        <mark key="'" line="67" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/view/charts/controller/ChartsController.java" timestamp="1558012579922">
         <mark key="'" line="35" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/cli/maintenance/maintenance.go" timestamp="1558352908491" />
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1558350584713">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="116" column="0" />
@@ -97,7 +101,6 @@
         <mark key="^" line="124" column="29" />
         <mark key="." line="124" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" timestamp="1557989075322" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1558014325469">
         <mark key="'" line="23" column="25" />
       </file>
@@ -108,6 +111,7 @@
         <mark key="^" line="2" column="188" />
         <mark key="." line="2" column="188" />
       </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1558353362823" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/KfMessageCharts.java" timestamp="1558012478201">
         <mark key="'" line="15" column="45" />
       </file>
@@ -165,14 +169,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetsImpl.java" timestamp="1558009558126">
         <mark key="'" line="41" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/credentials/tasks/main.yml" timestamp="1557834673763" />
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/outputs.tf" timestamp="1557826499929">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="^" line="26" column="58" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/healthcheck/controller/HealthcheckController.java" timestamp="1557999357911" />
       <file name="$USER_HOME$/Projects/temp/orbital-group-service/build.gradle" timestamp="1557496188998">
         <mark key="'" line="132" column="2" />
         <mark key="[" line="126" column="1" />
@@ -186,7 +188,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/ActionFactoryImpl.java" timestamp="1558008524215">
         <mark key="'" line="73" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-tested-oses/README.md" timestamp="1557918075712" />
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/templates/hosts.tpl" timestamp="1557732059613">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="30" />
@@ -202,15 +203,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/metadata/controller/OrganizationsMetadataController.java" timestamp="1557993533483">
         <mark key="'" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/pom.xml" timestamp="1558013496922" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StandardizedR3StatsImpl.java" timestamp="1558007911625">
         <mark key="'" line="45" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/R3Impl.java" timestamp="1558013673527" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" timestamp="1557989726997">
         <mark key="'" line="49" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Version.java" timestamp="1557992354695" />
       <file name="$USER_HOME$/Projects/temp/orbital-group-service/src/test/java/com/quest/orbital/group/service/controller/V1ApiControllerTest.java" timestamp="1557407152278">
         <mark key="[" line="55" column="22" />
         <mark key="]" line="60" column="3" />
@@ -241,7 +239,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/factory/StmFactory.java" timestamp="1558014328380">
         <mark key="'" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/config/cassandra/MigrationsService.java" timestamp="1557999011118" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cliPaths_linux.go" timestamp="1558353221215" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/userdetails/UserDetailsWrap.java" timestamp="1558012212710">
         <mark key="'" line="28" column="31" />
       </file>
@@ -263,8 +261,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/ChartsImpl.java" timestamp="1558011891853">
         <mark key="'" line="25" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/cmd/agent_charts/agent_charts.go" timestamp="1558352349178" />
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/cmd/agent_statistics/agent_statistics.go" timestamp="1558350862650" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Version6Checker.java" timestamp="1558095132149">
         <mark key="'" line="8" column="10" />
         <mark key="[" line="1" column="0" />
@@ -281,7 +277,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/legacy/CassandraLegacyModelStoringService.java" timestamp="1558009653662">
         <mark key="'" line="45" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/build.sh" timestamp="1558084986474" />
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/prepare_disks.sh" timestamp="1557835202321">
         <mark key="'" line="200" column="8" />
       </file>
@@ -297,7 +292,8 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558348998016">
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/upload.qs-qa-7.sh" timestamp="1558353411154" />
+      <file name="/Dummy.txt" timestamp="1558352772550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -305,7 +301,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1558087860115">
         <mark key="'" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-tested-oses/variables.tf" timestamp="1557828896768" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" timestamp="1558090366591">
         <mark key="'" line="63" column="17" />
       </file>
@@ -315,7 +310,6 @@
         <mark key="." line="53" column="64" />
         <mark key="^" line="53" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/DiagnosticsImpl.java" timestamp="1558093190234" />
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/main.tf" timestamp="1557837087290">
         <mark key="'" line="304" column="39" />
         <mark key="[" line="340" column="31" />
@@ -330,6 +324,7 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apiauth/handlers.go" timestamp="1558353962765" />
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-infrastructure/variables.tf" timestamp="1557755424679">
         <mark key="[" line="298" column="17" />
         <mark key="]" line="298" column="17" />
@@ -366,7 +361,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/EsFactoryImpl.java" timestamp="1558009513566">
         <mark key="'" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/common/tasks/main.yml" timestamp="1557839609305" />
       <file name="$USER_HOME$/Projects/temp/test/src/main/java/test/Stats.java" timestamp="1558091968299">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="5" column="4" />
@@ -375,8 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="33" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/EsFactoryImpl.java" />
-      <jump line="75" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" />
       <jump line="24" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/EsFactoryImpl.java" />
       <jump line="28" column="61" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" />
       <jump line="75" column="41" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
@@ -475,6 +467,8 @@
       <jump line="98" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/pom.xml" />
       <jump line="152" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/pom.xml" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
+      <jump line="67" column="23" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" />
+      <jump line="52" column="78" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -531,35 +525,6 @@
     </search>
     <history>
       <history-search>
-        <entry>probe</entry>
-        <entry>data</entry>
-        <entry>additional_rules</entry>
-        <entry>lb</entry>
-        <entry>module</entry>
-        <entry>azurerm_lb_rule</entry>
-        <entry>oauth_enabled</entry>
-        <entry>oauth</entry>
-        <entry>80</entry>
-        <entry>443</entry>
-        <entry>user</entry>
-        <entry>username</entry>
-        <entry>public</entry>
-        <entry>subnet</entry>
-        <entry>public_ip</entry>
-        <entry>com.quest</entry>
-        <entry>Category</entry>
-        <entry>groovy</entry>
-        <entry>spock</entry>
-        <entry>jupiter</entry>
-        <entry>admin</entry>
-        <entry>public_inv</entry>
-        <entry>private_in</entry>
-        <entry>private_inv</entry>
-        <entry>private_inte</entry>
-        <entry>bootstrap_inv</entry>
-        <entry>262,268y</entry>
-        <entry>109,119y</entry>
-        <entry>cassandra</entry>
         <entry>elastic</entry>
         <entry>52,60y</entry>
         <entry>instance_os</entry>
@@ -582,69 +547,6 @@
         <entry>network_interface</entry>
       </history-search>
       <history-cmd>
-        <entry>40,43y</entry>
-        <entry>84,86y</entry>
-        <entry>60,63y</entry>
-        <entry>161,165y</entry>
-        <entry>25,28y</entry>
-        <entry>%s/[pP]rivate/cassandra/</entry>
-        <entry>%s/private/cassandra</entry>
-        <entry>106,110y</entry>
-        <entry>126,129y</entry>
-        <entry>121,124y</entry>
-        <entry>116,119y</entry>
-        <entry>146,149y</entry>
-        <entry>110,114y</entry>
-        <entry>142,144y</entry>
-        <entry>5,8y</entry>
-        <entry>30,38y</entry>
-        <entry>40,54y</entry>
-        <entry>443</entry>
-        <entry>61,66d</entry>
-        <entry>206,221y</entry>
-        <entry>55,58y</entry>
-        <entry>45,48y</entry>
-        <entry>103,106y</entry>
-        <entry>75,78y</entry>
-        <entry>171,175y</entry>
-        <entry>30,33y</entry>
-        <entry>112,116y</entry>
-        <entry>121,125y</entry>
-        <entry>138,140y</entry>
-        <entry>153,156y</entry>
-        <entry>168,171y</entry>
-        <entry>206,240y</entry>
-        <entry>206,232y</entry>
-        <entry>297,300y</entry>
-        <entry>253,256</entry>
-        <entry>253,256y</entry>
-        <entry>61,65y</entry>
-        <entry>79,83y</entry>
-        <entry>97,101y</entry>
-        <entry>178,182y</entry>
-        <entry>116,121y</entry>
-        <entry>254,258y</entry>
-        <entry>/262,268y</entry>
-        <entry>262,268y</entry>
-        <entry>157,159y</entry>
-        <entry>37,47y</entry>
-        <entry>109,119y</entry>
-        <entry>118,122y</entry>
-        <entry>127,131y</entry>
-        <entry>194,197y</entry>
-        <entry>149,152y</entry>
-        <entry>169,172y</entry>
-        <entry>189,192y</entry>
-        <entry>35,38y</entry>
-        <entry>191,195y</entry>
-        <entry>242,276y</entry>
-        <entry>344,346y</entry>
-        <entry>295,299y</entry>
-        <entry>67,71y</entry>
-        <entry>91,95y</entry>
-        <entry>115,119y</entry>
-        <entry>209,213y</entry>
-        <entry>141,146y</entry>
         <entry>291,295y</entry>
         <entry>49,53y</entry>
         <entry>55,59d</entry>
