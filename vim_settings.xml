@@ -163,12 +163,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/userdetails/UserDetailsWrap.java" timestamp="1558012212710">
         <mark key="'" line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" timestamp="1558442365312">
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" timestamp="1558446340063">
         <mark key="'" line="143" column="30" />
-        <mark key="[" line="140" column="55" />
-        <mark key="]" line="140" column="54" />
-        <mark key="^" line="140" column="54" />
-        <mark key="." line="140" column="54" />
+        <mark key="[" line="140" column="42" />
+        <mark key="]" line="140" column="42" />
+        <mark key="^" line="140" column="49" />
+        <mark key="." line="140" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" timestamp="1557842058273">
         <mark key="'" line="315" column="10" />
@@ -313,16 +313,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cif</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9GSVhNRTogYmxvY2sgc2VuZGluZyBjaGFydHMgd2hlbiBxcyBpcyA2LlgKICAgICAgICAgICAgU3RyaW5nIGFzc2V0SWQgPSBqd3RVc2VyLmdldFVzZXJuYW1lKCk7CiAgICAgICAgICAgIExpc3Q8UjNBc3NldD4gYXNzZXRzID0gZGJGYWN0b3J5LmRiKCkuZGJSM0Fzc2V0KCkuc2VsZWN0KCkud2hlcmUoUXVlcnlCdWlsZGVyLmVxKFIzQXNzZXRDb2x1bW5zLkFTU0VUX0lELCBhc3NldElkKSkuZXhlY3V0ZSgpLm1hcChSM0Fzc2V0LmNsYXNzKTsKICAgICAgICAgICAgZm9yIChSM0Fzc2V0IGFzc2V0OiBhc3NldHMpIHsKICAgICAgICAgICAgICAgIGlmIChhc3NldC5nZXRWZXJzaW9uKCkuZ2V0U3lzdGVtKCkuc3RhcnRzV2l0aCgiNiIpKSB7CiAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oIlFzIDYuMCBkZXRlY3RlZCBza2lwcGluZyBjaGFydHMgZm9yOiAiICsgYXNzZXRJZCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlLnN1Y2Nlc3MoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CQljbWRhcmdzID0gYXBwZW5kKGNtZGFyZ3MsICJcIipcIiIpIC8vIEFTQ0lJIEFTVEVSSVNLCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG5hbWU6IGphdmEtMS44LjAtb3Blbmpkay1kZXZlbAo=</text>
