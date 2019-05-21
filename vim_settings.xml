@@ -9,8 +9,8 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/db/impl/DbFactoryImpl.java" timestamp="1558014297610">
         <mark key="'" line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" timestamp="1558362148800">
-        <mark key="'" line="109" column="110" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" timestamp="1558440605159">
+        <mark key="'" line="109" column="106" />
         <mark key="[" line="264" column="79" />
         <mark key="]" line="264" column="79" />
         <mark key="^" line="264" column="79" />
@@ -50,6 +50,9 @@
         <mark key="'" line="28" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/apirest/apicontainers/handlers.go" timestamp="1558359329369" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" timestamp="1558441826084">
+        <mark key="'" line="110" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" timestamp="1558353023660">
         <mark key="'" line="67" column="23" />
       </file>
@@ -65,13 +68,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" timestamp="1558362192593">
-        <mark key="'" line="302" column="50" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" timestamp="1558440757976">
+        <mark key="'" line="314" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1558014325469">
         <mark key="'" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1558360846105">
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1558440929418">
         <mark key="[" line="71" column="18" />
         <mark key="]" line="71" column="18" />
         <mark key="^" line="74" column="28" />
@@ -98,7 +101,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/impl/AssetsImpl.java" timestamp="1558009558126">
         <mark key="'" line="41" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-ansible/roles/cassandra/tasks/main.yml" timestamp="1558438691207">
+      <file name="$USER_HOME$/Projects/terraform/terraform-ansible/roles/cassandra/tasks/main.yml" timestamp="1558440139510">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
@@ -143,16 +146,22 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/factory/StmFactory.java" timestamp="1558014328380">
         <mark key="'" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" timestamp="1558362162815">
-        <mark key="'" line="273" column="23" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" timestamp="1558440635512">
+        <mark key="'" line="273" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cliPaths_linux.go" timestamp="1558353221215" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_model.go" timestamp="1558441874626">
+        <mark key="'" line="87" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/userdetails/UserDetailsWrap.java" timestamp="1558012212710">
         <mark key="'" line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" timestamp="1558362239132">
-        <mark key="'" line="16" column="19" />
-        <mark key="[" line="9" column="10" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" timestamp="1558442365312">
+        <mark key="'" line="143" column="30" />
+        <mark key="[" line="140" column="55" />
+        <mark key="]" line="140" column="54" />
+        <mark key="^" line="140" column="54" />
+        <mark key="." line="140" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/scan_for_new_disks.sh" timestamp="1557842058273">
         <mark key="'" line="315" column="10" />
@@ -185,6 +194,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" timestamp="1558009342511">
         <mark key="'" line="76" column="32" />
       </file>
+      <file name="/usr/local/Cellar/go/1.11/libexec/src/os/exec/exec.go" timestamp="1558441850422" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/EsFactoryImpl.java" timestamp="1558009513566">
         <mark key="'" line="31" column="20" />
       </file>
@@ -193,11 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/StatsEsImpl.java" />
-      <jump line="132" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="24" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/EsFactoryImpl.java" />
-      <jump line="50" column="45" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
-      <jump line="29" column="55" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
       <jump line="17" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
       <jump line="12" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/charts/Charts.java" />
       <jump line="32" column="68" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
@@ -289,17 +294,22 @@
       <jump line="311" column="29" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" />
       <jump line="312" column="67" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" />
       <jump line="310" column="58" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" />
-      <jump line="109" column="110" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="273" column="23" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" />
       <jump line="302" column="50" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" />
       <jump line="52" column="36" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" />
+      <jump line="109" column="106" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
+      <jump line="273" column="25" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" />
+      <jump line="301" column="51" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" />
+      <jump line="314" column="49" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" />
+      <jump line="143" column="30" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" />
+      <jump line="110" column="36" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
+      <jump line="87" column="12" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_model.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Add text block from a file</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Add text block from a file</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>cif</text>
