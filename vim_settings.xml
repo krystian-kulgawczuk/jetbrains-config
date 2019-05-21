@@ -86,6 +86,13 @@
       <file name="$USER_HOME$/Projects/temp/test-with-spring/master-package/running-integration-tests/src/integration-test/groovy/com/testwithspring/master/GetMessageSpec.groovy" timestamp="1557404815297">
         <mark key="'" line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" timestamp="1558444840018">
+        <mark key="'" line="63" column="20" />
+        <mark key="[" line="100" column="12" />
+        <mark key="]" line="94" column="74" />
+        <mark key="." line="94" column="74" />
+        <mark key="^" line="94" column="74" />
+      </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/apirest/router.go" timestamp="1558359295644">
         <mark key="'" line="67" column="92" />
       </file>
@@ -203,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
       <jump line="12" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/charts/Charts.java" />
       <jump line="32" column="68" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
       <jump line="41" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
@@ -303,6 +309,7 @@
       <jump line="143" column="30" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" />
       <jump line="110" column="36" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
       <jump line="87" column="12" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_model.go" />
+      <jump line="63" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
