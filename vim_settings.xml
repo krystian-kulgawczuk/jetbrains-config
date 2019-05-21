@@ -126,8 +126,8 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/stat-aggregator/src/main/java/portal/aggregator/charts/job/ChartAggregatorJob.java" timestamp="1558005724735">
         <mark key="'" line="88" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1557736775359">
-        <mark key="'" line="72" column="77" />
+      <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1558420665254">
+        <mark key="'" line="52" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/es/impl/EsFactoryImpl.java" timestamp="1558009674561">
         <mark key="'" line="23" column="25" />
@@ -163,11 +163,6 @@
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" timestamp="1558361986266" />
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/upload.qs-qa-7.sh" timestamp="1558353411154" />
-      <file name="/Dummy.txt" timestamp="1558352772550">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1558087860115">
         <mark key="'" line="15" column="24" />
       </file>
@@ -192,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/es/impl/EsFactoryImpl.java" />
       <jump line="53" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/StatsEsImpl.java" />
       <jump line="132" column="44" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
       <jump line="24" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/EsFactoryImpl.java" />
@@ -292,6 +286,7 @@
       <jump line="109" column="110" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="273" column="23" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" />
       <jump line="302" column="50" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" />
+      <jump line="52" column="36" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
