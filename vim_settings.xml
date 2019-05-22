@@ -9,8 +9,8 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/db/impl/DbFactoryImpl.java" timestamp="1558014297610">
         <mark key="'" line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" timestamp="1558526163413">
-        <mark key="'" line="74" column="106" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" timestamp="1558533784494">
+        <mark key="'" line="110" column="120" />
         <mark key="[" line="264" column="79" />
         <mark key="]" line="264" column="79" />
         <mark key="^" line="264" column="79" />
@@ -40,8 +40,12 @@
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" timestamp="1557734843495">
         <mark key="'" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" timestamp="1558360170766">
-        <mark key="'" line="121" column="22" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" timestamp="1558534591479">
+        <mark key="'" line="117" column="23" />
+        <mark key="[" line="1055" column="149" />
+        <mark key="]" line="1055" column="56" />
+        <mark key="^" line="1055" column="56" />
+        <mark key="." line="1055" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/charts/Charts.java" timestamp="1558010956493">
         <mark key="'" line="12" column="18" />
@@ -49,17 +53,15 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/factory/impl/ConsumerFactoryImpl.java" timestamp="1558012585569">
         <mark key="'" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/apirest/apicontainers/handlers.go" timestamp="1558359329369" />
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" timestamp="1558441826084">
-        <mark key="'" line="110" column="36" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" timestamp="1558534728199">
+        <mark key="'" line="129" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" timestamp="1558353023660">
-        <mark key="'" line="67" column="23" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" timestamp="1558534199926">
+        <mark key="'" line="73" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/view/charts/controller/ChartsController.java" timestamp="1558012579922">
         <mark key="'" line="35" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/cli/maintenance/maintenance.go" timestamp="1558352908491" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/db/impl/AssetDbImpl.java" timestamp="1558009639726">
         <mark key="'" line="39" column="17" />
       </file>
@@ -68,17 +70,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" timestamp="1558440757976">
-        <mark key="'" line="314" column="49" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" timestamp="1558535374526">
+        <mark key="'" line="356" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1558014325469">
         <mark key="'" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1558526003829">
-        <mark key="[" line="63" column="24" />
-        <mark key="]" line="63" column="25" />
-        <mark key="^" line="74" column="28" />
-        <mark key="." line="63" column="25" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1558531342956">
+        <mark key="[" line="63" column="18" />
+        <mark key="]" line="63" column="18" />
+        <mark key="^" line="63" column="50" />
+        <mark key="." line="63" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/cli/container/container.go" timestamp="1558534240815">
+        <mark key="'" line="486" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/KfMessageCharts.java" timestamp="1558012478201">
         <mark key="'" line="15" column="45" />
@@ -116,8 +121,17 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apistorage/handlers.go" timestamp="1558527544471">
         <mark key="'" line="156" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_model.go" timestamp="1558534567728">
+        <mark key="'" line="2" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1558082711106">
         <mark key="'" line="49" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/container/container.go" timestamp="1558535390404">
+        <mark key="'" line="178" column="25" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/ActionFactoryImpl.java" timestamp="1558008524215">
         <mark key="'" line="73" column="20" />
@@ -128,7 +142,9 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" timestamp="1558090716248">
         <mark key="'" line="86" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/user/user.go" timestamp="1558354669818" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/storagegroup/storagegroup.go" timestamp="1558531977039">
+        <mark key="'" line="99" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/metadata/controller/OrganizationsMetadataController.java" timestamp="1557993533483">
         <mark key="'" line="52" column="42" />
       </file>
@@ -137,6 +153,9 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" timestamp="1557989726997">
         <mark key="'" line="49" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/code_const.go" timestamp="1558532975133">
+        <mark key="'" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/ActionsImpl.java" timestamp="1558008499311">
         <mark key="'" line="31" column="26" />
@@ -150,8 +169,14 @@
       <file name="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1558420665254">
         <mark key="'" line="52" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/api_services.go" timestamp="1558533643351">
+        <mark key="'" line="52" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/es/impl/EsFactoryImpl.java" timestamp="1558009674561">
         <mark key="'" line="23" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apidownload/handlers.go" timestamp="1558531912484">
+        <mark key="'" line="69" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/parsing/parsing.go" timestamp="1558527254808">
         <mark key="[" line="161" column="76" />
@@ -159,17 +184,15 @@
         <mark key="^" line="161" column="75" />
         <mark key="." line="161" column="75" />
       </file>
-      <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/cassandra/backup_restore/ansible/inventories/gvc-us-dev/hosts" timestamp="1558519531583" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/Version.java" timestamp="1558014153410">
         <mark key="'" line="11" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/factory/StmFactory.java" timestamp="1558014328380">
         <mark key="'" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" timestamp="1558440635512">
-        <mark key="'" line="273" column="25" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" timestamp="1558534359839">
+        <mark key="'" line="415" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cliPaths_linux.go" timestamp="1558353221215" />
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_model.go" timestamp="1558441874626">
         <mark key="'" line="87" column="12" />
       </file>
@@ -192,19 +215,21 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/ChartsImpl.java" timestamp="1558011891853">
         <mark key="'" line="25" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/errors_model.go" timestamp="1558535307140">
+        <mark key="'" line="47" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/legacy/CassandraLegacyModelStoringService.java" timestamp="1558009653662">
         <mark key="'" line="45" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/prepare_disks.sh" timestamp="1557835202321">
         <mark key="'" line="200" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" timestamp="1558361986266" />
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/upload.qs-qa-7.sh" timestamp="1558353411154" />
-      <file name="$USER_HOME$/Projects/docker-devtools/elk/ansible/roles/all_pre/tasks/main.yml" timestamp="1558433497334" />
-      <file name="/Dummy.txt" timestamp="1558447155283">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" timestamp="1558533662034">
+        <mark key="'" line="67" column="9" />
+        <mark key="[" line="96" column="87" />
+        <mark key="]" line="97" column="82" />
+        <mark key="^" line="97" column="82" />
+        <mark key="." line="97" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1558087860115">
         <mark key="'" line="15" column="24" />
@@ -212,7 +237,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" timestamp="1558090366591">
         <mark key="'" line="63" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apiauth/handlers.go" timestamp="1558358425541" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1558091613431">
         <mark key="'" line="88" column="71" />
       </file>
@@ -222,7 +246,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/view/asset/controller/AssetController.java" timestamp="1558009342511">
         <mark key="'" line="76" column="32" />
       </file>
-      <file name="/usr/local/Cellar/go/1.11/libexec/src/os/exec/exec.go" timestamp="1558441850422" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/EsFactoryImpl.java" timestamp="1558009513566">
         <mark key="'" line="31" column="20" />
       </file>
@@ -231,70 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
-      <jump line="52" column="59" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="48" column="64" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="50" column="63" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="28" column="31" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/userdetails/UserDetailsWrap.java" />
-      <jump line="25" column="15" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/MessageFactoryImpl.java" />
-      <jump line="26" column="47" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/MessageFactoryImpl.java" />
-      <jump line="15" column="45" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/KfMessageCharts.java" />
-      <jump line="35" column="52" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/view/charts/controller/ChartsController.java" />
-      <jump line="28" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/factory/impl/ConsumerFactoryImpl.java" />
-      <jump line="32" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
-      <jump line="70" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
-      <jump line="68" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
-      <jump line="62" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" />
-      <jump line="60" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
-      <jump line="59" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/src/main/java/portal/customer/schema/factory/impl/ModelFactoryImpl.java" />
-      <jump line="45" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="11" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/Version.java" />
-      <jump line="47" column="29" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="31" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="21" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/db/impl/DbFactoryImpl.java" />
-      <jump line="24" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" />
-      <jump line="23" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" />
-      <jump line="8" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/factory/StmFactory.java" />
-      <jump line="29" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/statement/SelectStmImpl.java" />
-      <jump line="49" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" />
-      <jump line="92" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="162" column="19" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="31" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/StatsImpl.java" />
-      <jump line="15" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
-      <jump line="89" column="22" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="93" column="43" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="54" column="13" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" />
-      <jump line="63" column="17" filename="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/R3Asset.java" />
-      <jump line="86" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/registration/controller/CodeRegistrationController.java" />
-      <jump line="88" column="71" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KfMessageStats.java" />
-      <jump line="94" column="21" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
-      <jump line="8" column="10" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Version6Checker.java" />
-      <jump line="124" column="29" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
-      <jump line="129" column="42" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
-      <jump line="130" column="42" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
-      <jump line="131" column="42" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
-      <jump line="132" column="42" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
-      <jump line="133" column="42" filename="$USER_HOME$/Projects/terraform/gvc-terraform-azurerm-dcos/main.tf" />
-      <jump line="93" column="26" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/pom.xml" />
-      <jump line="98" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/pom.xml" />
-      <jump line="152" column="24" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/pom.xml" />
-      <jump line="29" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
-      <jump line="67" column="23" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" />
-      <jump line="172" column="72" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="106" column="97" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="110" column="93" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="112" column="101" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="113" column="100" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="114" column="103" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="116" column="91" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="117" column="17" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="21" column="11" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/api/handlerLogin.go" />
-      <jump line="52" column="80" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="153" column="52" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="167" column="121" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="168" column="124" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="224" column="55" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="9" column="50" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="40" column="30" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="103" column="48" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="104" column="43" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
@@ -331,55 +290,119 @@
       <jump line="156" column="38" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apistorage/handlers.go" />
       <jump line="163" column="46" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/storageservice/service.go" />
       <jump line="185" column="34" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/system/system.go" />
+      <jump line="402" column="32" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" />
+      <jump line="417" column="75" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" />
+      <jump line="122" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="127" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="128" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="129" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="669" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="147" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="13" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="14" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="69" column="42" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apidownload/handlers.go" />
+      <jump line="132" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="210" column="84" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="407" column="23" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="99" column="23" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/storagegroup/storagegroup.go" />
+      <jump line="514" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="1053" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="95" column="47" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" />
+      <jump line="1054" column="123" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="7" column="4" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/code_const.go" />
+      <jump line="8" column="4" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/code_const.go" />
+      <jump line="9" column="4" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/code_const.go" />
+      <jump line="14" column="4" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/code_const.go" />
+      <jump line="1021" column="120" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="1007" column="126" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="992" column="127" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="792" column="121" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="1041" column="56" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="1056" column="0" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="622" column="117" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="623" column="110" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="2" column="9" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="63" column="9" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" />
+      <jump line="141" column="13" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/api_services.go" />
+      <jump line="52" column="4" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/api_services.go" />
+      <jump line="524" column="26" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="67" column="9" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" />
+      <jump line="177" column="25" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/container/container.go" />
+      <jump line="110" column="120" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
+      <jump line="330" column="42" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/cli/container/container.go" />
+      <jump line="25" column="16" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" />
+      <jump line="49" column="51" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" />
+      <jump line="47" column="42" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" />
+      <jump line="37" column="39" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" />
+      <jump line="12" column="6" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" />
+      <jump line="17" column="12" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" />
+      <jump line="76" column="32" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" />
+      <jump line="73" column="12" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" />
+      <jump line="17" column="5" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/container/container.go" />
+      <jump line="22" column="12" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/container/container.go" />
+      <jump line="486" column="39" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/cli/container/container.go" />
+      <jump line="43" column="25" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/container/container.go" />
+      <jump line="415" column="27" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" />
+      <jump line="119" column="46" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
+      <jump line="40" column="22" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_model.go" />
+      <jump line="2" column="5" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_model.go" />
+      <jump line="5" column="68" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="117" column="23" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="128" column="50" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
+      <jump line="129" column="41" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
+      <jump line="47" column="12" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/errors_model.go" />
+      <jump line="356" column="32" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" />
+      <jump line="178" column="25" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/container/container.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXZhciBlbnRyaWVzTm9TdGF0dXMgW11bXXN0cmluZwo=</text>
+        <text encoding="base64">ZnVuYyAobSAqQ2xpSW1wbCkgUmVtb3ZlQ29udGFpbmVyKG5hbWUgc3RyaW5nKSBlcnJvciB7CglpZiBfLCBlcnIgOj0gbS5jbGkuRXhlY3V0ZSgK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\/storage</text>
+        <text>container.cannot_delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQljbWRhcmdzID0gYXBwZW5kKGNtZGFyZ3MsICJcIipcIiIpIC8vIEFTQ0lJIEFTVEVSSVNLCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhciBlbnRyaWVzTm9TdGF0dXMgW11bXXN0cmluZwo=</text>
+        <text encoding="base64">ZnVuYyAobSAqQ2xpSW1wbCkgUmVtb3ZlQ29udGFpbmVyKG5hbWUgc3RyaW5nKSBlcnJvciB7CglpZiBfLCBlcnIgOj0gbS5jbGkuRXhlY3V0ZSgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhciBlbnRyaWVzTm9TdGF0dXMgW11bXXN0cmluZwo=</text>
+        <text encoding="base64">CQkJZXJyLkVycm9yKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJZXJyIDo9IGVyci5FcnJvcigpICsgbmFtZSArICcuJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmIGVudHJpZXNkZCA9PSBuaWwgewo=</text>
+        <text encoding="base64">CW0uY2xpLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQllbnRyaWVzTm9TdGF0dXNbaV0K</text>
+        <text encoding="base64">CQkJbS5jbGkuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQllbnRyaWVzTm9TdGF0dXNbaV0K</text>
+        <text encoding="base64">CXZhciBlbnRyaWVzTm9TdGF0dXMgW11bXXN0cmluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhcHBkZGVuZChlbnRyaWVzW2ldLCAiIikJCg==</text>
+        <text encoding="base64">CXZhciBlbnRyaWVzTm9TdGF0dXMgW11bXXN0cmluZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWVudHJpZXNObwo=</text>
+        <text encoding="base64">CWlmIGVudHJpZXNkZCA9PSBuaWwgewo=</text>
       </register>
       <register name=":" type="4">
         <text>59,67y</text>
       </register>
     </registers>
     <search>
-      <last-search>\/storage</last-search>
+      <last-search>container.cannot_delete</last-search>
       <last-offset />
-      <last-pattern>\/storage</last-pattern>
+      <last-pattern>container.cannot_delete</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -413,6 +436,9 @@
         <entry>addCif</entry>
         <entry>cif</entry>
         <entry>\/storage</entry>
+        <entry>inputInfo</entry>
+        <entry>CliContainer</entry>
+        <entry>container.cannot_delete</entry>
       </history-search>
       <history-cmd>
         <entry>291,295y</entry>
