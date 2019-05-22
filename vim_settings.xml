@@ -9,8 +9,8 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/db/impl/DbFactoryImpl.java" timestamp="1558014297610">
         <mark key="'" line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" timestamp="1558440605159">
-        <mark key="'" line="109" column="106" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" timestamp="1558526163413">
+        <mark key="'" line="74" column="106" />
         <mark key="[" line="264" column="79" />
         <mark key="]" line="264" column="79" />
         <mark key="^" line="264" column="79" />
@@ -74,11 +74,11 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1558014325469">
         <mark key="'" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1558440929418">
-        <mark key="[" line="71" column="18" />
-        <mark key="]" line="71" column="18" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1558526003829">
+        <mark key="[" line="63" column="24" />
+        <mark key="]" line="63" column="25" />
         <mark key="^" line="74" column="28" />
-        <mark key="." line="71" column="18" />
+        <mark key="." line="63" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/KfMessageCharts.java" timestamp="1558012478201">
         <mark key="'" line="15" column="45" />
@@ -113,6 +113,7 @@
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apistorage/handlers.go" timestamp="1558526182809" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1558082711106">
         <mark key="'" line="49" column="19" />
       </file>
@@ -147,6 +148,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/elasticsearch/es/impl/EsFactoryImpl.java" timestamp="1558009674561">
         <mark key="'" line="23" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/parsing/parsing.go" timestamp="1558526267902" />
       <file name="$USER_HOME$/Projects/docker-devtools/administration/scripts/cassandra/backup_restore/ansible/inventories/gvc-us-dev/hosts" timestamp="1558519531583" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/Version.java" timestamp="1558014153410">
         <mark key="'" line="11" column="17" />
@@ -216,10 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="18" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/charts/Charts.java" />
-      <jump line="32" column="68" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
-      <jump line="41" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
-      <jump line="42" column="27" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
       <jump line="49" column="63" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
       <jump line="46" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/es/impl/ChartsEsImpl.java" />
@@ -275,7 +273,6 @@
       <jump line="67" column="23" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" />
       <jump line="172" column="72" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="106" column="97" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="108" column="90" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="110" column="93" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="112" column="101" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="113" column="100" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
@@ -316,6 +313,11 @@
       <jump line="110" column="36" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
       <jump line="87" column="12" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_model.go" />
       <jump line="63" column="20" filename="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/view/stats/controller/ChartsStatsController.java" />
+      <jump line="108" column="51" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
+      <jump line="219" column="54" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
+      <jump line="223" column="54" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
+      <jump line="226" column="62" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
+      <jump line="74" column="106" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -325,7 +327,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>cif</text>
+        <text>\/storage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQljbWRhcmdzID0gYXBwZW5kKGNtZGFyZ3MsICJcIipcIiIpIC8vIEFTQ0lJIEFTVEVSSVNLCg==</text>
@@ -362,9 +364,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cif</last-search>
+      <last-search>\/storage</last-search>
       <last-offset />
-      <last-pattern>cif</last-pattern>
+      <last-pattern>\/storage</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -397,6 +399,7 @@
         <entry>containers</entry>
         <entry>addCif</entry>
         <entry>cif</entry>
+        <entry>\/storage</entry>
       </history-search>
       <history-cmd>
         <entry>291,295y</entry>
