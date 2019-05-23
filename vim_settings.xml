@@ -37,11 +37,12 @@
         <mark key="^" line="27" column="68" />
         <mark key="." line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1558609975156">
-        <mark key="[" line="39" column="40" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="1" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1558616246503">
+        <mark key="'" line="199" column="8" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+        <mark key="^" line="354" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" timestamp="1558610035809">
         <mark key="[" line="12" column="50" />
@@ -58,8 +59,8 @@
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-public-agents/main.tf" timestamp="1558610069421">
         <mark key="[" line="12" column="49" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azure-nsg/main.tf" timestamp="1558610170139">
         <mark key="[" line="11" column="42" />
@@ -74,10 +75,10 @@
         <mark key="." line="123" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-private-agents-remote-exec/main.tf" timestamp="1558610115876">
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="1" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" timestamp="1558610018143">
         <mark key="'" line="28" column="0" />
@@ -162,8 +163,8 @@
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-bastion-host/main.tf" timestamp="1558610162260">
         <mark key="[" line="5" column="47" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-ansible/roles/cassandra/tasks/main.yml" timestamp="1558603267418">
         <mark key="[" line="1" column="8" />
@@ -190,8 +191,8 @@
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/main.tf" timestamp="1558609984443">
         <mark key="[" line="12" column="46" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" timestamp="1558446340063">
         <mark key="'" line="143" column="30" />
@@ -200,11 +201,16 @@
         <mark key="^" line="140" column="49" />
         <mark key="." line="140" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote/main.tf" timestamp="1558611043566">
-        <mark key="[" line="62" column="105" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote/main.tf" timestamp="1558615209742">
+        <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
-        <mark key="^" line="64" column="1" />
+        <mark key="^" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" timestamp="1558615831053">
+        <mark key="'" line="377" column="10" />
+        <mark key="[" line="377" column="10" />
+        <mark key="." line="377" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-data-structure/src/main/java/agent/data/structure/stats/Version6Checker.java" timestamp="1558095132149">
         <mark key="'" line="8" column="10" />
@@ -248,7 +254,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558610309324">
+      <file name="/Dummy.txt" timestamp="1558615212324">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -279,11 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="43" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="9" column="18" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/roles.go" />
-      <jump line="96" column="130" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="107" column="99" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="1042" column="17" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="37" column="33" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/apirest/router.go" />
       <jump line="60" column="39" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/apirest/router.go" />
       <jump line="67" column="92" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/apirest/router.go" />
@@ -379,43 +380,48 @@
       <jump line="178" column="25" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/container/container.go" />
       <jump line="136" column="25" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/errors_model.go" />
       <jump line="123" column="33" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
+      <jump line="39" column="18" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
+      <jump line="377" column="10" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
+      <jump line="165" column="2" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
+      <jump line="199" column="8" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZlcnNpb24gPSAifj4gMS4yOC4wIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>container.cannot_delete</text>
+        <text>private_agents</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljbWRhcmdzID0gYXBwZW5kKGNtZGFyZ3MsICJcIipcIiIpIC8vIEFTQ0lJIEFTVEVSSVNLCg==</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSAifj4gMS4yOC4wIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSAifj4gMS4yOC4wIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4xIgo=</text>
+        <text encoding="base64">ICAgIHZlcnNpb24gPSAifj4gMS4yOC4wIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZHZlcnNpb24gPSAifj4gMC4xLjAiCg==</text>
+        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
+        <text encoding="base64">ICB2ZXJzaW9uID0gIn4+IDAuMS4xIgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICogICB2ZXJzaW9uID0gIn4+IDAuMS4wIgo=</text>
@@ -425,9 +431,9 @@
       </register>
     </registers>
     <search>
-      <last-search>container.cannot_delete</last-search>
+      <last-search>private_agents</last-search>
       <last-offset />
-      <last-pattern>container.cannot_delete</last-pattern>
+      <last-pattern>private_agents</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -455,6 +461,9 @@
         <entry>inputInfo</entry>
         <entry>CliContainer</entry>
         <entry>container.cannot_delete</entry>
+        <entry>azurerm</entry>
+        <entry>provider</entry>
+        <entry>private_agents</entry>
       </history-search>
       <history-cmd>
         <entry>291,295y</entry>
