@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tf" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -17,5 +18,6 @@
     <mask>Dockerfile</mask>
     <mask>*.ci</mask>
     <mask>*.go</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
