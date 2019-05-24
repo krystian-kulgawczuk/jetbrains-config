@@ -391,6 +391,9 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" timestamp="1558620102191">
         <mark key="'" line="67" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/upload.qs-qa-7.sh" timestamp="1558693285648">
+        <mark key="'" line="20" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-dcos/examples/simple-open-source/main.tf" timestamp="1558609877424">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -454,7 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="50" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" />
       <jump line="52" column="36" filename="$USER_HOME$/Projects/terraform/gvc-terraform-null-dcos-install-private-agents-remote-exec/main.tf" />
       <jump line="109" column="106" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="273" column="25" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" />
@@ -554,6 +556,7 @@
       <jump line="119" column="45" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
       <jump line="178" column="25" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/container/container.go" />
       <jump line="115" column="17" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
+      <jump line="20" column="36" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/upload.qs-qa-7.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -563,7 +566,7 @@
         <text>cmd_local</text>
       </register>
       <register name="/" type="4">
-        <text>private_agents</text>
+        <text>make</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZlcnNpb24gPSAifj4gMS4yOC4wIgo=</text>
@@ -600,9 +603,9 @@
       </register>
     </registers>
     <search>
-      <last-search>private_agents</last-search>
+      <last-search>make</last-search>
       <last-offset />
-      <last-pattern>private_agents</last-pattern>
+      <last-pattern>make</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -633,6 +636,7 @@
         <entry>azurerm</entry>
         <entry>provider</entry>
         <entry>private_agents</entry>
+        <entry>make</entry>
       </history-search>
       <history-cmd>
         <entry>291,295y</entry>
