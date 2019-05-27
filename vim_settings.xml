@@ -31,12 +31,12 @@
         <mark key="^" line="27" column="68" />
         <mark key="." line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1558951882102">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-        <mark key="^" line="30" column="17" />
+      <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" timestamp="1558954919750">
+        <mark key="'" line="312" column="8" />
+        <mark key="[" line="58" column="15" />
+        <mark key="]" line="58" column="14" />
+        <mark key="." line="58" column="14" />
+        <mark key="^" line="58" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" timestamp="1558950742105">
         <mark key="[" line="12" column="50" />
@@ -100,6 +100,11 @@
         <mark key="[" line="11" column="48" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/terraform/terraform-main/.terraform/modules/dcos.dcos-core.dcos-bootstrap-install/main.tf" timestamp="1558954449815">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1558940918948">
         <mark key="[" line="63" column="18" />
@@ -267,8 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="35" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
-      <jump line="22" column="4" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_model.go" />
       <jump line="126" column="44" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
       <jump line="128" column="51" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
       <jump line="129" column="39" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
@@ -367,55 +370,57 @@
       <jump line="199" column="8" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="206" column="6" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
+      <jump line="58" column="14" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
+      <jump line="312" column="8" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkY29zX2luc3RhbGxfbW9kZSAgICAgICAgICAgICAgICAgICAgICAgICAgICA9ICIke3Zhci5kY29zX2luc3RhbGxfbW9kZX0iCg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>private_agents</text>
+        <text>kafka</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZlcnNpb24gPSAifj4gMS4yOC4wIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICBkY29zX2luc3RhbGxfbW9kZSAgICAgICAgICAgICAgICAgICAgICAgICAgICA9ICIke3Zhci5kY29zX2luc3RhbGxfbW9kZX0iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQllcnJSLmVycm9yLmNhdXNlCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWVyci4K</text>
+        <text encoding="base64">CQllcnJSLmVycm9yLmNhdXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWVyci4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQllcnJSLmNhdXNlLm1zZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlmIGVyci5jYXVzZS5tc2cK</text>
+        <text encoding="base64">CQllcnJSLmNhdXNlLm1zZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CWlmIGVyci5jYXVzZS5tc2cK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name=":" type="4">
         <text>59,67y</text>
       </register>
     </registers>
     <search>
-      <last-search>private_agents</last-search>
+      <last-search>kafka</last-search>
       <last-offset />
-      <last-pattern>private_agents</last-pattern>
+      <last-pattern>kafka</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -453,6 +458,8 @@
         <entry>location</entry>
         <entry>provider</entry>
         <entry>private_agents</entry>
+        <entry>kafka-agents</entry>
+        <entry>kafka</entry>
       </history-search>
       <history-cmd>
         <entry>291,295y</entry>
