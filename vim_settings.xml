@@ -13,8 +13,8 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/db/impl/DbFactoryImpl.java" timestamp="1558014297610">
         <mark key="'" line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" timestamp="1559037533040">
-        <mark key="'" line="109" column="116" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" timestamp="1559052577601">
+        <mark key="'" line="227" column="109" />
         <mark key="[" line="267" column="79" />
         <mark key="]" line="267" column="79" />
         <mark key="^" line="267" column="79" />
@@ -232,6 +232,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/impl/RegistrationImpl.java" timestamp="1557989726997">
         <mark key="'" line="49" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicharts/handlers.go" timestamp="1559052580534" />
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/code_const.go" timestamp="1558532975133">
         <mark key="'" line="14" column="4" />
       </file>
@@ -389,9 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="31" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" />
-      <jump line="25" column="7" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/errors_model.go" />
-      <jump line="5" column="69" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="119" column="46" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
       <jump line="199" column="27" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/container/container.go" />
       <jump line="201" column="51" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/container/container.go" />
@@ -445,7 +443,6 @@
       <jump line="203" column="38" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" />
       <jump line="205" column="40" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" />
       <jump line="111" column="0" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="239" column="116" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="66" column="21" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apiactivedirectory/handlers.go" />
       <jump line="61" column="32" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/activedirectoryservice/service.go" />
       <jump line="70" column="65" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/authenticate/authenticate.go" />
@@ -454,7 +451,6 @@
       <jump line="626" column="4" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="76" column="29" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="224" column="116" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="227" column="55" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="9" column="50" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="109" column="116" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="273" column="25" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" />
@@ -489,6 +485,11 @@
       <jump line="1063" column="74" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="24" column="4" filename="$USER_HOME$/Downloads/translate/errors.keys" />
       <jump line="25" column="4" filename="$USER_HOME$/Downloads/translate/errors.keys" />
+      <jump line="239" column="116" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
+      <jump line="7" column="50" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
+      <jump line="215" column="86" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
+      <jump line="216" column="17" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
+      <jump line="227" column="109" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -498,7 +499,7 @@
         <text>C</text>
       </register>
       <register name="/" type="4">
-        <text>SystemStorageLocation</text>
+        <text>\/containers</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">STE4blZUTE5vQ29ubmVjdGlvbiA=</text>
@@ -535,9 +536,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SystemStorageLocation</last-search>
+      <last-search>\/containers</last-search>
       <last-offset />
-      <last-pattern>SystemStorageLocation</last-pattern>
+      <last-pattern>\/containers</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -550,7 +551,6 @@
         <entry>smart</entry>
         <entry>true</entry>
         <entry>systemState</entry>
-        <entry>charts</entry>
         <entry>r3_asset</entry>
         <entry>version</entry>
         <entry>private</entry>
@@ -584,6 +584,8 @@
         <entry>container.update_failed</entry>
         <entry>unable_choam</entry>
         <entry>SystemStorageLocation</entry>
+        <entry>charts</entry>
+        <entry>\/containers</entry>
       </history-search>
       <history-cmd>
         <entry>291,295y</entry>
