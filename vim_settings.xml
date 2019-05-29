@@ -13,8 +13,8 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/db/impl/DbFactoryImpl.java" timestamp="1558014297610">
         <mark key="'" line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" timestamp="1559127137715">
-        <mark key="'" line="179" column="120" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" timestamp="1559138241037">
+        <mark key="'" line="151" column="115" />
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="53" />
         <mark key="^" line="6" column="53" />
@@ -58,8 +58,8 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/StatsEsImpl.java" timestamp="1558010187319">
         <mark key="'" line="53" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/replicationservice/service.go" timestamp="1559126479741">
-        <mark key="'" line="225" column="35" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/replicationservice/service.go" timestamp="1559138886196">
+        <mark key="'" line="151" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" timestamp="1557734843495">
         <mark key="'" line="12" column="41" />
@@ -109,11 +109,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1558014325469">
         <mark key="'" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1559120780473">
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apireplication/dto.go" timestamp="1559138478711" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1559138030060">
         <mark key="[" line="71" column="18" />
-        <mark key="]" line="71" column="18" />
-        <mark key="^" line="63" column="26" />
-        <mark key="." line="71" column="18" />
+        <mark key="]" line="71" column="54" />
+        <mark key="^" line="71" column="54" />
+        <mark key="." line="71" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/meta.tf" timestamp="1558958844328" />
       <file name="$USER_HOME$/Downloads/translate/en.json" timestamp="1559051198446" />
@@ -237,6 +238,9 @@
         <mark key="'" line="22" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-main/.terraform/modules/dcos.dcos-infrastructure/variables.tf" timestamp="1558958207109" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apireplication/handlers.go" timestamp="1559138881781">
+        <mark key="'" line="272" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/userdetails/UserDetailsWrap.java" timestamp="1558012212710">
         <mark key="'" line="28" column="31" />
       </file>
@@ -342,12 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="20" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
-      <jump line="180" column="10" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/variables.tf" />
-      <jump line="139" column="45" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
-      <jump line="199" column="8" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
-      <jump line="206" column="6" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
-      <jump line="37" column="0" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="58" column="14" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="312" column="8" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-infrastructure/main.tf" />
       <jump line="87" column="33" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
@@ -442,19 +440,25 @@
       <jump line="64" column="76" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apireplication/handlers.go" />
       <jump line="300" column="4" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="21" column="19" filename="$USER_HOME$/Projects/qorestor/qs-new-ui/src/app/app.module.ts" />
+      <jump line="21" column="19" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
+      <jump line="151" column="115" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
+      <jump line="253" column="47" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apireplication/handlers.go" />
+      <jump line="34" column="4" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/replicationservice/service.go" />
+      <jump line="272" column="25" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apireplication/handlers.go" />
+      <jump line="151" column="33" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/replicationservice/service.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>qs-qa-8.westus.cloudapp.azure.com</text>
       </register>
       <register name="-" type="4">
-        <text>Sunday</text>
+        <text>qs-qa-8.westus.cloudapp.azure.com</text>
       </register>
       <register name="/" type="4">
         <text>replication</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">STE4blZUTE5vQ29ubmVjdGlvbiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">UVNVSV9SRU1PVEVDTElfRU5BQkxFRD10cnVlClFTVUlfUkVNT1RFQ0xJX1VTRVI9cm9vdApRU1VJX1JFTU9URUNMSV9QQVNTV09SRD1SQEB0UGFzc3dvcmQxClFTVUlfUkVNT1RFQ0xJX0lQPXFzLXFhLTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpRU1VJX1JFTU9URUNMSV9QT1JUPTIyClFTVUlfUkVNT1RFQ0xJX0ZPTERFUj0vZXRjL29jYS8KUVNVSV9SRU1PVEVDTElfTE9DQUxfREI9dHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -484,7 +488,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>59,67y</text>
+        <text>61,67y</text>
       </register>
     </registers>
     <search>
@@ -565,6 +569,7 @@
         <entry>35,42d</entry>
         <entry>47,56d</entry>
         <entry>59,67y</entry>
+        <entry>61,67y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
