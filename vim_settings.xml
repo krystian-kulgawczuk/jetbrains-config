@@ -55,8 +55,8 @@
       <file name="$USER_HOME$/Projects/terraform/terraform-azurerm-masters/outputs.tf" timestamp="1557734843495">
         <mark key="'" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" timestamp="1559051288442">
-        <mark key="'" line="1063" column="74" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" timestamp="1559123833475">
+        <mark key="'" line="535" column="4" />
         <mark key="[" line="750" column="4" />
         <mark key="]" line="750" column="4" />
         <mark key="^" line="750" column="4" />
@@ -291,11 +291,6 @@
         <mark key="'" line="124" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-main/.terraform/modules/dcos/docs/published/main.tf" timestamp="1558957912424" />
-      <file name="/Dummy.txt" timestamp="1559050652065">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1558087860115">
         <mark key="'" line="15" column="24" />
       </file>
@@ -335,7 +330,6 @@
       <jump line="527" column="38" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="1077" column="0" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
-      <jump line="535" column="4" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="20" column="35" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" />
       <jump line="73" column="74" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" />
       <jump line="74" column="63" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_local.go" />
@@ -394,7 +388,6 @@
       <jump line="536" column="11" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="14" column="14" filename="$USER_HOME$/Downloads/translate/locale_parser.py" />
       <jump line="18" column="13" filename="$USER_HOME$/Downloads/translate/golang_parser.py" />
-      <jump line="1072" column="0" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="1080" column="0" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="795" column="101" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="16" column="82" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
@@ -430,6 +423,8 @@
       <jump line="87" column="31" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/activedirectoryservice/service.go" />
       <jump line="112" column="35" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/activedirectoryservice/service.go" />
       <jump line="21" column="26" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/pbisfindgroup/pbisfindgroup.go" />
+      <jump line="1072" column="67" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
+      <jump line="535" column="4" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -439,7 +434,7 @@
         <text>10.230.56.33</text>
       </register>
       <register name="/" type="4">
-        <text>active-di</text>
+        <text>cannot_delete_container</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">STE4blZUTE5vQ29ubmVjdGlvbiA=</text>
@@ -553,9 +548,9 @@ func GetRoutes() *mux.Router {
       </register>
     </registers>
     <search>
-      <last-search>active-di</last-search>
+      <last-search>cannot_delete_container</last-search>
       <last-offset />
-      <last-pattern>active-di</last-pattern>
+      <last-pattern>cannot_delete_container</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -605,6 +600,8 @@ func GetRoutes() *mux.Router {
         <entry>\/containers</entry>
         <entry>auth</entry>
         <entry>active-di</entry>
+        <entry>/cannot_delete</entry>
+        <entry>cannot_delete_container</entry>
       </history-search>
       <history-cmd>
         <entry>291,295y</entry>
