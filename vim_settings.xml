@@ -251,6 +251,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/userdetails/UserDetailsWrap.java" timestamp="1558012212710">
         <mark key="'" line="28" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile.groovy" timestamp="1559551194574" />
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" timestamp="1558965765941">
         <mark key="'" line="185" column="31" />
         <mark key="[" line="165" column="12" />
@@ -280,6 +281,9 @@
         <mark key="]" line="172" column="7" />
         <mark key="." line="172" column="7" />
         <mark key="^" line="172" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/api/QoreStorDashboardController.java" timestamp="1559551072754">
+        <mark key="'" line="23" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/terraform/terraform-null-dcos-install-remote/main.tf" timestamp="1558615209742">
         <mark key="[" line="64" column="0" />
@@ -355,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="70" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
       <jump line="40" column="33" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-instance/main.tf" />
       <jump line="52" column="46" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" />
       <jump line="186" column="31" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" />
@@ -455,6 +458,7 @@
       <jump line="8" column="4" filename="$USER_HOME$/Projects/gvc-summary/JenkinsfileVeracode.groovy" />
       <jump line="36" column="4" filename="$USER_HOME$/Projects/gvc-summary/JenkinsfileVeracode.groovy" />
       <jump line="6" column="20" filename="$USER_HOME$/Projects/gvc-summary/JenkinsfileVeracode.groovy" />
+      <jump line="23" column="73" filename="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/api/QoreStorDashboardController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
