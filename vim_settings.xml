@@ -215,6 +215,9 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apidownload/handlers.go" timestamp="1558531912484">
         <mark key="'" line="69" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/parsing/parsing.go" timestamp="1559633716963">
+        <mark key="'" line="208" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/Version.java" timestamp="1558014153410">
         <mark key="'" line="11" column="17" />
       </file>
@@ -338,8 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="46" filename="$USER_HOME$/Projects/terraform/terraform-azurerm-private-agents/main.tf" />
-      <jump line="186" column="31" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" />
       <jump line="301" column="49" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" />
       <jump line="1065" column="0" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="906" column="46" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
@@ -438,6 +439,8 @@
       <jump line="6" column="20" filename="$USER_HOME$/Projects/gvc-summary/JenkinsfileVeracode.groovy" />
       <jump line="23" column="73" filename="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/api/QoreStorDashboardController.java" />
       <jump line="3" column="58" filename="$USER_HOME$/Projects/terraform/terraform-main/.terraform/modules/dcos.dcos-infrastructure.public_agents.dcos-public-agent-instances/outputs.tf" />
+      <jump line="219" column="36" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/parsing/parsing.go" />
+      <jump line="208" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/parsing/parsing.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -447,7 +450,7 @@
         <text>qs-qa-8.westus.cloudapp.azure.com</text>
       </register>
       <register name="/" type="4">
-        <text>replication</text>
+        <text>222</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UVNVSV9SRU1PVEVDTElfRU5BQkxFRD10cnVlClFTVUlfUkVNT1RFQ0xJX1VTRVI9cm9vdApRU1VJX1JFTU9URUNMSV9QQVNTV09SRD1SQEB0UGFzc3dvcmQxClFTVUlfUkVNT1RFQ0xJX0lQPXFzLXFhLTgud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbQpRU1VJX1JFTU9URUNMSV9QT1JUPTIyClFTVUlfUkVNT1RFQ0xJX0ZPTERFUj0vZXRjL29jYS8KUVNVSV9SRU1PVEVDTElfTE9DQUxfREI9dHJ1ZQo=</text>
@@ -484,9 +487,9 @@
       </register>
     </registers>
     <search>
-      <last-search>replication</last-search>
+      <last-search>222</last-search>
       <last-offset />
-      <last-pattern>replication</last-pattern>
+      <last-pattern>222</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -514,6 +517,7 @@
         <entry>/cannot_delete</entry>
         <entry>cannot_delete_container</entry>
         <entry>replication</entry>
+        <entry>222</entry>
       </history-search>
       <history-cmd>
         <entry>49,53y</entry>
