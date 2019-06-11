@@ -92,13 +92,13 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/db/impl/AssetDbImpl.java" timestamp="1558009639726">
         <mark key="'" line="39" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" timestamp="1559731496473">
-        <mark key="'" line="173" column="48" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" timestamp="1560238849474">
+        <mark key="'" line="165" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/impl/DbImpl.java" timestamp="1558014325469">
         <mark key="'" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1559911401342">
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/config.env" timestamp="1560238455643">
         <mark key="[" line="79" column="18" />
         <mark key="]" line="79" column="54" />
         <mark key="^" line="79" column="54" />
@@ -240,12 +240,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/userdetails/UserDetailsWrap.java" timestamp="1558012212710">
         <mark key="'" line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" timestamp="1559731532952">
-        <mark key="'" line="143" column="30" />
-        <mark key="[" line="165" column="12" />
-        <mark key="]" line="166" column="0" />
-        <mark key="^" line="169" column="41" />
-        <mark key="." line="166" column="0" />
+      <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" timestamp="1560240628537">
+        <mark key="'" line="188" column="32" />
+        <mark key="[" line="168" column="35" />
+        <mark key="]" line="185" column="29" />
+        <mark key="^" line="185" column="29" />
+        <mark key="." line="185" column="29" />
       </file>
       <file name="$USER_HOME$/Downloads/translate/errors.keys" timestamp="1559051169598">
         <mark key="'" line="25" column="4" />
@@ -308,6 +308,11 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/vtl/vtl.go" timestamp="1559045463749">
         <mark key="'" line="124" column="27" />
       </file>
+      <file name="/Dummy.txt" timestamp="1560240895851">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" timestamp="1560155909171">
         <mark key="'" line="293" column="5" />
       </file>
@@ -341,9 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="50" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="109" column="116" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="273" column="25" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" />
       <jump line="251" column="38" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" />
       <jump line="124" column="27" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/vtl/vtl.go" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
@@ -441,6 +443,9 @@
       <jump line="291" column="25" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
       <jump line="293" column="5" filename="$USER_HOME$/Projects/global-cloud-view-portal/customer-subdomain/local/cassandra/schema.cql" />
       <jump line="62" column="34" filename="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/src/main/java/portal/diagnostics/upload/BlobChecker.java" />
+      <jump line="165" column="50" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/containerservice/service.go" />
+      <jump line="185" column="31" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" />
+      <jump line="188" column="32" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
