@@ -319,8 +319,8 @@
       <file name="$USER_HOME$/Projects/terraform/terraform-main/.terraform/modules/dcos.dcos-infrastructure.public_agents.dcos-public-agent-instances/outputs.tf" timestamp="1559559442319">
         <mark key="'" line="3" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" timestamp="1560496459533">
-        <mark key="'" line="38" column="19" />
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" timestamp="1560507876883">
+        <mark key="'" line="49" column="19" />
         <mark key="[" line="38" column="15" />
         <mark key="]" line="38" column="14" />
         <mark key="^" line="38" column="14" />
@@ -380,7 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1052" column="8" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="1053" column="8" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="1054" column="8" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
       <jump line="1055" column="8" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
@@ -480,6 +479,7 @@
       <jump line="73" column="16" filename="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" />
       <jump line="39" column="23" filename="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" />
       <jump line="34" column="16" filename="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" />
+      <jump line="49" column="19" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
