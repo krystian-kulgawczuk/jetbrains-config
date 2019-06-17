@@ -32,6 +32,9 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" timestamp="1560413652507">
         <mark key="'" line="78" column="21" />
       </file>
+      <file name="/a.dummy" timestamp="1560766866910">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/MessageFactoryImpl.java" timestamp="1558012467933">
         <mark key="'" line="26" column="47" />
       </file>
@@ -52,6 +55,12 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/BranchProfile.groovy" timestamp="1560767155591">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/StatsEsImpl.java" timestamp="1558010187319">
         <mark key="'" line="53" column="44" />
       </file>
@@ -69,6 +78,12 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/factory/impl/ConsumerFactoryImpl.java" timestamp="1558012585569">
         <mark key="'" line="28" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" timestamp="1560767085475">
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="50" />
+        <mark key="." line="49" column="50" />
+        <mark key="^" line="49" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" timestamp="1559895643061">
         <mark key="'" line="106" column="19" />
@@ -311,8 +326,12 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/replication/replication.go" timestamp="1559896822673">
         <mark key="'" line="256" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/Globals.groovy" timestamp="1560499989630">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/Globals.groovy" timestamp="1560766870622">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="24" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/analytics-cassandra/src/main/java/portal/cassandra/legacy/CassandraLegacyModelStoringService.java" timestamp="1558009653662">
         <mark key="'" line="45" column="40" />
@@ -484,10 +503,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>def</text>
+        <text>DEV_MASTER_URL</text>
       </register>
       <register name="-" type="4">
-        <text>def</text>
+        <text>DEV_MASTER_URL</text>
       </register>
       <register name="/" type="4">
         <text>branch_name</text>
@@ -496,31 +515,31 @@
         <text encoding="base64">UVNVSV9SRU1PVEVDTElfSVA9cXMtcWEtOS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YWdpbmciOiAic3RhZ2luZyIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNsYWNrU2VuZChjb2xvcjogY29sb3JDb2RlLCBtZXNzYWdlOiBtZXNzYWdlLCBjaGFubmVsOiAiI3EtamVua2lucyIpCg==</text>
+        <text encoding="base64">aW1wb3J0IEdsb2JhbHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ZGVmIERFVl9NQVNURVJfVVNFUiA9ICJhenVyZWRldiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlICs9IHBlcnNvbmFsCg==</text>
+        <text encoding="base64">ZGVmIFBST0RfRE9DS0VSX1JFR0lTVFJZID0gImd2Y3VzcHJvZC5henVyZWNyLmlvIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcGVyc29uYWwgPSAiQCR7Y29tbWl0dGVyU2xhY2tJZH0gWW91IHByb2JhYmx5IGJyb2tlIHRoZSBidWlsZDogIiArIHN1YmplY3QgKyAiXG4iICsgZXJyb3JNZXNzYWdlCg==</text>
+        <text encoding="base64">ZGVmIERFVl9TVEFHSU5HX0RPQ0tFUl9SRUdJU1RSWSA9ICJndmN1c2Rldi5henVyZWNyLmlvIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgY29tbWl0dGVyU2xhY2tJZCA9IEdJVF9DT01NSVRfRU1BSUwK</text>
+        <text encoding="base64">ZGVmIFBST0RfUFJPRklMRSA9ICJ1cy1wcm9kIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvckNvZGUgPSAnI0ZGMDAwMCcK</text>
+        <text encoding="base64">ZGVmIFNUQUdJTkdfUFJPRklMRSA9ICJ1cy1zdGFnaW5nIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvciA9ICdSRUQnCg==</text>
+        <text encoding="base64">ZGVmIERFVl9TVEFHSU5HX1BST0ZJTEUgPSAidXMtZGV2Igo=</text>
       </register>
       <register name=":" type="4">
         <text>61,67y</text>
