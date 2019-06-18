@@ -35,7 +35,9 @@
       <file name="/a.dummy" timestamp="1560841364609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-jobs/Jenkinsfile.groovy" timestamp="1560846789710" />
+      <file name="$USER_HOME$/Projects/CDP/cdp-jobs/Jenkinsfile.groovy" timestamp="1560853310747">
+        <mark key="'" line="110" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-charts/src/main/java/portal/kec/model/MessageFactoryImpl.java" timestamp="1558012467933">
         <mark key="'" line="26" column="47" />
       </file>
@@ -80,12 +82,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/factory/impl/ConsumerFactoryImpl.java" timestamp="1558012585569">
         <mark key="'" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" timestamp="1560851807529">
-        <mark key="'" line="57" column="47" />
-        <mark key="[" line="90" column="48" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="17" />
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" timestamp="1560854325292">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="98" column="1" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" timestamp="1558620434214">
         <mark key="'" line="76" column="36" />
@@ -208,12 +210,12 @@
         <mark key="^" line="255" column="163" />
         <mark key="." line="255" column="163" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" timestamp="1560851512135">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="8" column="39" />
-        <mark key="^" line="8" column="39" />
-        <mark key="." line="8" column="39" />
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" timestamp="1560854307978">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="0" column="176" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/impl/JwtUserImpl.java" timestamp="1558003676084">
         <mark key="'" line="19" column="70" />
@@ -283,7 +285,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/factory/StmFactory.java" timestamp="1558014328380">
         <mark key="'" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" timestamp="1560844357723">
+      <file name="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" timestamp="1560852970140">
         <mark key="'" line="34" column="16" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="13" />
@@ -386,7 +388,7 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/vtl/vtl.go" timestamp="1559045463749">
         <mark key="'" line="124" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560851700636">
+      <file name="/Dummy.txt" timestamp="1560854327100">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -424,29 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="50" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="215" column="86" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="216" column="17" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="134" column="12" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="5" column="53" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="6" column="50" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="87" column="28" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/authenticationservice/service.go" />
-      <jump line="67" column="34" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/authenticationservice/service.go" />
-      <jump line="70" column="40" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/authenticationservice/service.go" />
-      <jump line="30" column="35" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apiauth/handlers.go" />
-      <jump line="52" column="51" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="92" column="25" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apiactivedirectory/handlers.go" />
-      <jump line="87" column="31" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/activedirectoryservice/service.go" />
-      <jump line="112" column="35" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/activedirectoryservice/service.go" />
-      <jump line="21" column="26" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/pbisfindgroup/pbisfindgroup.go" />
-      <jump line="1072" column="67" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
-      <jump line="535" column="4" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/shared/errors/i18n_const.go" />
-      <jump line="240" column="107" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="17" column="50" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
-      <jump line="154" column="36" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apireplication/handlers.go" />
-      <jump line="70" column="24" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/schedule/schedule.go" />
-      <jump line="106" column="19" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_client.go" />
-      <jump line="75" column="33" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/schedule/schedule.go" />
       <jump line="225" column="35" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/replicationservice/service.go" />
       <jump line="179" column="120" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="69" column="47" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apireplication/handlers.go" />
@@ -516,7 +495,6 @@
       <jump line="49" column="19" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" />
       <jump line="49" column="93" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="33" column="32" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
-      <jump line="32" column="106" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="57" column="47" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
@@ -524,55 +502,79 @@
       <jump line="3" column="39" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
       <jump line="46" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
       <jump line="47" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
+      <jump line="45" column="31" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="48" column="84" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="61" column="65" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="43" column="12" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="32" column="24" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="87" column="14" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="78" column="25" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="85" column="35" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="89" column="36" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="31" column="31" filename="$USER_HOME$/Projects/CDP/cdp-jobs/Jenkinsfile.groovy" />
+      <jump line="99" column="8" filename="$USER_HOME$/Projects/CDP/cdp-jobs/Jenkinsfile.groovy" />
+      <jump line="103" column="12" filename="$USER_HOME$/Projects/CDP/cdp-jobs/Jenkinsfile.groovy" />
+      <jump line="106" column="49" filename="$USER_HOME$/Projects/CDP/cdp-jobs/Jenkinsfile.groovy" />
+      <jump line="110" column="21" filename="$USER_HOME$/Projects/CDP/cdp-jobs/Jenkinsfile.groovy" />
+      <jump line="86" column="34" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="83" column="40" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="84" column="22" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="21" column="13" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
+      <jump line="50" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
+      <jump line="0" column="176" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
+      <jump line="88" column="11" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>CIPHER_KEY</text>
+        <text>currentBuild.result</text>
       </register>
       <register name="0" type="4">
         <text>config.buildStatus</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGpvYk5hbWUgPSBqb2JOYW1lLCBidWlsZE51bWJlciA9IGJ1aWxkTnVtYmVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGN1cnJlbnRCdWlsZC5yZXN1bHQsIGVycm9yTWVzc2FnZSA9IGVycm9yTWVzc2FnZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jbG91ZGJlZXMuZ3Jvb3Z5LmNwcy5Ob25DUFMK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzZW5kVG9TbGFjay5zZW5kVG9TbGFjaygK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggImVjaG8gJGN1cnJlbnRCdWlsZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICJlY2hvICRQUk9GSUxFIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggImVjaG8gJGN1cnJlbnRCdWlsZFJlc3VsdCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBST0ZJTEUgPSBqb2JDb25maWd1cmF0aW9uLnByb2ZpbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggImVjaG8gJGN1cnJlbnRCdWlsZC5yZXN1bHQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3RyaW5nIGpvYk5hbWUsIFN0cmluZyBidWlsZE51bWJlcikgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1BU1RFUl9VU0VSID0gam9iQ29uZmlndXJhdGlvbi5tYXN0ZXJVc2VyIAo=</text>
+        <text encoding="base64">Ly9kZWYgc2VuZFRvU2xhY2soU3RyaW5nIGJ1aWxkU3RhdHVzID0gJ1NUQVJURUQnLCBTdHJpbmcgaW5mb01lc3NhZ2UgPSAnJywgU3RyaW5nIGVycm9yTWVzc2FnZSA9ICcnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>22,27y</text>
       </register>
     </registers>
     <search>
-      <last-search>CIPHER_KEY</last-search>
+      <last-search>currentBuild.result</last-search>
       <last-offset />
-      <last-pattern>CIPHER_KEY</last-pattern>
+      <last-pattern>currentBuild.result</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -603,6 +605,10 @@
         <entry>jobName</entry>
         <entry>branch_name</entry>
         <entry>CIPHER_KEY</entry>
+        <entry>PROFILE</entry>
+        <entry>result</entry>
+        <entry>currentBuild</entry>
+        <entry>currentBuild.result</entry>
       </history-search>
       <history-cmd>
         <entry>49,53y</entry>
