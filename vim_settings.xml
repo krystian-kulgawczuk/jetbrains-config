@@ -82,12 +82,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/factory/impl/ConsumerFactoryImpl.java" timestamp="1558012585569">
         <mark key="'" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" timestamp="1560854325292">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="98" column="1" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="98" column="0" />
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" timestamp="1560930675529">
+        <mark key="'" line="5" column="20" />
+        <mark key="[" line="78" column="13" />
+        <mark key="]" line="78" column="12" />
+        <mark key="." line="78" column="12" />
+        <mark key="^" line="78" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" timestamp="1558620434214">
         <mark key="'" line="76" column="36" />
@@ -210,12 +210,12 @@
         <mark key="^" line="255" column="163" />
         <mark key="." line="255" column="163" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" timestamp="1560854307978">
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" timestamp="1560930119435">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="21" column="13" />
-        <mark key="." line="0" column="176" />
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/impl/JwtUserImpl.java" timestamp="1558003676084">
         <mark key="'" line="19" column="70" />
@@ -306,6 +306,12 @@
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-common/src/main/java/agent/common/security/jwt/principal/userdetails/UserDetailsWrap.java" timestamp="1558012212710">
         <mark key="'" line="28" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/SlackConfiguration.groovy" timestamp="1560929942238">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/connection/connection.go" timestamp="1560240628537">
         <mark key="'" line="188" column="32" />
@@ -426,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="35" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/service/replicationservice/service.go" />
       <jump line="179" column="120" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
       <jump line="69" column="47" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apireplication/handlers.go" />
       <jump line="64" column="76" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apireplication/handlers.go" />
@@ -526,55 +531,56 @@
       <jump line="32" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
       <jump line="88" column="11" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="42" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="5" column="20" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGRlZiBidWlsZE51bWJlciA9IGNvbmZpZy5idWlsZE51bWJlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>currentBuild.result</text>
+        <text>errorMessage</text>
       </register>
-      <register name="0" type="4">
-        <text>config.buildStatus</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBjb25maWcgPSBCdWlsZENvbmZpZy5yZXNvbHZlKGJvZHkpCiAgICBkZWYgYnVpbGRTdGF0dXMgPSBjb25maWcuY29udGFpbnNLZXkoJ2J1aWxkU3RhdHVzJykgPyBjb25maWcuYnVpbGRTdGF0dXMgOiAnU1RBUlRFRCcKICAgIGRlZiBpbmZvTWVzc2FnZSA9IGNvbmZpZy5jb250YWluc0tleSgnaW5mb01lc3NhZ2UnKSA/IGNvbmZpZy5pbmZvTWVzc2FnZSA6ICcnCiAgICBkZWYgZXJyb3JNZXNzYWdlID0gY29uZmlnLmNvbnRhaW5zS2V5KCdlcnJvck1lc3NhZ2UnKSA/IGNvbmZpZy5lcnJvck1lc3NhZ2UgOiAnJwogICAgZGVmIGpvYk5hbWUgPSBjb25maWcuam9iTmFtZQogICAgZGVmIGJ1aWxkTnVtYmVyID0gY29uZmlnLmJ1aWxkTnVtYmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGRlZiBidWlsZE51bWJlciA9IGNvbmZpZy5idWlsZE51bWJlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGpvYk5hbWUgPSBqb2JOYW1lLCBidWlsZE51bWJlciA9IGJ1aWxkTnVtYmVyCg==</text>
+        <text encoding="base64">ICAgIGRlZiBqb2JOYW1lID0gY29uZmlnLmpvYk5hbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGN1cnJlbnRCdWlsZC5yZXN1bHQsIGVycm9yTWVzc2FnZSA9IGVycm9yTWVzc2FnZSwK</text>
+        <text encoding="base64">ICAgIGRlZiBlcnJvck1lc3NhZ2UgPSBjb25maWcuY29udGFpbnNLZXkoJ2Vycm9yTWVzc2FnZScpID8gY29uZmlnLmVycm9yTWVzc2FnZSA6ICcnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzZW5kVG9TbGFjay5zZW5kVG9TbGFjaygK</text>
+        <text encoding="base64">ICAgIGRlZiBpbmZvTWVzc2FnZSA9IGNvbmZpZy5jb250YWluc0tleSgnaW5mb01lc3NhZ2UnKSA/IGNvbmZpZy5pbmZvTWVzc2FnZSA6ICcnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggImVjaG8gJGN1cnJlbnRCdWlsZCIK</text>
+        <text encoding="base64">ICAgIGRlZiBidWlsZFN0YXR1cyA9IGNvbmZpZy5jb250YWluc0tleSgnYnVpbGRTdGF0dXMnKSA/IGNvbmZpZy5idWlsZFN0YXR1cyA6ICdTVEFSVEVEJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggImVjaG8gJGN1cnJlbnRCdWlsZFJlc3VsdCIK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgY29uZmlnID0gQnVpbGRDb25maWcucmVzb2x2ZShib2R5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggImVjaG8gJGN1cnJlbnRCdWlsZC5yZXN1bHQiCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3RyaW5nIGpvYk5hbWUsIFN0cmluZyBidWlsZE51bWJlcikgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGpvYk5hbWUgPSBqb2JOYW1lLCBidWlsZE51bWJlciA9IGJ1aWxkTnVtYmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9kZWYgc2VuZFRvU2xhY2soU3RyaW5nIGJ1aWxkU3RhdHVzID0gJ1NUQVJURUQnLCBTdHJpbmcgaW5mb01lc3NhZ2UgPSAnJywgU3RyaW5nIGVycm9yTWVzc2FnZSA9ICcnLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGN1cnJlbnRCdWlsZC5yZXN1bHQsIGVycm9yTWVzc2FnZSA9IGVycm9yTWVzc2FnZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>22,27y</text>
+        <text>4,9y</text>
       </register>
     </registers>
     <search>
-      <last-search>currentBuild.result</last-search>
+      <last-search>errorMessage</last-search>
       <last-offset />
-      <last-pattern>currentBuild.result</last-pattern>
+      <last-pattern>errorMessage</last-pattern>
       <last-replace>cassandra</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -609,6 +615,7 @@
         <entry>result</entry>
         <entry>currentBuild</entry>
         <entry>currentBuild.result</entry>
+        <entry>errorMessage</entry>
       </history-search>
       <history-cmd>
         <entry>49,53y</entry>
@@ -632,6 +639,7 @@
         <entry>59,67y</entry>
         <entry>61,67y</entry>
         <entry>22,27y</entry>
+        <entry>4,9y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
