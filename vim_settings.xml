@@ -32,9 +32,6 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/scripts/deploy_marathon.py" timestamp="1560413652507">
         <mark key="'" line="78" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1560841364609">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-jobs/Jenkinsfile.groovy" timestamp="1560943156084">
         <mark key="'" line="110" column="21" />
       </file>
@@ -89,12 +86,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/factory/impl/ConsumerFactoryImpl.java" timestamp="1558012585569">
         <mark key="'" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" timestamp="1561105190583">
-        <mark key="'" line="26" column="47" />
-        <mark key="[" line="56" column="21" />
-        <mark key="]" line="56" column="20" />
-        <mark key="." line="56" column="20" />
-        <mark key="^" line="56" column="20" />
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" timestamp="1561109838984">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" timestamp="1558620434214">
         <mark key="'" line="76" column="36" />
@@ -373,6 +370,13 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/replication/replication.go" timestamp="1559896822673">
         <mark key="'" line="256" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/npmPipeline.groovy" timestamp="1561109870621">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/Globals.groovy" timestamp="1560849623547">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="34" column="38" />
@@ -428,6 +432,7 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apiauth/handlers.go" timestamp="1559120127957">
         <mark key="'" line="30" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1561109632600" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1558091613431">
         <mark key="'" line="88" column="71" />
       </file>
@@ -452,10 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="4" filename="$USER_HOME$/Projects/gvc-summary/JenkinsfileVeracode.groovy" />
-      <jump line="36" column="4" filename="$USER_HOME$/Projects/gvc-summary/JenkinsfileVeracode.groovy" />
-      <jump line="6" column="20" filename="$USER_HOME$/Projects/gvc-summary/JenkinsfileVeracode.groovy" />
-      <jump line="23" column="73" filename="$USER_HOME$/Projects/gvc-summary/src/main/java/com/quest/portal/summary/api/QoreStorDashboardController.java" />
       <jump line="3" column="58" filename="$USER_HOME$/Projects/terraform/terraform-main/.terraform/modules/dcos.dcos-infrastructure.public_agents.dcos-public-agent-instances/outputs.tf" />
       <jump line="219" column="36" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/parsing/parsing.go" />
       <jump line="208" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/parsing/parsing.go" />
@@ -511,7 +512,6 @@
       <jump line="34" column="16" filename="$USER_HOME$/Projects/CDP/cdp-metadata/Jenkinsfile.groovy" />
       <jump line="49" column="19" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/parallelModules.groovy" />
       <jump line="49" column="93" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
-      <jump line="33" column="32" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="57" column="47" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
@@ -552,10 +552,15 @@
       <jump line="14" column="45" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/JavaConfiguration.groovy" />
       <jump line="13" column="43" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/JavaConfiguration.groovy" />
       <jump line="26" column="47" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="113" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/npmPipeline.groovy" />
+      <jump line="115" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/npmPipeline.groovy" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/npmPipeline.groovy" />
+      <jump line="17" column="47" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="33" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVuaXRUZXN0c0NvbW1hbmQgPSBjb25maWcudW5pdFRlc3RzQ29tbWFuZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -567,34 +572,34 @@
         <text encoding="base64">ICAgIGRlZiBjb25maWcgPSBCdWlsZENvbmZpZy5yZXNvbHZlKGJvZHkpCiAgICBkZWYgYnVpbGRTdGF0dXMgPSBjb25maWcuY29udGFpbnNLZXkoJ2J1aWxkU3RhdHVzJykgPyBjb25maWcuYnVpbGRTdGF0dXMgOiAnU1RBUlRFRCcKICAgIGRlZiBpbmZvTWVzc2FnZSA9IGNvbmZpZy5jb250YWluc0tleSgnaW5mb01lc3NhZ2UnKSA/IGNvbmZpZy5pbmZvTWVzc2FnZSA6ICcnCiAgICBkZWYgZXJyb3JNZXNzYWdlID0gY29uZmlnLmNvbnRhaW5zS2V5KCdlcnJvck1lc3NhZ2UnKSA/IGNvbmZpZy5lcnJvck1lc3NhZ2UgOiAnJwogICAgZGVmIGpvYk5hbWUgPSBjb25maWcuam9iTmFtZQogICAgZGVmIGJ1aWxkTnVtYmVyID0gY29uZmlnLmJ1aWxkTnVtYmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVuaXRUZXN0c0NvbW1hbmQgPSBjb25maWcudW5pdFRlc3RzQ29tbWFuZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc29tZXRoaW5nID0gaW50ZWdyYXRpb25UZXN0c0NvbW1hbmQK</text>
+        <text encoding="base64">ICAgIG5vZGUoKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzb21ldGhpbmcucmVwbGFjZSgne3sgcHJvZmlsZSB9fScsIHByb2ZpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc29tZXRoaW5nID0gaW50ZWdyYXRpb25UZXN0c0NvbW1hbmQK</text>
+        <text encoding="base64">ICBkZWYgUFJPRF9NQVNURVJfVVJMID0gImd2Yy11cy1wcm9kLW1hc3Rlci53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzb21ldGhpbmcucmVwbGFjZSgpCg==</text>
+        <text encoding="base64">ICBkZWYgU1RBR0lOR19NQVNURVJfVVJMID0gIm9yYml0YWwtdXMtZGV2LXRmZWUwMC1tYXN0ZXItMS53ZXN0dXMuY2xvdWRhcHAuYXp1cmUuY29tIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmludGVncmF0aW9uVHN0c0NvbW1hbmQucmVwbGFjZSgne3sgcHJvZmlsZSB9fScsIHByb2ZpbGUpCg==</text>
+        <text encoding="base64">ICBkZWYgREVWX01BU1RFUl9VUkwgPSAiZ3ZjLXVzLWRldi1tYXN0ZXIud2VzdHVzLmNsb3VkYXBwLmF6dXJlLmNvbSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBkZWYgUFJPRF9NQVNURVJfVVNFUiA9ICJhenVyZXVzZXIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImltIGluc2lkZSIpCg==</text>
+        <text encoding="base64">ICBkZWYgU1RBR0lOR19NQVNURVJfVVNFUiA9ICJjZW50b3MiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbnRlZ3JhdGlvblRlc3RzQ29tbWFuZC5yZXBsYWNlKCd7eyBwcm9maWxlIH19JywgcHJvZmlsZSkK</text>
+        <text encoding="base64">ICBkZWYgREVWX01BU1RFUl9VU0VSID0gImF6dXJlZGV2Igo=</text>
       </register>
       <register name=":" type="4">
-        <text>38,41d</text>
+        <text>116,161d</text>
       </register>
     </registers>
     <search>
@@ -664,6 +669,7 @@
         <entry>4,9y</entry>
         <entry>6,7d</entry>
         <entry>38,41d</entry>
+        <entry>116,161d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
