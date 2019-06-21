@@ -86,12 +86,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-consumer-common/src/main/java/portal/kcc/model/factory/impl/ConsumerFactoryImpl.java" timestamp="1558012585569">
         <mark key="'" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" timestamp="1561109838984">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" timestamp="1561110647527">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg/utilities/cmd/cli.go" timestamp="1558620434214">
         <mark key="'" line="76" column="36" />
@@ -370,12 +370,12 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/replication/replication.go" timestamp="1559896822673">
         <mark key="'" line="256" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/npmPipeline.groovy" timestamp="1561109870621">
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/npmPipeline.groovy" timestamp="1561110677812">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/Globals.groovy" timestamp="1560849623547">
         <mark key="'" line="53" column="0" />
@@ -457,7 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="58" filename="$USER_HOME$/Projects/terraform/terraform-main/.terraform/modules/dcos.dcos-infrastructure.public_agents.dcos-public-agent-instances/outputs.tf" />
       <jump line="219" column="36" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/parsing/parsing.go" />
       <jump line="208" column="15" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/parsing/parsing.go" />
       <jump line="156" column="68" filename="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/router.go" />
@@ -557,6 +556,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/npmPipeline.groovy" />
       <jump line="17" column="47" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
