@@ -30,6 +30,7 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-charts/src/main/java/portal/kcch/model/impl/KfMessageCharts.java" timestamp="1557991397083">
         <mark key="'" line="35" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/BOLT/bolt-config/env/dev-lite/hasura/secrets/hasura" timestamp="1561122929148" />
       <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/JavaConfiguration.groovy" timestamp="1561105105981">
         <mark key="'" line="17" column="43" />
         <mark key="[" line="13" column="11" />
@@ -181,6 +182,12 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apistorage/handlers.go" timestamp="1558527544471">
         <mark key="'" line="156" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/BOLT/bolt-config/env/dev-lite/hasura/hasura.yaml" timestamp="1561123581532">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/agent-regular/src/main/java/portal/agent/regular/model/factory/impl/StatsFactoryImpl.java" timestamp="1558082711106">
         <mark key="'" line="49" column="19" />
       </file>
@@ -326,6 +333,7 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/BOLT/bolt-config/env/dev/hasura/hasura.yaml" timestamp="1561123412313" />
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/replication/replication.go" timestamp="1559896822673">
         <mark key="'" line="256" column="23" />
       </file>
@@ -355,12 +363,12 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/dev/upload.qs-qa-7.sh" timestamp="1558693285648">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" timestamp="1561121444667">
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" timestamp="1561122415855">
         <mark key="'" line="126" column="2" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="60" column="9" />
-        <mark key="." line="61" column="0" />
+        <mark key="[" line="51" column="46" />
+        <mark key="]" line="51" column="47" />
+        <mark key="^" line="51" column="35" />
+        <mark key="." line="51" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/subsystems/hasura/tmp/1560773709688_init.up.yaml" timestamp="1561121216683">
         <mark key="'" line="120" column="6" />
@@ -510,11 +518,11 @@
       <jump line="120" column="6" filename="$USER_HOME$/Projects/BOLT/bolt-api/subsystems/hasura/tmp/1560773709688_init.up.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgSEFTVVJBX0dSQVBIUUxfTUlHUkFUSU9OU19ESVI6ICIvaGFzdXJhLW1pZ3JhdGlvbnMiCg==</text>
+      <register name="&quot;" type="4">
+        <text>tmp</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>tmp</text>
       </register>
       <register name="/" type="4">
         <text>table: project</text>
