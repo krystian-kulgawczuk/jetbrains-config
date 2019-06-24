@@ -359,7 +359,13 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/cmd/cmd_model.go" timestamp="1558619155135">
         <mark key="'" line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-main/main.tf" timestamp="1561368709565" />
+      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-main/main.tf" timestamp="1561377064457">
+        <mark key="'" line="54" column="40" />
+        <mark key="[" line="23" column="81" />
+        <mark key="]" line="23" column="81" />
+        <mark key="." line="23" column="81" />
+        <mark key="^" line="23" column="81" />
+      </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apireplication/handlers.go" timestamp="1559893093769">
         <mark key="'" line="272" column="25" />
       </file>
@@ -521,7 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="93" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="57" column="47" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
@@ -621,13 +626,14 @@
       <jump line="356" column="29" filename="$USER_HOME$/dev/QS_60_RELEASE/terraform-azurerm-infrastructure/main.tf" />
       <jump line="396" column="29" filename="$USER_HOME$/dev/QS_60_RELEASE/terraform-azurerm-infrastructure/main.tf" />
       <jump line="11" column="5" filename="$USER_HOME$/dev/QS_60_RELEASE/terraform-azurerm-infrastructure/main.tf" />
+      <jump line="54" column="40" filename="$USER_HOME$/dev/QS_60_RELEASE/terraform-main/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
@@ -639,28 +645,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGZpbmQgdW51c2VkIHBvcnQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG1pbGVzdG9uZSgpCiAgICBsb2NrKHJlc291cmNlOiAnZGNvc0Nvbm5lY3Rpb24nKSB7CiAgICAgICAgc3NoYWdlbnQoWyJkY29zLSR7Y29uZmlnLnByb2ZpbGV9Il0pIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHNoICJzc2ggLU0gLVMgL3RtcC9tYXJhdGhvbi1zb2NrZXQgLXZ2diAtbyBTdHJpY3RIb3N0S2V5Q2hlY2tpbmc9bm8gLW8gRXhpdE9uRm9yd2FyZEZhaWx1cmU9eWVzIC1OIC1mIC1wIDIyMDAgIiArCiAgICAgICAgICAgICAgICAgICAgICAgICItTCA4MDAwOmxvY2FsaG9zdDo4MCAke2NvbmZpZy5tYXN0ZXJVc2VyfUAke2NvbmZpZy5tYXN0ZXJVcmx9IgogICAgICAgICAgICAgICAgc2ggIm1ha2UgLUIgZGVwbG95IgogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsKICAgICAgICAgICAgICAgIHRocm93IGV4CiAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICBzaCAic3NoIC1TIC90bXAvbWFyYXRob24tc29ja2V0IC1PIGV4aXQgJHtjb25maWcubWFzdGVyVXNlcn1AJHtjb25maWcubWFzdGVyVXJsfSIKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGZpbmQgdW51c2VkIHBvcnQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1pbGVzdG9uZSgpCiAgICBsb2NrKHJlc291cmNlOiAnZGNvc0Nvbm5lY3Rpb24nKSB7CiAgICAgICAgc3NoYWdlbnQoWyJkY29zLSR7Y29uZmlnLnByb2ZpbGV9Il0pIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHNoICJzc2ggLU0gLVMgL3RtcC9tYXJhdGhvbi1zb2NrZXQgLXZ2diAtbyBTdHJpY3RIb3N0S2V5Q2hlY2tpbmc9bm8gLW8gRXhpdE9uRm9yd2FyZEZhaWx1cmU9eWVzIC1OIC1mIC1wIDIyMDAgIiArCiAgICAgICAgICAgICAgICAgICAgICAgICItTCA4MDAwOmxvY2FsaG9zdDo4MCAke2NvbmZpZy5tYXN0ZXJVc2VyfUAke2NvbmZpZy5tYXN0ZXJVcmx9IgogICAgICAgICAgICAgICAgc2ggIm1ha2UgLUIgZGVwbG95IgogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsKICAgICAgICAgICAgICAgIHRocm93IGV4CiAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICBzaCAic3NoIC1TIC90bXAvbWFyYXRob24tc29ja2V0IC1PIGV4aXQgJHtjb25maWcubWFzdGVyVXNlcn1AJHtjb25maWcubWFzdGVyVXJsfSIKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICdkZXYnIHx8IGJyYW5jaF9uYW1lID09ICdzdGFnaW5nJyB8fCBicmFuY2hfbmFtZSA9PSAnbWFzdGVyJykgeyAvL3RlbXAgdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJqb2JDb25maWd1cmF0aW9uIjogam9iQ29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICdkZXYnIHx8IGJyYW5jaF9uYW1lID09ICdzdGFnaW5nJyB8fCBicmFuY2hfbmFtZSA9PSAnbWFzdGVyJykgeyAvL3RlbXAgdGVzdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICdkZXYnIHx8IGJyYW5jaF9uYW1lID09ICdzdGFnaW5nJyB8fCBicmFuY2hfbmFtZSA9PSAnbWFzdGVyJykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJqb2JDb25maWd1cmF0aW9uIjogam9iQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpvYkNvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyYW5jaF9uYW1lID09ICdkZXYnIHx8IGJyYW5jaF9uYW1lID09ICdzdGFnaW5nJyB8fCBicmFuY2hfbmFtZSA9PSAnbWFzdGVyJykgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpvYkNvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>16,29d</text>
