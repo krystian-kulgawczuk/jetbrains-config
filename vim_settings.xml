@@ -44,11 +44,10 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-ansible/init-environment.yml" timestamp="1561447457316">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-ansible/init-environment.yml" timestamp="1561450448226">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" timestamp="1561363378154">
         <mark key="'" line="40" column="0" />
@@ -56,6 +55,13 @@
         <mark key="]" line="31" column="58" />
         <mark key="." line="31" column="58" />
         <mark key="^" line="31" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1561451226648">
+        <mark key="'" line="263" column="0" />
+        <mark key="[" line="236" column="16" />
+        <mark key="]" line="236" column="16" />
+        <mark key="^" line="236" column="19" />
+        <mark key="." line="236" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-metadata/src/main/java/com/quest/cdp/metadata/processor/MetadataProcessor.java" timestamp="1561099949749">
         <mark key="[" line="20" column="30" />
@@ -236,6 +242,7 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="65" column="0" />
       </file>
+      <file name="/nginx.conf" timestamp="1561451214456" />
       <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/npmPipeline.groovy" timestamp="1561359276384">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="64" column="46" />
@@ -271,6 +278,12 @@
         <mark key="^" line="51" column="35" />
         <mark key="." line="51" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1561450876488">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="37" />
+        <mark key="." line="26" column="37" />
+        <mark key="^" line="26" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/subsystems/hasura/migrations/1551151778747_create_table_public_author.up.yaml" timestamp="1561120468123">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="15" />
@@ -282,11 +295,11 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-ansible/inventories/orbital-dev/orbital-dev.yml" timestamp="1561447976746">
-        <mark key="[" line="76" column="17" />
-        <mark key="]" line="77" column="17" />
-        <mark key="^" line="77" column="17" />
-        <mark key="." line="77" column="17" />
+      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-ansible/inventories/orbital-dev/orbital-dev.yml" timestamp="1561450438806">
+        <mark key="[" line="76" column="15" />
+        <mark key="]" line="76" column="16" />
+        <mark key="^" line="68" column="15" />
+        <mark key="." line="76" column="16" />
       </file>
       <file name="$USER_HOME$/Downloads/translate/golang_parser.py" timestamp="1559050135462">
         <mark key="'" line="18" column="13" />
@@ -297,8 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="47" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
       <jump line="3" column="39" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
@@ -397,46 +408,48 @@
       <jump line="396" column="29" filename="$USER_HOME$/dev/QS_60_RELEASE/terraform-azurerm-infrastructure/main.tf" />
       <jump line="11" column="5" filename="$USER_HOME$/dev/QS_60_RELEASE/terraform-azurerm-infrastructure/main.tf" />
       <jump line="54" column="40" filename="$USER_HOME$/dev/QS_60_RELEASE/terraform-main/main.tf" />
+      <jump line="262" column="1" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" />
+      <jump line="263" column="0" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fetch</text>
+        <text>mgragent.questqorestor.com</text>
       </register>
       <register name="-" type="4">
-        <text>fetch</text>
+        <text>mgragent.questqorestor.com</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNyYzogL2V0Yy9kb2NrZXIudGFyLmd6Cg==</text>
+        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIGd2Y3N0YWdpbmctbWdyYWdlbnQuYWNhaXNvZnQuaW87Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuMTAK</text>
+        <text encoding="base64">ICAgIC0gbW91bnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuMTIK</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjcuNDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuMTMK</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjUuNDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuOQo=</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjcuNDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuOAo=</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjcuNDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuNwo=</text>
+        <text encoding="base64">ICAgICAgICBrYWZrYToKICAgIHB1YmxpYzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuNgo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuNQo=</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjQuNToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuNAo=</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjQuNjoK</text>
       </register>
       <register name=":" type="4">
         <text>16,29d</text>
