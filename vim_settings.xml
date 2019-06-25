@@ -279,8 +279,12 @@
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose-mac.yaml" timestamp="1561116896754">
         <mark key="'" line="111" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" timestamp="1561468994775">
-        <mark key="'" line="5" column="11" />
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" timestamp="1561472956537">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apiactivedirectory/handlers.go" timestamp="1559120566686">
         <mark key="'" line="92" column="25" />
@@ -320,7 +324,6 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/storagegroup/storagegroup.go" timestamp="1558531977039">
         <mark key="'" line="99" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-ansible/roles/mount/tasks/main.yml" timestamp="1561448566548" />
       <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/makeDeploy.groovy" timestamp="1561365915844">
         <mark key="'" line="7" column="26" />
         <mark key="[" line="6" column="9" />
@@ -411,7 +414,6 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/utilities/parsing/parsing.go" timestamp="1559633716963">
         <mark key="'" line="208" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/deploy/marathon.json" timestamp="1561455390746" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/portal-schema/src/main/java/portal/schema/table/Version.java" timestamp="1558014153410">
         <mark key="'" line="11" column="17" />
       </file>
@@ -433,6 +435,13 @@
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apicontainers/handlers.go" timestamp="1559731481097">
         <mark key="'" line="214" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/gql_util.py" timestamp="1561472778362">
+        <mark key="'" line="81" column="32" />
+        <mark key="[" line="82" column="37" />
+        <mark key="]" line="83" column="14" />
+        <mark key="^" line="83" column="14" />
+        <mark key="." line="83" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/diagnostics-upload-monitor/src/main/java/portal/diagnostics/upload/BlobChecker.java" timestamp="1560156028731">
         <mark key="'" line="62" column="34" />
@@ -504,7 +513,6 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="65" column="0" />
       </file>
-      <file name="/nginx.conf" timestamp="1561451214456" />
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/cli/replication/replication.go" timestamp="1559896822673">
         <mark key="'" line="256" column="23" />
       </file>
@@ -535,12 +543,12 @@
         <mark key="^" line="38" column="14" />
         <mark key="." line="38" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" timestamp="1561467431562">
-        <mark key="'" line="33" column="24" />
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="25" column="36" />
-        <mark key="^" line="25" column="36" />
-        <mark key="." line="25" column="36" />
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" timestamp="1561472952276">
+        <mark key="'" line="33" column="30" />
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="33" column="30" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="33" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/prepare_disks.sh" timestamp="1557835202321">
         <mark key="'" line="200" column="8" />
@@ -598,7 +606,6 @@
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apiauth/handlers.go" timestamp="1559120127957">
         <mark key="'" line="30" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1561454544136" />
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-cassandra-stats/src/main/java/portal/kcs/model/impl/KfMessageStats.java" timestamp="1558091613431">
         <mark key="'" line="88" column="71" />
       </file>
@@ -623,13 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="48" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
-      <jump line="1" column="14" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
-      <jump line="14" column="45" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/JavaConfiguration.groovy" />
-      <jump line="13" column="43" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/JavaConfiguration.groovy" />
-      <jump line="26" column="47" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
-      <jump line="113" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/npmPipeline.groovy" />
-      <jump line="115" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/npmPipeline.groovy" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/npmPipeline.groovy" />
       <jump line="17" column="47" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
@@ -720,16 +720,23 @@
       <jump line="5" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-secrets.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-secrets.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/instance/secrets.py" />
-      <jump line="33" column="24" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
       <jump line="5" column="11" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
       <jump line="63" column="55" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/hasura/hasura_client.py" />
+      <jump line="3" column="12" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
+      <jump line="31" column="42" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
+      <jump line="81" column="32" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/gql_util.py" />
+      <jump line="9" column="11" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
+      <jump line="4" column="12" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
+      <jump line="30" column="27" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
+      <jump line="33" column="30" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC9ib2x0LWRlcGxveWVyL3Nkawo=</text>
+      <register name="&quot;" type="4">
+        <text>role</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>role</text>
       </register>
       <register name="/" type="4">
         <text>KEYCLOAK_CLIENT_SECRET</text>
