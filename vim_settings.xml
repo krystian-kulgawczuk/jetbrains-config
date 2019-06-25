@@ -272,12 +272,12 @@
         <mark key="." line="25" column="156" />
         <mark key="^" line="25" column="156" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" timestamp="1561122415855">
-        <mark key="'" line="126" column="2" />
-        <mark key="[" line="51" column="46" />
-        <mark key="]" line="51" column="47" />
-        <mark key="^" line="51" column="35" />
-        <mark key="." line="51" column="47" />
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" timestamp="1561460604809">
+        <mark key="'" line="50" column="12" />
+        <mark key="[" line="51" column="33" />
+        <mark key="]" line="51" column="45" />
+        <mark key="^" line="51" column="45" />
+        <mark key="." line="51" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1561456123498">
         <mark key="[" line="26" column="26" />
@@ -312,10 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
-      <jump line="48" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
-      <jump line="3" column="39" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
-      <jump line="46" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
       <jump line="47" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
       <jump line="45" column="31" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="48" column="84" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
@@ -412,16 +408,20 @@
       <jump line="54" column="40" filename="$USER_HOME$/dev/QS_60_RELEASE/terraform-main/main.tf" />
       <jump line="262" column="1" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" />
       <jump line="263" column="0" filename="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" />
+      <jump line="115" column="11" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
+      <jump line="124" column="2" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
+      <jump line="49" column="2" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
+      <jump line="50" column="12" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gvcdev-mgragent.acaisoft.io</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>gvcdev-mgragent.acaisoft.io</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>include</text>
+        <text>hasura</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIGd2Y3N0YWdpbmctbWdyYWdlbnQuYWNhaXNvZnQuaW87Owo=</text>
@@ -458,9 +458,9 @@
       </register>
     </registers>
     <search>
-      <last-search>include</last-search>
+      <last-search>hasura</last-search>
       <last-offset />
-      <last-pattern>include</last-pattern>
+      <last-pattern>hasura</last-pattern>
       <last-replace>config</last-replace>
       <last-substitute>jobConfiguration</last-substitute>
       <last-dir>1</last-dir>
@@ -490,6 +490,7 @@
         <entry>version</entry>
         <entry>portal</entry>
         <entry>include</entry>
+        <entry>hasura</entry>
       </history-search>
       <history-cmd>
         <entry>65,68y</entry>
