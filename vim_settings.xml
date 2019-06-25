@@ -223,6 +223,9 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-elasticsearch-stats/src/main/java/portal/kes/es/impl/EsFactoryImpl.java" timestamp="1557993760497">
         <mark key="'" line="24" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/hasura/hasura_client.py" timestamp="1561467608241">
+        <mark key="'" line="63" column="55" />
+      </file>
       <file name="$USER_HOME$/Downloads/translate/locale_parser.py" timestamp="1559049316146">
         <mark key="'" line="14" column="14" />
       </file>
@@ -275,6 +278,9 @@
       </file>
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose-mac.yaml" timestamp="1561116896754">
         <mark key="'" line="111" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" timestamp="1561467557893">
+        <mark key="'" line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apiactivedirectory/handlers.go" timestamp="1559120566686">
         <mark key="'" line="92" column="25" />
@@ -529,7 +535,13 @@
         <mark key="^" line="38" column="14" />
         <mark key="." line="38" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" timestamp="1561465510191" />
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" timestamp="1561467431562">
+        <mark key="'" line="33" column="24" />
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="36" />
+        <mark key="^" line="25" column="36" />
+        <mark key="." line="25" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/prepare_disks.sh" timestamp="1557835202321">
         <mark key="'" line="200" column="8" />
       </file>
@@ -611,9 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="20" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
-      <jump line="24" column="26" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
-      <jump line="27" column="19" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="25" column="48" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
       <jump line="1" column="14" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="14" column="45" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/JavaConfiguration.groovy" />
@@ -711,6 +720,9 @@
       <jump line="5" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-secrets.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-secrets.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/instance/secrets.py" />
+      <jump line="33" column="24" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
+      <jump line="5" column="11" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
+      <jump line="63" column="55" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/hasura/hasura_client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
