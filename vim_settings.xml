@@ -56,12 +56,12 @@
         <mark key="." line="31" column="58" />
         <mark key="^" line="31" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1561452568803">
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-dev/config/nginx.conf" timestamp="1561454007718">
         <mark key="'" line="263" column="0" />
-        <mark key="[" line="236" column="47" />
-        <mark key="]" line="236" column="47" />
-        <mark key="^" line="236" column="48" />
-        <mark key="." line="236" column="47" />
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="14" />
+        <mark key="^" line="49" column="14" />
+        <mark key="." line="49" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/CDP/cdp-metadata/src/main/java/com/quest/cdp/metadata/processor/MetadataProcessor.java" timestamp="1561099949749">
         <mark key="[" line="20" column="30" />
@@ -132,7 +132,7 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1561452690781">
+      <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1561453445357">
         <mark key="[" line="255" column="185" />
         <mark key="]" line="255" column="163" />
         <mark key="^" line="255" column="163" />
@@ -301,6 +301,7 @@
         <mark key="^" line="68" column="15" />
         <mark key="." line="76" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1561454544136" />
       <file name="$USER_HOME$/Downloads/translate/golang_parser.py" timestamp="1559050135462">
         <mark key="'" line="18" column="13" />
         <mark key="[" line="22" column="0" />
@@ -413,52 +414,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>portal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIGd2Y3N0YWdpbmctbWdyYWdlbnQuYWNhaXNvZnQuaW87Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gbW91bnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjcuNDoK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjUuNDoK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDMwMSAvcG9ydGFsLzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjcuNDoK</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uIC8gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjcuNDoK</text>
+        <text encoding="base64">ICAgIHJldHVybiAzMDEgaHR0cHM6Ly8kc2VydmVyX25hbWUkcmVxdWVzdF91cmk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYToKICAgIHB1YmxpYzoK</text>
+        <text encoding="base64">ICAgIC0gbW91bnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlOgo=</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjcuNDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuNToK</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjUuNDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuNjoK</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjcuNDoK</text>
       </register>
       <register name=":" type="4">
         <text>16,29d</text>
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>portal</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>portal</last-pattern>
       <last-replace>config</last-replace>
       <last-substitute>jobConfiguration</last-substitute>
       <last-dir>1</last-dir>
@@ -486,6 +487,7 @@
         <entry>table: project</entry>
         <entry>jobConfiguration</entry>
         <entry>version</entry>
+        <entry>portal</entry>
       </history-search>
       <history-cmd>
         <entry>65,68y</entry>
