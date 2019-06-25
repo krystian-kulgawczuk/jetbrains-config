@@ -145,6 +145,12 @@
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/Dockerfile" timestamp="1561461635295">
+        <mark key="[" line="34" column="1" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-azurerm-infrastructure/main.tf" timestamp="1561369207577">
         <mark key="'" line="11" column="5" />
         <mark key="[" line="44" column="2" />
@@ -272,8 +278,8 @@
         <mark key="." line="25" column="156" />
         <mark key="^" line="25" column="156" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" timestamp="1561460604809">
-        <mark key="'" line="50" column="12" />
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" timestamp="1561461669157">
+        <mark key="'" line="1" column="76" />
         <mark key="[" line="51" column="33" />
         <mark key="]" line="51" column="45" />
         <mark key="^" line="51" column="45" />
@@ -312,10 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/sendToSlack.groovy" />
-      <jump line="45" column="31" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
-      <jump line="48" column="84" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
-      <jump line="61" column="65" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="43" column="12" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="32" column="24" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="87" column="14" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
@@ -341,7 +343,6 @@
       <jump line="24" column="26" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="27" column="19" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="25" column="48" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
-      <jump line="1" column="76" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
       <jump line="1" column="14" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" />
       <jump line="14" column="45" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/JavaConfiguration.groovy" />
       <jump line="13" column="43" filename="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/src/portal/JavaConfiguration.groovy" />
@@ -412,55 +413,60 @@
       <jump line="124" column="2" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
       <jump line="49" column="2" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
       <jump line="50" column="12" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
+      <jump line="24" column="11" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/Dockerfile" />
+      <jump line="33" column="17" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/Dockerfile" />
+      <jump line="56" column="14" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
+      <jump line="1" column="76" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC9ib2x0LWRlcGxveWVyL3Nkawo=</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>hasura</text>
+        <text>deployer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIGd2Y3N0YWdpbmctbWdyYWdlbnQuYWNhaXNvZnQuaW87Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC9ib2x0LWRlcGxveWVyL3Nkawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Q09QWSBib2x0LWRlcGxveWVyL3NkayAvYm9sdC1kZXBsb3llci9zZGsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDMwMSAvcG9ydGFsLzsK</text>
+        <text encoding="base64">Q09QWSBib2x0LWRlcGxveWVyL3NkayAvYm9sdC1kZXBsb3llci9zZGsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uIC8gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAzMDEgaHR0cHM6Ly8kc2VydmVyX25hbWUkcmVxdWVzdF91cmk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbW91bnQK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDMwMSAvcG9ydGFsLzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjcuNDoK</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uIC8gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjUuNDoK</text>
+        <text encoding="base64">ICAgIHJldHVybiAzMDEgaHR0cHM6Ly8kc2VydmVyX25hbWUkcmVxdWVzdF91cmk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjcuNDoK</text>
+        <text encoding="base64">ICAgIC0gbW91bnQK</text>
       </register>
       <register name=":" type="4">
         <text>16,29d</text>
       </register>
     </registers>
     <search>
-      <last-search>hasura</last-search>
+      <last-search>deployer</last-search>
       <last-offset />
-      <last-pattern>hasura</last-pattern>
+      <last-pattern>deployer</last-pattern>
       <last-replace>config</last-replace>
       <last-substitute>jobConfiguration</last-substitute>
       <last-dir>1</last-dir>
@@ -480,7 +486,6 @@
         <entry>currentBuild</entry>
         <entry>currentBuild.result</entry>
         <entry>errorMessage</entry>
-        <entry>deployer</entry>
         <entry>Globals</entry>
         <entry>postgres</entry>
         <entry>project</entry>
@@ -491,6 +496,8 @@
         <entry>portal</entry>
         <entry>include</entry>
         <entry>hasura</entry>
+        <entry>bolt-deployer</entry>
+        <entry>deployer</entry>
       </history-search>
       <history-cmd>
         <entry>65,68y</entry>
