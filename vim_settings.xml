@@ -44,6 +44,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-ansible/init-environment.yml" timestamp="1561447457316">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/javaPipeline.groovy" timestamp="1561363378154">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="28" column="86" />
@@ -140,6 +146,7 @@
         <mark key="^" line="44" column="10" />
         <mark key="." line="44" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-ansible/roles/mount/tasks/main.yml" timestamp="1561448566548" />
       <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/makeDeploy.groovy" timestamp="1561365915844">
         <mark key="'" line="7" column="26" />
         <mark key="[" line="6" column="9" />
@@ -159,11 +166,11 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-ansible/roles/fetch_data/tasks/main.yml" timestamp="1561446696776">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="5" column="14" />
+      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-ansible/roles/fetch_data/tasks/main.yml" timestamp="1561448265979">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+        <mark key="^" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/makeDecrypt.groovy" timestamp="1561363342097">
         <mark key="[" line="7" column="22" />
@@ -275,11 +282,11 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-ansible/inventories/orbital-dev/orbital-dev.yml" timestamp="1561446491068">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="110" column="157" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/dev/QS_60_RELEASE/terraform-ansible/inventories/orbital-dev/orbital-dev.yml" timestamp="1561447976746">
+        <mark key="[" line="76" column="17" />
+        <mark key="]" line="77" column="17" />
+        <mark key="^" line="77" column="17" />
+        <mark key="." line="77" column="17" />
       </file>
       <file name="$USER_HOME$/Downloads/translate/golang_parser.py" timestamp="1559050135462">
         <mark key="'" line="18" column="13" />
@@ -393,43 +400,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tmp</text>
+        <text>fetch</text>
       </register>
       <register name="-" type="4">
-        <text>tmp</text>
+        <text>fetch</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb25maWcgPSBCdWlsZENvbmZpZy5yZXNvbHZlKGJvZHkpCiAgICBkZWYgYnVpbGRTdGF0dXMgPSBjb25maWcuY29udGFpbnNLZXkoJ2J1aWxkU3RhdHVzJykgPyBjb25maWcuYnVpbGRTdGF0dXMgOiAnU1RBUlRFRCcKICAgIGRlZiBpbmZvTWVzc2FnZSA9IGNvbmZpZy5jb250YWluc0tleSgnaW5mb01lc3NhZ2UnKSA/IGNvbmZpZy5pbmZvTWVzc2FnZSA6ICcnCiAgICBkZWYgZXJyb3JNZXNzYWdlID0gY29uZmlnLmNvbnRhaW5zS2V5KCdlcnJvck1lc3NhZ2UnKSA/IGNvbmZpZy5lcnJvck1lc3NhZ2UgOiAnJwogICAgZGVmIGpvYk5hbWUgPSBjb25maWcuam9iTmFtZQogICAgZGVmIGJ1aWxkTnVtYmVyID0gY29uZmlnLmJ1aWxkTnVtYmVyCg==</text>
+        <text encoding="base64">ICAgIHNyYzogL2V0Yy9kb2NrZXIudGFyLmd6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGU6IDA2MDAK</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjQuMTAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFaVVJFX0tFWVZBVUxUX0NMSUVOVF9LRVk6IGEzNWI1NzQxLTUyNDItNDk0Zi05ZjM5LTgyNjRiMzNlNWRlZQo=</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjQuMTIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFaVVJFX0tFWVZBVUxUX0NMSUVOVF9JRDogZGM4NmViZjktM2Y3My00YWJjLTgyYmMtYTRhMTA0MGY0NWI5Cg==</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjQuMTMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFaVVJFX0tFWVZBVUxUX1VSSTogaHR0cHM6Ly9vcmJpdGFsLWZnbC1wcm90by1rdi1kZXYudmF1bHQuYXp1cmUubmV0Lwo=</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjQuOQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0b3JhZ2VBY2NvdW50QWNjZXNzS2V5OiBkbzIrejd1K1lYQTIyYkxmWmhtcFhCYTJ5SnhodFNLdzJCYnRUTzY3S0U2RmNHNi9rSDVmNzVoWW1mdENudVp5WXdhdzlVWE5qSXRDNUZMY25oRXZFUT09Cg==</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjQuOAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0b3JhZ2VBY2NvdW50TmFtZTogb3JiaXRhbGZvZ2xpZ2h0ZGV2Cg==</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjQuNwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuODoK</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjQuNgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuNzoK</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjQuNQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxMC4wLjQuNjoK</text>
+        <text encoding="base64">ICAgICAgICAxMC4wLjQuNAo=</text>
       </register>
       <register name=":" type="4">
         <text>16,29d</text>
