@@ -164,12 +164,12 @@
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose-mac.yaml" timestamp="1561116896754">
         <mark key="'" line="111" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" timestamp="1561472956537">
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" timestamp="1561542947627">
         <mark key="'" line="4" column="12" />
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="4" />
-        <mark key="^" line="4" column="4" />
-        <mark key="." line="4" column="4" />
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apiactivedirectory/handlers.go" timestamp="1559120566686">
         <mark key="'" line="92" column="25" />
@@ -516,11 +516,11 @@
       <jump line="191" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YmFja3VwLW9yZy1kYXRhCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>staging</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>module_backup_org_data_build</text>
