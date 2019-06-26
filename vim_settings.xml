@@ -164,12 +164,8 @@
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose-mac.yaml" timestamp="1561116896754">
         <mark key="'" line="111" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" timestamp="1561542947627">
-        <mark key="'" line="4" column="12" />
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="22" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="22" />
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" timestamp="1561551080707">
+        <mark key="'" line="5" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/qorestor/qs-new-ui-api/pkg2/apirest/apiactivedirectory/handlers.go" timestamp="1559120566686">
         <mark key="'" line="92" column="25" />
@@ -346,12 +342,12 @@
       <file name="$USER_HOME$/Projects/terraform/terraform-main/.terraform/modules/dcos.dcos-infrastructure.public_agents.dcos-public-agent-instances/outputs.tf" timestamp="1559559442319">
         <mark key="'" line="3" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" timestamp="1561472952276">
-        <mark key="'" line="33" column="30" />
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="30" />
-        <mark key="^" line="33" column="30" />
-        <mark key="." line="33" column="30" />
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" timestamp="1561550978333">
+        <mark key="'" line="33" column="29" />
+        <mark key="[" line="33" column="63" />
+        <mark key="]" line="33" column="63" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="33" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/docker-devtools/ansible/roles/disks/files/prepare_disks.sh" timestamp="1557835202321">
         <mark key="'" line="200" column="8" />
@@ -487,16 +483,12 @@
       <jump line="5" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-secrets.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-secrets.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/instance/secrets.py" />
-      <jump line="5" column="11" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
       <jump line="63" column="55" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/hasura/hasura_client.py" />
-      <jump line="3" column="12" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
-      <jump line="31" column="42" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
       <jump line="81" column="32" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/gql_util.py" />
       <jump line="9" column="11" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
       <jump line="4" column="12" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
       <jump line="30" column="27" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
-      <jump line="33" column="30" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
       <jump line="1049" column="16" filename="$USER_HOME$/Projects/docker-devtools/docker/cassandra/schema.cql" />
       <jump line="193" column="38" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="195" column="185" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
@@ -516,13 +508,17 @@
       <jump line="156" column="42" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="190" column="39" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="191" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
+      <jump line="3" column="13" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
+      <jump line="31" column="45" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
+      <jump line="33" column="29" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
+      <jump line="5" column="12" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>module_backup_org_data_build</text>
