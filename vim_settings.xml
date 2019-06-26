@@ -57,7 +57,7 @@
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose-mac.yaml" timestamp="1561553366384">
         <mark key="'" line="111" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" timestamp="1561551080707">
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" timestamp="1561556192258">
         <mark key="'" line="5" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/dev-commands.md" timestamp="1561533957904">
@@ -131,12 +131,12 @@
         <mark key="^" line="38" column="46" />
         <mark key="." line="38" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" timestamp="1561550978333">
-        <mark key="'" line="33" column="29" />
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" timestamp="1561556281874">
+        <mark key="'" line="33" column="26" />
         <mark key="[" line="33" column="63" />
-        <mark key="]" line="33" column="63" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="33" column="63" />
+        <mark key="]" line="33" column="62" />
+        <mark key="^" line="33" column="62" />
+        <mark key="." line="33" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" timestamp="1561553266680">
         <mark key="'" line="1" column="76" />
@@ -162,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="16" filename="$USER_HOME$/Projects/BOLT/bolt-api/subsystems/hasura/init_sql/metadata.yaml" />
       <jump line="45" column="14" filename="$USER_HOME$/Projects/BOLT/bolt-api/subsystems/hasura/init_sql/metadata.yaml" />
       <jump line="62" column="14" filename="$USER_HOME$/Projects/BOLT/bolt-api/subsystems/hasura/init_sql/metadata.yaml" />
       <jump line="44" column="11" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
@@ -260,8 +259,9 @@
       <jump line="191" column="32" filename="$USER_HOME$/Projects/global-cloud-view-portal/Jenkinsfile_auto_ci.groovy" />
       <jump line="3" column="13" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
       <jump line="31" column="45" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
-      <jump line="33" column="29" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
       <jump line="5" column="12" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
+      <jump line="33" column="26" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/summary.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
