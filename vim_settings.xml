@@ -25,7 +25,7 @@
         <mark key="^" line="6" column="53" />
         <mark key="." line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/instance/docker-compose-config.py" timestamp="1562139347408">
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/instance/docker-compose-config.py" timestamp="1562230697883">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="21" />
@@ -154,7 +154,7 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1562148210339">
+      <file name="/Python Console" timestamp="1562231483269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1562149122880">
@@ -291,12 +291,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-config.py" timestamp="1562139305654">
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-config.py" timestamp="1562231475227">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="21" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="21" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="16" />
+        <mark key="^" line="20" column="16" />
+        <mark key="." line="20" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/execution_metrics/metadata_execution.py" timestamp="1562154200169">
         <mark key="[" line="42" column="8" />
@@ -323,7 +323,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/execution_metrics/metadata_execution.py" timestamp="1562148881440">
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/execution_metrics/metadata_execution.py" timestamp="1562231472927">
         <mark key="'" line="39" column="45" />
         <mark key="[" line="37" column="1" />
         <mark key="]" line="37" column="0" />
@@ -442,7 +442,7 @@
         <mark key="." line="49" column="111" />
         <mark key="^" line="49" column="111" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562227192809">
+      <file name="/Dummy.txt" timestamp="1562230763876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -582,10 +582,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>postgres</text>
