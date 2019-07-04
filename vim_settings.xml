@@ -25,12 +25,12 @@
         <mark key="^" line="6" column="53" />
         <mark key="." line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/instance/docker-compose-config.py" timestamp="1562230697883">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="19" column="11" />
-        <mark key="." line="9" column="21" />
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/instance/docker-compose-config.py" timestamp="1562234431455">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1562144629407">
         <mark key="[" line="0" column="0" />
@@ -131,12 +131,12 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-secrets.py" timestamp="1561463210314">
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-secrets.py" timestamp="1562234308659">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="18" column="55" />
-        <mark key="]" line="18" column="55" />
-        <mark key="^" line="18" column="55" />
-        <mark key="." line="18" column="55" />
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="60" />
+        <mark key="^" line="9" column="60" />
+        <mark key="." line="9" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-charts-cassandra-restore-data/pom.xml" timestamp="1561980839982">
         <mark key="[" line="91" column="0" />
@@ -154,7 +154,7 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1562231483269">
+      <file name="/Python Console" timestamp="1562234507757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1562149122880">
@@ -291,12 +291,11 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-config.py" timestamp="1562231475227">
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-config.py" timestamp="1562234425419">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="16" />
-        <mark key="." line="20" column="16" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="61" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/execution_metrics/metadata_execution.py" timestamp="1562154200169">
         <mark key="[" line="42" column="8" />
@@ -323,7 +322,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/execution_metrics/metadata_execution.py" timestamp="1562231472927">
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/execution_metrics/metadata_execution.py" timestamp="1562234532560">
         <mark key="'" line="39" column="45" />
         <mark key="[" line="37" column="1" />
         <mark key="]" line="37" column="0" />
@@ -429,8 +428,8 @@
         <mark key="." line="25" column="156" />
         <mark key="^" line="25" column="156" />
       </file>
-      <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" timestamp="1562139250760">
-        <mark key="'" line="87" column="9" />
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" timestamp="1562234163229">
+        <mark key="'" line="79" column="18" />
         <mark key="[" line="93" column="4" />
         <mark key="]" line="93" column="4" />
         <mark key="^" line="93" column="4" />
@@ -479,10 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="36" filename="$USER_HOME$/Downloads/translate/.virtaulenvs/docker-devtools/lib/python3.7/site-packages/flask/globals.py" />
-      <jump line="6" column="9" filename="$USER_HOME$/Projects/BOLT/bolt-api/wsgi.py" />
-      <jump line="41" column="12" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/configure.py" />
-      <jump line="38" column="8" filename="$USER_HOME$/Projects/BOLT/bolt-api/services/configure.py" />
       <jump line="29" column="15" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/app.py" />
       <jump line="17" column="38" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/app.py" />
       <jump line="40" column="16" filename="$USER_HOME$/Projects/BOLT/bolt-api/instance/docker-compose-config.py" />
@@ -521,7 +516,6 @@
       <jump line="67" column="31" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
       <jump line="68" column="46" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
       <jump line="69" column="50" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
-      <jump line="70" column="49" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
       <jump line="78" column="28" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
       <jump line="97" column="36" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
       <jump line="19" column="12" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/app.py" />
@@ -579,16 +573,21 @@
       <jump line="23" column="43" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/execution_metrics/metadata_execution.py" />
       <jump line="38" column="38" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/execution_metrics/metadata_execution.py" />
       <jump line="39" column="45" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/execution_metrics/metadata_execution.py" />
+      <jump line="70" column="37" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
+      <jump line="81" column="16" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
+      <jump line="98" column="18" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
+      <jump line="100" column="16" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
+      <jump line="79" column="18" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SEFTVVJBX0dRTCA9ICJodHRwczovL2hhc3VyYS5kZXYuYm9sdC5hY2Fpc29mdC5pby92MS9ncmFwaHFsIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>devaccess</text>
       </register>
       <register name="/" type="4">
-        <text>postgres</text>
+        <text>app</text>
       </register>
       <register name="0" type="4">
         <text>_ = gql_util.get_request_role_userid(info, const.ROLE_CHOICE)
@@ -599,40 +598,40 @@
         return ExecutionMetricsDataResponse(metrics_data=out)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsYXN0aWNkdW1wIC0taW5wdXQ9aHR0cDovL2xvY2FsaG9zdDoke2xvY2FsX3BvcnR9LyR7aW5kZXh9IC0tb3V0cHV0PSR7b3V0cHV0fS8ke2luZGV4fS5qc29uIC0tdHlwZT1kYXRhCg==</text>
+        <text encoding="base64">SEFTVVJBX0dRTCA9ICJodHRwczovL2hhc3VyYS5kZXYuYm9sdC5hY2Fpc29mdC5pby92MS9ncmFwaHFsIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsYXN0aWNkdW1wIC0taW5wdXQ9aHR0cDovL2xvY2FsaG9zdDoke2xvY2FsX3BvcnR9LyR7aW5kZXh9IC0tb3V0cHV0PSR7b3V0cHV0fS8ke2luZGV4fS5qc29uIC0tdHlwZT1kYXRhCg==</text>
+        <text encoding="base64">IyBIQVNVUkFfR1JBUEhRTF9BQ0NFU1NfS0VZID0gImRldmFjY2VzcyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsYXN0aWNkdW1wIC0taW5wdXQ9aHR0cDovL2xvY2FsaG9zdDoke2xvY2FsX3BvcnR9LyR7aW5kZXh9IC0tb3V0cHV0PSR7b3V0cHV0fS8ke2luZGV4fS5qc29uIC0tdHlwZT1kYXRhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGVsYXN0aWNkdW1wIC0taW5wdXQ9aHR0cDovL2xvY2FsaG9zdDoke2xvY2FsX3BvcnR9LyR7aW5kZXh9IC0tb3V0cHV0PSR7b3V0cHV0fS8ke2luZGV4fS5qc29uIC0tdHlwZT1kYXRhCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1ldHJpY3NfZGF0YSA9IFtwb2ludCBmb3IgcG9pbnQsIG5vdF9zZWxlY3QgaW4gemlwKG1ldHJpY3NfZGF0YSwgcG9pbnRfc2VsZWN0aW9uX2FycmF5KSBpZiBub3Qgbm90X3NlbGVjdF0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBvaW50X3NlbGVjdGlvbl9hcnJheSA9IF9ldmVuX3NlbGVjdChtZXRyaWNzX2RhdGFfbGVuLCBjb25zdC5NQVhfR1JBUEhfUE9JTlRTKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1ldHJpY3NfZGF0YV9sZW4gPSBsZW4obWV0cmljc19kYXRhKQo=</text>
+        <text encoding="base64">ICAgIG1ldHJpY3NfZGF0YSA9IFtwb2ludCBmb3IgcG9pbnQsIG5vdF9zZWxlY3QgaW4gemlwKG1ldHJpY3NfZGF0YSwgcG9pbnRfc2VsZWN0aW9uX2FycmF5KSBpZiBub3Qgbm90X3NlbGVjdF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1ldHJpY3NfZGF0YSA9IHJlc3BbJ2V4ZWN1dGlvbl9tZXRyaWNzX21ldGFkYXRhJ11bMF1bJ2V4ZWN1dGlvbiddWydleGVjdXRpb25fbWV0cmljc19kYXRhJ10K</text>
+        <text encoding="base64">ICAgIHBvaW50X3NlbGVjdGlvbl9hcnJheSA9IF9ldmVuX3NlbGVjdChtZXRyaWNzX2RhdGFfbGVuLCBjb25zdC5NQVhfR1JBUEhfUE9JTlRTKQo=</text>
       </register>
       <register name=":" type="4">
         <text>13,16y</text>
       </register>
     </registers>
     <search>
-      <last-search>postgres</last-search>
+      <last-search>app</last-search>
       <last-offset />
-      <last-pattern>postgres</last-pattern>
+      <last-pattern>app</last-pattern>
       <last-replace>config</last-replace>
       <last-substitute>jobConfiguration</last-substitute>
       <last-dir>1</last-dir>
@@ -666,6 +665,7 @@
         <entry>config</entry>
         <entry>current_app</entry>
         <entry>postgres</entry>
+        <entry>app</entry>
       </history-search>
       <history-cmd>
         <entry>65,68y</entry>
