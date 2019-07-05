@@ -61,6 +61,15 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/Makefile" timestamp="1562053007023">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="^" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/hasura/hasura_client.py" timestamp="1561557071661">
+        <mark key="'" line="63" column="55" />
+      </file>
       <file name="/a.sql" timestamp="1561118278461">
         <mark key="[" line="0" column="0" />
       </file>
@@ -82,6 +91,9 @@
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/requirements/local.txt" timestamp="1562145284750">
         <mark key="[" line="70" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose-mac.yaml" timestamp="1561553366384">
+        <mark key="'" line="111" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/services/projects/summary.py" timestamp="1562135437784">
         <mark key="'" line="65" column="12" />
         <mark key="[" line="65" column="0" />
@@ -93,6 +105,12 @@
       <file name="$USER_HOME$/Projects/global-cloud-view-portal/pom.xml" timestamp="1561982514515" />
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/requirements/core.txt" timestamp="1562145291707">
         <mark key="[" line="24" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/makeDecrypt.groovy" timestamp="1561967947578">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/instance/localhost-config.py" timestamp="1562234425419">
         <mark key="'" line="34" column="0" />
@@ -112,6 +130,12 @@
         <mark key="^" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/gvc-jenkins-pipeline-library/vars/makeBuild.groovy" timestamp="1561965790262">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/execution_metrics/metadata_execution.py" timestamp="1562234532560">
         <mark key="'" line="39" column="45" />
         <mark key="[" line="37" column="1" />
@@ -125,6 +149,12 @@
         <mark key="]" line="82" column="24" />
         <mark key="^" line="82" column="24" />
         <mark key="." line="82" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/global-cloud-view-portal/kafka-backup-cassandra/pom.xml" timestamp="1561980668325">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="105" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/BOLT/bolt-config/env/dev/keycloak/keycloak-secrets.yaml" timestamp="1561975083374" />
       <file name="$USER_HOME$/Projects/BOLT/bolt-config/env/dev/keycloak/keycloak.yaml" timestamp="1562054012187">
@@ -147,6 +177,12 @@
         <mark key="." line="45" column="44" />
       </file>
       <file name="$USER_HOME$/scripts_common/ci/git_changes.py" timestamp="1562228833967" />
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/Jenkinsfile.groovy" timestamp="1562320919086">
+        <mark key="[" line="25" column="108" />
+        <mark key="]" line="25" column="99" />
+        <mark key="^" line="25" column="99" />
+        <mark key="." line="25" column="99" />
+      </file>
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" timestamp="1562234163229">
         <mark key="'" line="79" column="18" />
         <mark key="[" line="93" column="4" />
@@ -166,13 +202,19 @@
         <mark key="^" line="145" column="50" />
         <mark key="." line="145" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562320143639">
+      <file name="/Dummy.txt" timestamp="1562320927676">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/argo/parser.py" timestamp="1562069674582">
+        <mark key="'" line="50" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/appgraph/project/__init__.py" timestamp="1562137064126">
         <mark key="[" line="4" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" timestamp="1562320790323">
+        <mark key="'" line="72" column="65" />
       </file>
       <file name="/fragment.js2" timestamp="1561551864988">
         <mark key="[" line="0" column="0" />
@@ -182,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="15" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/app.py" />
       <jump line="17" column="38" filename="$USER_HOME$/Projects/BOLT/bolt-api/apps/bolt_api/app/app.py" />
       <jump line="40" column="16" filename="$USER_HOME$/Projects/BOLT/bolt-api/instance/docker-compose-config.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/BOLT/bolt-api/instance/docker-compose-config.py" />
@@ -282,6 +323,7 @@
       <jump line="98" column="18" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
       <jump line="100" column="16" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
       <jump line="79" column="18" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
+      <jump line="72" column="65" filename="$USER_HOME$/Projects/gvc-ui-customer-subdomain/Jenkinsfile.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
