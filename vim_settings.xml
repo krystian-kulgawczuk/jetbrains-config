@@ -160,13 +160,13 @@
         <mark key="." line="49" column="111" />
         <mark key="^" line="49" column="111" />
       </file>
-      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1562319124358">
-        <mark key="[" line="139" column="24" />
-        <mark key="]" line="139" column="23" />
-        <mark key="^" line="139" column="23" />
-        <mark key="." line="139" column="23" />
+      <file name="$USER_HOME$/Projects/gvc-svc-gateway/us-prod/config/nginx.conf" timestamp="1562320129596">
+        <mark key="[" line="145" column="48" />
+        <mark key="]" line="145" column="50" />
+        <mark key="^" line="145" column="50" />
+        <mark key="." line="145" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562250278374">
+      <file name="/Dummy.txt" timestamp="1562320143639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -284,11 +284,11 @@
       <jump line="79" column="18" filename="$USER_HOME$/Projects/BOLT/bolt-api/docker-compose.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SEFTVVJBX0dRTCA9ICJodHRwczovL2hhc3VyYS5kZXYuYm9sdC5hY2Fpc29mdC5pby92MS9ncmFwaHFsIgo=</text>
+      <register name="&quot;" type="4">
+        <text>510</text>
       </register>
       <register name="-" type="4">
-        <text>devaccess</text>
+        <text>510</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
